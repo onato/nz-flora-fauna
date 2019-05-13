@@ -1,0 +1,65 @@
+{
+  "category": "plants/trees/trees-native",
+  "name": "N/A",
+  "description": "Gaultheria colensoi is an endemic usually erect, sometimes almost sprawling shrub growing up to 1m in height. The uniform alternate leaves (8-12mm long by 5-9mm wide) are very thick. stiff and coriaceous (like leather) and have prominent veins on the lower surface. The flowers white, bell-shaped, in a cluster at the tip of twigs. The fruit is a dry capsule.<br>It is found in subalpine to low alpine shrub (900-1700 masl) around the mountains of central New Zealand, the Ruahine range and southwards. It is present on Mt Egmont/Taranaki.<br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6364/Gaultheria_colensoi_.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6364/Gaultheria_colensoi_.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6369/Gaultheria_colensoi_-001.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6369/Gaultheria_colensoi_-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6374/Gaultheria_colensoi_-002.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6374/Gaultheria_colensoi_-002.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br>Thanks to Wikipedia for text and information <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\">http://creativecommons.org/licenses/by-sa/3.0/</a><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6364/Gaultheria_colensoi_.JPG\" target=\"_blank\"><br></a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Eudicots"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Asterids"
+    },
+    {
+      "key": "Order",
+      "value": "Ericales"
+    },
+    {
+      "key": "Family",
+      "value": "Ericaceae"
+    },
+    {
+      "key": "Genus",
+      "value": "Gaultheria"
+    },
+    {
+      "key": "Species",
+      "value": "G. colensoi"
+    },
+    {
+      "key": "Scientific name",
+      "value": "Gaultheria colensoi"
+    },
+    {
+      "key": "Synonym",
+      "value": "Gaultheria rupestris var. parvifolia"
+    },
+    {
+      "key": "Common name",
+      "value": "Mountain snowberry"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6364/Gaultheria_colensoi_.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6369/Gaultheria_colensoi_-001.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6374/Gaultheria_colensoi_-002.JPG",
+      "caption": ""
+    }
+  ]
+}

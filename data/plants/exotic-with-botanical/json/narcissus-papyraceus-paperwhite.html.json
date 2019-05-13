@@ -1,0 +1,53 @@
+{
+  "category": "plants/exotic-with-botanical",
+  "name": "Narcissus papyraceus",
+  "description": "Narcissus papyraceus is in the genus Narcissus which includes plants known as daffodils. It is one of a few species known as paperwhite. It is a perennial bulbous plant native to the Mediterranean region, from Greece to Portugal plus Morocco and Algeria. The species is now naturalised in many countries including New Zealand. <br>The stems are mid-green and grow upright. Mature height is usually 30–45 cm). Several white flowers are borne at the top of each stem in bunches and are strongly scented.<br><br><a href=\"uploads/images/Te%20Henui/Plants/1-Narcissus_papyraceus_'Paperwhite'_02.JPG\" target=\"_blank\"><img src=\"uploads/images/Te%20Henui/Plants/1-Narcissus_papyraceus_'Paperwhite'_02.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br>Thanks to Wikipedia for text and information: <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0/</a><br></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "Clade",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "Clade",
+      "value": "Monocots"
+    },
+    {
+      "key": "Order",
+      "value": "Asparagales"
+    },
+    {
+      "key": "Family",
+      "value": "Amaryllidaceae"
+    },
+    {
+      "key": "Subfamily",
+      "value": "Amaryllidoideae"
+    },
+    {
+      "key": "Genus",
+      "value": "Narcissus"
+    },
+    {
+      "key": "Species",
+      "value": "N. papyraceus"
+    },
+    {
+      "key": "Binomial name",
+      "value": "Narcissus papyraceus"
+    },
+    {
+      "key": "Common name",
+      "value": "Paperwhite"
+    }
+  ],
+  "images": [
+    {
+      "src": "uploads/images/Te%20Henui/Plants/1-Narcissus_papyraceus_'Paperwhite'_02.JPG",
+      "caption": ""
+    }
+  ]
+}

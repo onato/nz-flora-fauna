@@ -1,0 +1,32 @@
+---
+category:
+- plants
+- nz-native
+name: Anisotome aromatica
+description: >
+  Anisotome aromatica is a small rosette forming
+  dioecious plant of alpine areas throughout New Zealand. It has pinnate leaves 3-12
+  cm long. It develops a flower stalk with a compound head with many small white flowers.
+  The female plant usually has a smaller flower head with fewer flowers. It bears
+  the small brown fruits. It grows in alpine, subalpine rocky places, grasslands,
+  herbfields and fellfields. It is present on the herbfields of Mt Egmont/Taranaki.
+  At higher altitudes the plants are dwarfs. At lower levels, the plants can be up
+  to 50cm tall. There are three names varieties of the alpine zone. Distinguishing
+  them is a problem.
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Asterids
+  order: Apiales
+  family: Apiaceae
+  genus: Anisotome
+  binomial name: Anisotome aromatica
+  common name:
+  - Kopoti
+  - Aromatic aniseed
+  - Common aniseed
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9248/Anisotome_aromatica_bb-001.jpg
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9123/Anisotome_aromatica.JPG

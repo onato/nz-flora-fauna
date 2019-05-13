@@ -1,0 +1,61 @@
+{
+  "category": "plants/nz-native",
+  "name": "N/A",
+  "description": "</p> <p>Myriophyllum robustum is an indigenous, endemic New Zealand perennial native wetland herb now rare in the wild due to by wetland drainage, eutrophication (addition of artificial or natural substances, such as nitrates and phosphates), and the spread of naturalised wetland weeds.<br>It is endemic to the North and South Islands. In the North Island is now only known from Northland to Taranaki and the northern Rangitikei. In the South Island now only known from North West Nelson, the West Coast and Fiordland.<br>It can be aquatic or semi aquatic and grows naturally in slow streams, bogs and ponds as an emergent plant. When firmly rooted to the bottom it will grow in 1.5m of water and extend its spongy inflated stems till they surface and are partially in the air. <br>Its fine ferny foliage looks similar to the banned Myriophyllum aquaticum (Parrots Feather).<br>Myriophyllum robustum is now widely sold by nurseries.</p> <p>For more details visit: <a href=\"http://www.nzpcn.org.nz/flora_details.asp?ID=183\" target=\"_blank\">http://www.nzpcn.org.nz/flora_details.asp?ID=183</a><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7109/Myriophyllum_robustum___Stout_water_milfoil-006.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7109/Myriophyllum_robustum___Stout_water_milfoil-006.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7114/Myriophyllum_robustum___Stout_water_milfoil-008.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7114/Myriophyllum_robustum___Stout_water_milfoil-008.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Eudicots"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Core eudicots"
+    },
+    {
+      "key": "Order",
+      "value": "Saxifragales"
+    },
+    {
+      "key": "Family",
+      "value": "Haloragaceae"
+    },
+    {
+      "key": "Genus",
+      "value": "Myriophyllum"
+    },
+    {
+      "key": "Species",
+      "value": "M. robustum"
+    },
+    {
+      "key": "Binominal name",
+      "value": "Myriophyllum robustum"
+    },
+    {
+      "key": "Synonym",
+      "value": "Myriophyllum variaefolium var. beta"
+    },
+    {
+      "key": "Common name",
+      "value": "Stout water milfoil,"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7109/Myriophyllum_robustum___Stout_water_milfoil-006.JPG",
+      "caption": "For more details visit: "
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7114/Myriophyllum_robustum___Stout_water_milfoil-008.JPG",
+      "caption": "For more details visit: "
+    }
+  ]
+}

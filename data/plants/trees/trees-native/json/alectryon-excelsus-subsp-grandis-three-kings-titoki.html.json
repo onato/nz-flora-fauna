@@ -1,0 +1,69 @@
+{
+  "category": "plants/trees/trees-native",
+  "name": "Alectryon excelsus subsp. grandis",
+  "description": "</p> <p>Alectryon excelsus subsp. grandis is a small spreading multitrunked shrub (4 x 4 m) with large leaves and its endemic to the Three Kings Islands, where it is known from Great and West Islands. It often grows along the more exposed forest margins and is occasionally found as a subcanopy tree within the dense kanuka (Kunzea aff. ericoides) forest that dominates the Three Kings Islands. It is a smaller tree than the mainland Titoki (Alectryon excelsus).<br>Red / Pink flowers which are bisexual (have both male (androecium) and female (gynoecium) reproductive units) or staminate (having stamens but no pistils) are produced from October to December.<br>From December to April scarlet fruit with a black seed develops.<br>This shrub is now sold in specialised nurseries.<br><br>For more details visit <a href=\"http://www.nzpcn.org.nz/flora_details.aspx?ID=1486\" target=\"_blank\">http://www.nzpcn.org.nz/flora_details.aspx?ID=1486</a><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8929/Alectryon_excelsus_grandis-004.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8929/Alectryon_excelsus_grandis-004.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br>The top surface of a leaf.<br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8924/Alectryon_excelsus_grandis-001.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8924/Alectryon_excelsus_grandis-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br>The underside of a leaf.<br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8934/Alectryon_excelsus_grandis-005.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8934/Alectryon_excelsus_grandis-005.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br>The fruit of Alectryon excelsus with black seed.<a href=\"http://www.nzpcn.org.nz/flora_details.aspx?ID=1486\" target=\"_blank\"><br></a><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/9429/Alectryon_excelsus__Titoki-001.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/9429/Alectryon_excelsus__Titoki-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br>Thanks to Wikipedia for text and information <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\">http://creativecommons.org/licenses/by-sa/3.0/</a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Eudicots"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Rosids"
+    },
+    {
+      "key": "Order",
+      "value": "Sapindales"
+    },
+    {
+      "key": "Family",
+      "value": "Sapindaceae"
+    },
+    {
+      "key": "Genus",
+      "value": "Alectryon"
+    },
+    {
+      "key": "Species",
+      "value": "A. excelsus"
+    },
+    {
+      "key": "Binomial name",
+      "value": "Alectryon excelsus subsp. grandis"
+    },
+    {
+      "key": "Synonyms",
+      "value": "Alectryon excelsus var. grandis, Alectryon grandis"
+    },
+    {
+      "key": "Common names",
+      "value": "Three Kings titoki"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8929/Alectryon_excelsus_grandis-004.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8924/Alectryon_excelsus_grandis-001.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8934/Alectryon_excelsus_grandis-005.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/9429/Alectryon_excelsus__Titoki-001.JPG",
+      "caption": ""
+    }
+  ]
+}

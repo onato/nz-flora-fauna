@@ -1,0 +1,65 @@
+{
+  "category": "plants/exotic-with-botanical",
+  "name": "Helleborus argutifolius",
+  "description": "<img src=\"uploads/images/Te%20Henui/Skull_and_crossbones1.jpg\" alt=\"\" width=\"100%\" height=\"auto\"><br>This plant is poisonous <br>Visit <a href=\"friends-of-te-henui-group/plants-toxic-if-eaten-by-man.html\" target=\"_blank\">http://www.terrain.net.nz/friends-of-te-henui-group/plants-toxic-if-eaten-by-man.html</a></p> <p>In the wild H. argutifolius is confined to two Mediterranean islands, Corsica and Sardinia where it is widespread. It is a plant with stout green stems reaching 90cm-1.2m in height on which all the leaves are carried; there is no basal foliage. A mature plant will spread to a diameter of about 1.2m.<br>The sharply spined leathery leaves are slightly dull, mid to pale green above with relatively inconspicuous veins and the under surface is a paler colour. It has stout stems and large heads of big apple green flowers. </p> <p>For more detailed information visit: <a href=\"http://www.hellebores.org/argutifolius.html\" target=\"_blank\">http://www.hellebores.org/argutifolius.html</a><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8724/Helleborus_argutifolius__Corsican_Hellebore_-001.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8724/Helleborus_argutifolius__Corsican_Hellebore_-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a></p> <p><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8729/Helleborus_argutifolius__Corsican_Hellebore_-002.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8729/Helleborus_argutifolius__Corsican_Hellebore_-002.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br>The leaf of Helleborus argutifolius <br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8734/Helleborus_argutifolius__Corsican_Hellebore_-003.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8734/Helleborus_argutifolius__Corsican_Hellebore_-003.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br>Thanks to Wikipedia for text and information: <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0/</a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "Division",
+      "value": "Magnoliophyta"
+    },
+    {
+      "key": "Class",
+      "value": "Magnoliopsida"
+    },
+    {
+      "key": "Order",
+      "value": "Ranunculales"
+    },
+    {
+      "key": "Family",
+      "value": "Ranunculaceae"
+    },
+    {
+      "key": "Genus",
+      "value": "Helleborus"
+    },
+    {
+      "key": "Species",
+      "value": "H. argutifolius"
+    },
+    {
+      "key": "Binomial name",
+      "value": "Helleborus argutifolius"
+    },
+    {
+      "key": "Synonyms",
+      "value": "Helleborus lividus subsp. corsicus, Helleborus corsicus"
+    },
+    {
+      "key": "Common name",
+      "value": "Corsican green hellebore, Corsican Hellebore, Corsican Rose."
+    }
+  ],
+  "images": [
+    {
+      "src": "uploads/images/Te%20Henui/Skull_and_crossbones1.jpg",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8724/Helleborus_argutifolius__Corsican_Hellebore_-001.JPG",
+      "caption": "For more detailed information visit:  "
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8729/Helleborus_argutifolius__Corsican_Hellebore_-002.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8734/Helleborus_argutifolius__Corsican_Hellebore_-003.JPG",
+      "caption": ""
+    }
+  ]
+}

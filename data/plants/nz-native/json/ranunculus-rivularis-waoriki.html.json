@@ -1,0 +1,65 @@
+{
+  "category": "plants/nz-native",
+  "name": "Ranunculus amphitrichus",
+  "description": "</p> <p>Ranunculus amphitrichus is a small perennial with parsley-like leaves and is endemic to New Zealand (North, South, Chatham Islands) and also Australia.<br>Its habitat coastal to montane areas in wet conditions and is often partially submerged on the edges of lakes, ponds and wet grasslands. It develops yellow flowers between October to January. It is excellent for spawning fish.<br><br>For more details visit: <a style=\"font-size: 1em; line-height: 1.4em;\" href=\"http://www.nzpcn.org.nz/flora_details.aspx?ID=2237\" target=\"_blank\">http://www.nzpcn.org.nz/flora_details.aspx?ID=2237</a> <br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/4458/ranunculus_amphitrichus.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/4458/ranunculus_amphitrichus.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><a style=\"font-size: 1em; line-height: 1.4em;\" href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1579/Ranunculus_rivularis__Waoriki__Small_River_Buttercup.JPG\" target=\"_blank\"><br><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1579/Ranunculus_rivularis__Waoriki__Small_River_Buttercup.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> </p> <p><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1574/Ranunculus_rivularis__Waoriki__Small_River_Buttercup-001.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1574/Ranunculus_rivularis__Waoriki__Small_River_Buttercup-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br>Thanks to Wikipedia for text and information:<a style=\"font-size: 1em;\" href=\"https://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0/</a></p> <p><a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"><br><img src=\"Thanks%20to%20Wikipedia%20for%20text%20and%20information:%20https:/creativecommons.org/licenses/by-sa/3.0/%20\" alt=\"\"><br></a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "Division",
+      "value": "Magnoliophyta"
+    },
+    {
+      "key": "Class",
+      "value": "Magnoliopsida"
+    },
+    {
+      "key": "Order",
+      "value": "Ranunculales"
+    },
+    {
+      "key": "Family",
+      "value": "Ranunculaceae"
+    },
+    {
+      "key": "Genus",
+      "value": "Ranunculus From the Latin 'rana' frog"
+    },
+    {
+      "key": "Species",
+      "value": "R. amphitrichus"
+    },
+    {
+      "key": "Binomial name",
+      "value": "Ranunculus amphitrichus"
+    },
+    {
+      "key": "Synonym",
+      "value": "Ranunculus rivularis"
+    },
+    {
+      "key": "Common name",
+      "value": "Waoriki, Small River Buttercup"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/4458/ranunculus_amphitrichus.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1579/Ranunculus_rivularis__Waoriki__Small_River_Buttercup.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1574/Ranunculus_rivularis__Waoriki__Small_River_Buttercup-001.JPG",
+      "caption": ""
+    },
+    {
+      "src": "Thanks%20to%20Wikipedia%20for%20text%20and%20information:%20https:/creativecommons.org/licenses/by-sa/3.0/%20",
+      "caption": ""
+    }
+  ]
+}

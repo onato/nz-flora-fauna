@@ -1,0 +1,69 @@
+{
+  "category": "plants/nz-native",
+  "name": "N/A",
+  "description": "Bulbinella angustifolia is an indigenous (endemic) species of bulbous plant found in alpine areas east of the South Island’s Southern Alps, from north Canterbury southwards. It inhabits damp places and tussock grasslands.<br>Bulbinella angustifolia is a bulbous plant that grows up to 1 m high, but usually less. It has erect, narrow, strap-like leaves that form a basal rosette. The leaves are up to 45 cm long and 15-20mm wide, with edges that rolled inwards towards the tips.<br>Bulbinella angustifolia has bright yellow, star-shaped flowers (5-8mm across) that bloom in during November to December. They form dense terminal racemes on strong 60 cm stems. The plant’s narrowly winged seeds are dispersed by wind.<br><br><img style=\"font-size: 1em;\" src=\"uploads/images/Te%20Henui/Plants/683px-Bulbinella_angustifolia.jpg\" alt=\"\" width=\"100%\" height=\"auto\"></p> <p><img src=\"uploads/images/Te%20Henui/Plants/Bulbinella_angustifolia.jpg\" alt=\"\" width=\"100%\" height=\"auto\"></p> <p>Thanks to Wikipedia for text and information: <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0/</a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "Phylum",
+      "value": "Tracheobionta"
+    },
+    {
+      "key": "Division",
+      "value": "Magnoliophyta"
+    },
+    {
+      "key": "Class",
+      "value": "Liliopsida"
+    },
+    {
+      "key": "Subclass",
+      "value": "Liliidae"
+    },
+    {
+      "key": "Order",
+      "value": "Asparagales"
+    },
+    {
+      "key": "Family",
+      "value": "Xanthorrhoeaceae"
+    },
+    {
+      "key": "Subfamily",
+      "value": "Asphodeloideae"
+    },
+    {
+      "key": "Gender",
+      "value": "Bulbinella"
+    },
+    {
+      "key": "Species",
+      "value": "B. angustifolia"
+    },
+    {
+      "key": "Binominal name",
+      "value": "Bulbinella angustifolia"
+    },
+    {
+      "key": "Synonyms",
+      "value": "Bulbinella hookeri, Cheeseman var. angustifolia"
+    },
+    {
+      "key": "Common names",
+      "value": "Golden star lily, Maori onion, Swamp lily"
+    }
+  ],
+  "images": [
+    {
+      "src": "uploads/images/Te%20Henui/Plants/683px-Bulbinella_angustifolia.jpg",
+      "caption": ""
+    },
+    {
+      "src": "uploads/images/Te%20Henui/Plants/Bulbinella_angustifolia.jpg",
+      "caption": ""
+    }
+  ]
+}

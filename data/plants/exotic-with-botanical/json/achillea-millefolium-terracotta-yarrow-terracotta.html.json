@@ -1,0 +1,65 @@
+{
+  "category": "plants/exotic-with-botanical",
+  "name": "Achillea millefolium",
+  "description": "This yarrow hybrid features flat-topped corymbs of small daisy-like salmon-pink flowers that age to rusty terracotta orange, then turning yellow. It has fragrant, silvery-green, finely-textured foliage.<br>Can become invasive.<br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3288/Achillea_millefolium_%E2%80%98Terracotta%E2%80%99-001.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3288/Achillea_millefolium_%E2%80%98Terracotta%E2%80%99-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3283/Achillea_millefolium_%E2%80%98Terracotta%E2%80%99.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3283/Achillea_millefolium_%E2%80%98Terracotta%E2%80%99.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3293/Achillea_millefolium_%E2%80%98Terracotta%E2%80%99-002.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3293/Achillea_millefolium_%E2%80%98Terracotta%E2%80%99-002.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br>Thanks to Wikipedia for text and information: <a href=\"https://creativecommons.org/licenses/by-sa/3.0/%20\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0/ </a><br><br></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Eudicots"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Asterids"
+    },
+    {
+      "key": "Order",
+      "value": "Asterales"
+    },
+    {
+      "key": "Family",
+      "value": "Asteraceae"
+    },
+    {
+      "key": "Genus",
+      "value": "Achillea"
+    },
+    {
+      "key": "Species",
+      "value": "A. millefolium"
+    },
+    {
+      "key": "Binomial name",
+      "value": "Achillea millefolium"
+    },
+    {
+      "key": "Hybrid name",
+      "value": "Achillea millefolium ‘Terracotta’"
+    },
+    {
+      "key": "Common name",
+      "value": "Yarrow ‘Terracotta’"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3288/Achillea_millefolium_%E2%80%98Terracotta%E2%80%99-001.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3283/Achillea_millefolium_%E2%80%98Terracotta%E2%80%99.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3293/Achillea_millefolium_%E2%80%98Terracotta%E2%80%99-002.JPG",
+      "caption": ""
+    }
+  ]
+}

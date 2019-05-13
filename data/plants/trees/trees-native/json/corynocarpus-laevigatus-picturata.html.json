@@ -1,0 +1,61 @@
+{
+  "category": "plants/trees/trees-native",
+  "name": "Corynocarpus laevigatus \"Picturata\"",
+  "description": "</p> <p>Corynocarpus laevigatus \"Picturata\" is a tree which was breed at Otari Wilton Bush Reserve in Wellington. The parent was Corynocarpus laevigatus (Karaka).<br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4994/Corynocarpus__laevigatus__Picturata___2_.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4994/Corynocarpus__laevigatus__Picturata___2_.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4999/Corynocarpus__laevigatus__Picturata_.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4999/Corynocarpus__laevigatus__Picturata_.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4989/Corynocarpus__laevigatus__Picturata___1_.JPG\" alt=\"\" width=\"100%\" height=\"auto\"> <br><br><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5004/Corynocarpus__laevigatus__Picturata_._.__230_.JPG\" alt=\"\" width=\"100%\" height=\"auto\"> <br><br>Thanks to Wikipedia for text and information <a style=\"font-size: 1em;\" href=\"http://creativecommons.org/licenses/by-sa/3.0/\">http://creativecommons.org/licenses/by-sa/3.0/</a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Magnoliids"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Rosidae"
+    },
+    {
+      "key": "Order",
+      "value": "Cucurbitales"
+    },
+    {
+      "key": "Family",
+      "value": "Corynocarpaceae"
+    },
+    {
+      "key": "Genus",
+      "value": "Corynocarpus"
+    },
+    {
+      "key": "Species",
+      "value": "C. laevigatus"
+    },
+    {
+      "key": "Binomial name",
+      "value": "Corynocarpus laevigatus \"Picturata\""
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4994/Corynocarpus__laevigatus__Picturata___2_.JPG",
+      "caption": "Corynocarpus laevigatus \"Picturata\" is a tree which was breed at Otari Wilton Bush Reserve in Wellington. The parent was Corynocarpus laevigatus (Karaka)."
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4999/Corynocarpus__laevigatus__Picturata_.JPG",
+      "caption": "Corynocarpus laevigatus \"Picturata\" is a tree which was breed at Otari Wilton Bush Reserve in Wellington. The parent was Corynocarpus laevigatus (Karaka)."
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4989/Corynocarpus__laevigatus__Picturata___1_.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5004/Corynocarpus__laevigatus__Picturata_._.__230_.JPG",
+      "caption": ""
+    }
+  ]
+}

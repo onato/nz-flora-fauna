@@ -1,0 +1,61 @@
+{
+  "category": "plants/exotic-with-botanical",
+  "name": "Clivia miniata",
+  "description": "Clivia miniata a species of evergreen, perennial, flowering plant native to the low-altitude woodlands of South Africa. It grows from swollen bulb-like bases into large clumps of bold strap-shaped, dark-green leaves.<br>It flowers from spring to summer. The flowers are trumpet-shaped and can be red, yellow, orange or cream coloured and sometimes they have a faint, but very sweet perfume. They are borne in groups on stout stems.<br>It is a popular plant for shady areas and is commonly seen growing in New Zealand. It is also popular in Japan, China, Mexico and southern parts of the USA. </p> <p><img style=\"float: left;\" src=\"uploads/images/Te%20Henui/Skull_and_crossbones1.jpg\" alt=\"\" width=\"100%\" height=\"auto\"> Clivia miniata contains small amounts of lycorine, making it poisonous. Lycorine is a toxic crystalline alkaloid found in various Amaryllidaceae species, such as Clivia miniata, surprise lilies (Lycoris), and daffodils (Narcissus). It may be highly poisonous, or even lethal when ingested in certain quantities. Daffodil bulbs are sometimes confused with onions, leading to accidental poisoning.<br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5168/IMG_0188.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5168/IMG_0188.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5018/Clivia_miniata.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5018/Clivia_miniata.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br>Thanks to Wikipedia for text and information: <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0/</a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "clade",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "clade",
+      "value": "Monocots"
+    },
+    {
+      "key": "Order",
+      "value": "Asparagales"
+    },
+    {
+      "key": "Family",
+      "value": "Amaryllidaceae"
+    },
+    {
+      "key": "Subfamily",
+      "value": "Amaryllidoideae"
+    },
+    {
+      "key": "Genus",
+      "value": "Clivia"
+    },
+    {
+      "key": "Species",
+      "value": "C. miniata"
+    },
+    {
+      "key": "Binomial name",
+      "value": "Clivia miniata"
+    },
+    {
+      "key": "Common name",
+      "value": "Natal lily, Bush Lily, Forest lily, Kaffir lily, Thong lily, Boslelie."
+    }
+  ],
+  "images": [
+    {
+      "src": "uploads/images/Te%20Henui/Skull_and_crossbones1.jpg",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5168/IMG_0188.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5018/Clivia_miniata.JPG",
+      "caption": ""
+    }
+  ]
+}

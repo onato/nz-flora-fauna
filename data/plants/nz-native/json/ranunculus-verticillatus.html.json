@@ -1,0 +1,65 @@
+{
+  "category": "plants/nz-native",
+  "name": "N/A",
+  "description": "Ranunculus verticillatus is tufted perennial herb found in low to high wet alpine areas from the Center Plateau mountain in the North Island and on the Rauhine and Tararua ranges. In the South Island, it is found in Nelson and the western Marlborough.<br>It is a variable plant with its leaves and stems varying with the altitude. The broad deeply trilobed leaves at a lower altitude are much larger (&gt;10 cm) than the one growing higher up. The stems and flower stem vary in length. The flowers have 8–15 petals and are a bright yellow on the upper surface, their underside is a different colour.<br><br>Photos are of plants growing in Otari Wilton's Reserve nursery in Wellington.<br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/3568/Ranunculus_verticillatus-002.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/3568/Ranunculus_verticillatus-002.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/3558/Ranunculus_verticillatus-001.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/3558/Ranunculus_verticillatus-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/3578/Ranunculus_verticillatus-004.JPG\" alt=\"\" width=\"100%\" height=\"auto\"><br> <br>Thanks to Wikipedia for text and information:<a style=\"font-size: 1em;\" href=\"%20https:/creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"> https://creativecommons.org/licenses/by-sa/3.0/</a></p> <p> </p> <p> </p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "Division",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "Class",
+      "value": "Eudicots"
+    },
+    {
+      "key": "Order",
+      "value": "Ranunculales"
+    },
+    {
+      "key": "Family",
+      "value": "Ranunculaceae"
+    },
+    {
+      "key": "Subfamily",
+      "value": "Ranunculoideae"
+    },
+    {
+      "key": "Tribe",
+      "value": "Ranunculeae"
+    },
+    {
+      "key": "Genus",
+      "value": "Ranunculus"
+    },
+    {
+      "key": "Species",
+      "value": "R. verticillatus"
+    },
+    {
+      "key": "Scientific name",
+      "value": "Ranunculus verticillatus"
+    },
+    {
+      "key": "Synonym",
+      "value": "Ranunculus clivalis"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/3568/Ranunculus_verticillatus-002.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/3558/Ranunculus_verticillatus-001.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/3578/Ranunculus_verticillatus-004.JPG",
+      "caption": ""
+    }
+  ]
+}

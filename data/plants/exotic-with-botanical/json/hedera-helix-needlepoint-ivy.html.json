@@ -1,0 +1,57 @@
+{
+  "category": "plants/exotic-with-botanical",
+  "name": "Hedera helix",
+  "description": "The cultivar Hedera helix 'Needlepoint' is a non-invasive English evergreen ivy. This variety has dark green leaves that are &gt;5 cm long. Each leaf has three, sharply pointed lobes with the central lobe elongated. Used as a groundcover, en masse or over a trellis.<br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2103/1-Hedera_helix__Needlepoint__Ivy.JPG\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2103/1-Hedera_helix__Needlepoint__Ivy.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br></p> <p>Thanks to Wikipedia for text and information:<a href=\"%20https:/creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"> https://creativecommons.org/licenses/by-sa/3.0/</a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Eudicots"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Asterids"
+    },
+    {
+      "key": "Order",
+      "value": "Apiales"
+    },
+    {
+      "key": "Family",
+      "value": "Araliaceae"
+    },
+    {
+      "key": "Genus",
+      "value": "Hedera"
+    },
+    {
+      "key": "Species",
+      "value": "H. helix"
+    },
+    {
+      "key": "Binomial name",
+      "value": "Hedera helix"
+    },
+    {
+      "key": "Cultivar",
+      "value": "Needlepoint"
+    },
+    {
+      "key": "Cultivar’s names",
+      "value": "Birdsfoot Ivy, Needlepoint Ivy, Arrowleaf Pot Ivy, Hedera Needlepoint"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2103/1-Hedera_helix__Needlepoint__Ivy.JPG",
+      "caption": ""
+    }
+  ]
+}

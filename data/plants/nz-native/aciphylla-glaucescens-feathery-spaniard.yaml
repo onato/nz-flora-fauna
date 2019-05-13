@@ -1,0 +1,31 @@
+---
+category:
+- plants
+- nz-native
+name: Aciphylla glaucescens
+description: >
+  Aciphylla glaucescens one of the larger species of genus Aciphylla.
+  It is native to New Zealand and grows from coastal to low alpine areas, up to 1400
+  m.a.s.l. It is found from Hikurangi on the east coast of the North Island, to near
+  Foveaux Strait at the bottom of the South Island. It grows mostly along streamsides
+  and on wet or shady banks.<br>It has a rosette of rigid, tripinnate, glaucous, narrow
+  blue/green leaves up to a metre long, with long narrow leaflets with spiky tips.
+  
+  It produces 1.8 m golden flower spikes in summer. Winged schizocarps are dispersed
+  primarily by wind.
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Asterids
+  order: Apiales
+  family: Apiaceae
+  genus: Aciphylla
+  species: A. glaucescens
+  binomial name: Aciphylla glaucescens
+  common names:
+  - Feathery blue Spaniard
+  - Feathery Spaniard
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1858/Aciphylla_glaucescens-002.JPG

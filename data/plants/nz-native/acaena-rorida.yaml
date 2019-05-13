@@ -1,0 +1,36 @@
+---
+category:
+- plants
+- nz-native
+name: Acaena rorida
+wikipedia: https://en.wikipedia.org/wiki/Acaena_rorida
+description: >
+  Acaena rorida is a threatened species of mat-forming perennial plant
+  with dense pink-tinged leaves (3-5 cm long) known only from grassy uplands on the
+  Mangaohane Plateau in the northwestern part of the Ruahine Range on North Island,
+  New Zealand where it is only known from ravines draining the Mangaohane Plateau
+  and from the nearby Makirikiri Tarns. Within its range, this plant occurs in areas
+  with moist, stable soils such as in hollows in tussock lands and the floors of limestone
+  ravines.
+  
+  Acaena rorida forms patches up to 50cm in diameter with the main stems
+  creeping and rooting. The leaves are veined and toothed around the margins.
+  
+  For more details visit <a href="http://www.nzpcn.org.nz/flora_details.asp?ID=1">http://www.nzpcn.org.nz/flora_details.asp?ID=1</a>
+  
+  Photographed at Otari Native Botanic Garden and Wilton''s Bush Reserve. Wellington. 
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Rosids
+  order: Rosales
+  family: Rosaceae
+  genus: Acaena
+  species: A. rorida
+  binomial name: Acaena rorida
+  synonyms: Acaena microphylla var. microphylla
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/1624/Acaena_rorida-001.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/1629/Acaena_rorida-002.JPG

@@ -1,0 +1,65 @@
+{
+  "category": "plants/trees/trees-native",
+  "name": "N/A",
+  "description": "Pseudopanax chathamicus is a small tree that is endemic to the Chatham Islands where it grows in moist soil in the coastal forests between Coprosma robusta and Myrsine chathamica.<br>It can grow 7 m or taller and it has a smooth trunk &gt;30 cm in diameter. A juvenile tree is first unbranched but it changes with age into a branched adult.<br><br>For a more detailed description visit: <a style=\"font-size: 1em;\" href=\"http://www.nzpcn.org.nz/flora_details.aspx?ID=646\" target=\"_blank\">http://www.nzpcn.org.nz/flora_details.aspx?ID=646</a> <br><br>Juvenile trees<br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5088/Pseudopanax_chathamicus__2_.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5088/Pseudopanax_chathamicus__2_.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5083/Pseudopanax_chathamicus__1_.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5083/Pseudopanax_chathamicus__1_.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br>Thanks to Wikipedia for text and information: <a href=\"https://creativecommons.org/licenses/by-sa/3.0/%20\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0/ </a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Eudicots"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Asterids"
+    },
+    {
+      "key": "Order",
+      "value": "Apiales"
+    },
+    {
+      "key": "Family",
+      "value": "Araliaceae"
+    },
+    {
+      "key": "Subfamily",
+      "value": "Aralioideae"
+    },
+    {
+      "key": "Genus",
+      "value": "Pseudopanax"
+    },
+    {
+      "key": "Species",
+      "value": "P. chathamicus"
+    },
+    {
+      "key": "Binominal name",
+      "value": "Pseudopanax chathamicus"
+    },
+    {
+      "key": "Synonym",
+      "value": "Pseudopanax chathamicum"
+    },
+    {
+      "key": "Common name",
+      "value": "Chatham Island Lancewood, Horo"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5088/Pseudopanax_chathamicus__2_.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5083/Pseudopanax_chathamicus__1_.JPG",
+      "caption": ""
+    }
+  ]
+}

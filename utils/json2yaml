@@ -1,0 +1,33 @@
+#!/usr/bin/env ruby
+require 'json'
+require 'yaml'
+
+filename = ARGV.first
+puts filename
+input = File.read(filename)
+json = JSON.load(input)
+
+attributes = json["attributes"]
+kingdom = attributes.first{ |item| item.key == "Kingdom" }
+kingdom_sub = attributes.select{ |item| item["key"] == "(Unranked)" || item["key"] == "(unranked)" }
+sub = kingdom_sub.map{ |item| item["value"] }
+sub.unshift(kingdom["value"])
+
+new_attributes = attributes.select{ |item| !["(Unranked)", "(unranked)", "Kingdom"].include?(item["key"])}.map{ |item| 
+ if item["value"].include? ","
+    {item["key"].downcase => item["value"].split(", ")}
+ else
+    {item["key"].downcase => item["value"]}
+  end
+}
+new_attributes.unshift({"kingdom" => sub})
+
+json["attributes"] = new_attributes
+json["category"] = json["category"].split("/")
+
+
+yaml = YAML.dump(json)
+
+File.open(filename+ ".yaml", 'w') {|f| f.write yaml }
+#print(yaml)
+

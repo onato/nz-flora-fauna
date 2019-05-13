@@ -1,0 +1,35 @@
+---
+category:
+  - plants
+  - exotic-with-botanical
+name: Aloe polyphylla
+description: >
+  Aloe polyphylla is endemic to the Kingdom of Lesotho in the Drakensberg
+  mountains in South Africa, where it clings to rocky crevices and well-drained scree
+  slopes. It is Lesotho''s national flower. It is a stemless aloe whose wide, serrated,
+  grey-green leaves grow in a very distinctive five-pointed spiral pattern. The spiral
+  can be in a clockwise or in an anti-clockwise direction.
+  
+  The leaves have sharp,
+  dark leaf-tips. It will grow up to a metre in width. It rarely flowers but when
+  it does it in Spring. Red-to-pink flowers are borne on branched inflorescences.
+  
+  Unfortunately,
+  in its homeland of southern Africa, it is an endangered species that are threatened
+  with extinction. There buying or collecting the plant is a criminal offence.
+  
+attributes:
+- kingdom:
+  - Plantae
+- clade: Angiosperms
+- clade: Monocots
+- order: Asparagales
+- family: Xanthorrhoeaceae
+- subfamily: Asphodeloideae
+- genus: Aloe
+- species: A. polyphylla
+- binomial name: Aloe polyphylla
+- common name: Spiral aloe
+images:
+- http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8764/Aloe_polyphylla__Spiral_aloe.JPG
+- http://www.terrain.net.nz/uploads/images/Te%20Henui/Plants/Aloe_polyphylla_3-001.jpg

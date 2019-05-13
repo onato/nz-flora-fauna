@@ -1,0 +1,57 @@
+{
+  "category": "plants/nz-native",
+  "name": "N/A",
+  "description": "</p> <p class=\"MsoNormal\"><!--[endif]--></p> <p class=\"MsoNormal\">Parahebe catarractae is an evergreen, decumbent, or erect subshrub endemic to New Zealand. Height: 0.2m; Spread: 0.5m.<br>Parahebe catarractae grows beside streams, on cliffs, rocky places and on recent landslide debris in lowland to mountain areas of North Island, South Island, and Stewart Island, New Zealand. It is usually rooted in sand and silt, also in rock crevices. <br>It has white flowers over long period (October ­ January), these are veined pink or purple, 0.6–1.2 cm in diameter. Fruiting is from November ­ May.<br>The green, toothed, spear-shaped leaves are 2.5–10 cm long and the old stems are brown or red­brown.</p> <p class=\"MsoNormal\">For more information, visit:<br><a href=\"http://nzpcn.org.nz/flora_details.asp?ID=1087\">http://nzpcn.org.nz/flora_details.asp?ID=1087</a><br><br><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9664/Parahebe_catarractae__Snowcap__Fiordland_Parahebe.JPG\" alt=\"\" width=\"100%\" height=\"auto\"><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5474/Parahebe_catarractae-2.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5474/Parahebe_catarractae-2.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/8074/Parahebe_catarractae__Snowcap-001.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/8074/Parahebe_catarractae__Snowcap-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br></p> <p class=\"MsoNormal\"><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/8079/Parahebe_catarractae__Snowcap-002.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/8079/Parahebe_catarractae__Snowcap-002.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "Division",
+      "value": "Magnoliophyta"
+    },
+    {
+      "key": "Class",
+      "value": "Magnoliopsida"
+    },
+    {
+      "key": "Order",
+      "value": "Plantaginales"
+    },
+    {
+      "key": "Family",
+      "value": "Plantaginaceae"
+    },
+    {
+      "key": "Genus",
+      "value": "Parahebe"
+    },
+    {
+      "key": "Species",
+      "value": "Parahebe catarractae"
+    },
+    {
+      "key": "Common name",
+      "value": "Snowcap, Fiordland Parahebe"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9664/Parahebe_catarractae__Snowcap__Fiordland_Parahebe.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5474/Parahebe_catarractae-2.JPG",
+      "caption": "For more information, visit:"
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/8074/Parahebe_catarractae__Snowcap-001.JPG",
+      "caption": "For more information, visit:"
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/8079/Parahebe_catarractae__Snowcap-002.JPG",
+      "caption": ""
+    }
+  ]
+}

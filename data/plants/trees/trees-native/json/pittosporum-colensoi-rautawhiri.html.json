@@ -1,0 +1,73 @@
+{
+  "category": "plants/trees/trees-native",
+  "name": "N/A",
+  "description": "Pittosporum colensoi is a small, erect, evergreen tree growing up to 10m high. It grows in lowland to montane forests, from the Bay of Plenty in North Island, southwards through South Island to Stewart Island, New Zealand.</p> <p>Pittosporum colensoi trunks can have a diameter up to ± 40 cm. The trunk’s bark is very dark.<br>Pittosporum colensoi has oval, green, leathery leaves which are 4-10 cm long, and they are widest in the middle and hairless on both surfaces. The leaf’s underside is paler in colour. The leaves have black stems.<br>A distinguishing feature of the leaf is its raised midrib on the under surface and the complete vein network is visible. The edges of the leaves are not wavy, as they are in Pittosporum tenuifolium.<br>The fragrant flowers have a diameter of 1.5 cm and appear from November to December. The petals are a dark to very dark red and are usually single on a leaf’s axis. The seed capsules (12mm long) which develop during January to April have three thick, woody valves each containing several sticky, black seeds.<br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1623/1-Pittosporum_colensoi_-003.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1623/1-Pittosporum_colensoi_-003.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a></p> <p><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1909/Pittosporum_colensoi___Rautawhiri_.JPG\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1909/Pittosporum_colensoi___Rautawhiri_.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1899/Pittosporum_colensoi___Rautawhiri_-001.JPG\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1899/Pittosporum_colensoi___Rautawhiri_-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br>The raised midrib on the under surface is visible. The underside is paler than the upper surface.<br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1904/Pittosporum_colensoi___Rautawhiri_-002.JPG\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1904/Pittosporum_colensoi___Rautawhiri_-002.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br>The dark coloured trunk.<br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1618/1-trunk_of_P.colensio.jpg\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1618/1-trunk_of_P.colensio.jpg\" alt=\"\" width=\"100%\" height=\"auto\"></a></p> <p>Thanks to Wikipedia for text and information: <a href=\"https://creativecommons.org/licenses/by-sa/3.0\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0</a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Eudicots"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Asterids"
+    },
+    {
+      "key": "Order",
+      "value": "Apiales"
+    },
+    {
+      "key": "Family",
+      "value": "Pittosporaceae"
+    },
+    {
+      "key": "Genus",
+      "value": "Pittosporum"
+    },
+    {
+      "key": "Species",
+      "value": "P. colensoi"
+    },
+    {
+      "key": "Scientific name",
+      "value": "Pittosporum colensoi"
+    },
+    {
+      "key": "Synonym",
+      "value": "Pittosporum tenuifolium var colensoi, Pittosporum buchananii, Pittosporum huttonianum var. viridifolium"
+    },
+    {
+      "key": "Common name",
+      "value": "Rautawhiri, Black Mapou, Mapauriki, Tipau, Maple (by early settlers)"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1623/1-Pittosporum_colensoi_-003.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1909/Pittosporum_colensoi___Rautawhiri_.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1899/Pittosporum_colensoi___Rautawhiri_-001.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1904/Pittosporum_colensoi___Rautawhiri_-002.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1618/1-trunk_of_P.colensio.jpg",
+      "caption": ""
+    }
+  ]
+}

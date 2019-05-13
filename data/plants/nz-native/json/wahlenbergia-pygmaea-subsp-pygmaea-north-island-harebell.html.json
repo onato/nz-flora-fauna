@@ -1,0 +1,53 @@
+{
+  "category": "plants/nz-native",
+  "name": "N/A",
+  "description": "Wahlenbergia pygmaea subsp. pygmaea is a small endemic plant of the North Island's main axil alpine ranges and the Central Volcanic Plateau. It grows at altitudes of 900 to 1800 metres on herbfields, tussock-grassland, lava fields.<br>It has large drooping, soft blue, or blue and white flowers on short upright scapes, 40-100 mm tall that rise above the green, glossy, glabrous leaves that are arranged in a rosette form at ground level.<br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9158/Wahlenbergia_pygmaea_subsp._pygmaea.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9158/Wahlenbergia_pygmaea_subsp._pygmaea.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9163/Wahlenbergia_pygmaea_subsp._pygmaea-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"><br><br>Thanks to Wikipedia for text and information: <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0/</a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Eudicots"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Asterids"
+    },
+    {
+      "key": "Order",
+      "value": "Asterales"
+    },
+    {
+      "key": "Family",
+      "value": "Campanulaceae"
+    },
+    {
+      "key": "Genus",
+      "value": "Wahlenbergia"
+    },
+    {
+      "key": "Species",
+      "value": "Wahlenbergia pygmaea subsp. pygmaea"
+    },
+    {
+      "key": "Common name",
+      "value": "North Island harebell"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9158/Wahlenbergia_pygmaea_subsp._pygmaea.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9163/Wahlenbergia_pygmaea_subsp._pygmaea-001.JPG",
+      "caption": ""
+    }
+  ]
+}

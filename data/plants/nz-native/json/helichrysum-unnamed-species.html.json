@@ -1,0 +1,53 @@
+{
+  "category": "plants/nz-native",
+  "name": "N/A",
+  "description": "<br>Species: Helichrysum</p> <p class=\"western\">This unnamed Helichrysum species was collected near the Mount Lyford Ski Resort, North Canterbury.</p> <p class=\"western\">This plant is on display at Otari Wilton Nature Reserve, Wellington.<br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8774/DSC00036.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8774/DSC00036.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a></p> <p class=\"MsoNormal\">Thanks to Wikipedia for text and information: <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0/</a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Eudicots"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Asterids"
+    },
+    {
+      "key": "Order",
+      "value": "Asterales"
+    },
+    {
+      "key": "Family",
+      "value": "Asteraceae"
+    },
+    {
+      "key": "Subfamily",
+      "value": "Asteroideae"
+    },
+    {
+      "key": "Tribe",
+      "value": "Gnaphalieae"
+    },
+    {
+      "key": "Genus",
+      "value": "Helichrysum"
+    },
+    {
+      "key": "Species",
+      "value": "Helichrysum"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8774/DSC00036.JPG",
+      "caption": "This plant is on display at Otari Wilton Nature Reserve, Wellington."
+    }
+  ]
+}

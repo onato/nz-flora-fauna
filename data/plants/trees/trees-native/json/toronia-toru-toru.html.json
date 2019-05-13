@@ -1,0 +1,57 @@
+{
+  "category": "plants/trees/trees-native",
+  "name": "Toronia toru",
+  "description": "Toronia toru is a small bushy endemic evergreen tree of New Zealand. It is found in the northern half of the North Island and is one of only two members of the protea family found in New Zealand. <br>Toronia toru grows to &gt;12 metres and has long, slender, smooth-edged, green leaves. During late spring and early summer months, small white to yellow flowers are produced and these are followed with red to dark purple-blue fleshy fruits. <br><br>For more details visit: <a href=\"http://www.nzpcn.org.nz/flora_details.aspx?ID=796\" target=\"_blank\">http://www.nzpcn.org.nz/flora_details.aspx?ID=796</a><br><br>A young tree.<br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2678/Toronia_toru__Toru-003.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2678/Toronia_toru__Toru-003.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br>The distinctive long leaf.<br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2673/Toronia_toru__Toru-002.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2673/Toronia_toru__Toru-002.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br></p> Thanks to Wikipedia for text and information: <a href=\"https://creativecommons.org/licenses/by-sa/3.0/%20\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0/ </a> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Eudicots"
+    },
+    {
+      "key": "Order",
+      "value": "Proteales"
+    },
+    {
+      "key": "Family",
+      "value": "Proteaceae"
+    },
+    {
+      "key": "Tribe",
+      "value": "Persoonieae"
+    },
+    {
+      "key": "Genus",
+      "value": "Toronia"
+    },
+    {
+      "key": "Species",
+      "value": "T. toru"
+    },
+    {
+      "key": "Binomial name",
+      "value": "Toronia toru"
+    },
+    {
+      "key": "Common name",
+      "value": "Toru"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2678/Toronia_toru__Toru-003.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2673/Toronia_toru__Toru-002.JPG",
+      "caption": ""
+    }
+  ]
+}

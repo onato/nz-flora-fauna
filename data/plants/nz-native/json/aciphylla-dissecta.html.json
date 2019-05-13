@@ -1,0 +1,61 @@
+{
+  "category": "plants/nz-native",
+  "name": "N/A",
+  "description": "</p> <p>Aciphylla dissecta is an alpine herb endemic to the North Island of New Zealand in Tararua Ranges. It forms spiky feathery tufts with clusters of white flowers on a 30-40 cm tall thick stalk. The rosettes are usually single. It has many stiff 30cm long leaves.<br>It grows in low alpine snow tussock grass-herbfields at 1000-1600 m a.s.l. It is often hidden amongst tussocks unless flowering.<br><br>For more details visit<a href=\":%20http:/nzpcn.org.nz/flora_details.asp?ID=352\" target=\"_blank\">: http://nzpcn.org.nz/flora_details.asp?ID=352</a></p> <p>Photographed at Otari-Wilton's Bush Reserve.<br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4439/Aciphylla_dissecta__Tararua_speargrass-001.JPG\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4439/Aciphylla_dissecta__Tararua_speargrass-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4444/Aciphylla_dissecta__Tararua_speargrass.JPG\" alt=\"\" width=\"100%\" height=\"auto\"><br><br>Thanks to Wikipedia for text and information: <a href=\"https://creativecommons.org/licenses/by-sa/3.0/%20\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0/ </a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Eudicots"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Asterids"
+    },
+    {
+      "key": "Order",
+      "value": "Apiales"
+    },
+    {
+      "key": "Family",
+      "value": "Apiaceae"
+    },
+    {
+      "key": "Genus",
+      "value": "Aciphylla"
+    },
+    {
+      "key": "Species",
+      "value": "A. dissecta"
+    },
+    {
+      "key": "Scientific name",
+      "value": "Aciphylla dissecta"
+    },
+    {
+      "key": "Synonyms",
+      "value": "Ligusticum dissectum, Anisotome dissecta"
+    },
+    {
+      "key": "Common name",
+      "value": "Tararua speargrass"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4439/Aciphylla_dissecta__Tararua_speargrass-001.JPG",
+      "caption": "Photographed at Otari-Wilton's Bush Reserve."
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4444/Aciphylla_dissecta__Tararua_speargrass.JPG",
+      "caption": ""
+    }
+  ]
+}

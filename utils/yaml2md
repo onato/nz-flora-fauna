@@ -1,0 +1,23 @@
+#!/usr/bin/env ruby
+require 'json'
+require 'yaml'
+
+filename = ARGV.first
+puts filename
+destination = filename.sub("data/", "docs/_pages/").sub(".yaml", ".md")
+input = File.read(filename)
+yaml = YAML.load(input)
+
+description = yaml["description"]
+yaml["permalink"] = yaml["category"].join("/") + "/" + yaml["attributes"]["binomial name"].downcase.sub(" ", "_")
+yaml["layout"] = "page"
+yaml["title"] = yaml["name"]
+
+yaml.delete("description")
+yaml.delete("name")
+
+File.open(destination, 'w') { |f| 
+  f.write yaml.to_yaml()
+  f.write "\n---\n"
+  f.write description
+}

@@ -1,0 +1,73 @@
+{
+  "category": "plants/trees/trees-native",
+  "name": "Coprosma rubra",
+  "description": "Coprosma rubra is a shrub native to New Zealand. C. rubra is found in both the North (mainly east) and in the South Island east of the divide from lowland to montane areas. It is often found in riparian forest or shrubland on alluvial soils.<br>C. rubra can grow up to 4 metres high with red-brown bark and slender branches. The fruit is yellowish-white, oblong and up to 6mm long and appears during February – August. Flowering occurs September – January.<br><br>For more details visit:<br><a href=\"http://www.nzpcn.org.nz/flora_details.aspx?ID=1735\" target=\"_blank\">http://www.nzpcn.org.nz/flora_details.aspx?ID=1735<br></a><br>Photographed at Otari Wilton Bush Reserve, Wellington<br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3544/Coprosma_rubra-006.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3544/Coprosma_rubra-006.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2958/coprosma_rubra-001.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2958/coprosma_rubra-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3539/Coprosma_rubra-005.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3539/Coprosma_rubra-005.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2963/coprosma_rubra-002.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2963/coprosma_rubra-002.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2968/coprosma_rubra-004.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2968/coprosma_rubra-004.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br>Thanks to Wikipedia for text and information <a style=\"font-size: 1em;\" href=\"http://creativecommons.org/licenses/by-sa/3.0/\">http://creativecommons.org/licenses/by-sa/3.0/</a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "Division",
+      "value": "Magnoliophyta"
+    },
+    {
+      "key": "Class",
+      "value": "Magnoliopsida"
+    },
+    {
+      "key": "Order",
+      "value": "Gentianales"
+    },
+    {
+      "key": "Family",
+      "value": "Rubiaceae"
+    },
+    {
+      "key": "Subfamily",
+      "value": "Rubioideae"
+    },
+    {
+      "key": "Tribe",
+      "value": "Anthospermeae"
+    },
+    {
+      "key": "Genus",
+      "value": "Coprosma"
+    },
+    {
+      "key": "Species",
+      "value": "C. rubra"
+    },
+    {
+      "key": "Binomial name",
+      "value": "Coprosma rubra"
+    },
+    {
+      "key": "Synonym",
+      "value": "Coprosma rubra var. Pendula"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3544/Coprosma_rubra-006.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2958/coprosma_rubra-001.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3539/Coprosma_rubra-005.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2963/coprosma_rubra-002.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2968/coprosma_rubra-004.JPG",
+      "caption": ""
+    }
+  ]
+}

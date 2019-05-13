@@ -1,0 +1,61 @@
+{
+  "category": "plants/exotic-with-botanical",
+  "name": "Sedum rubrotinctum",
+  "description": "<img src=\"uploads/images/Te%20Henui/Skull_and_crossbones1.jpg\" alt=\"\" width=\"100%\" height=\"auto\"><br>Sedum rubrotinctum is poisonous and if ingested causes stomach irritation. Contact with the sap can cause skin irritation. <br><br>Sedum rubrotinctum is a succulent plant originating in Mexico. It has multiple stems which are covered with tightly packed bean shaped leaves. It is nicknamed for its short leaves that resemble jelly beans.<br>The leaves colour turns shades of bright green, rose and bronze in response to temperature changes throughout the year. This is a protective adaptation.<br>During spring and summer, yellow starry blooms appear from between the leaves.<br>New plants grow from leaves that drop off from the stem. <br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3243/Sedum_rubrotinctum-001.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3243/Sedum_rubrotinctum-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3248/Sedum_rubrotinctum-002.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3248/Sedum_rubrotinctum-002.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br>Thanks to Wikipedia for text and information:<a href=\"%20https:/creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\"> https://creativecommons.org/licenses/by-sa/3.0/</a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Eudicots"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Core eudicots"
+    },
+    {
+      "key": "Order",
+      "value": "Saxifragales"
+    },
+    {
+      "key": "Family",
+      "value": "Crassulaceae"
+    },
+    {
+      "key": "Genus",
+      "value": "Sedum"
+    },
+    {
+      "key": "Species",
+      "value": "S. rubrotinctum"
+    },
+    {
+      "key": "Binomial name",
+      "value": "Sedum rubrotinctum"
+    },
+    {
+      "key": "Common name",
+      "value": "Jellybean plant, Pork and beans. Jelly bean plant"
+    }
+  ],
+  "images": [
+    {
+      "src": "uploads/images/Te%20Henui/Skull_and_crossbones1.jpg",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3243/Sedum_rubrotinctum-001.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3248/Sedum_rubrotinctum-002.JPG",
+      "caption": ""
+    }
+  ]
+}

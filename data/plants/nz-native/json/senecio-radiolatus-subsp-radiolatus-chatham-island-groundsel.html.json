@@ -1,0 +1,61 @@
+{
+  "category": "plants/nz-native",
+  "name": "N/A",
+  "description": "Senecio radiolatus subsp. radiolatus is an annual or short-lived plant found in coastal and dune sites on the Chatham Islands. It is often associated with the nesting sites of seabirds, especially the Chatham Island mollymawk (Diomedea cauta eremita. <br>This groundsel is at risk due to loss of its habitat, loss of seabird colonies and browsing by introduced animals.<br>It is an erect or straggling plant with grey-green to dark green, fleshy, erect leaves. Yellow daisy-like flowers with yellow centres appear during October to May above the plant as compound cyme.<br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5143/1-Senecio_radiolatus.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5143/1-Senecio_radiolatus.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br></p> <p>Thanks to Wikipedia for text and information: <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0/</a></p> <p> </p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "Subkingdom",
+      "value": "Tracheobionta"
+    },
+    {
+      "key": "Superdivision",
+      "value": "Spermatophyta"
+    },
+    {
+      "key": "Division",
+      "value": "Magnoliophyta"
+    },
+    {
+      "key": "Class",
+      "value": "Magnoliopsida"
+    },
+    {
+      "key": "Order",
+      "value": "Asterales"
+    },
+    {
+      "key": "Family",
+      "value": "Compositae"
+    },
+    {
+      "key": "Genus",
+      "value": "Senecio"
+    },
+    {
+      "key": "Species",
+      "value": "S. radiolatus"
+    },
+    {
+      "key": "Binominal name",
+      "value": "Senecio radiolatus subsp. radiolatus"
+    },
+    {
+      "key": "Synonymy",
+      "value": "Senecio radiolatus, Senecio lautus var. radiolatus"
+    },
+    {
+      "key": "Common name",
+      "value": "Chatham Island groundsel"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5143/1-Senecio_radiolatus.JPG",
+      "caption": ""
+    }
+  ]
+}

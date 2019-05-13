@@ -1,0 +1,53 @@
+{
+  "category": "plants/nz-native",
+  "name": "Astelia nivicola var. nivicola",
+  "description": "Astelia nivicola var. nivicola is a low alpine rhizomatous tufted perennial indigenous to the South Island of New Zealand. It grows &gt;30 cm high in patches in damp areas in snow tussock. Its pale green leaves are keeled and tapered growing &gt;40 cm in length and &gt;3 cm wide. The leaves underside are covered in white felt pilose.<br>After flowering which is rare, orange fleshy berries develop. They are dispersed by frugivory (fruit-eating fauna).</p> <p class=\"western\">Photographed at Christchurch Botanical Gardens. Plant collected from Mt Terako.<br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2113/Astelia_nivicola_var_see_label-07.jpg\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2113/Astelia_nivicola_var_see_label-07.jpg\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2118/Astelia_nivicola_var__nivicola-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"> <br><br>Thanks to Wikipedia for text and information: <a href=\"https://creativecommons.org/licenses/by-sa/3.0/%20\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0/ </a><br></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Monocots"
+    },
+    {
+      "key": "Order",
+      "value": "Asparagales"
+    },
+    {
+      "key": "Family",
+      "value": "Asteliaceae"
+    },
+    {
+      "key": "Genus",
+      "value": "Astelia"
+    },
+    {
+      "key": "Species",
+      "value": "A. nivicola var. nivicola"
+    },
+    {
+      "key": "Synonym",
+      "value": "Astelia nivicola"
+    },
+    {
+      "key": "Binomial name",
+      "value": "Astelia nivicola var. nivicola"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2113/Astelia_nivicola_var_see_label-07.jpg",
+      "caption": "Photographed at Christchurch Botanical Gardens.  Plant collected from Mt Terako."
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2118/Astelia_nivicola_var__nivicola-001.JPG",
+      "caption": ""
+    }
+  ]
+}

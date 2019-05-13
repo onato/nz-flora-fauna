@@ -1,0 +1,65 @@
+{
+  "category": "plants/nz-native",
+  "name": "N/A",
+  "description": "<p class=\"MsoNormal\">A native forget-me-not that forms rosettes up to 200 mm across with flowering stems to 300 mm tall. Leaves are spoon-shaped, variable in size. The leaf blade is usually up to 35 mm long by 25 mm wide, covered with short stiff hairs that lie flat, with a petiole as long as the blade of the leaf. There are often several multi-flowered inflorescences per plant. Flowers are 10–15 mm in diameter, white with yellow scales around the throat. <br> It is endemic to the west coast of the North Island from Muriwai Beach, west of Auckland to White Cliffs, northern Taranaki. Its habitat is open coastal forest, scrub or flax land in semi-shaded sites.<br>This plant is nationally endangered through loss of habitat through coastal development; susceptible to goat and pig impacts; competition from weeds, especially Mexican devil.<br><br>Photographed at <a style=\"border-style: initial !important; border-color: initial !important; background-color: #ffffff;\" href=\"http://www.tekaingamarire.co.nz/\" target=\"_blank\">Te Kainga Marire Gardens</a>at Spencer Place, January.<br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6579/Native_forget_me_not___Myosotis_petiolata_var_pansa-002__2_.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6579/Native_forget_me_not___Myosotis_petiolata_var_pansa-002__2_.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6599/Native_forget_me_not___Myosotis_petiolata_var_pansa-002.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6599/Native_forget_me_not___Myosotis_petiolata_var_pansa-002.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6584/Native_forget_me_not___Myosotis_petiolata_var_pansa-002__3_.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6584/Native_forget_me_not___Myosotis_petiolata_var_pansa-002__3_.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a> <br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6574/Native_forget_me_not___Myosotis_petiolata_var_pansa-002__1_.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6574/Native_forget_me_not___Myosotis_petiolata_var_pansa-002__1_.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br><br><br><br><br><br><br></p> <p class=\"MsoNormal\"> </p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Eudicots"
+    },
+    {
+      "key": "(Unranked)",
+      "value": "Asterids"
+    },
+    {
+      "key": "Order",
+      "value": "(unplaced)"
+    },
+    {
+      "key": "Family",
+      "value": "Boraginaceae"
+    },
+    {
+      "key": "Subfamily",
+      "value": "Boraginoideae"
+    },
+    {
+      "key": "Genus",
+      "value": "Myosotis"
+    },
+    {
+      "key": "Species",
+      "value": "Myosotis petiolata var pansa"
+    },
+    {
+      "key": "Common name",
+      "value": "Native Forget Me Not"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6579/Native_forget_me_not___Myosotis_petiolata_var_pansa-002__2_.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6599/Native_forget_me_not___Myosotis_petiolata_var_pansa-002.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6584/Native_forget_me_not___Myosotis_petiolata_var_pansa-002__3_.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6574/Native_forget_me_not___Myosotis_petiolata_var_pansa-002__1_.JPG",
+      "caption": ""
+    }
+  ]
+}

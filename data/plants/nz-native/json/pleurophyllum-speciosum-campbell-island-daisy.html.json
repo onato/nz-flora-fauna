@@ -1,0 +1,65 @@
+{
+  "category": "plants/nz-native",
+  "name": "Pleurophyllum speciosum",
+  "description": "Pleurophyllum speciosum is a megaherb native to the Auckland and Campbell Islands of New Zealand. It appears to be closely related to the Cineraria daisies of Africa and the Canary Islands. <br>It forms an enormous rosette, up to 1.2 metres across, of huge, broad, corrugated, fleshy, 25 centimetres long, hairy leaves. The genus name Pleurophyllum is from the Greek words pleuro- (rib, side) and phyllo- (leaf) components meaning 'ribbed-leaved'.<br>During December-February it bears pinkish-purple to pale lilac flowers with maroon centres, held on flower stems up to 60 centimetres tall. Fruiting is from January to May.<br><br><a href=\"uploads/images/Te%20Henui/Plants/1-Pleurophyllum_speciosum.jpg\" target=\"_blank\"><img src=\"uploads/images/Te%20Henui/Plants/1-Pleurophyllum_speciosum.jpg\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br>Pleurophyllum speciosum (Campbell Island daisy)<br>Photo below courtesy of Tamzin Henderson @ <a style=\"font-size: 1em;\" href=\"https://www.tamzinnz.com/\" target=\"_blank\">https://www.tamzinnz.com/</a> <br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/4693/Pleurophyllum_speciosum_by_Tamzin_Henderson_.jpg\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/4693/Pleurophyllum_speciosum_by_Tamzin_Henderson_.jpg\" alt=\"\" width=\"100%\" height=\"auto\"></a></p> <p>Campbell Island daisy flowers are depicted on the reverse of the current five dollar New Zealand banknote.<br><img src=\"uploads/images/NZ%205%20dollar%20note.jpg\" alt=\"\" width=\"100%\" height=\"auto\"><br><br>Thanks to Wikipedia for text and information <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\">http://creativecommons.org/licenses/by-sa/3.0/</a></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Eudicots"
+    },
+    {
+      "key": "(unranked)",
+      "value": "Asterids"
+    },
+    {
+      "key": "Order",
+      "value": "Asterales"
+    },
+    {
+      "key": "Family",
+      "value": "Asteraceae"
+    },
+    {
+      "key": "Tribe",
+      "value": "Astereae"
+    },
+    {
+      "key": "Genus",
+      "value": "Pleurophyllum"
+    },
+    {
+      "key": "Species",
+      "value": "P. speciosum"
+    },
+    {
+      "key": "Binomial name",
+      "value": "Pleurophyllum speciosum"
+    },
+    {
+      "key": "Common names",
+      "value": "Campbell Island daisy"
+    }
+  ],
+  "images": [
+    {
+      "src": "uploads/images/Te%20Henui/Plants/1-Pleurophyllum_speciosum.jpg",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/4693/Pleurophyllum_speciosum_by_Tamzin_Henderson_.jpg",
+      "caption": ""
+    },
+    {
+      "src": "uploads/images/NZ%205%20dollar%20note.jpg",
+      "caption": ""
+    }
+  ]
+}

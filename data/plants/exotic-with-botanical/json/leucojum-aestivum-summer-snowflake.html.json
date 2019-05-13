@@ -1,0 +1,65 @@
+{
+  "category": "plants/exotic-with-botanical",
+  "name": "Leucojum aestivum",
+  "description": "Leucojum aestivum is a herbaceous perennial that grows &gt; grows 60 cm tall. It is widely cultivated as an ornamental. It is native to most of Europe from Spain and Ireland to Ukraine, Turkey, Iran and the Caucasus, with the exception of Scandinavia, Russia, Belarus and the Baltic Republics. In New Zealand, it is cultivated in gardens but in some areas, it has now escaped to native habitats.<br><br>The dark, glossy, green leaves are up to 30 cm long and 25 mm wide. They are basal, sessile, strap-shaped and form an upright, vase-shaped clump of foliage. <br>The bell-shaped, flowers are nodding, up to 7 per umbel, tepals are white with a yellow-green spot near the tip.<br>After flowering seed capsules &gt;10 mm long develop. The seeds inside the capsule are 5-7 mm, black, and round. The capsules have flotation chambers and during flood events, they are carried downstream and are deposited on river banks.<br>Leucojum aestivum bulbs are up to 4 cm across.<br><br><img src=\"uploads/images/Te%20Henui/Plants/1-Summer_Snowflake_(Leucojum_aestivum)_-_geograph.org.uk_-_942436.jpg\" alt=\"\" width=\"100%\" height=\"auto\"><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/0913/Leucojum_vernum__1_.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/0913/Leucojum_vernum__1_.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br><a href=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/0923/1-Leucojum_aestivum-001.JPG\" target=\"_blank\"><img src=\"http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/0923/1-Leucojum_aestivum-001.JPG\" alt=\"\" width=\"100%\" height=\"auto\"></a><br><br>Thanks to Wikipedia for text and information: <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0/</a><br></p> <br style=\"clear:both;\"> <div class=\"hr\"> </div> ",
+  "attributes": [
+    {
+      "key": "Kingdom",
+      "value": "Plantae"
+    },
+    {
+      "key": "Clade",
+      "value": "Angiosperms"
+    },
+    {
+      "key": "Clade",
+      "value": "Monocots"
+    },
+    {
+      "key": "Order",
+      "value": "Asparagales"
+    },
+    {
+      "key": "Family",
+      "value": "Amaryllidaceae"
+    },
+    {
+      "key": "Subfamily",
+      "value": "Amaryllidoideae"
+    },
+    {
+      "key": "Genus",
+      "value": "Leucojum"
+    },
+    {
+      "key": "Species",
+      "value": "L. aestivum"
+    },
+    {
+      "key": "Binomial name",
+      "value": "Leucojum aestivum"
+    },
+    {
+      "key": "Synonyms",
+      "value": "Nivaria aestivalis, Nivaria monadelphia, Polyanthemum aestivale"
+    },
+    {
+      "key": "Common names",
+      "value": "Summer snowflake, Giant snowflake, Snowbells, Meadow snowflake, Loddon Lily"
+    }
+  ],
+  "images": [
+    {
+      "src": "uploads/images/Te%20Henui/Plants/1-Summer_Snowflake_(Leucojum_aestivum)_-_geograph.org.uk_-_942436.jpg",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/0913/Leucojum_vernum__1_.JPG",
+      "caption": ""
+    },
+    {
+      "src": "http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/0923/1-Leucojum_aestivum-001.JPG",
+      "caption": ""
+    }
+  ]
+}
