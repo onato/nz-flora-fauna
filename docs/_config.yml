@@ -18,7 +18,7 @@ description: >
   This is a database of plants, animals, insects, trees, fish and more found in New Zealand. 
   The content comes from [Friends of Te Henui](http://www.terrain.net.nz/friends-of-te-henui-group) 
   and has been cleaned up expanded.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/nz-flora-fauna"
 github_username:  onato
 
 # Build settings
