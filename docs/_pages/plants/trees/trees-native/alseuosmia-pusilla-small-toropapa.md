@@ -26,12 +26,13 @@ images:
   caption: Small shrub photographed East Mt Egmont/Taranaki February.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/0744/Alseuosmia_pusilla3.JPG
   caption: The red juicy fruit.
-permalink: plants/trees/trees-native/alseuosmia_pusilla
+permalink: plants/trees/trees-native/alseuosmia_pusilla.html
 layout: page
 title: Alseuosmia pusilla (Small Toropapa)
 
 ---
 Alseuosmia pusilla is a small slow growing endemic shrub that only grows in cool semi-shaded sites that have permanently damp soil. It will grow to 0.6 m in height and can have a spread of 0.3mm.
+
 It is found in the North Island from Te Moehau and Mt Pirongia south, mainly montane. It grows on Mt Egmont/Taranaki. In the South Island, it is found in the west only from North-West Nelson to near Okarito.
 The glossy leaves often have a mottled red-flecked surface and the margins are entire or can have a few minute teeth.
 In November to March, it develops white fragrant sweet smelling flowers whose petals are sometimes fused into long tubes.

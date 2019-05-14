@@ -32,4 +32,39 @@
 
   </div>
 
+  {% if site.data.menu.first %}
+  <ul>
+  {% for item in site.data.menu %}
+    <li>{{ item.title }}
+      {% if item.children.first %}
+        <ul>
+            {% for entry in item.children %}
+            <li>{{ entry.title }}
+                {% if entry.children.first %}
+                <ul>
+                  {% for subentry in entry.children %}
+                    <li>{{ subentry.title }}</li>
+                    <ul>
+                      {% assign current_category = item.title | append: "/"  | append: entry.title  | append: "/"  | append: subentry.title %}
+                      {% assign pages = site.html_pages | where_exp:'doc','doc.sitemap != false' | where_exp:'doc','doc.url != "/404.html"' | sort: "title" %}
+                      {% for page in pages %}
+                        {% assign category = page.category | join: '/' %}
+                        {% if category == current_category %}
+                          <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+                          {% endif %}
+                      {% endfor %}
+                    </ul>
+                  {% endfor %}
+                </ul>
+                {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+
 </footer>

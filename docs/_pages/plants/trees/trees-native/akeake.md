@@ -66,10 +66,11 @@ images:
     bronzy-green 10 cm long leaves which turn purple in cooler weather. Tolerates
     some shade but the colour is better if grown in full sun. Tiny green flowers in
     clusters mid-summer followed by brown maple-like seed capsules in late summer.
-permalink: plants/trees/trees-native/dodonaea_viscosa
+permalink: plants/trees/trees-native/dodonaea_viscosa.html
 layout: page
 title: Dodonaea viscosa (Akeake)
 
 ---
 The Maori name for the shrub, akeake, means "forever and ever".
+
 Dodonaea viscosa is Indigenous. New Zealand: Three Kings, North, South and Chatham Islands and is now widespread throughout the world. Dodonaea viscosa is New Zealand's sole species of the genus: Dodonaea. It is a shrub growing >3m tall, and rarely >9m  tall. The leaves are simple elliptical, 4–7.5 cm long and 1–1.5 cm broad, alternate in arrangement, and they secrete a resinous substance. Hence a common name Sticky Hopbush. A study of leaves yielded carbohydrates, flavonoids, fixed oil, proteins and amino acids, saponins, steroids and sterols, tannins, and triterpenoids. The flowers (7mm) are dioecious; small, yellow-green, lacking petals. The male and female flowers are generally on different trees. The yellow to orange-red flowers are yellow to orange-red and are produced on panicles about 2.5 cm in length. Flowering occurs spring to mid-summer. The fruit is a capsule (1.5 cm wide) with thin, flat, papery, rounded wings. This 3 sided pod contains 3 dark brown or black seeds. The pod is green, ageing to pink to tan. The fruits have been used as a substitute for hops. The bark separates into long stripes. The wood is extremely tough and durable, and New Zealand''s Maori have used Akeake to fashion clubs and other weapons.

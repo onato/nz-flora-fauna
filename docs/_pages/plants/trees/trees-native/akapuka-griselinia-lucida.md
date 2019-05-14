@@ -49,9 +49,10 @@ images:
   caption: A Griselinia lucida adult leaf
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5484/Griselinia_lucida__Shining_broadleaf_Akapuka_.__187_.JPG
   caption: The underside of a leaf.
-permalink: plants/trees/trees-native/griselinia_lucida
+permalink: plants/trees/trees-native/griselinia_lucida.html
 layout: page
 title: Griselinia lucida (Shining broadleaf, Akapuka)
 
 ---
 Griselinia lucida can be epiphytic or hemiepiphytic (spends part of its life cycle as an epiphyte). The young tree often colonises amongst other epiphytes like Collospermum (Perching lily) and Astelia (native bush lily) high in the forest canopy, before growing aerial roots down the trunk of its host. Upon contact with the ground, the roots can become large up to 250 mm thick, and are easily identified for their heavy lengthwise corrugations. Griselinia lucida seldom becomes a freestanding tree if having begun life epiphytically, and can often be seen to have collapsed where the host has died. The leaves are 12–18 cm long. The tiny flowers are unisexual with fragrant male and female flowers on different plants. The fruit starts off as little green berries and then turns black when the seeds are ripe, but the birds usually get them before that happens. Griselinia lucida is found in forest and coastal regions throughout New Zealand though it grows naturally as an epiphyte in the forest it will also grow well as a shrub in cultivation. On Rangitoto Island, Griselinia lucida are growing naturally in the open, between the scoria and not as epiphytes.  
+

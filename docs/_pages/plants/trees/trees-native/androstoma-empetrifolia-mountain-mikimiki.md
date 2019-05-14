@@ -21,9 +21,10 @@ attributes:
   common name: Mountain Mikimiki
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/5964/Androstoma_empetrifolia.JPG
-permalink: plants/trees/trees-native/androstoma_empetrifolia
+permalink: plants/trees/trees-native/androstoma_empetrifolia.html
 layout: page
 title: Androstoma empetrifolia (Mountain Mikimiki)
 
 ---
 Androstoma empetrifolia is a New Zealand straggly native prostrate shrub forming patches up to ± 6 dm. Diam. It has slender wiry branches up to 40cm long and very slender hairy branchlets up to 15cm long bearing thick narrow leaves 3-5 mm long with recurved margins. <br>During November to February small axillary or terminal flowers appear. <br>Red 4-5mm drupes mature from January to April.<br>Androstoma empetrifolia is found throughout New Zealand in alpine and subalpine (600-1300 masl) areas usually in poor peaty soils. It is present on Mt Egmont/Taranaki.
+

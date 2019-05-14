@@ -8,8 +8,8 @@ destination = filename.sub("data/", "docs/_pages/").sub(".yaml", ".md")
 input = File.read(filename)
 yaml = YAML.load(input)
 
-description = yaml["description"]
-yaml["permalink"] = yaml["category"].join("/") + "/" + yaml["attributes"]["binomial name"].downcase.sub(" ", "_")
+description = yaml["description"].sub "\n", "\n\n"
+yaml["permalink"] = yaml["category"].join("/") + "/" + yaml["attributes"]["binomial name"].downcase.gsub(" ", "_").gsub(".", "") + ".html"
 yaml["layout"] = "page"
 yaml["title"] = yaml["name"]
 

@@ -44,12 +44,13 @@ images:
   caption: Underside of leaf
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6309/Leptospermum_scoparium__Manuka-007.JPG
   caption: Adult trunk
-permalink: plants/trees/trees-native/leptospermum_scoparium
+permalink: plants/trees/trees-native/leptospermum_scoparium.html
 layout: page
 title: Leptospermum scoparium (Manuka)
 
 ---
 Manuka is a perennial shrub species native to New Zealand and found throughout the country in a wide range of locations, growing rapidly up 4m tall and is probably our most troublesome native scrub species because of regrowth on cleared land. This species is often confused with the closely related species Kanuka - the easiest way to tell the difference between the two species in the field is to feel their foliage - Manuka leaves are prickly while Kanuka leaves are soft.<br>The wood is tough and hard and was often used for tool handles. Manuka sawdust imparts a delicious flavour when used for smoking meats and fish. The oils extracted from the crushed foliage of manuka contain an antibiotic agent called leptospermone which is claimed to have many medicinal properties. Manuka products have high antibacterial potency for a limited spectrum of bacteria and are widely available in New Zealand. Similar properties led the Maori to use parts of the plant as natural medicine.
+
 The difference between Kanuka and Manuka
 You can identify the plants by feel: Manuka foliage is prickly to the touch, Kanuka is softer.
 Kanuka is the larger tree, growing up to 15 m.

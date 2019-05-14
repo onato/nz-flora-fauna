@@ -27,10 +27,11 @@ images:
   caption: The underside of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/9429/Alectryon_excelsus__Titoki-001.JPG
   caption: The fruit of Alectryon excelsus with black seed.
-permalink: plants/trees/trees-native/alectryon_excelsus subsp. grandis
+permalink: plants/trees/trees-native/alectryon_excelsus_subsp_grandis.html
 layout: page
 title: Alectryon excelsus subsp. grandis (Three Kings titoki)
 
 ---
 Alectryon excelsus subsp. grandis is a small spreading multitrunked shrub (4 x 4 m) with large leaves and its endemic to the Three Kings Islands, where it is known from Great and West Islands. It often grows along the more exposed forest margins and is occasionally found as a subcanopy tree within the dense kanuka (Kunzea aff. ericoides) forest that dominates the Three Kings Islands. It is a smaller tree than the mainland Titoki (Alectryon excelsus). Red / Pink flowers which are bisexual (have both male (androecium) and female (gynoecium) reproductive units) or staminate (having stamens but no pistils) are produced from October to December. From December to April scarlet fruit with a black seed develops. This shrub is now sold in specialised nurseries.
+
 For more details visit <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=1486" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=1486</a>

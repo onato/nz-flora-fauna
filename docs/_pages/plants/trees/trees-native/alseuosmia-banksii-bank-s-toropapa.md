@@ -29,10 +29,11 @@ images:
   caption: The upper surface of a leaf. The leaves vary in shape.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4559/Alseuosmia_banksii__Bank_s_Toropapa-010.JPG
   caption: The underside of a leaf.
-permalink: plants/trees/trees-native/alseuosmia_banksii
+permalink: plants/trees/trees-native/alseuosmia_banksii.html
 layout: page
 title: Alseuosmia banksii (Bank's Toropapa)
 
 ---
 Alseuosmia banksii is a small untidy shrub undergrowth of lowland and montane forests from North Cape to Marlborough. It grows to a height of 1m and with a 0.5m spread. It can have mottled foliage of broad leaves that are up to 3 cm long.
+
 Fragrant creamy to red flowers (3 cm across) are tubular and have a pungent scent. The flowers are followed by reddish berries (containing up to 10 seeds) which ripen during February–April. The shrub can hold flowers and seed at the same time. Thanks to <a href="http://www.bushmansfriend.co.nz" target="_blank">http://www.bushmansfriend.co.nz</a> for this information.

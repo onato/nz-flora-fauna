@@ -42,12 +42,13 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8874/Mangrove__Avicennia_marina.._australasica__-001.JPG
   caption: Mangrove propagules germinating.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8879/Mangrove__Avicennia_marina.._australasica__.JPG
-permalink: plants/trees/trees-native/avicennia_marina subsp. australasica
+permalink: plants/trees/trees-native/avicennia_marina_subsp_australasica.html
 layout: page
 title: Avicennia marina subsp. australasica (Mangrove)
 
 ---
 Avicennia marina ssp. australasica is New Zealand’s only species of mangrove and it is indigenous. New Zealand is the most southern mangrove growing country in the world. There are about 8 species of mangroves worldwide and their global distribution appears closely linked with the 20 degrees Celsius winter isotherm for seawater. However, the occurrence of mangroves in New Zealand is a notable exception to this. </p> <p>Avicennia marina ssp. australasica is a small yellowish-green tree or shrub of intertidal zones forming dense groves on coastal mudflats in the upper North Island. In New Zealand, they are found only in the top half of the North Island and grow in an area from near Cape Reinga in the north southwards to Bay of Plenty’s Ohiwa Harbour (near Opotiki) on the east coast and in the Kawhia Harbour on the west coast. This is north of about latitude 38 degrees south. Mangrove forests are made up of a number of different types of habitats - mangrove stands, pneumatophore zones, seagrass beds, low-tide channels, channel banks, and sandflats.
+
 Its growth habit is variable, as a tree form it can grow up to 12 m tall with a narrow to a broad spreading canopy; as a shrub form it will grow &gt; 2 m tall and &gt; 4 m across. The plant''s roots are spreading and they bear numerous erect pneumatophores (aerial roots).
 The leaves are leathery, tapering to a pointed tip and are a pale brown underneath. It has inconspicuous flowers which develop into large, yellowish, leathery fruit. These mangrove propagules (baby mangrove plantlets) fall from the tree and floating on tide till they are wash ashore and will then germinate.
 The bark on mature trees is grey and furrowed. The stout branches are spreading and brittle (snapping readily).

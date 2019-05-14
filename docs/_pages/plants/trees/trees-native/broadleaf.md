@@ -1,0 +1,56 @@
+---
+category:
+- plants
+- trees
+- trees-native
+wikipedia: https://en.wikipedia.org/wiki/Griselinia_littoralis
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Asterids
+  order: Apiales
+  family: Griseliniaceae
+  genus: Griselinia
+  species: G. littoralis
+  binomial name: Griselinia littoralis
+  common name:
+  - Broadleaf
+  - Kapuka
+  - Papauma
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6684/Griselinia_littoralis__Papauma__Broadleaf__Kapuka.JPG
+  caption: Griselinia littoralis photographed at Stratford Plateau Carpark, Pembroke
+    Road, Egmont National Park.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/2843/Broadleaf__Griselinia_littoralis-001.jpg
+  caption: Photographed on the Tongariro Alpine Crossing.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6619/Griselinia_littoralis__Broadleaf__Kapuka_.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/3689/Griselinia_littoralis__broadleaf_1-10-2016.JPG
+  caption: The flower buds early October
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-Griselinia%20littoralis%20male.jpg
+  caption: Male flower
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-Griselinia%20littoralis%20female.jpg
+  caption: Female flower
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6614/Griselinia_littoralis__Broadleaf__Kapuka_-001.JPG
+  caption: Top surface of a leaf
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7229/Griselinia_littoralis__Broadleaf_Kapuka_-003.JPG
+  caption: Underside of a leaf
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6674/Griselinia_littoralis__Papauma__Broadleaf__Kapuka-001.JPG
+  caption: Stem with bud scales below the leaves.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1184/Griselinia_littoralis__Broadleaf__Kapuka_-002.JPG
+  caption: Trunk of a mature tree at Pukekura Park, New Plymouth
+permalink: plants/trees/trees-native/griselinia_littoralis.html
+layout: page
+title: Griselinia littoralis (Broadleaf, Kapuka)
+
+---
+Griselinia littoralis is native evergreen tree found throughout New Zealand in forests from sea level to 1000m, forming a dense bushy tree with deep green oval leaves. It grows up to 20 m tall, though often much less, particularly in coastal exposure. It can tolerate a wide range of conditions. The leaves are alternate, leathery, glossy yellow-green above, paler and matt below, 6-14 cm long, oval with a smooth margin.
+
+Griselinia littoralis produces male and female flowers on separate trees. They are borne on 2-5 cm long panicles, each panicle with 50-100 individual flowers, Male flowers are about 5mm diameter; females about 3mm diameter and both have petals.
+The fruit is a small blackish berry and in time of food shortages, they were eaten, despite their bitter taste.
+Griselinia littoralis is in the same genus as Griselinia lucida Puka tree) which grows well in New Plymouth. Griselinia littoralis is more cold tolerant than Griselinia lucida.
+## Traditional Maori use:
+  
+It was an opening medicine and the inner bark was used on scrofula (a tuberculous infection of the skin on the neck) and venereal disease. (from "Medical notes of New Zealand NZ Med" by T.W.Bell 1890)
+The timber was known for its durability. 

@@ -25,6 +25,8 @@ github_username:  onato
 markdown: kramdown
 theme: minima
 author: Phil Bendle, Stephen Williams
+plugins:
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
