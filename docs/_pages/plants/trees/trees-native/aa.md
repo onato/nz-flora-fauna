@@ -3,6 +3,7 @@ category:
 - plants
 - trees
 - trees-native
+origin: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/aa.html
 attributes:
   kingdom:
   - Plantae

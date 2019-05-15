@@ -1,0 +1,37 @@
+---
+category:
+- plants
+- trees
+- trees-native
+wikipedia: https://en.wikipedia.org/wiki/Phyllocladus_toatoa
+origin: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/celery-pine.html
+attributes:
+  kingdom:
+  - Plantae
+  division: Pinophyta
+  class: Pinopsida
+  order: Pinales
+  family: Podocarpaceae
+  genus: Phyllocladus
+  species: P. toatoa
+  binomial name: Phyllocladus toatoa
+  synonym: Phylloclaudus glaucus
+  common name:
+  - Toatoa
+  - Blue Celery Pine
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/8533/Toatoa_1024.jpg
+permalink: plants/trees/trees-native/phyllocladus_toatoa.html
+layout: page
+title: Phyllocladus toatoa (Blue Celery Pine)
+
+---
+Phyllocladus toatoa (Toatoa) is a medium-sized conical or bushy, dioecious or monoecious native, endemic coniferous tree. It is found only in lowland forests in the northern half of the North Island. (On or N of the 39° S parallel). Its upper elevation limit is 600 m.
+
+It is a relatively slow growing tree that grows to about 15 meters in height and can have a trunk of 60 cm in diameter. The bark ranges in colour from dark brown to a silvery-brown.
+P. toatoa do not have true leaves; they have flattened branchlets called phylloclades (from Greek phyllo = leaf; klados = a shoot). P.toatoa is distinguishable from other species in the Phyllocladus genus due to its branchlets bearing two rows of phylloclades with toothed margins.
+The trees fruiting stage occurs during January to March. The female cones form on the edges of the phylloclades and are wind pollinated by male’s pollen. 
+P. toatoa produces a nut in a cup-shaped envelope. On maturity, each nut contains 3-4 3 mm black square shaped seeds. Mature seeds are dispersed from the cone through swelling of the cone bracts ejecting the seeds to the ground. This method is of distribution is limited resulting in many seeds landing on the ground under the female tree. Seeds are also spread to other areas by wind and birds.
+P. toatoa appears in the early stages of forest succession in areas where past logging of trees has occurred. It regenerates well in the shelter of manuka and kanuka scrub where its roots are partially shaded and its foliage is exposed to the sun.
+As with other lowland native tree species in New Zealand, there has been a historical decline due to logging and forest clearing for agriculture, which has now ceased. This species regenerates readily and under New Zealand’s policy of native forest protection that is now in place, the population has increased from the low numbers that were recorded in the 1970s.
+The wood of P. toatoa is nearly white, straight grained and strong; it is was used for furniture, but being rare it is now protected from commercial exploitation.

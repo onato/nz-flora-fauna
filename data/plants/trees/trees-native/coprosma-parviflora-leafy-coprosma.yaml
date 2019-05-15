@@ -1,0 +1,43 @@
+---
+category:
+- plants
+- trees
+- trees-native
+name: Coprosma parviflora (Leafy coprosma)
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/coprosma-parviflora-leafy-coprosma.html
+wikipedia: https://en.wikipedia.org/wiki/Coprosma_parviflora
+description: >
+  Coprosma parviflora is a small-leaved divaricating shrub (2-5 m) that
+  is native to New Zealand and occurs naturally on the Three Kings Islands and in
+  the northern North Island from Te Paki south to Kaipara Harbour in lowland forest,
+  scrubland and swampy ground.
+
+  It is a shrub with greyish bark, divaricating branches
+  and small variable thick leathery leaves (7-12 mm long) which occur on short hairy
+  petioles. In some plants, the leafy branches form more or less flattened planes. (See photo below)
+
+  The flowers are minute and appear August to October. The drupes,
+  about 5 mm in diameter, ripening in late summer/ early autumn are either yellow/white
+  or dark purple.
+
+  For more details visit: <a href="http://nzpcn.org.nz/flora_details.aspx?ID=1725"
+  target="_blank">http://nzpcn.org.nz/flora_details.aspx?ID=1725</a> 
+attributes:
+  kingdom:
+  - Plantae
+  division: Magnoliophyta
+  class: Magnoliopsida
+  order: Gentianales
+  family: Rubiaceae
+  genus: Coprosma
+  species: C. parviflora
+  binomial name: Coprosma parviflora
+  synonyms: Coprosma myrtillifolia
+  common name: Leafy coprosma
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3834/Coprosma_parviflora__Leafy_coprosma-005.JPG
+  caption: Photographed at Otari Wilton Bush Reserve. Wellington.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3839/Coprosma_parviflora__Leafy_coprosma-006.JPG
+  caption: In some plants, the leafy branches form more or less flattened plane.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3829/Coprosma_parviflora__Leafy_coprosma-003.JPG
+  caption: Closeup of the variable leaves.

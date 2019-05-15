@@ -9,7 +9,8 @@ input = File.read(filename)
 yaml = YAML.load(input)
 
 description = yaml["description"].sub "\n", "\n\n"
-yaml["permalink"] = yaml["category"].join("/") + "/" + yaml["attributes"]["binomial name"].downcase.gsub(" ", "_").gsub(".", "") + ".html"
+name = yaml["attributes"]["binomial name"] || yaml["attributes"]["trinomial name"]
+yaml["permalink"] = yaml["category"].join("/") + "/" + name.downcase.gsub(" ", "_").gsub(".", "").gsub("''", "") + ".html"
 yaml["layout"] = "page"
 yaml["title"] = yaml["name"]
 

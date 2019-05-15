@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 wikipedia: https://en.wikipedia.org/wiki/Dodonaea_viscosa
+origin: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/akeake.html
 attributes:
   kingdom:
   - Plantae

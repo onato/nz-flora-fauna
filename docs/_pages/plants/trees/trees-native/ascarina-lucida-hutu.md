@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 wikipedia: https://en.wikipedia.org/wiki/Ascarina_lucida
+origin: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/ascarina-lucida-hutu.html
 attributes:
   kingdom:
   - Plantae

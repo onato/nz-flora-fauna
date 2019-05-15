@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 wikipedia: https://en.wikipedia.org/wiki/Alseuosmia_macrophylla
+origin: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/alseuosmia-macrophylla-toropap.html
 attributes:
   kingdom:
   - Plantae

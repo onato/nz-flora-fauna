@@ -1,0 +1,30 @@
+
+sed -i -e 's/- kingdom:/  kingdom:/g' $1
+sed -i -e 's/- order:/  order:/g' $1
+sed -i -e 's/- family:/  family:/g' $1
+sed -i -e 's/- subfamily:/  subfamily:/g' $1
+sed -i -e 's/- genus:/  genus:/g' $1
+sed -i -e 's/- species:/  species:/g' $1
+sed -i -e 's/- binomial name:/  binomial name:/g' $1
+sed -i -e 's/- trinomial name:/  trinomial name:/g' $1
+sed -i -e 's/- synonyms:/  synonyms:/g' $1
+sed -i -e 's/- common names:/  common names:/g' $1
+sed -i -e 's/- class:/  class:/g' $1
+sed -i -e 's/- division:/  division:/g' $1
+sed -i -e 's/- form name:/  form name:/g' $1
+sed -i -e 's/- tribe:/  tribe:/g' $1
+
+sed -i -e $'s/<br>/\\\n\\\n  /g' $1
+
+sed -i -e $'s/description: /description: >\\\n  /g' $1
+
+rm $1-e
+
+rename 's/.html.json.yaml/.yaml/' $1
+
+
+filename=$(basename "$1" .yaml)
+sed -i '' "7i\ 
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/${filename}.html\
+
+" $1

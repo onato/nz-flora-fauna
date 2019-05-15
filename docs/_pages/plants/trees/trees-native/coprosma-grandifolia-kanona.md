@@ -1,0 +1,68 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/coprosma-grandifolia-kanona.html
+wikipedia: https://en.wikipedia.org/wiki/Coprosma_grandifolia
+attributes:
+  kingdom:
+  - Plantae
+  division: Magnoliophyta
+  class: Magnoliopsida
+  order: Gentianales
+  family: Rubiaceae
+  subfamily: Rubioideae
+  tribe: Anthospermeae
+  genus: Coprosma
+  species: C. grandifolia
+  binomial name: Coprosma grandifolia
+  synonym: Coprosma australis
+  common names:
+  - Kanona
+  - Rauekau
+  - Manono
+  - Large-leaved coprosma,
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4798/1-Coprosma_grandiifolia_female_flowers.JPG
+  caption: Female flowers.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4803/1-Coprosma_grandiifolia_female_flowers-001.JPG
+  caption: Female flowers. (March)
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4078/1-Coprosma_grandifolia.JPG
+  caption: Fruit on a female tree.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2189/Coprosma_grandifolia__Kanono-001.JPG
+  caption: Male tree with flowers.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4289/Coprosma_grandifolia_male_flower_buds.JPG
+  caption: Male flower buds.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2199/Coprosma_grandifolia__Kanono.JPG
+  caption: The flowers opening.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4279/Coprosma_grandifolia_male_-006.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4274/Coprosma_grandifolia_male_-002.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4254/Coprosma_grandifolia__female__1_.JPG
+  caption: A few fruit on a female tree. The leaves are showing the distinctive mottled
+    appearance.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5934/Coprosma_grandifolia__Kanono-004.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/9373/Coprosma_grandifolia__Kanono.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/9378/Coprosma_grandifolia__Kanono-001.JPG
+  caption: The leaves. Note the raised midrib.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4813/1-Coprosma_grandiifolia-002.JPG
+  caption: Close up of the raise midrib on the top surface of a leaf.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/9383/Coprosma_grandifolia__Kanono-006.JPG
+  caption: The underside of a leaf. NB. small pits at the junction of veins
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4808/1-Coprosma_grandiifolia-003.JPG
+  caption: The domatium cavities on the underside of a leaf.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4269/Coprosma_grandifolia_glandular_stipule.JPG
+  caption: A photo of a glandular stipule (a small leaf-like outgrowth occurring at
+    the base of a leaf) and the characteristic dark red blotches on it and the branch.
+permalink: plants/trees/trees-native/coprosma_grandifolia.html
+layout: page
+title: Coprosma grandifolia (Kanona)
+
+---
+Coprosma grandifolia is a native shrub or small tree with male and female flowers on separate trees. It has a slender trunk and hairless branches or branchlets. It’s widespread in both the North and South Islands in lowland to the mid-montane forest in wet and shaded areas, often around creeks where it can grow to 6 metres high. It is common on alluvial soils and often abundant in bush remnant regrowth after fencing. It can be epiphytic on tree fern trunks.
+
+It has the largest leaves (15 cm long or more) of any New Zealand coprosma. The oval leaves have a raised midrib on the upper surface and there are domatia on the underside. The leaves have a distinct vein pattern often there is a mottled appearance on the leaf's top surface.
+C. grandifolia produces ripe orangey-red drupes between February and May, and then flowers again during spring.
+The tree’s inner bark is a vivid yellow/orange colour and was used as a dye by the early Maoris. The prepared bark was an important source of topical medicine for the Maoris.
+For more information about the use of Kanona by early Maoris visit:
+<a href="http://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?firstcome=firstcome&amp;PKey=CAF19704-4282-4D92-894A-9D31F03A921D" target="_blank">http://maoriplantuse.landcareresearch.co.nz/WebForms/PeoplePlantsDetails.aspx?firstcome=firstcome&amp;PKey=CAF19704-4282-4D92-894A-9D31F03A921D</a>

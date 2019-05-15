@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 wikipedia: https://en.wikipedia.org/wiki/Alectryon_excelsus
+origin: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/alectryon-excelsus-subsp-grandis-three-kings-titoki.html
 attributes:
   kingdom:
   - Plantae

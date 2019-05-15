@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 wikipedia: https://en.wikipedia.org/wiki/Halocarpus_bidwillii
+origin: http://www.terrain.net.nz/friends-of-te-henui-group/trees-native-botanical-names-g-to-l/bog-pine-halocarpus-bidwillii.html
 attributes:
   kingdom:
   - Plantae

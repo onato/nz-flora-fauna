@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 wikipedia: https://en.wikipedia.org/wiki/Brachyglottis_elaeagnifolia
+origin: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/brachyglottis-elaeagnifolia.html
 attributes:
   kingdom:
   - Plantae

@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 wikipedia: https://en.wikipedia.org/wiki/Griselinia_littoralis
+origin: http://www.terrain.net.nz/friends-of-te-henui-group/trees-native-botanical-names-g-to-l/broadleaf.html
 attributes:
   kingdom:
   - Plantae

@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 wikipedia: https://en.wikipedia.org/wiki/Beilschmiedia_tarairi
+origin: http://www.terrain.net.nz/friends-of-te-henui-group/trees-native-botanical-names-g-to-l/beilschmiedia-tarairi-nz-taraire.html
 attributes:
   kingdom:
   - Plantae

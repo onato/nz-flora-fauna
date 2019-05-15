@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 wikipedia: https://en.wikipedia.org/wiki/Nothofagus_truncata
+origin: http://www.terrain.net.nz/friends-of-te-henui-group/trees-native-botanical-names-g-to-l/beech-hard-nothofagus-truncate.html
 attributes:
   kingdom:
   - Plantae

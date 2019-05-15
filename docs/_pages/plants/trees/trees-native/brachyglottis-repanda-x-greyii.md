@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 wikipedia: https://en.wikipedia.org/wiki/Brachyglottis_greyi
+origin: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/brachyglottis-repanda-x-greyii.html
 attributes:
   kingdom:
   - Plantae

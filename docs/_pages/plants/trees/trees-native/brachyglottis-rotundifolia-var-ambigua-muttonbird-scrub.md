@@ -3,6 +3,7 @@ category:
 - plants
 - trees
 - trees-native
+origin: http://www.terrain.net.nz/friends-of-te-henui-group/trees-native-botanical-names-g-to-l/brachyglottis-rotundifolia-var-ambigua-muttonbird-scrub.html
 attributes:
   kingdom:
   - Plantae
