@@ -7,11 +7,11 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  <ul>
+  <ul id="attributes">
   {% for attr in page.attributes %}
   
   <li>
-    <strong>{{ attr[0] }}</strong>: 
+    <strong>{{ attr[0] | capitalize }}</strong>: 
 
     {% if attr[1].first %}
       <ul>

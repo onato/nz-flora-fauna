@@ -1,0 +1,34 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/ixerba-brexioides-tawari.html
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Rosids
+  order: Crossosomatales
+  family: Strasburgeriaceae
+  genus: Ixerba
+  species: I. Brexioides
+  binomial name: Ixerba brexioides
+  common names:
+  - Tawari
+  - Whakou (flowers)
+images:
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Ixerba_brexioides%20by%20Ang%20Wickham,%20Wikipedia.jpg
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Ixerba%20brexioides%20(Tawari)%20by%20Wade%20Doak.jpg
+permalink: plants/trees/trees-native/ixerba_brexioides.html
+layout: page
+title: Ixerba brexioides (Tawari)
+
+---
+Ixerba brexioides is an endemic New Zealand angiosperm (flowering) tree of the rainforest understorey of lowland and lower montane areas up to 700m masl. It is found only in the North Island, South from Kaitaia to Waitomo, including Northlands Tutamoe Ranges, the Waitakeres, Waipoua Forest, Te Moehau above Cape Colville, the tops of the Barrier Islands and the Bay of Plenty to the Ureweras. It is very slow growing and can reach a height of around 10 m and has a smooth brown trunk up to 1 m in diameter. It is an important component of regenerating forest and is usually associated with Quintinia serrata (Tawheowheo).
+
+Ixerba brexioides has thick, simple, dark green leaves which are long and narrow (&gt;16 cm long) and they grow in a whorled pattern on the branches. The leaves margins are prominently serrated.
+During March and April, flower buds are formed on branched terminals. Flowering occurs from October to the end of December but this varies according to location and altitude, usually the more South the latitude and the higher the altitude, the later the flowering. The flowers are a creamy white (&gt;3.5 cm across) and are produced in great numbers. They have 5 silky sepals that are well separated from the 5 petals. The 5 stamens are long and there is a plump disc ovary with a stiff erect style. In the wall of the ovary, there are 5 septal nectaries whose function is to attract pollinators. The pollen grains have a 5 sided shape. Pollination and seed dispersal is mainly by birds. 
+By April the fruit is fully grown and the seed capsule splits outwards from the base of the style. The seed capsule has five compartments with two glossy black seeds in each. Each seed is partly covered by a fleshy bright red/orange aril with a white base. These colours attract birds. 
+The Tawari pollen produces a high fructose honey that is a light colour with a taste reminiscent of butterscotch.

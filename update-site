@@ -1,1 +1,1 @@
-find data/plants/trees/trees-native/ -maxdepth 1 -name '*.yaml' -exec ruby utils/yaml2md {} \;
+find data/plants/trees/trees-native -maxdepth 1 -name '*.yaml' -exec ruby utils/yaml2md {} \;
