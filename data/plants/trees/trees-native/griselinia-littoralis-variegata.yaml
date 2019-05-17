@@ -3,30 +3,16 @@ category:
 - plants
 - trees
 - trees-native
-source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/griselinia-littoralis-variegata.html
 name: Griselinia littoralis 'Variegata'
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/griselinia-littoralis-variegata.html
+wikipedia: https://en.wikipedia.org/wiki/Griselinia_littoralis
 description: >
-  'This Griselinia littoralis cultivar is an upright, evergreen, dioecious,
+  This Griselinia littoralis cultivar is an upright, evergreen, dioecious,
   shrub growing to a height of 5m. It has bright, glossy, green, leathery, ovate,
   variegated, leaves which are up to 10cm in length. The leaves have a creamy-white
   irregular margin. On young leaves the marginal variation is a golden/green and the
   centre bright green. In spring it develops yellow/green flowers and later in autumn
   it will have purple fruits provided shrubs of both sexes are present.
-
-  
-
-  Leaves
-  of a small shrub.
-
-  <a href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8709/Griselina_littoralis_variegata.JPG"
-  target="_blank"><img src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8709/Griselina_littoralis_variegata.JPG"
-  alt="" width="100%" height="auto"></a>
-
-  
-
-  </p> <p class="western">It has gained
-  the Royal Horticultural Society''s Award of Garden Merit.</p> <br style="clear:both;">
-  <div class="hr"> </div> '
 attributes:
   kingdom:
   - Plantae
@@ -37,11 +23,11 @@ attributes:
   family: Griseliniaceae
   genus: Griselinia
   species: G. littoralis
-- cultivar: Griselinia littoralis 'Variegata'
+  cultivar: Griselinia littoralis 'Variegata'
   binomial name: Griselinia littoralis 'Variegata'
-- common name:
+  common names:
   - New Zealand broadleaf 'Variegata'
   - Griselinia 'Variegata'
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8709/Griselina_littoralis_variegata.JPG
-  caption: ''
+  caption: Leaves of a small shrub.
