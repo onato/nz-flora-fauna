@@ -1,0 +1,40 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/hupiro.html
+wikipedia: https://en.wikipedia.org/wiki/Coprosma_foetidissima
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Asterids
+  order: Gentianales
+  family: Rubiaceae
+  subfamily: Rubioideae
+  tribe: Anthospermeae
+  genus: Coprosma
+  binomial name: Coprosma foetidissima
+  common names:
+  - Stinky Karamu
+  - Hupiro
+  - Stinkwood
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5654/Coprosma_foetidissima._hupori._hupori-1.JPG
+  caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
+    Wellington.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5659/Coprosma_foetidissima._hupori.JPG
+  caption: Leaves of Hupori.
+permalink: plants/trees/trees-native/coprosma_foetidissima.html
+layout: page
+title: Coprosma (Hupiro) Coprosma foetidissima
+
+---
+Coprosma foetidissima is a shrub growing up to 6m tall and is found from the coast to sub-alpine forests, shrubland and occasionally in grassland, North Island, South Island, Stewart and Auckland Islands.
+
+It has male and female plants. The pollen when shaken from the hanging stamens it drifts onto the exposed pistils of the female plant. This plant flower August / October.
+It is named Hupiro (Stinkwood) for its foetid odour of its leaves when crushed or warmed up in the summer. 
+The name Coprosma in Latin means smelling like dung and refers to the smell methanethiol ( also known as methyl mercaptan which is a colourless gas with a smell like rotten cabbage)  given out by the crushed leaves of a few of the Coprosma species.
+For more details visir: <a href="http://wwwold.landcareresearch.co.nz/research/biosystematics/plants/coprosmakey/key/Coprosma/Media/Html/C_foetidissima.htm" target="_blank">http://wwwold.landcareresearch.co.nz/research/biosystematics/plants/coprosmakey/key/Coprosma/Media/Html/C_foetidissima.htm</a>

@@ -3,10 +3,11 @@ category:
 - plants
 - trees
 - trees-native
+name: Hoheria sexstylosa (Ribbonwood) Houhere
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/hoheria-sexstylosa-houhere-lacebark.html
-name: Hoheria sexstylosa
+wikipedia: https://en.wikipedia.org/wiki/Hoheria_sexstylosa
 description: >
-  'Hoheria sexstylosa is a species endemic to New Zealand. It is a fast-growing
+  Hoheria sexstylosa is a species endemic to New Zealand. It is a fast-growing
   evergreen tree growing to 8 tall by 6 m broad. It has steeply ascending stems and
   branches. The smaller branches become drooping or even pendulous as the tree matures
   give the tree a graceful weeping habit. It has deeply incised, serrated evergreen
@@ -29,60 +30,6 @@ description: >
   The bark was traditionally used
   by the Maori and early European settlers in New Zealand to make rope and its white
   timber was used in cabinet-making.
-
-  
-
-  <a href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0254/Lacebark__Hoheria_sexstylosa-36.JPG"
-  target="_blank"><img src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0254/Lacebark__Hoheria_sexstylosa-36.JPG"
-  alt="" width="100%" height="auto"></a>
-
-  
-
-  <a href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0279/Lacebark__Hoheria_sexstylosa-39.JPG"
-  target="_blank"><img src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0279/Lacebark__Hoheria_sexstylosa-39.JPG"
-  alt="" width="100%" height="auto"></a>
-
-  
-
-  <a href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8608/1-Hoheria_sexstylosa__Ribbonwood.JPG"
-  target="_blank"><img src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8608/1-Hoheria_sexstylosa__Ribbonwood.JPG"
-  alt="" width="100%" height="auto"></a>
-
-  
-
-  <a href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8613/1-Hoheria_sexstylosa__Ribbonwood-002.JPG"
-  target="_blank"><img src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8613/1-Hoheria_sexstylosa__Ribbonwood-002.JPG"
-  alt="" width="100%" height="auto"></a> 
-
-  
-
-  The surface of a leaf.
-
-  <a href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8618/1-Hoheria_sexstylosa__Ribbonwood-005.JPG"
-  target="_blank"><img src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8618/1-Hoheria_sexstylosa__Ribbonwood-005.JPG"
-  alt="" width="100%" height="auto"></a>
-
-  
-
-  The underside of a leaf.
-
-  <a href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8623/1-Hoheria_sexstylosa__Ribbonwood-007.JPG"
-  target="_blank"><img src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8623/1-Hoheria_sexstylosa__Ribbonwood-007.JPG"
-  alt="" width="100%" height="auto"></a> 
-
-  
-
-  <a href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8628/1-Hoheria_sexstylosa__Ribbonwood-008.JPG"
-  target="_blank"><img src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8628/1-Hoheria_sexstylosa__Ribbonwood-008.JPG"
-  alt="" width="100%" height="auto"></a> 
-
-  
-
-  Thanks to Wikipedia for text and
-  information: <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank">https://creativecommons.org/licenses/by-sa/3.0/</a>
-
-  </p>
-  <br style="clear:both;"> <div class="hr"> </div> '
 attributes:
   kingdom:
   - Plantae
@@ -104,16 +51,11 @@ attributes:
   - Ribbonwood.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0254/Lacebark__Hoheria_sexstylosa-36.JPG
-  caption: ''
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0279/Lacebark__Hoheria_sexstylosa-39.JPG
-  caption: ''
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8608/1-Hoheria_sexstylosa__Ribbonwood.JPG
-  caption: ''
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8613/1-Hoheria_sexstylosa__Ribbonwood-002.JPG
-  caption: ''
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8618/1-Hoheria_sexstylosa__Ribbonwood-005.JPG
-  caption: ''
+  caption: The surface of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8623/1-Hoheria_sexstylosa__Ribbonwood-007.JPG
-  caption: ''
+  caption: The underside of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8628/1-Hoheria_sexstylosa__Ribbonwood-008.JPG
-  caption: ''

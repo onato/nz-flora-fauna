@@ -3,10 +3,11 @@ category:
 - plants
 - trees
 - trees-native
+name: Halocarpus kirkii (Kirk's pine)
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/halocarpus-kirkii-kirk-s-pine.html
-name: Halocarpus kirkii
+wikipedia: https://en.wikipedia.org/wiki/Halocarpus_kirkii
 description: >
-  '</p> <p class="MsoNormal">Halocarpus kirkii is a dioecious lowland forest
+  Halocarpus kirkii is a dioecious lowland forest
   tree endemic to New Zealand. 
 
   It is not a common tree, sometimes being found
@@ -24,32 +25,11 @@ description: >
   trees and on the lower branches of the adults are narrow and to some extent leathery,
   up to 4 cm long and 3 mm wide. The adult leaves are thick, scale-like and much smaller;
   the leaves overlap and lie appressed to the branchlets in 4 rows.
-
-  
-
-  Young tree
-  photographed at Otari Native Botanic Garden and Wilton''s Bush Reserve. Wellington.
-  <a href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5299/Halocarpus_kirkii__Monoao-003.JPG"><img
-  src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5299/Halocarpus_kirkii__Monoao-003.JPG"
-  alt="" width="100%" height="auto"></a>
-
-  
-
-  <a href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5304/Halocarpus_kirkii__Monoao-001.JPG"><img
-  src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5304/Halocarpus_kirkii__Monoao-001.JPG"
-  alt="" width="100%" height="auto"></a></p> <p class="MsoNormal">Thanks to Wikipedia
-  for text and information <a href="http://creativecommons.org/licenses/by-sa/3.0/"
-  target="_blank">http://creativecommons.org/licenses/by-sa/3.0/</a>
-
-  <a href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5304/Halocarpus_kirkii__Monoao-001.JPG">
-
-  </a></p>
-  <br style="clear:both;"> <div class="hr"> </div> '
 attributes:
   kingdom:
   - Plantae
-- division: Pinophyta
-- class: Pinopsida
+  division: Pinophyta
+  class: Pinopsida
   order: Pinales
   family: Podocarpaceae
   genus: Halocarpus
@@ -58,11 +38,8 @@ attributes:
   synonyms: Dacrydium kirkii
   common names:
   - Kirk's pine
-  - Monoao. Monoao should not be confused with the similarly named Manoao (Manoao
-    colensoi
-  - or Silver Pine).
+  - Monoao. Not to be confused with the similarly named Manoao (Manoao colensoi, or Silver Pine).
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5299/Halocarpus_kirkii__Monoao-003.JPG
-  caption: ''
+  caption: Young tree photographed at Otari Native Botanic Garden and Wilton's Bush Reserve. Wellington. 
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5304/Halocarpus_kirkii__Monoao-001.JPG
-  caption: ''
