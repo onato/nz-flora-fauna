@@ -1,0 +1,55 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/kanuka.html
+wikipedia: https://en.wikipedia.org/wiki/Kunzea_ericoides
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Rosids
+  order: Myrtales
+  family: Myrtaceae
+  genus: Kunzea
+  species: K. ericoide
+  binomial name: Kunzea ericoides
+  common names:
+  - Kanuka
+  - White tea-tree
+  - White manuka
+  - Burgan.
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/6113/Kanuka2.jpg
+  caption: An old mature tree.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4323/1-Kunzea_ericoides__Kanuka.JPG
+  caption: Kanuka in flower December edge of Lake Wanaka
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4328/1-Kunzea_ericoides__Kanuka-001.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/6103/Kunzea_ericoides_Kanuka_flowers_1-5.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/2618/1-Kunzea_ericoides__Kanuka_.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/6108/Kunzea_ericoides_Kanuka_flowers_1.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/2623/1-Kunzea_ericoides__Kanuka_-002.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/2633/1-Kunzea_ericoides__Kanuka_-004.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4318/1-Kunzea_ericoides__Kanuka-006.JPG
+  caption: A New Zealand native bee on Kanuka flower.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/6848/Kanuka_trunk.JPG
+  caption: Kanuka trunk.
+permalink: plants/trees/trees-native/kunzea_ericoides.html
+layout: page
+title: Kunzea ericoides (Kanuka)
+
+---
+Myrtaceae is a large family of trees found throughout tropical and South America out of China and down through the Pacific. It includes species such as Pohutukawa, Bottlebrush and Kanuka.
+
+Kunzea ericoides (Kanuka) varies in size, from a shrub to a tree 10 m or more in height, with trunk 60 cm or more in diameter. It is restricted to Australia and New Zealand. Kānuka are found throughout New Zealand occurring on the Three Kings Islands, Aotea (Great Barrier Island), from Te Paki (on the Aupouri Peninsula) at the northern tip of the North Island to as far south as Dunedin and Central Otago in the South Island, and the Stewart Island.
+Kanuka's bark is light brown and thicker than the more common manuka (red tea-tree Leptospermum scoparium). The wood is white (hence the common name white tea-tree) whereas manuka has red timber. 
+The small needle-like leaves of Kanuka and Manuka are very similar. Manuka leaves tend to be larger and more aromatic. The easiest way to tell Manuka and Kanuka apart is that manuka has larger flowers and large (half cm across) woody seed capsules that remain on the tree for a long time. 
+Kanuka flowers are much smaller, tend to be in bunches, and the small seed capsules are shed within the year. Both trees tend to have white flowers in the wild, but manuka has many coloured varieties and is often grown as a garden ornamental. 
+In New Zealand Manuka and Kanuka are pioneer species, quickly invading an area recently opened by fire, grazing or logging. There is little undergrowth in the manuka copse, and the ground below it becomes carpeted with dead leaves, almost as in a pine forest. There are, perhaps, several reasons for this lack of undergrowth. The plant often grows on poor ground; the resinous leaves may, like the pine needles, make a bad mould; and the shrub itself probably exhausts the soil. Yet sometimes certain orchids are found below it, which are rare elsewhere. They also both act as a nurse-crop for other species, providing shelter for the species that will eventually make up the regenerating forest. Kanuka tends to be found on the drier and more fertile soils, whereas Manuka will also colonise infertile and poorly drained soils. 
+## Uses:  The name "tea-tree" comes from the early bushman who used Manuka and Kanuka leaves to brew a drink similar to tea. Captain Cook was the first person to brew tea from manuka and said that it had a very agreeable, bitter taste when made with fresh leaves, but lost some of it piquancy when made with dry leaves. Kanuka leaves produce a tea that isn''t quite as flavourful. Both tea-trees supposedly have medicinal uses and properties whose benefits far outweigh any considerations of taste. The leaves, brewed in water, help urinary complaints and reduced fevers. 
+The Maori and early settlers used to chew young shoots or swallow a drink made from seed capsules as a cure for dysentery and diarrhoea. The liquid from boiling the bark was used to treat constipation, as a sedative to promote sleep and reduce fever, for bathing sore eyes, treating colic, inflamed breasts, scalds and burns. The white gum was applied to scalds and burns and was taken by adults and children to relieve coughing. There are much more medicinal uses to which tea-tree was put to. Kanuka flowers produce a reasonable amount of nectar that is quite favoured by honeybees. The thick golden honey is hard to remove from honeycombs, but is quite popular for its strong taste and reputed antibacterial properties. Nowadays New Zealand’s monofloral Manuka and Kanuka pharmaceutical honey are both renowned for their natural health benefits.
+The tough wood was used by Maori for implements such as fern root beater, mauls, paddles, weapons, spade blades, weeders, digging sticks and bird spears. The timber was noted for its straight grain, durability and strength by early European settlers, and was in demand for wheel-spokes, tool handles and other such purposes. Kanuka and Manuka wood is commonly used as firewood, especially for barbeques, or charred into charcoal. Older trees of have their trunks covered with a light brown bark that readily strips off, and is frequently used for fire-kindling. Both Manuka and Kanuka branches have been used to make brush brooms.
+## The difference between Kanuka and Manuka **Kanuka** is the larger tree, growing up to 10 m.  - Its foliage is softer to the touch than Manuka.  - The kanuka flowers later than manuka, usually in starting in December, with the flowers emerging in bunches or groups.  - The seed capsules are smaller than those of manuka.
+**Manuka** is a smaller than kanuka, reaching around 4m high.  - It has prickly foliage and a pungent scent.  - The singular flowers are larger than Kanuka and may have a reddish tinge.  - Manuka flowers in spring early summer and the stamens are shorter than the petals. - The seed capsules are larger than those of Kanuka.

@@ -1,0 +1,40 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/wirebrush-muehlenbeckia-astonii.html
+wikipedia: https://en.wikipedia.org/wiki/Muehlenbeckia_astonii
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Core eudicots
+  order: Caryophyllales
+  family: Polygonaceae
+  genus: Muehlenbeckia
+  species: M. astonii
+  binomial name: Muehlenbeckia astonii
+  common names:
+  - Wirebrush
+  - Shrubby tororaro
+  - Wiggy-wig bush
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6314/Muehlenbeckia_astonii-001.JPG
+  caption: Muehlenbeckia astonii, Wirebrush, Pohuehue photographed at Otari Native
+    Botanic Garden and Wilton's Bush Reserve. Wellington.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1929/Muehlenbeckia_astonii-1.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1934/Muehlenbeckia_astonii-6.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6924/Muehlenbeckia_astonii__Wirebrush.JPG
+permalink: plants/trees/trees-native/muehlenbeckia_astonii.html
+layout: page
+title: Muehlenbeckia astonii (Wirebrush)
+
+---
+Muehlenbeckia astonii is a shrub endemic New Zealand. It is a curious plant and very distinct from any other native New Zealand species. It is leafless in winter. It has a great number of fine reddish brown to reddish orange branches that zigzag with one another to form a dense ball, up to 2 - 3 m. round. It has very small heart-shaped leaves (only a few millimetres) that grow in clusters of 2 or 3, or alternate along the longer branchlets.
+
+Flowers are tiny and grow in clusters of 2 to 4, less than 1 cm in diameter, greenish to white or pinkish white. 
+Male and perfect flowers present on the same plant, the male flower bearing 8 functional stamens, and a rudimentary gynoecium; perfect flowers with functional stamens and gynoecium; female flowers on separate plants, ovary bluntly trigonous; stigmas 3, finmbriate, androecium rudimentary.
+The fruit is about 3 to 4 mm in diameter, dark, three-angled nut, surrounded by the remnants of the flower.
+The plants in Taranaki have been planted as it is native to certain areas of North and South Islands. In the North Island known from Honeycomb Light (Eastern Wairarapa) south to Cape Palliser and just west of Sinclair Head. In the South Island in Marlborough formerly present on the Wairau Bar and Wither Hills, now known only from Clifford Bay, the lower Awatere Catchment to Cape Campbell and Kekerengu. Also in North Canterbury, on the Banks Peninsula near Lake Forsyth and on Kaitorete Spit. It occurs on the coast and on lowlands, forest margins, especially terraced riverbeds and rocky hillsides.

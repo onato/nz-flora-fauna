@@ -1,0 +1,31 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/kermadic-pohutukawa.html
+wikipedia: https://en.wikipedia.org/wiki/Metrosideros_kermadecensis
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Rosids
+  order: Myrtales
+  family: Myrtaceae
+  genus: Metrosideros
+  species: M. kermadecensis
+  binomial name: Metrosideros kermadecensis
+  common names:
+  - Kermadec pohutukawa
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3968/Kermadec_Pohutokawa_23-10-2009_..JPG
+  caption: Metrosideros kermadacensis with waxyeye. Photographed from location Lat
+    39 3'42.378" S Long 174 5'40.418 E Datum WGS 84
+permalink: plants/trees/trees-native/metrosideros_kermadecensis.html
+layout: page
+title: Metrosideros kermadecensis (Kermadec Pohutukawa)
+
+---
+Kermadec pohutukawa (Metrosideros kermadacensis) is an evergreen dominant tree of the myrtle family which is endemic to the volcanic Kermadec Islands which are more than 1,000 kilometres north-east of New Zealand (NZ territory). It has been widely planted in mainland New Zealand, where it grows as a compact tree up to 15 metres tall with a trunk is up to 1 m or more in diameter. It has smaller, rounder leaves than New Zealand pohutukawa, and flowers sporadically through the year.
+

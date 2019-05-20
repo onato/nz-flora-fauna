@@ -1,0 +1,68 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/karamu.html
+wikipedia: https://en.wikipedia.org/wiki/Coprosma_robusta
+attributes:
+  kingdom:
+  - Plantae
+  division: Magnoliophyta
+  class: Magnoliopsida
+  order: Gentianales
+  family: Rubiaceae
+  subfamily: Rubioideae
+  tribe: Anthospermeae
+  genus: Coprosma
+  species: C. robusta
+  binomial name: Coprosma robusta
+  common names:
+  - Karamu
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3544/coprosma__robusta_.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5524/Coprosma_robusta_-007.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5509/Coprosma_robusta_-002.JPG
+  caption: Green unripe fruit. October Taranaki.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5529/Coprosma_robusta_.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/3579/Coprosma_robusta__Karamu_.JPG
+  caption: Opening male flowers.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5353/Male_flowers_coprosma_robusta.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5333/Female_Coprosma_robusta..JPG
+  caption: Female flowers September.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5338/female_flowersCoprosma_robusta..JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5363/female_flowers_Coprosma_robusta.-001.JPG
+  caption: Female flowers. September.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/7789/Karamu_Coprosma_rubusta-2.JPG
+  caption: Ripe fruit March. They can be orange or red.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4334/Coprosma_robusta__Karamu_-007.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/7794/Coprosma_rubusta_leaf_centre_vein_not_raised.JPG
+  caption: Leaf of Coprosma robusta showing the centre vein which is not raised. This
+    is a distinguishing feature of Coprosma robusta. C.grandifolia and C. lucida have
+    raised midribs.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4339/Coprosma_robusta__Karamu_.JPG
+  caption: The underside of a leaf. Notice raised mid-vein and the domatia.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5519/Coprosma_robusta_-004.JPG
+  caption: 'Coprosmas are identified by the domatia (tiny holes at the junction of
+    the veins on the underside of the leaf. NB:  raised midrib distinguishing feature
+    of Coprosma robusta and Coprosma lucida.'
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5358/domatia_on_underside_leaf_C.robusta.JPG
+  caption: A domatia underside of the leaf.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5343/domatia_lumps.JPG
+  caption: The top surface of the leave showing the domatia lumps and the centre vein
+    of the leaf which is not raised.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5348/coprosma_robusta__leaf_margin.JPG
+  caption: A distinguishing feature of Coprosma robusta is the rough edge of the leaves
+    margin. All other large-leaved coprosma have smooth edges.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5328/Coprosma_robusta_short_stipule_with_black_gland.JPG
+  caption: Where the leaf stalks join the branch there is a short stipule with a black
+    gland at the top.
+permalink: plants/trees/trees-native/coprosma_robusta.html
+layout: page
+title: Coprosma robusta (Karamu)
+
+---
+Karamu is the Maori name given to the tree Coprosma robusta and Coprosma lucida, two of the 45 Coprosma species found in New Zealand. Coprosmas are identified by the domatia (tiny holes at the junction of the veins on the underside of the leaf), their stipules, small flowers and colourful berries. 
+
+Coprosma robusta is found in lowland forest or shrub throughout New Zealand and almost to the south of the South Island. It has dark green leaves approximately 5-13cm long and 3-4 cm wide. The centre vein of the leaf is not raised on the top surface. The main vein is raised on the under surface. The tree itself is either a shrub or small tree that can grow up to 6m tall. The stipules have a single, shiny black gland at the tips. 
+Coprosma robusta produces masses of orange berries in late Summer. When berries are present, they are 8-9mm long and can take up to a year to ripen. Birds enjoy the masses of orange fruit on female plants.
