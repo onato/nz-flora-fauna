@@ -4,14 +4,12 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/leionema-nudum-mairehau.html
-name: Leionema nudum (nudum = naked)
+name: Leionema nudum (Mairehau)
 description: >
-  'Leionema nudum is a native shrub that endemic to the lowland forests
+  Leionema nudum is a native shrub that endemic to the lowland forests
   of the North Island where it is locally distributed from Te Paki south to Pukenui
   Hill, Kawhia in the west and the northern Kaimai Range in the east. It is rather
   uncommon south of Auckland and Thames.
-
-  
 
   Leionema nudum has many branches and
   grows to a height of 4 m. The branchlets are slender with a reddish bark that is
@@ -31,34 +29,6 @@ description: >
   The fertilisation flowers develop into
   4-lobed fruit. The fruits dry and each contains four compartments containing 1-2
   seeds.
-
-  
-
-  Photographed at Otari Native Botanic Garden and Wilton''s Bush Reserve.<a
-  style="font-size: 1em;" href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7394/Leionema_nudum__Phebalium_nudum__Mairehau__M%C4%81ireire-002.JPG"><img
-  src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7394/Leionema_nudum__Phebalium_nudum__Mairehau__M%C4%81ireire-002.JPG"
-  alt="" width="100%" height="auto"></a> </p> <p>The upper surface of a leaf with
-  oil glands visible.<a style="font-size: 1em;" href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7399/Leionema_nudum__Phebalium_nudum__Mairehau__M%C4%81ireire-007.JPG"><img
-  src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7399/Leionema_nudum__Phebalium_nudum__Mairehau__M%C4%81ireire-007.JPG"
-  alt="" width="100%" height="auto"></a> </p> <p>The underside of a leaf with notched
-  margins.
-
-  <img src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7404/Leionema_nudum__Phebalium_nudum__Mairehau__M%C4%81ireire-009.JPG"
-  alt="" width="100%" height="auto">
-
-  
-
-  <a href="uploads/images/Te%20Henui/Trees/1-phebalium_nudum.jpg"><img
-  src="uploads/images/Te%20Henui/Trees/1-phebalium_nudum.jpg" alt="" width="100%"
-  height="auto"></a> 
-
-  
-
-  Thanks to Wikipedia for text and information:<a href="%20https:/creativecommons.org/licenses/by-sa/3.0/">
-  https://creativecommons.org/licenses/by-sa/3.0/</a>
-
-  </p> <br style="clear:both;">
-  <div class="hr"> </div> '
 attributes:
   kingdom:
   - Plantae
@@ -69,17 +39,16 @@ attributes:
   family: Rutaceae
   genus: Leionema
   species: L. nudum
-  binomial name: Leionema nudum (nudum = naked)
-- synonym: Phebalium nudum
+  binomial name: Leionema nudum
+  synonym: Phebalium nudum (nudum = naked)
   common names:
   - Mairehau
   - Māireire
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7394/Leionema_nudum__Phebalium_nudum__Mairehau__M%C4%81ireire-002.JPG
-  caption: ''
+  caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7399/Leionema_nudum__Phebalium_nudum__Mairehau__M%C4%81ireire-007.JPG
   caption: The upper surface of a leaf with oil glands visible.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7404/Leionema_nudum__Phebalium_nudum__Mairehau__M%C4%81ireire-009.JPG
-  caption: ''
-- src: uploads/images/Te%20Henui/Trees/1-phebalium_nudum.jpg
   caption: The underside of a leaf with notched margins.
+- src: uploads/images/Te%20Henui/Trees/1-phebalium_nudum.jpg

@@ -3,10 +3,11 @@ category:
 - plants
 - trees
 - trees-native
+name: Libocedrus plumose (Kawaka)
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/libocedrus-plumose-kawaka.html
-name: Libocedrus plumose
+wikipedia: https://en.wikipedia.org/wiki/Libocedrus_plumosa
 description: >
-  'Libocedrus plumosa is a species of conifer endemic to New Zealand, occurring
+  Libocedrus plumosa is a species of conifer endemic to New Zealand, occurring
   on the North Island in lowland and hill forest near Te Paki and to the south of
   Kawhia in the west and Gisborne in the East. It also grows in the north of the South
   Island near Nelson (41° S). It is classed as at risk as it needs disturbed areas
@@ -14,7 +15,6 @@ description: >
 
   It grows from sea level up to 600 m.a.s.l in temperate rainforests.
   This evergreen coniferous tree grows to 25 m tall, with a trunk up to 1.2m in diameter.
-  
 
   The bark tears off in long thin strips which often spiral gradually around the
   trunk, giving the tree a twisted appearance. The foliage is arranged in flattened
@@ -32,59 +32,15 @@ description: >
   tiny, dry woody cones split open to release two winged seeds, which are dispersed
   by wind. 
 
-  
-
   In the past, it was selectively milled to near extinction for its
   red wood which was used for house shingles and in cabinet making.
 
-  
-
-  For more
-  details visit: <a style="font-size: 1em; line-height: 1.4em;" href="http://www.nzpcn.org.nz/flora_details.aspx?ID=281"
-  target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=281</a></p> <p><a
-  href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6294/Libocedrus_plumosa__Kawaka__Kaikawaka.JPG"
-  target="_blank"><img src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6294/Libocedrus_plumosa__Kawaka__Kaikawaka.JPG"
-  alt="" width="100%" height="auto"></a>
-
-  
-
-  Foliage showing flat sprays
-
-  <a
-  href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6279/Libocedrus_plumosa__Kawaka__Kaikawaka-001.JPG"
-  target="_blank"><img src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6279/Libocedrus_plumosa__Kawaka__Kaikawaka-001.JPG"
-  alt="" width="100%" height="auto"></a> 
-
-  
-
-  The underside of the leaf fans.
-
-  <a
-  href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6284/Libocedrus_plumosa__Kawaka__Kaikawaka-002.JPG"
-  target="_blank"><img src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6284/Libocedrus_plumosa__Kawaka__Kaikawaka-002.JPG"
-  alt="" width="100%" height="auto"></a> 
-
-  
-
-  The thin, scaly, peeling bark.
-
-  <a
-  href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6289/Libocedrus_plumosa__Kawaka__Kaikawaka-003.JPG"
-  target="_blank"><img src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6289/Libocedrus_plumosa__Kawaka__Kaikawaka-003.JPG"
-  alt="" width="100%" height="auto"></a>
-
-  
-
-  Thanks to Wikipedia for text and information
-  <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">http://creativecommons.org/licenses/by-sa/3.0/</a>
-
-  </p>
-  <br style="clear:both;"> <div class="hr"> </div> '
+  For more details visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=281" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=281</a>
 attributes:
   kingdom:
   - Plantae
-- division: Pinophyta
-- class: Pinopsida
+  division: Pinophyta
+  class: Pinopsida
   order: Pinales
   family: Cupressaceae
   genus: Libocedrus
@@ -95,10 +51,9 @@ attributes:
   - Kaikawaka
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6294/Libocedrus_plumosa__Kawaka__Kaikawaka.JPG
-  caption: ''
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6279/Libocedrus_plumosa__Kawaka__Kaikawaka-001.JPG
-  caption: ''
+  caption: Foliage showing flat sprays.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6284/Libocedrus_plumosa__Kawaka__Kaikawaka-002.JPG
-  caption: ''
+  caption: The underside of the leaf fans.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6289/Libocedrus_plumosa__Kawaka__Kaikawaka-003.JPG
-  caption: ''
+  caption: The thin, scaly, peeling bark.

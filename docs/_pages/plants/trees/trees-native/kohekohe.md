@@ -21,7 +21,7 @@ attributes:
   - New Zealand mahogany
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/4288/Dysoxylum_spectabile_Kohekohe.JPG
-  caption: Position Lat 39 3'35.926 S Long 174 5'42.538" E Datum WGS 84.
+  caption: Position Lat 39 3'35.926 S Long 174 5'42.538 E Datum WGS 84.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3333/koekoe_leaves.jpg
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4809/Dysoxylum_spectabile__Kohekohe_-002.JPG
   caption: A new flower panicle growing directly from the trunk.

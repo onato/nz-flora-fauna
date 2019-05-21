@@ -1,0 +1,38 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/leptospermum-scoparium-apple-blossom.html
+wikipedia: https://en.wikipedia.org/wiki/Leptospermum_scoparium
+attributes:
+  kingdom:
+  - Plantae
+  clade:
+  - Angiosperms
+  - Eudicots
+  - Rosids
+  order: Myrtales
+  family: Myrtaceae
+  genus: Leptospermum
+  species: L. scoparium
+  binomial name: Leptospermum scoparium
+  cultivar name: Leptospermum scoparium Apple Blossom
+  common names:
+  - Manuka 'Apple Blossom'
+  - Leptospermum 'Apple Blossom'
+  - Tea Tree Apple Blossom
+  - Apple Blossom' Tee Tree
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/7788/1-Leptospermum_scoparium_Apple_Blossom_.JPG
+  caption: A mature shrub.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/7793/1-Leptospermum_scoparium_Apple_Blossom_-004.JPG
+  caption: The double flowers of  Leptospermum 'Apple Blossom'.
+permalink: plants/trees/trees-native/leptospermum_scoparium.html
+layout: page
+title: Leptospermum scoparium 'Apple Blossom'
+
+---
+Leptospermum scoparium 'Apple Blossom' is a multibranched, evergreen shrub that can grow to 6m in height. It is an early cultivar of the New Zealand's native shrub Leptospermum scoparium commonly called Manuka. During spring and summer, it has masses of double soft-pink flowers are attractive to bees and butterflies.
+
+It has small needle-like green leaves which grow on upright spreading stems.
