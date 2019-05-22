@@ -1,0 +1,45 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/melicytus-chathamicus-chatham-island-mahoe.html
+name: Melicytus chathamicus (Chatham Island mahoe)
+description: >
+  Melicytus chathamicus is a small, common tree that grows up
+  to 6 m tall. It is endemic to several of the Chatham Islands. It is a major component
+  of the dwindling coastal forests.
+
+  It has large, oval, green, leaves that are
+  up to 12 cm long and the margins are toothed. The leaves stalks can be either green
+  or bright red colour.
+
+  Melicytus chathamicus is a dioecious tree having male and
+  female flowers on separate plants. Yellow flowers which appear during spring are
+  small. Small fruit can be present September to April. They can be purple with a
+  white fleck or they can be entirely a dark purple colour.
+  
+  Melicytus chathamicus is now grown in New Zealand as an informal boundary hedge, with typical hedge height:
+  2-3m. Since it is growing in the Chatham Islands it tolerates cold, windy, coastal
+  conditions.
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Rosids
+  order: Malpighiales
+  family: Violaceae
+  subfamily: Violoideae
+  tribe: Rinoreeae
+  genus: Melicytus
+  species: M. chathamicus
+  binomial name: Melicytus chathamicus
+  synonyms:
+  - Hymenanthera latifolia var. chathamica
+  - Hymenanthera chathamica
+  common names: 
+    - Chatham Island mahoe
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5148/1-Melicytus_chathamicus_.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5153/1-Melicytus_chathamicus_-002.JPG

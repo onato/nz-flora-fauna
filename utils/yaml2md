@@ -10,7 +10,7 @@ yaml = YAML.load(input)
 
 description = yaml["description"].sub "\n", "\n\n"
 name = yaml["attributes"]["binomial name"] || yaml["attributes"]["trinomial name"]
-yaml["permalink"] = yaml["category"].join("/") + "/" + name.downcase.gsub(" ", "_").gsub(".", "").gsub("''", "") + ".html"
+yaml["permalink"] = yaml["category"].join("/") + "/" + name.downcase.gsub(" ", "_").gsub(".", "").gsub("''", "").gsub("(", "-").gsub(")", "") + ".html"
 yaml["layout"] = "page"
 yaml["title"] = yaml["name"]
 

@@ -1,0 +1,51 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/myoporum-laetum-ngaio.html
+wikipedia: https://en.wikipedia.org/wiki/Myoporum_laetum
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Asterids
+  order: Lamiales
+  family: Scrophulariaceae
+  tribe: Myoporeae
+  genus: Myoporum
+  species: M. laetum
+  binomial name: Myoporum laetum
+  synonyms: Myoporum laetum var. laetum.
+  common names:
+  - Ngaio
+  - Mousehole tree.
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8998/Myoporum_laetum__Ngaio-008.JPG
+  caption: Myoporum laetum growing roadside north of  Kaikoura, East Coast South Island.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4289/Myoporum_laetum__Ngaio.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5204/Myoporum_laetum__Ngaio-004.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4269/Myoporum_laetum__Ngaio-001.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4274/Myoporum_laetum__Ngaio-002.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/0088/Ngaio__Myoporum_laetum_-001.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/0093/Ngaio__Myoporum_laetum_-002.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4279/Myoporum_laetum__Ngaio-003.JPG
+  caption: The top surface of a leaf with its densely packed oil glands.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/0098/Ngaio__Myoporum_laetum_-003.JPG
+  caption: The underside of a leaf.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5199/Myoporum_laetum__Ngaio-003.JPG
+  caption: Leaves on a young shrub. Very small serrations on upper leaf margins.
+permalink: plants/trees/trees-native/myoporum_laetum.html
+layout: page
+title: Myoporum laetum (Ngaio)
+
+---
+<img src="http://www.terrain.net.nz/uploads/images/Te%20Henui/Skull_and_crossbones1.jpg" alt="" width="100%" height="auto">
+
+The Myoporum species are very poisonous plants and are mainly grow near the sea, either wild or in cultivation. They are easily identified by the numerous pale leaf spots (pellucid glands) seen when held to the light, and by the purple berries. Both the native ngaio (M. laetum) and Australian ngaio (M. insulare) should be regarded as equally harmful. The tree contains a liver toxin ngaione.</p> <p class="MsoNormal">Myoporum laetum is endemic to the Three Kings, North and South Islands and also on the Chatham Islands where it is scarce and is probably naturalised. It grows in coastal to lowland forests and sometimes well inland (as in Hawkes Bay, Rangataiki and Wairarapa). It is often uncommon over large parts of its range. 
+Myoporum laetum is a decumbent (lying or growing on the ground but with erect or rising tips) shrub or small tree up to 10 m tall and in the decumbent forms can be 2-4 m across. The bark is light grey to brown, thick and corky, firm, persistent, rough and furrowed. Its branches are stout and spreading. Leaf buds are dark brown, purple-black to almost black and very sticky. 
+The yellow-green to green leaves are somewhat fleshy and are conspicuously spotted with white to yellow glands. The leaves are up to 12 cm x 4 cm wide and vary in shape from lanceolate, oblong-lanceolate, oblong to obovate, acute to acuminate and have small marginal teeth towards their tips. 
+White flowers develop in October – January and fruiting occur in December – June. The white (or pale to dark reddish-purple) fruit is a narrow-ovoid drupe, 6-9 mm long, rounded in cross-section, narrowed to a broad truncate tip.
+The leaves of this tree contain a liver toxin Ngaione which can cause sickness and or death in stock such as horses, cattle, sheep and pigs.
+The Māori would rub the leaves over their skin to repel mosquitoes and sandflies.

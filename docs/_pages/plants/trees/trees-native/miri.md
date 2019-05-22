@@ -1,0 +1,54 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/miri.html
+attributes:
+  kingdom:
+  - Plantae
+  division: Pinophyta
+  class: Pinopsida
+  order: Pinales
+  family: Podocarpaceae
+  genus: Prumnopitys
+  species: P. ferruginea
+  binomial name: Prumnopitys ferruginea
+  common names:
+  - Miro
+  - Brown pine.
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5664/Prumnopitys_ferruginea__Miro-006.JPG
+  caption: Photographed at Ratanui, 538 Carrington Road, New Plymouth.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5934/Prumnopitys_ferruginea__Miro__Brown_pine-001.JPG
+  caption: Prumnopitys ferruginea at the DOC camp, Kakaho, Waikato.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/0208/Miro__Prumnopitys_ferruginea-002.JPG
+  caption: The crown of a very old forest Prumnopitys ferruginea. Photographed from
+    the West Coast Treetop Walkway.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5659/Prumnopitys_ferruginea__Miro-003.JPG
+  caption: Miro leaves.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5939/Prumnopitys_ferruginea__Miro__Brown_pine-002.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5944/Prumnopitys_ferruginea__Miro__Brown_pine-003.JPG
+  caption: Unripe fruit. Photographed January.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/9384/Prumnopitys_ferruginea__Miro.JPG
+  caption: An adult Miro.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1459/Prumnopitys_ferruginea___Miro__Brown_pine-001.JPG
+  caption: An adult Miro trunk with its distinctive "hammer mark pattern" where the
+    bark has flaked off.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5074/Prumnopitys_ferruginea__trunk__miro-2.JPG
+  caption: A tall adult Miro trunk. The leaves in the photo are of another tree. growing
+    next to it.
+permalink: plants/trees/trees-native/prumnopitys_ferruginea.html
+layout: page
+title: Prumnopitys ferruginea
+
+---
+Miro (Prumnopitys ferruginea) is a forest tree favouring shady damp sites and grows to a height of approx 25 metres. 
+
+The trunk is smooth, branchless, and grey with a flaking hammer-marked bark, growing to a diameter of 1.3 meters.
+The bark flacks off in thick round chunks which leave brown blotches on the trunk.
+It has similar foliage to Totara with stiff dark leaves on branchlets in two rows. They have dark green, feathery, needle-like leaves flattened into two rows. Juvenile leaves are longer than the adult leaves.
+Each year (March- June) miro produces a regular crop of fleshy, large bright red seeds, which smell strongly of turpentine. The seeds are an important food for forest birds in winter. Maori hunted kereru (native pigeons) at this time, as the birds often gorged themselves on so many seeds that they could barely fly.
+Miro is distinguished from the related and very similar looking Matai (Prumnopitys taxifolia) in four aspects of its anatomy; its cones, bark, seeds and leaves. Miro trees have longer, broader leaves with green undersides while those of Matai leaves are white. In addition, the leaves of Miro generally narrow to a point, whereas those of Matai are rounded, sometimes with a small point right at the very tip. Miro trees have cones of some hue of red in colour while those of Matai are blue-black. Miro also has relatively longer cones which are oval and red in colour. Like Matai, the bark of more mature Miro trees flakes off to leave a distinctive "hammer mark pattern", but unlike Matai, the colourful (areas from which bark flakes have recently fallen in Matai often have a striking red colour that fades over time back to brown). 
+Miro is one of Ngai Tahu''s toanga (treasured) species. Its timber is straight and strong, similar to rimu. Its leaves, fruit, bark and gum provided food, aromatic oils and various medical and antiseptic uses.
+In the past, miro was used mainly for building houses. The timber looks like rimu and has similar properties.

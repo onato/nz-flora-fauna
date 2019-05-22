@@ -3,6 +3,8 @@ category:
 - plants
 - trees
 - trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/manuka.html
+wikipedia: https://en.wikipedia.org/wiki/Leptospermum_scoparium
 attributes:
   kingdom:
   - Plantae

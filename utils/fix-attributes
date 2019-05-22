@@ -8,6 +8,7 @@ sed -i -e 's/- species:/  species:/g' $1
 sed -i -e 's/- binomial name:/  binomial name:/g' $1
 sed -i -e 's/- trinomial name:/  trinomial name:/g' $1
 sed -i -e 's/- synonyms:/  synonyms:/g' $1
+sed -i -e 's/- common name:/  common names:/g' $1
 sed -i -e 's/- common names:/  common names:/g' $1
 sed -i -e 's/- class:/  class:/g' $1
 sed -i -e 's/- division:/  division:/g' $1
