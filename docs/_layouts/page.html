@@ -28,7 +28,15 @@ layout: default
   </ul>
 
   <p>
-    <a href="https://en.wikipedia.org/wiki/Leptospermum_scoparium">Wikipedia</a>
+    {% if page.wikipedia.first %}
+    <ul>
+      {% for wikipedia in page.wikipedia %}
+        <li><a href="{{ wikipedia }}">{{ wikipedia }}</a></li>
+      {% endfor %}
+    </ul>
+    {% else %}
+      <a href="{{ page.wikipedia }}">Wikipedia</a>
+    {% endif %}
   </p>
   
   <div class="post-content">
@@ -37,8 +45,8 @@ layout: default
   
   {% for image in page.images %}
   
-  <img src="{{ image.src }}" title="{{ image.caption}}" /> <br/>
-  <h3>{{ image.caption }}</h3>
+  <img src="{{ image.src }}" title="{{ image.caption | strip_html}}" /> <br/>
+  <h3>{{ image.caption | markdownify }}</h3>
   
   {% endfor %}
 

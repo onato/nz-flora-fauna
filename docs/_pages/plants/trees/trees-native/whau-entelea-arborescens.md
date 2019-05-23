@@ -26,8 +26,8 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8958/Entelea_arborescens__Whau__Corkwood__.JPG
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/8458/Entelea_arborescens_Whau_-004.JPG
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2429/Entelea_arborescens_Whau_corkwood-2.JPG
-  caption: Whau flowers developing early October. See tiny Black spined weevil on
-    buds. (<a href="friends-of-te-henui-group/local-insects/weevil-black-spined-scolopterus-penicillatus.html">http://www.terrain.net.nz/friends-of-te-henui-group/local-insects/weevil-black-spined-scolopterus-penicillatus.html</a>
+  caption: Whau flowers developing early October. Notice the tiny [Black Spined Weevil](http://www.terrain.net.nz/friends-of-te-henui-group/local-insects/weevil-black-spined-scolopterus-penicillatus.html)
+    on buds.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/8453/Entelea_arborescens_Whau_-001.JPG
   caption: Green seed capsules and new flowers.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/3359/Whau__Entelea_arborescens-2.JPG
