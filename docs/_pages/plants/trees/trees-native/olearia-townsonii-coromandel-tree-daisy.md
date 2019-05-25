@@ -1,0 +1,39 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/olearia-townsonii-coromandel-tree-daisy.html
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Asterids
+  order: Asterales
+  family: Asteraceae (Daisy family)\
+  tribe: Astereae
+  genus: Olearia
+  species: O. townsonii
+  binomial name: Olearia townsonii
+  synonyms:
+  - Olearia thompsonii
+  common names:
+  - Coromandel tree daisy
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2389/Olearia_townsonii__Coromandel_tree_daisy_.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2364/Olearia_townsonii__Coromandel_tree_daisy_-001.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2369/Olearia_townsonii__Coromandel_tree_daisy_-002.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2379/Olearia_townsonii__Coromandel_tree_daisy_-003.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2374/Olearia_townsonii__Coromandel_tree_daisy_-004.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2384/Olearia_townsonii__Coromandel_tree_daisy_-005.JPG
+  caption: The underside of a leaf.
+permalink: plants/trees/trees-native/olearia_townsonii.html
+layout: page
+title: Olearia townsonii (Coromandel tree daisy)
+
+---
+Olearia townsonii is a shrub or small tree up to 5 m. tall. It has stout angular branches that are dark reddish brown when young. The leaves (7-16cm x 3-5cm) are thick and leathery and have a thin silvery grey-white tomentum on the underside.
+
+Large inflorescences of white flowers with 12-20 flowers per flowerhead appear on long stalks. The white flowers (10mm in diameter) which are fertilized by insects appear during summer and the seeds that have parachute hairs are wind dispersed during autumn.
+Olearia townsonii grows only in the North Island from the Coromandel Peninsula to Wanganui, generally only found on sedimentary hill country cliffs, banks and shrubland. Except for the Coromandel, it is absent in the east of the North Island.

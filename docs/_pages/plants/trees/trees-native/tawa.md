@@ -1,0 +1,41 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/tawa.html
+wikipedia: https://en.wikipedia.org/wiki/Beilschmiedia_tawa
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Magnoliids
+  order: Laurales
+  family: Lauraceae
+  genus: Beilschmiedia
+  species: B. tawa
+  binomial name: Beilschmiedia tawa
+  common names:
+  - Tawa
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3573/Tawa-1.JPG
+  caption: Tawa trunks Lat 39 4' 1.739" S Long 174 5' 39.816" E Datum WGS 84
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3358/tawa.JPG
+  caption: Tawa leaves.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3578/Tawa-2.JPG
+  caption: Tawa tree.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5099/Beilschmiedia_tawa_trunk__tawa_trunk-3.JPG
+  caption: Trunk of Tawa.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/1698/Fruit_of_Beilschmiedia_tawa__Tawa_.jpg
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/6599/Tawa_fruit_Beilschmiedia_tawa-1.JPG
+  caption: A fallen tawa fruit (about 30mm in length).
+permalink: plants/trees/trees-native/beilschmiedia_tawa.html
+layout: page
+title: Beilschmiedia tawa (Tawa)
+
+---
+Beilschmiedia tawa is a New Zealand broadleaf tree common in the central parts of the country. Tawa is often the dominant canopy species in lowland forests in the North Island and northeast of the South Island. Individual specimens may grow up to 30 metres or more in height with trunks up to 1.2 metres in diameter, and they have smooth dark bark. Its leaves are willowy green and paler underneath.
+
+Beilschmiedia tawa produces small inconspicuous flowers compared to the 2 - 3.5 cm long fruit of a dark red plum colour. With such large fruits the Tawa is notable for the fact that it relies solely on the Kereru (New Zealand Woodpigeon) and, (where present), the North Island Kokako for dispersal of its seed. These are the only remaining birds from New Zealand's original biota large enough to eat the fruits of this tree and pass the seeds through their guts and excrete them unharmed.
+The Maoris use to soak, dry and pulp the fruit for food. 
+Tawa can also support significant epiphyte gardens in their canopies, which are one of the few habitats known to be frequented by the enigmatic, arboreal striped skink. It is one of the few hardwood trees in the country with good timber, the wood of this tree can be used for attractive and resilient floorboards, panelling and doweling. Although largely protected in conservation areas and by robust environmental legislation, licences are occasionally granted for the odd fallen tree to be milled for its timber. The Maori used it for making bird spears.

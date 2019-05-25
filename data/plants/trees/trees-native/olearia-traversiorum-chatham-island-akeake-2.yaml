@@ -1,0 +1,51 @@
+---
+category:
+- plants
+- trees
+- trees-native
+name: Olearia traversiorum (Chatham Island Akeake)
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/olearia-traversiorum-chatham-island-akeake-2.html
+wikipedia: https://en.wikipedia.org/wiki/Olearia_traversiorum
+description: >
+  Olearia traversiorum is a rapidly growing hardy tree endemic to the
+  Chatham Islands (New Zealand). It is a common tree of the lowland forests and is
+  now most commonly found on dune systems. It also occurs along the edge of larger
+  lagoons and lakes and sometimes on cliff tops.
+
+  This olive-like tree has a tall
+  narrow growth form growing to a height of 18m and has a trunk up to 1 m wide. Yellow
+  flowers appear late spring and into summer and fruits appear from January to June.
+
+  This threatened species is now sold in specialised nurseries.
+
+  For more details of this tree visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=609">http://www.nzpcn.org.nz/flora_details.aspx?ID=609</a>
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Asterids
+  order: Asterales
+  family: Asteraceae
+  tribe: Astereae
+  genus: Olearia
+  species: O. traversiorum
+  binomial name: Olearia traversiorum
+  synonyms:
+  - O. traversii
+  - Eurybia traversii
+  common names:
+  - Chatham Island Akeake
+  - Chatham Island tree daisy.
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5788/Olearia_traversiorum-010.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5783/Olearia_traversiorum-007.JPG
+  caption: A growing tip of a young plant.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6534/Olearia_traversiorum__Chatham_Island_Akeake_Olearia_traversii.JPG
+  caption: The top surface of a new leaf.with midrib raised and prominent.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6524/Olearia_traversiorum__Chatham_Island_Akeake_Olearia_traversii-003.JPG
+  caption: The undersurface of a young leaf.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3604/Olearia_traversiorum__Chatham_Island_Akeake.JPG
+  caption: The top surface of an adult leaf.with midrib raised and prominent.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5778/Olearia_traversiorum-003.JPG
+  caption: An adult leaf's underside with dense appressed, off-white, tomentum.
