@@ -1,0 +1,37 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pittosporum-umbellatum-haekaro.html
+attributes:
+  kingdom:
+  - Plantae
+  superphylum: Tracheophyta
+  phylum: Magnoliophyta
+  class: Magnoliopsida
+  order: Apiales
+  family: Pittosporaceae
+  genus: Pittosporum
+  species: P. umbellatum
+  binomial name: Pittosporum umbellatum
+  synonyms:
+  - Pittosporum umbellatum var. umbellatum
+  - Pittosporum umbellatum var. cordatum
+  common names:
+  - haekaro
+  - tātaka
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/9468/Pittosporum_umbellatum-001.jpg
+permalink: plants/trees/trees-native/pittosporum_umbellatum.html
+layout: page
+title: Pittosporum umbellatum (haekaro)
+
+---
+Pittosporum umbellatum is a many-branched small, native, dicotyledonous tree, endemic to the coastal forests in the North Island from North Cape to Gisborne. It is also present on Mayor Island. 
+
+Pittosporum umbellatum grows to a height of 7+m and can have a spread of 3m. It bears singly along its stems, flat, leathery, smooth, glossy, dark green, oval leaves that have a smooth margin. They are 50-100 mm long and are alternate but can be almost in whorls. They have a pronounced midrib. The young branches and leaves covered with fine, fulvous hairs. 
+Small pinkish, fragrant flowers on long stalks appear in spring to mid-summer. They are arranged in terminal umbels (radiating out from the centre). The flowers are 8-10 mm in diameter and have 5 sepals, 5 petals and 5 unisexual stamens. The ovary is above the petals.
+Seed capsules appear in late spring and mature through summer to late autumn. They are 1cm wide, 4 lobed, 2 valved and hold many black, sticky seeds.
+Pittosporum umbellatum ecological services are supplying fruit and nectar for birds, nectar and pollen for lizards, nectar for insects and fruits for lizards. In their endemic habitat, they control erosion and give shelter to fauna and flora.
+The parasite Dactylanthus taylorii attaches itself to the root of this tree along with about 30 other native broadleaved trees and shrubs. To read about the fungi Dactylanthus taylorii (Wood rose) visit: <a href="friends-of-te-henui-group/new-plant-page/wood-rose-dactylanthus-taylorii.html" target="_blank">http://www.terrain.net.nz/friends-of-te-henui-group/new-plant-page/wood-rose-dactylanthus-taylorii.html</a>

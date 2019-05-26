@@ -1,0 +1,47 @@
+---
+category:
+- plants
+- trees
+- trees-native
+name: Pachystegia rufa (Marlborough rock daisy)
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pachystegia-rufa-marlborough-rock-daisy.html
+wikipedia: https://en.wikipedia.org/wiki/Pachystegia
+description: >
+  Pachystegia rufa is one of three species of Pachystegia, all endemic
+  to New Zealand. The others are Pachystegia insignis and Pachystegia minor. They
+  are all found in the Marlborough region. Only a small population of Pachystegia
+  rufa remains in the wild. Pachystegia insignis is the most common species.
+
+  Pachystegia rufa is a species of flowering plants in the daisy family, Asteraceae. It is a dwarf,
+  robust, spreading, evergreen shrub growing to a height of 1 m and to a width of
+  1m. The shrub’s stout branches are covered with brown hairs. 
+
+  It has large, leathery, oblong, dark green, shiny leaves which are smaller than those of Pachystegia insignis.
+  The leaves are crowded towards the ends of the branches. They are a shiny, deep
+  green on top with an undersurface that is clad with a thick tomentum. 
+
+  In spring it has large white daisy-like flowers with a yellow disc in the centre. 
+
+  When Pachystegia rufa is brought into close association with Pachystegia insignis it
+  readily hybridises creating a variety of hybrids.
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Asterids
+  order: Asterales
+  family: Asteraceae
+  tribe: Astereae
+  genus: Pachystegia
+  species: P. rufa
+  binomial name: Pachystegia rufa
+  common names: 
+  - Marlborough Rock Daisy
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5548/Pachystegia_rufa_.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5553/Pachystegia_rufa_-001.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5558/Pachystegia_rufa_-002.JPG
+  caption: The plant's shiny leaf.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5563/Pachystegia_rufa_-003.JPG
+  caption: The leaf's underside

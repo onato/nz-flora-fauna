@@ -1,0 +1,42 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pittosporum-lineare.html
+wikipedia: https://en.wikipedia.org/wiki/Pittosporum_divaricatum
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Asterids
+  order: Apiales
+  family: Pittosporaceae
+  genus: Pittosporum
+  species: P. lineare
+  binomial name: Pittosporum divaricatum
+  synonyms:
+  - Pittosporum lineare
+images:
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Pittosporum%20lineare%20leaf%20forms%20Te%20papa.jpg
+  caption: Pittosporum divaricatum leaf forms image courtesy Te Papa.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2248/Pittosporum_lineare__1_.JPG
+  caption: Photographed at Otari Native Botanic Garden, Wellington.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6089/1-Pittosporum_lineare-004.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1939/Pittosporum_lineare.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2288/1-Pittosporum_divaricatum-006.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2253/Pittosporum_lineare__2_.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2268/Pittosporum_divaricatum__5_.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2258/Pittosporum_lineare__3_.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2283/1-Pittosporum_divaricatum-003.JPG
+permalink: plants/trees/trees-native/pittosporum_divaricatum.html
+layout: page
+title: Pittosporum divaricatum
+
+---
+Pittosporum divaricatum is a much-branched shrub 2–3.5 m. high and a metre or more in diameter. In the shade, there is often a short trunk, but at other times there are several more or less erect or spreading main stems, branching from the ground or near it; in other cases, the bush is fastigiated (Having erect and almost parallel branches tapering toward the top). The principle stems give rise to numerous ascending branches, more or less interlacing, and terminating in a mass of divaricating branchlets. Branchlets rather long and sometimes pendulous at the tips, free and not interlacing, often arising in whorls of three or four, but also singly thinner and less rigid than in P. divaricatum. Young branchlets have numerous white appressed hairs.
+
+The flowers are fragrant, 5–7 mm in long inflorescences. The 5 sepals are a pale straw colour. The 5 petals are 4–5 mm long and are dark purple. They have 5 dark purple stamens. The tips of the anthers reach the top of the corolla tube.
+Hugh Wilson & Tim Galloways book "Small-leaved Shrubs of New Zealand." states: "Pittosporum lineare Laing et Gourlay 1935 is not considered to be specifically distinct from P. divaricatum. It was said to differ in its narrower, less dimorphic leaves (nearly all smooth-edged not toothed or lobed) and in its darker bark. Forms such as this are found in both North and South Islands within the range of more typical Pittosporum divaricatum. "
+Pittosporum divaricatum leaf forms image courtesy Te Papa.

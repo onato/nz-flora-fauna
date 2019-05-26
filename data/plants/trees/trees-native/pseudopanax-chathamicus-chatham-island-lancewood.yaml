@@ -1,0 +1,37 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pseudopanax-chathamicus-chatham-island-lancewood.html
+name: Pseudopanax chathamicus (Chatham Island Lancewood)
+description: >
+  Pseudopanax chathamicus is a small tree that is endemic to the Chatham
+  Islands where it grows in moist soil in the coastal forests between Coprosma robusta
+  and Myrsine chathamica.
+
+  It can grow 7 m or taller and it has a smooth trunk >30
+  cm in diameter. A juvenile tree is first unbranched but it changes with age into
+  a branched adult.
+
+  For a more detailed description visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=646" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=646</a>
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Asterids
+  order: Apiales
+  family: Araliaceae
+  subfamily: Aralioideae
+  genus: Pseudopanax
+  species: P. chathamicus
+  binomial name: Pseudopanax chathamicus
+  synonym: Pseudopanax chathamicum
+  common name:
+  - Chatham Island Lancewood
+  - Horo
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5088/Pseudopanax_chathamicus__2_.JPG
+  caption: Juvenile trees.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5083/Pseudopanax_chathamicus__1_.JPG
