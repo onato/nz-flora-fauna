@@ -1,0 +1,26 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="stylesheet" href="{{ "/assets/css/nzff.css" | relative_url }}">
+  {% feed_meta %}
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+
+  <!-- Core CSS file -->
+  <link rel="stylesheet" href="{{ "/assets/gallery/photoswipe.css" | relative_url }}"> 
+
+  <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
+      In the folder of skin CSS file there are also:
+      - .png and .svg icons sprite, 
+      - preloader.gif (for browsers that do not support CSS animations) -->
+  <link rel="stylesheet" href="{{ "/assets/gallery/default-skin/default-skin.css" | relative_url }}"> 
+
+  <!-- Core JS file -->
+  <script src="{{ "/assets/gallery/photoswipe.min.js" | relative_url }}"></script> 
+
+  <!-- UI JS file -->
+  <script src="{{ "/assets/gallery/photoswipe-ui-default.min.js" | relative_url }}"></script> 
+</head>

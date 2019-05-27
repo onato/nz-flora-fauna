@@ -1,0 +1,1 @@
+find data/plants/trees/trees-native -maxdepth 1 -name '*.yaml' -exec utils/yaml-get-images {} \;

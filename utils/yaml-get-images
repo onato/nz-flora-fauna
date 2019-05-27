@@ -1,0 +1,39 @@
+#!/usr/bin/env ruby
+require 'json'
+require 'yaml'
+require 'fastimage'
+require 'cgi'
+
+filename = ARGV.first
+puts filename
+input = File.read(filename)
+yaml = YAML.load(input)
+
+# yaml["images"].map! { |image| 
+#   uri = URI.parse(image["src"])
+#   size = FastImage.size("docs/assets/images/" + uri.path)
+#   image["width"] = size[0]
+#   image["height"] = size[1]
+#   image
+# }
+
+File.open("add-size.sh", 'a') { |f| 
+  for image in yaml["images"] do
+    src = image["src"]
+    uri = URI.parse(src)
+    size = FastImage.size("docs/assets/images/" + URI.unescape(uri.path))
+
+    if size.nil?
+      puts "Could't find image!"
+      puts src
+    else
+      src.gsub! "/", "\\/"
+      src = URI.unescape(src)
+      f.puts "sed -i -e $'s/#{src}/#{src}\\\\\\n  width: #{size[0]}\\\\\\n  height: #{size[1]}/g' #{filename}"
+    end
+  end
+
+  # puts yaml
+
+  
+}
