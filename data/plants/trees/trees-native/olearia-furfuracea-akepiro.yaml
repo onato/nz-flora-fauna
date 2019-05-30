@@ -48,7 +48,15 @@ attributes:
   - Wharangi-piro
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1709/Olearia_furfuracea__Akepiro.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1694/Olearia_furfuracea__Akepiro-001.JPG
+  width: 1024
+  height: 766
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1714/Olearia_furfuracea__Akepiro-004.JPG
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1704/Olearia_furfuracea__Akepiro-003.JPG
+  width: 1024
+  height: 767
   caption: The leave's underside with buff tomentum.

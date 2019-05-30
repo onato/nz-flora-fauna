@@ -38,8 +38,14 @@ attributes:
   synonym: Coprosma obconica subsp. obconica
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3524/Coprosma_obconica.JPG
+  width: 800
+  height: 600
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve. Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3514/Coprosma_obconica-001.JPG
+  width: 1024
+  height: 768
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve. Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3519/Coprosma_obconica-003.JPG
+  width: 600
+  height: 449
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve. Wellington.

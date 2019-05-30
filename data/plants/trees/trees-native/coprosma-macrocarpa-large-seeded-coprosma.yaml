@@ -38,10 +38,18 @@ attributes:
   common name: Large seeded coprosma. Large fruit Karamu
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8229/Coprosma_macrocarpa-001.JPG
+  width: 900
+  height: 1200
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8239/Coprosma_macrocarpa-003.JPG
+  width: 1600
+  height: 1198
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8234/Coprosma_macrocarpa-002.JPG
+  width: 1600
+  height: 1200
   caption: The female flowers.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8244/Coprosma_macrocarpa-004.JPG
+  width: 1200
+  height: 900
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.

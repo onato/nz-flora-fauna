@@ -50,9 +50,17 @@ attributes:
   - Hutton's kohuhu.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6154/1-Pittosporum_huttonianum__Hutton_s_Kohuhu.JPG
+  width: 898
+  height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve. Wellington.  
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6174/1-Pittosporum_huttonianum__Hutton_s_Kohuhu-003.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6179/1-Pittosporum_huttonianum__Hutton_s_Kohuhu-002.JPG
+  width: 900
+  height: 1200
   caption: The surface of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6164/1-Pittosporum_huttonianum__Hutton_s_Kohuhu-001.JPG
+  width: 1024
+  height: 770
   caption: The undersurface of a leaf.

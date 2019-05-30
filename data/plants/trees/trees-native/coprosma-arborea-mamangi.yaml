@@ -40,3 +40,5 @@ attributes:
   - Tree coprosma
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6629/coprosma_arborea-003.JPG
+  width: 1024
+  height: 768

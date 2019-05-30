@@ -31,13 +31,27 @@ attributes:
   - Northern karapapa,
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0069/Alseuosmia_banksii__Bank_s_Toropapa_.JPG
+  width: 800
+  height: 600
   caption: Photographed September. Note mottled foliage behind
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0074/Alseuosmia_banksii__Bank_s_Toropapa_-001.JPG
+  width: 479
+  height: 640
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1234/Alseuosmia_banksii__Bank_s_Toropapa_-005.JPG
+  width: 1200
+  height: 900
   caption: Alseuosmia banksii sweet-tasting berry. It contains up to 10 seeds.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4549/Alseuosmia_banksii__Bank_s_Toropapa-006.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4564/Alseuosmia_banksii__Bank_s_Toropapa-011.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1229/Alseuosmia_banksii__Bank_s_Toropapa_-003.JPG
+  width: 800
+  height: 602
   caption: The upper surface of a leaf. The leaves vary in shape.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4559/Alseuosmia_banksii__Bank_s_Toropapa-010.JPG
+  width: 800
+  height: 601
   caption: The underside of a leaf.

@@ -45,12 +45,30 @@ attributes:
   - East Cape Brachyglottis
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3228/Brachyglottis_perdicioides__Raukumara_.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/8518/1-Brachyglottis_perdicioides___Raukumara.JPG
+  width: 1197
+  height: 1600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/3179/Brachyglottis_perdicioides__Raukumara-006.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/8538/1-Brachyglottis_perdicioides___Raukumara-004.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/3184/Brachyglottis_perdicioides__Raukumara-018.JPG
+  width: 1024
+  height: 767
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3233/Brachyglottis_perdicioides__Raukumara_-003.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8019/Brachyglottis_pericioides__Raukumara-013.JPG
+  width: 1200
+  height: 902
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8024/Brachyglottis_pericioides__Raukumara-015.JPG
+  width: 1024
+  height: 769
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8029/Brachyglottis_pericioides__Raukumara-016.JPG
+  width: 1024
+  height: 770
   caption: The underside of a leaf

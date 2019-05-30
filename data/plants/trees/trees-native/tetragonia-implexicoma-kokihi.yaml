@@ -27,12 +27,8 @@ description: >
   thick succulent leaves are edible with a similar flavour and texture to spinach.
 
   During September-June small, solitary or paired, yellow daisy-like flowers develop on short
-  stalks. Flowers are followed during September-July by succulent, &gt;8 mm long edible,
+  stalks. Flowers are followed during September-July by succulent, >8 mm long edible,
   pink to dark red berries.
-
-  <a href="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2628/1-Tetragonia_implexicoma_2.jpg"
-  target="_blank"><img src="http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2628/1-Tetragonia_implexicoma_2.jpg"
-  alt="" width="100%" height="auto"></a>
 attributes:
   kingdom:
   - Plantae
@@ -54,5 +50,9 @@ attributes:
   - tutae-ikamoana
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2628/1-Tetragonia_implexicoma_2.jpg
+  width: 900
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2633/1-Tetragonia_implexicoma.jpg
+  width: 900
+  height: 1200
   caption: The underside of a leaf.

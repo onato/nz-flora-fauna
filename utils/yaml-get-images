@@ -18,10 +18,11 @@ yaml = YAML.load(input)
 # }
 
 File.open("add-size.sh", 'a') { |f| 
+  f.puts "echo \"#{filename}\""
   for image in yaml["images"] do
     src = image["src"]
     uri = URI.parse(src)
-    size = FastImage.size("docs/assets/images/" + URI.unescape(uri.path))
+    size = FastImage.size("/Users/stephenwilliams/Code/Ruby/Terrain2/images/" + URI.unescape(uri.path))
 
     if size.nil?
       puts "Could't find image!"
@@ -29,11 +30,7 @@ File.open("add-size.sh", 'a') { |f|
     else
       src.gsub! "/", "\\/"
       src = URI.unescape(src)
-      f.puts "sed -i -e $'s/#{src}/#{src}\\\\\\n  width: #{size[0]}\\\\\\n  height: #{size[1]}/g' #{filename}"
+      f.puts "sed -i '' -e $'s/#{src}/#{src}\\\\\\n  width: #{size[0]}\\\\\\n  height: #{size[1]}/g' #{filename}"
     end
   end
-
-  # puts yaml
-
-  
 }

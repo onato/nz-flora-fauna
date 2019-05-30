@@ -39,9 +39,19 @@ attributes:
   - Orihou
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/6884/Pseudopanax_colensoi_var._ternatus__Three-finger_-002.JPG
+  width: 2000
+  height: 1339
   caption: Photographed at Forest Hill Reserve, Otahuti, Southland. March.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/6889/Pseudopanax_colensoi_var._ternatus__Three-finger_.JPG
+  width: 1024
+  height: 767
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3694/Pseudopanax_colensoi_var._ternatus.JPG
+  width: 1024
+  height: 768
   caption: A juvenile tree.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3699/Pseudopanax_colensoi_var._ternatus-001.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3704/Pseudopanax_colensoi_var._ternatus-002.JPG
+  width: 1024
+  height: 768

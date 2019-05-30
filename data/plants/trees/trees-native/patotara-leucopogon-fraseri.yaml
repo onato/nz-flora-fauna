@@ -37,13 +37,29 @@ attributes:
   - Dwarf mingimingi.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2723/Leucopogon_fraseri__Patotara_-003.JPG
+  width: 1200
+  height: 900
   caption: Growing at Arthurs Pass, South Island.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6199/Leucopogon_fraseri__Patotara__Dwarf_mingimingi.JPG
+  width: 1024
+  height: 768
   caption: Leucopogon fraseri growing on the roadside near Lake Coleridge. South Island.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2718/Leucopogon_fraseri__Patotara_-002.JPG
+  width: 800
+  height: 600
   caption: Ripe and new green fruit.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6194/Leucopogon_fraseri__Patotara__Dwarf_mingimingi-001.JPG
+  width: 1200
+  height: 897
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5219/Leucopogon_fraseri__Patotara_.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5224/Leucopogon_fraseri__Patotara_-001.JPG
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5229/Leucopogon_fraseri__Patotara_-002.JPG
+  width: 800
+  height: 601
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5234/Leucopogon_fraseri__Patotara_-003.JPG
+  width: 600
+  height: 453

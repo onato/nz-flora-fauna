@@ -38,7 +38,17 @@ attributes:
   common name: Round-leaved coprosma
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4954/Coprosma_rotundifolia__Round_leaved_coprosma_-003.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4939/Coprosma_rotundifolia-001.JPG
+  width: 600
+  height: 450
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4959/Coprosma_rotundifolia__Round_leaved_coprosma_-001.JPG
+  width: 600
+  height: 451
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4944/Coprosma_rotundifolia-002.JPG
+  width: 600
+  height: 450
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4929/Coprosma_rotundifolia_800.jpg
+  width: 600
+  height: 432

@@ -49,15 +49,31 @@ attributes:
   - Bubble leaf
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/9209/Lophomyrtus_bullata__Ramarama__Bubble_leaf.JPG
+  width: 1200
+  height: 1600
   caption: The photo below photographed at Te Kainga Marire Gardens, Spencer Place, New Plymouth.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7564/lophomyrtus_bullata__Ramarama-005.JPG
+  width: 1200
+  height: 804
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7549/lophomyrtus_bullata__Ramarama.JPG
+  width: 900
+  height: 1200
   caption: A young tree.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2554/lophomyrtus_bullata__Ramarama-002.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9899/Lophomyrtus_bullata__Ramarama__1_.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/8358/Lophomyrtus_bullata__Ramarama_.JPG
+  width: 1200
+  height: 901
   caption: Plant flowering December.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2734/Lophomyrtus_bullata___Ramarama-001.JPG
+  width: 640
+  height: 481
   caption: Flowers of Lophomyrtus bullata with a central style and abundant stamens. 
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9904/Lophomyrtus_bullata__Ramarama.JPG
+  width: 1200
+  height: 901
   caption: An older flower.

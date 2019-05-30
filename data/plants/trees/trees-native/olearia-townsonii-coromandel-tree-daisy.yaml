@@ -38,9 +38,21 @@ attributes:
   - Coromandel tree daisy
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2389/Olearia_townsonii__Coromandel_tree_daisy_.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2364/Olearia_townsonii__Coromandel_tree_daisy_-001.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2369/Olearia_townsonii__Coromandel_tree_daisy_-002.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2379/Olearia_townsonii__Coromandel_tree_daisy_-003.JPG
+  width: 600
+  height: 450
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2374/Olearia_townsonii__Coromandel_tree_daisy_-004.JPG
+  width: 901
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2384/Olearia_townsonii__Coromandel_tree_daisy_-005.JPG
+  width: 766
+  height: 1024
   caption: The underside of a leaf.

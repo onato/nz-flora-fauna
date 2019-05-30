@@ -51,18 +51,34 @@ attributes:
   - Mountain totara.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4899/Podocarpus_cunninghamii___Mountain_totara.JPG
+  width: 804
+  height: 1200
   caption: Photographed Mt Egmont/Taranaki.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7874/Podocarpus_cunninghamii__Podocarpus_hallii__Hall_s_totara__Thin_bark_totara-002__1_.JPG
+  width: 900
+  height: 1200
   caption: A juvenile tree photographed at Otari Native Botanic Garden and Wilton's Bush Reserve. Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/5373/Podocarpus_cunninghamii__Mountain_totara_.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4889/Podocarpus_cunninghamii___Mountain_totara-001.JPG
+  width: 1200
+  height: 901
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4884/Podocarpus_cunninghamii__Mountain_totara-005.JPG
+  width: 1200
+  height: 897
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4894/Podocarpus_cunninghamii___Mountain_totara-003.jpg
+  width: 800
+  height: 595
   caption: >
     Podocarpus cunninghamii (Mountain totara) can be distinguished from Podocarpus totara (lowland totara) by the shape and size of its resting bud.
 
     A bud of Podocarpus cunninghamii (Mountain totara)
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4904/Podocarpus_totara__Totara__Lowland_Totara-004.JPG
+  width: 600
+  height: 450
   caption: A bud of Podocarpus totara (Lowland totara).
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4879/Podocarpus_cunninghamii__Mountain_totara-004.JPG
+  width: 901
+  height: 1200
   caption: The stringy bark of Podocarpus cunninghamii.

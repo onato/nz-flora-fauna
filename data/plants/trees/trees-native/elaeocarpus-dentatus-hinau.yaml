@@ -40,11 +40,23 @@ attributes:
   - Whīnau.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/7009/Hinau__Elaeocarpus_dentatus_-005.JPG
+  width: 900
+  height: 1200
   caption: Looking down on an Elaeocarpus dentatus from the Skyway walkway, Westland, New Zealand.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/7014/Hinau__Elaeocarpus_dentatus_-007.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6999/Hinau__Elaeocarpus_dentatus_.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/7004/Hinau__Elaeocarpus_dentatus_-004.JPG
-- src: uploads/images/Te%20Henui/Trees/Hinau.jpg
+  width: 800
+  height: 599
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Hinau.jpg
+  width: 640
+  height: 480
   caption: Flowers (November)
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1844/Elaeocarpus_dentatus__h%C4%ABnau__.JPG
+  width: 769
+  height: 1024
   caption: Elaeocarpus dentatus trunk covered in vines.

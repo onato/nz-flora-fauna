@@ -44,12 +44,26 @@ attributes:
   - Houhi.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4789/Hoheria_populnea__Lacebark.JPG
+  width: 1200
+  height: 901
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7489/Hoheria_popullnea__Lacebark__Ribbonwood.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5198/1-Hoheria_populnea.JPG
+  width: 2000
+  height: 1500
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7494/Hoheria_popullnea__Lacebark__Ribbonwood-001.JPG
+  width: 1024
+  height: 769
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7499/Hoheria_popullnea__Lacebark__Ribbonwood-002.JPG
+  width: 1024
+  height: 770
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7504/Hoheria_popullnea__Lacebark__Ribbonwood-003.JPG
+  width: 1024
+  height: 769
   caption: The veined underside of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5193/1-Hoheria_populnea_-001.JPG
+  width: 1600
+  height: 1199
   caption: The vein pattern of a  Hoheria populnea leaf. Veins provide support for the leaf and transport both water 
     and minerals (via xylem) and food energy (via phloem) through the leaf and on to the rest of the plant.

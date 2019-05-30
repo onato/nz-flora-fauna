@@ -46,13 +46,29 @@ attributes:
   - New Zealand holly
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/9708/Olearia_ilicifolia__Mountain_holly_.JPG
+  width: 1200
+  height: 902
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/9713/Olearia_ilicifolia__Mountain_holly_-001.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0409/Olearia_ilicifolia__Mountain_holly_.JPG
+  width: 1600
+  height: 1200
   caption: Photographed at the North Egmont DOC parking area. (February)
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0404/Olearia_ilicifolia__Mountain_holly_-005.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5354/Olearia_ilicifolia__Hakeke.Mountain_holly.JPG
+  width: 1200
+  height: 901
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5359/Olearia_ilicifolia__Hakeke.Mountain_holly-001.JPG
+  width: 800
+  height: 599
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/9718/Olearia_ilicifolia__Mountain_holly_-002.JPG
+  width: 1600
+  height: 1202
   caption: The top surface of the leaves.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5374/Olearia_ilicifolia__Hakeke.Mountain_holly.-3.JPG
+  width: 1024
+  height: 769
   caption: The undersurface of a leaf.

@@ -58,18 +58,40 @@ attributes:
   - Rock tree daisy
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1819/Pachystegia_insignis__Marlborough_Rock_Daisy_-001.JPG
+  width: 1024
+  height: 768
   caption: Pachystegia insignis growing on a cliff face near Kaikoura, South Island.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1824/Pachystegia_insignis__Marlborough_Rock_Daisy_.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5099/Pachystegia_Insignis___Marlborough_Rock_Daisy-3.JPG
+  width: 1200
+  height: 899
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2048/Pachystegia_insignis___Marlborough_Rock_Daisy_-002.JPG
+  width: 1600
+  height: 1202
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5109/Pachystegia_Insignis___Marlborough_Rock_Daisy-10.JPG
+  width: 1200
+  height: 899
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5119/Pachystegia_Insignis___Marlborough_Rock_Daisy-11.JPG
+  width: 1200
+  height: 898
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9844/Marlborough_Rock_Daisy_Pachystegia_insignis-003.JPG
+  width: 1200
+  height: 900
   caption: The seed heads after flowering.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9839/Marlborough_Rock_Daisy_Pachystegia_insignis-001.JPG
+  width: 1200
+  height: 902
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9849/Marlborough_Rock_Daisy_Pachystegia_insignis-006.JPG
+  width: 800
+  height: 601
   caption: The seeds pulled out of the seed head.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5114/Pachystegia_Insignis___Marlborough_Rock_Daisy-8.JPG
+  width: 1024
+  height: 768
   caption: Young leaf still with tomentum.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5104/Pachystegia_Insignis___Marlborough_Rock_Daisy-6.JPG
+  width: 800
+  height: 600
   caption: The underside of a mature leaf with brown tomentum.
