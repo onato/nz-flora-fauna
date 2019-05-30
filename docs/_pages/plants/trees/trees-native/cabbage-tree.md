@@ -21,28 +21,56 @@ attributes:
   - New Zealand Cabbage Tree
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/7014/Cordyline_australis__Cabbage_Tree__Ti__Ti_Kouka-002.JPG
+  width: 3000
+  height: 2250
   caption: A stand of Cordyline australis, North Taranaki late November
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/9879/Cordyline_australis__New_Zealand_cabbage_tree.JPG
+  width: 1200
+  height: 1600
   caption: Photo of a very old tree at Mahoe, Taranaki 2010
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1503/New_Zealand_Cabbage_Tree__Cordyline_australis_-001.JPG
+  width: 1501
+  height: 2000
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/6698/Cordyline_australis__New_Zealand_Cabbage_Tree_.JPG
+  width: 1200
+  height: 804
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1508/New_Zealand_Cabbage_Tree__Cordyline_australis_-002.JPG
+  width: 3000
+  height: 2250
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5184/Cordylline_australs_Cabbage_tree-001.JPG
+  width: 1200
+  height: 1600
   caption: A young tree roadside Nelson area.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/4744/Flowering_Cordyline_australis__cabbage_tree_26-11-2010..JPG
+  width: 1024
+  height: 708
   caption: Cabbage tree flowers November
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/7029/Cordyline_australis__Cabbage_Tree__Ti__Ti_Kouka-001.JPG
+  width: 3000
+  height: 2250
   caption: Flowers November-December.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/7039/Cordyline_australis__Cabbage_Tree__Ti__Ti_Kouka-005.JPG
+  width: 3000
+  height: 2247
   caption: The large panicles of small, white, sweet-scented flowers.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/8714/Cordyline_australis__Cabbage_tree-3.JPG
+  width: 800
+  height: 600
   caption: Cabbage tree fruit January
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/8719/Cordyline_australis__Cabbage_tree-10.JPG
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/8709/Cordyline_australis__Cabbage_tree-2.JPG
+  width: 600
+  height: 450
   caption: Closeup of the fruit
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5189/Cordylline_australs_Cabbage_tree-002.JPG
+  width: 1024
+  height: 768
   caption: The upper surface of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5199/Cordylline_australs_Cabbage_tree-003.JPG
+  width: 1024
+  height: 766
   caption: The underside of a leaf.
 permalink: plants/trees/trees-native/cordyline_australis.html
 layout: page

@@ -25,14 +25,26 @@ attributes:
   - Raukaua simplex
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5929/juvenile_leaves_of_Raukaua_simplex.JPG
+  width: 766
+  height: 1024
   caption: A juvenile tree photographed at Otari Wilton Bush Reserve, Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5914/juvenile_leaves_of_Raukaua_simplex__2_.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5919/juvenile_leaves_of_Raukaua_simplex__3_.JPG
+  width: 1024
+  height: 770
   caption: Deeply incised juvenile leaves.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5909/juvenile_leaves_of_Raukaua_simplex__1_.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5924/juvenile_leaves_of_Raukaua_simplex__4_.JPG
+  width: 1024
+  height: 768
   caption: The underside of a juvenile leaf.
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Raukauasimplex2-002.jpg
+  width: 800
+  height: 536
   caption: Adult leaves of Raukaua simplex.
 permalink: plants/trees/trees-native/raukaua_simplex.html
 layout: page

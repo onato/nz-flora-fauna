@@ -22,9 +22,13 @@ attributes:
   - Yellow-wood
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2164/Coprosma_linariifolia_Yellow-wood__Mikimiki-002.JPG
+  width: 900
+  height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2174/Coprosma_linariifolia_Yellow-wood__Mikimiki-003.JPG
+  width: 640
+  height: 480
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
 permalink: plants/trees/trees-native/coprosma_linariifolia.html

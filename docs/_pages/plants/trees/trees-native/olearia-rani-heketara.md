@@ -25,13 +25,23 @@ attributes:
   - Wharangi-piro.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2619/Olearia_rani_var_colorata.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2599/Olearia_rani_var_colorata-001.JPG
+  width: 1024
+  height: 769
   caption: End of the flowering stage, some petals lost.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2604/Olearia_rani_var_colorata-002.JPG
+  width: 1024
+  height: 765
   caption: The parachute-like seeds ready to be blown away.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2609/Olearia_rani_var_colorata-003.JPG
+  width: 769
+  height: 1024
   caption: The leaf margins are sharply but irregularly toothed.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2614/Olearia_rani_var_colorata-004.JPG
+  width: 767
+  height: 1024
   caption: The underside of a leaf with prominent veins and a whitish tomentum.
 permalink: plants/trees/trees-native/olearia_rani.html
 layout: page

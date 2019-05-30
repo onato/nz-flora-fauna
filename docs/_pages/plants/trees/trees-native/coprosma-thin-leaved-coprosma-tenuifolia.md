@@ -20,13 +20,27 @@ attributes:
   common name: Wavy leaved coprosma
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2214/Coprosma_tenuifolia__Thin-leaved_Coprosma-5.JPG
+  width: 768
+  height: 1024
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2219/Coprosma_tenuifolia__Thin-leaved_Coprosma-6.JPG
+  width: 600
+  height: 800
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2224/Coprosma_tenuifolia__Thin-leaved_Coprosma.JPG
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2209/Coprosma_tenuifolia__Thin-leaved_Coprosma-4.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2204/Coprosma_tenuifolia__Thin-leaved_Coprosma-3.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2184/Coprosma_tenuifolia__002.JPG
+  width: 800
+  height: 601
   caption: The surface of a young leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2189/Coprosma_tenuifolia-004.JPG
+  width: 800
+  height: 601
   caption: The underside of a young leaf.
 permalink: plants/trees/trees-native/coprosma_tenuifolia.html
 layout: page

@@ -17,8 +17,14 @@ attributes:
   binomial name: Dracophyllum densum
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/0583/Dracophyllum_densum-001.JPG
+  width: 1200
+  height: 901
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/0578/Dracophyllum_densum.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/8638/Dracophyllum_densum.JPG
+  width: 1600
+  height: 1202
 permalink: plants/trees/trees-native/dracophyllum_densum.html
 layout: page
 title: Dracophyllum densum

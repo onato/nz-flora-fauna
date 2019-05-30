@@ -20,12 +20,24 @@ attributes:
   common name: Brown-stemmed Coprosma
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/8634/Fruits_of_Coprosma_brunnea.JPG
+  width: 600
+  height: 450
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/8624/Brown_stemmed_coprosma__Coprosma_brunnea-6.JPG
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/8629/Brown_stemmed_coprosma__Coprosma_brunnea-8.JPG
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/8619/Brown_stemmed_coprosma__Coprosma_brunnea-2.JPG
+  width: 800
+  height: 601
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4584/Coprosma_brunnea.JPG
+  width: 800
+  height: 600
   caption: Drupes which are translucent white with blue flecks.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4579/Coprosma_brunnea-001.JPG
+  width: 640
+  height: 481
 permalink: plants/trees/trees-native/coprosma_brunnea.html
 layout: page
 title: Coprosma brunnea (Brown-stemmed coprosma)

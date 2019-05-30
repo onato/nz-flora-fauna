@@ -21,23 +21,41 @@ attributes:
   - Weeping mapou
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/6833/1-Myrsine_divaricata__Weeping_matipo_.JPG
+  width: 769
+  height: 1024
   caption: A Myrsine divaricata growing in Kura Tawhiti/Castle Hill Conservation area,
     WNW of Christchurch.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/6893/1-_Myrsine_divaricata-001.JPG
+  width: 1200
+  height: 1600
   caption: A tree growing in Christchurch's Botanical Gardens.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/6898/1-Myrsine_divaricata-004.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/6883/1-Myrsine_divaricata_2JPG.JPG
+  width: 768
+  height: 1024
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/6838/1-Myrsine_divaricata-002.JPG
+  width: 1202
+  height: 1600
   caption: A drooping branch of a mature tree.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2534/Myrsine_divaricata-002.JPG
+  width: 800
+  height: 601
   caption: The leaf of an adult shrub. A distinguishing feature is a dark blotch at
     the base of each leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7389/Myrsine_Divaricata__Weeping_Matipo-001.JPG
+  width: 800
+  height: 601
   caption: The top surface of the leaves.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7399/Myrsine_Divaricata__Weeping_Matipo-002.JPG
+  width: 1024
+  height: 771
   caption: The underside of the leaves. Oil glands appear as dots scattered within
     the leaf blade but especially prominent at the margins.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7394/Myrsine_Divaricata__Weeping_Matipo-003.JPG
+  width: 1024
+  height: 768
   caption: The stem of a young plant.
 permalink: plants/trees/trees-native/myrsine_divaricata.html
 layout: page

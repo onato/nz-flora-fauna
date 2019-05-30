@@ -20,29 +20,55 @@ attributes:
   - Totara
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/6113/1-1-Podocarpus_totara__Lowland_totara_-002.JPG
+  width: 1500
+  height: 2000
   caption: A mature tree photographed at Anzac Park, Norsewood.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0964/Podocarpus_totara__Totara__Lowland_Totara-016.JPG
+  width: 2000
+  height: 1502
   caption: Photographed at Koromiko south of Picton.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0129/totara__Podocarpus_totara-7.JPG
+  width: 800
+  height: 601
   caption: Podocarpus totara leaves
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0134/totara__Podocarpus_totara-8.JPG
+  width: 800
+  height: 601
   caption: Male cones.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1274/Receptacle_and_seed_of_t%C5%8Dtara-009.JPG
+  width: 1600
+  height: 1204
   caption: Fruiting tree (March).
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1269/Receptacle_and_seed_of_t%C5%8Dtara-007.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1264/Receptacle_and_seed_of_t%C5%8Dtara-004.JPG
+  width: 1600
+  height: 1204
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0959/Podocarpus_totara__Totara__Lowland_Totara-014.JPG
+  width: 1200
+  height: 901
   caption: Foliage and fruit.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0954/Podocarpus_totara__Totara__Lowland_Totara-009.JPG
+  width: 1200
+  height: 903
   caption: The green fruit (4mm) on the bright red peduncle which is typical of this
     genus.The red peduncle is edible and is sweet in taste.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/6118/1-1-1-Podocarpus_totara__Lowland_totara_-001.JPG
+  width: 1200
+  height: 1600
   caption: The reddish-grey bark of the totara is thick, corky, furrowed and stringy.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/6123/1-1-Podocarpus_totara__Lowland_totara_.JPG
+  width: 1875
+  height: 2500
   caption: A large multitrunked Podocarpus totara photographed at Anzac Park, Norsewood.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4904/Podocarpus_totara__Totara__Lowland_Totara-004.JPG
+  width: 600
+  height: 450
   caption: A bud of **Podocarpus totara** (Lowland totara).
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4894/Podocarpus_cunninghamii___Mountain_totara-003.jpg
+  width: 800
+  height: 595
   caption: A bud of **Podocarpus cunninghamii** (Mountain totara).
 permalink: plants/trees/trees-native/podocarpus_totara.html
 layout: page

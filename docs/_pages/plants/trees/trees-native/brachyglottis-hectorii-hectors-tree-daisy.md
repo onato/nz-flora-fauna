@@ -26,14 +26,21 @@ attributes:
   - Kohuhurangi
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0649/Brachyglottis_hectorii__Hectors_Tree_Daisy_.JPG
-  caption: ''
+  width: 1200
+  height: 901
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0639/Brachyglottis_hectorii__Hectors_Tree_Daisy_-003.JPG
-  caption: ''
+  width: 1024
+  height: 770
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0629/Brachyglottis_hectorii__Hectors_Tree_Daisy_-001.JPG
-  caption: ''
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0634/Brachyglottis_hectorii__Hectors_Tree_Daisy_-002.JPG
+  width: 1024
+  height: 768
   caption: The underside of a leaf with fine tomentum.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0644/Brachyglottis_hectorii__Hectors_Tree_Daisy_-004.JPG
+  width: 1024
+  height: 768
   caption: Photo of seed heads. Each seed is attached to long hairs which act as a
     parachute.
 permalink: plants/trees/trees-native/brachyglottis_hectorii.html

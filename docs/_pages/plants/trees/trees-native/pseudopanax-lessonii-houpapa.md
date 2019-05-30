@@ -31,16 +31,30 @@ attributes:
   - Whauwhau
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5749/Pseudopanax_lessonii..JPG
+  width: 1200
+  height: 804
   caption: Photographed January at the Awanui Cemetery, New Plymouth. Thanks to Alan
     Jellyman for identification.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5739/Pseudopanax_lessonii.-007.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5734/Pseudopanax_lessonii.-002.JPG
+  width: 1024
+  height: 770
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5729/Pseudopanax_lessonii.-001.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5279/Pseudopanax_lessonii__NZ_Houpara-1.JPG
+  width: 1024
+  height: 770
   caption: Leaves of seedlings.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5284/Pseudopanax_lessonii__NZ_Houpara-2.JPG
+  width: 1024
+  height: 770
   caption: The underside of a seedling's leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5744/Pseudopanax_lessonii.-008.JPG
+  width: 1024
+  height: 686
 permalink: plants/trees/trees-native/pseudopanax_lessonii.html
 layout: page
 title: Pseudopanax lessonii (Houpapa)

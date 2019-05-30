@@ -20,11 +20,19 @@ attributes:
   - Prostrate Taupata.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6584/Coprosma_repens_var._Poor_Knights__Prostrate_Taupata_-001.JPG
+  width: 1600
+  height: 1200
   caption: A young shrub.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/3954/Coprosma_repens_var._Poor_Knights-001.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/3959/Coprosma_repens_var._Poor_Knights-002.JPG
+  width: 1200
+  height: 900
   caption: The glossy leathery leaves
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/3964/Coprosma_repens_var._Poor_Knights-007.JPG
+  width: 1200
+  height: 901
   caption: The underside of a leaf.
 permalink: plants/trees/trees-native/coprosma_repens_var_poor_knights.html
 layout: page

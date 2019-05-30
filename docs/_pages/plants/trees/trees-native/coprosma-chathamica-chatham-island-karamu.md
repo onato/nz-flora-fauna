@@ -23,8 +23,12 @@ attributes:
   - Karamu
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2948/Coprosma_chathamica__Chatham_Island_karamu_-001.JPG
+  width: 898
+  height: 1200
   caption: A young shrub
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2953/Coprosma_chathamica__Chatham_Island_karamu_-003.JPG
+  width: 800
+  height: 601
 permalink: plants/trees/trees-native/coprosma_chathamica.html
 layout: page
 title: Coprosma chathamica (Chatham Island karamu)

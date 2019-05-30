@@ -26,14 +26,28 @@ attributes:
   - Ribbonwood.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0254/Lacebark__Hoheria_sexstylosa-36.JPG
+  width: 898
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0279/Lacebark__Hoheria_sexstylosa-39.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8608/1-Hoheria_sexstylosa__Ribbonwood.JPG
+  width: 1600
+  height: 1198
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8613/1-Hoheria_sexstylosa__Ribbonwood-002.JPG
+  width: 1600
+  height: 1198
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8618/1-Hoheria_sexstylosa__Ribbonwood-005.JPG
+  width: 1201
+  height: 1600
   caption: The surface of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8623/1-Hoheria_sexstylosa__Ribbonwood-007.JPG
+  width: 1200
+  height: 1600
   caption: The underside of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/8628/1-Hoheria_sexstylosa__Ribbonwood-008.JPG
+  width: 1200
+  height: 1600
 permalink: plants/trees/trees-native/hoheria_sexstylosa.html
 layout: page
 title: Hoheria sexstylosa (Ribbonwood) Houhere

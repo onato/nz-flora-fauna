@@ -25,9 +25,15 @@ attributes:
   - Prickly Mingimingi
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0139/Prickly_Mingimingi__Leptecophylla_juniperina__white_form-1.JPG
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0144/Prickly_Mingimingi__Leptecophylla_juniperina__white_form-2.JPG
+  width: 800
+  height: 601
   caption: White berries.
-- src: uploads/images/Te%20Henui/Trees/1-Leptecophylla_juniperina.jpg
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-Leptecophylla_juniperina.jpg
+  width: 682
+  height: 632
   caption: Red berries.
 permalink: plants/trees/trees-native/leptecophylla_juniperina.html
 layout: page

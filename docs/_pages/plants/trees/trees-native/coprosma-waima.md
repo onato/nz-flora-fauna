@@ -20,14 +20,22 @@ attributes:
   binomial name: Coprosma waima
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3754/Coprosma_waima-001.JPG
+  width: 1200
+  height: 902
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.  
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3769/Coprosma_waima-004.JPG
+  width: 901
+  height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3774/Coprosma_waima-007.JPG
+  width: 640
+  height: 481
   caption: Top surface of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3764/Coprosma_waima-003.JPG
+  width: 769
+  height: 1024
   caption: Underside of leaf.
 permalink: plants/trees/trees-native/coprosma_waima.html
 layout: page

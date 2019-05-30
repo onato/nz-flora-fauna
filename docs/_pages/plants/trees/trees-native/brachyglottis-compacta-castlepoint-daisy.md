@@ -22,9 +22,15 @@ attributes:
   - Castlepoint groundsel
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1734/Bracyglottis_compacta__-0010.jpg
+  width: 1600
+  height: 1200
   caption: Photographed at Otira Wilton Reserve
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1729/Bracyglottis_compacta__-006.JPG
+  width: 640
+  height: 480
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1724/Bracyglottis_compacta__-001.JPG
+  width: 640
+  height: 481
 permalink: plants/trees/trees-native/brachyglottis_compacta.html
 layout: page
 title: Brachyglottis compacta (Castlepoint daisy)

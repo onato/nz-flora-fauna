@@ -26,10 +26,18 @@ attributes:
   - turepo.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/3294/Ewekuri__Large-leaved_milk_tree__Streblus_banksii-4.JPG
+  width: 900
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/3284/Ewekuri__Large-leaved_milk_tree__Streblus_banksii-2.JPG
+  width: 1024
+  height: 768
   caption: The upper surface of the leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/8749/Streblus_banksii__Large_leaved_milk_tree_Ewekuri-001.JPG
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/8754/Streblus_banksii__Large_leaved_milk_tree_Ewekuri-004.JPG
+  width: 800
+  height: 599
   caption: The underside of a leaf. If the leaf is held to the light the veins can
     be clearly seen.
 permalink: plants/trees/trees-native/streblus_banksii.html

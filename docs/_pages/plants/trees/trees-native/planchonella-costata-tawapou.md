@@ -24,12 +24,22 @@ attributes:
   - Tawapou
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7059/Planchonella_costata__Tawapou-005.JPG
+  width: 899
+  height: 1200
   caption: Photographed at Otari Wilton Bush Reserve Wellington
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7054/Planchonella_costata__Tawapou-006.JPG
+  width: 1200
+  height: 901
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7039/Planchonella_costata__Tawapou-002.JPG
+  width: 1024
+  height: 766
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7044/Planchonella_costata__Tawapou-003.JPG
+  width: 800
+  height: 598
   caption: The underside of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7049/Planchonella_costata__Tawapou-004.JPG
+  width: 900
+  height: 1200
   caption: The trunk.
 permalink: plants/trees/trees-native/planchonella_costata.html
 layout: page

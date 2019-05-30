@@ -29,6 +29,8 @@ attributes:
   - Spreading plagianthus
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5398/Plagianthus_divaricatus_.JPG
+  width: 1024
+  height: 768
 permalink: plants/trees/trees-native/plagianthus_divaricatus.html
 layout: page
 title: Plagianthus divaricatus (Salt marsh ribbonwood)

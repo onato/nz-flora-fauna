@@ -22,9 +22,15 @@ attributes:
   - Kapuka
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7244/Griselina_littoralis__Broadway_Mint_-004.JPG
+  width: 1200
+  height: 902
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7234/Griselina_littoralis__Broadway_Mint_-001.JPG
+  width: 800
+  height: 599
   caption: Upper surface of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7249/Griselina_littoralis__Broadway_Mint_-002.JPG
+  width: 800
+  height: 601
   caption: Underside of a leaf.
 permalink: plants/trees/trees-native/griselinia_littoralis_'broadway_mint'.html
 layout: page

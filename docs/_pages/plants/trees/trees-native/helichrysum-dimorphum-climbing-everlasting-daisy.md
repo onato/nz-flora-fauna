@@ -20,8 +20,12 @@ attributes:
   - Climbing everlasting daisy
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3208/Helichrysum_dimorphum-003.JPG
+  width: 1600
+  height: 1200
   caption: Photograph of a shrub in Christchurch's Botanical Garden. Planted 1964.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3213/Helichrysum_dimorphum-005.JPG
+  width: 1200
+  height: 901
   caption: A branchlet.
 permalink: plants/trees/trees-native/helichrysum_dimorphum.html
 layout: page

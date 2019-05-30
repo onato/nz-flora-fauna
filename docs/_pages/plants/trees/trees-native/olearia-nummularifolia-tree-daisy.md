@@ -23,14 +23,26 @@ attributes:
   - Tree Daisy
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2703/Olearia_nummularifolia.JPG
+  width: 2500
+  height: 1870
   caption: Photographed at Otari Botanical Gardens, Wellington
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/5164/Olearia_nummulariifolia.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/5169/Olearia_nummulariifolia-001.JPG
+  width: 1200
+  height: 900
   caption: The end of flowering March. Arthurs Pass, South Island.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/6319/Olearia_nummulariifolia__tree_daisy-001.JPG
+  width: 1024
+  height: 768
   caption: A young tree photographed at Otari Wilton Bush Reserve, Wellington
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7834/Olearia_nummulariifolia_.__114_.__114_.JPG
+  width: 1024
+  height: 769
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7839/Olearia_nummulariifolia_.__115_.JPG
+  width: 800
+  height: 598
 permalink: plants/trees/trees-native/olearia_nummulariifolia.html
 layout: page
 title: Olearia nummulariifolia (Tree daisy)

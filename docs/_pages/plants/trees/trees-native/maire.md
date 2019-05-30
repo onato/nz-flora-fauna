@@ -21,22 +21,40 @@ attributes:
   - Black maire
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4574/Nestegis_cunninghamii__black_maire.JPG
+  width: 1200
+  height: 1600
   caption: A Nestegis cunninghamii with the typical broad rounded crown growing on
     Honeysuckle Flat on the Te Henui Walkway.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4579/Nestegis_cunninghamii__black_maire-001.JPG
+  width: 1024
+  height: 768
   caption: The branch structure.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2939/Nestegis_cunninghamii__Black_maire.JPG
+  width: 1200
+  height: 902
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4609/Nestegis_cunninghamii__black_maire-007.JPG
+  width: 1024
+  height: 768
   caption: Close up of the top surface of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4599/Nestegis_cunninghamii__black_maire-004.JPG
+  width: 1024
+  height: 769
   caption: Mid-rib is sunken in a shallow grove at the base of the leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4604/Nestegis_cunninghamii__black_maire-005.JPG
+  width: 1024
+  height: 770
   caption: The underside of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2929/Nestegis_cunninghamii__Black_maire-002.JPG
+  width: 800
+  height: 600
   caption: The green fruit (late April, Taranaki). They turn red but sometimes turn
     yellow.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2934/Nestegis_cunninghamii__Black_maire-003.JPG
+  width: 1024
+  height: 769
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4584/Nestegis_cunninghamii__black_maire-002.JPG
+  width: 800
+  height: 600
   caption: The trunk.
 permalink: plants/trees/trees-native/nestegis_cunninghamii.html
 layout: page

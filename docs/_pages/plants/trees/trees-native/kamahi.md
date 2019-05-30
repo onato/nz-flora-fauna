@@ -19,37 +19,75 @@ attributes:
   - Kamahi
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3643/Weinmannia_racemosa__Kamahi.JPG
+  width: 1500
+  height: 2000
   caption: Large mature tree in flower, Mt Egmont reserve.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1663/Weinmannia_racemosa__Kamahi_.JPG
+  width: 1024
+  height: 769
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1653/Weinmannia_racemosa__Kamahi_-001.JPG
+  width: 2000
+  height: 1500
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/9558/Weinmannia_racemosa__Kamahi-001.JPG
+  width: 1600
+  height: 1200
   caption: The flower colour is darker on some trees. Photographed in late November,
     New Plymouth.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5964/Weinmannia_racemosa__Kamahi-001.JPG
+  width: 2000
+  height: 1500
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5999/Weinmannia_racemosa__Kamahi.JPG
+  width: 1600
+  height: 1203
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5979/Weinmannia_racemosa__Kamahi-004.JPG
+  width: 1199
+  height: 1600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5989/Weinmannia_racemosa__Kamahi-006.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5984/Weinmannia_racemosa__Kamahi-005.JPG
+  width: 1024
+  height: 769
   caption: A single flower.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5889/Weinmannia_racemosa___Kamahi_-007.JPG
+  width: 800
+  height: 602
   caption: Juvenile capsules with two pink partly fused styles. They turn red then
     brown as they mature.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6769/Weinmannia_racemosa__Kamahi_-001.JPG
+  width: 1200
+  height: 902
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5974/Weinmannia_racemosa__Kamahi-003.JPG
+  width: 1024
+  height: 770
   caption: Flower buds, an inflorescence and the seed heads.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5869/Weinmannia_racemosa___Kamahi_-002.JPG
+  width: 901
+  height: 1200
   caption: The serrated leaf of the Weinmannia racemosa.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5884/Weinmannia_racemosa___Kamahi_-003.JPG
+  width: 770
+  height: 1024
   caption: The underneath surface of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7584/Weinmannia_racemosa_base_of_adult_leaf.JPG
+  width: 507
+  height: 679
   caption: The adult leaves are joint at the end of the stalk, an indication they
     are derived from a compounded juvenile.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7604/Weinmannia_racemosa__Kamahi-009.JPG
+  width: 800
+  height: 601
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7609/Weinmannia_racemosa__Kamahi-011.JPG
+  width: 800
+  height: 601
   caption: The base of two leaf stalks.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3779/Weinmannia_racemosa__Kamahi_-001.JPG
+  width: 1200
+  height: 900
   caption: The multi trunks of a Weinmannia racemosa.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3534/Kamahi__Weinmannia_racemosa_-006.JPG
+  width: 2000
+  height: 1500
   caption: A young juvenile shrub growing up a bank.
 permalink: plants/trees/trees-native/weinmannia_racemosa.html
 layout: page

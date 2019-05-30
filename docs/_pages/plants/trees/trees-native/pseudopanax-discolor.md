@@ -19,7 +19,11 @@ attributes:
   - Panax discolor
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/7024/Pseudopanax_discolor-001.JPG
+  width: 800
+  height: 601
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/7019/Pseudopanax_discolor.JPG
+  width: 1200
+  height: 900
   caption: Ripening capsules on a female tree,
 permalink: plants/trees/trees-native/pseudopanax_discolor.html
 layout: page

@@ -21,23 +21,45 @@ attributes:
   - Wharangi
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0794/Melicope_ternata__Wharangi._-2.JPG
+  width: 768
+  height: 1024
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/6998/1-Melicope_ternata__Wharangi-007.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2663/Melicope_ternata.JPG
+  width: 1200
+  height: 900
   caption: Bright green young leaves with the darker mature leaves below.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/6983/1-Melicope_ternata__Wharangi-003.JPG
+  width: 1024
+  height: 766
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/6973/1-Melicope_ternata__Wharangi-002.JPG
+  width: 1200
+  height: 900
   caption: The top surface of a leaf. The centre leaf has a longer stalk than the
     side ones.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/6978/1-Melicope_ternata__Wharangi-010.JPG
+  width: 1200
+  height: 900
   caption: The underside of a leaf covered with oil glands. Click to enlarge.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0789/Melicope_ternata__Wharangi._-1.JPG
+  width: 640
+  height: 481
   caption: The tiny flowers of Melicope ternata (Photo August)
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2653/green_seed_capsules_Melicope_ternata_.JPG
+  width: 800
+  height: 601
   caption: Green seed cases December.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/6988/1-Melicope_ternata__Wharangi-006.JPG
+  width: 1024
+  height: 770
   caption: Last years seeds (Photo August).
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0799/Melicope_ternata__Wharangi._-3.JPG
+  width: 640
+  height: 481
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/6993/1-Melicope_ternata__Wharangi-005.JPG
+  width: 1500
+  height: 2000
   caption: The trunk.
 permalink: plants/trees/trees-native/melicope_ternata.html
 layout: page

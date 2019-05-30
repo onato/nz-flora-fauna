@@ -20,26 +20,54 @@ attributes:
   - White Pine
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/2423/Dacrycarpus_dacrydioides__Kahikatea_White_pine_.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/5374/Dacrycarpus_dacrydioides__Kahikatea__White_Pine_2.JPG
+  width: 804
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/2455/Dacrycarpus_dacrydioides__Kahikatea_White_pine_-004.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/5379/Dacrycarpus_dacrydioides__Kahikatea__White_Pine.JPG
+  width: 1024
+  height: 686
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/2028/Dacrycarpus_dacrydioides_kahikatea_sm.jpg
+  width: 500
+  height: 667
   caption: This juvenile tree growing streamside.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5874/Dacrycarpus_dacrydioides_or_kahikatea-001.JPG
+  width: 600
+  height: 451
   caption: Male cones October.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5869/Dacrycarpus_dacrydioides__Kahikatea.JPG
+  width: 800
+  height: 603
   caption: Ovules (1-2mm) October on tips.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7094/Dacrycarpus_dacrydioides_early_seed_capsule_.JPG
+  width: 800
+  height: 601
   caption: Photos of developing seed pods below.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7099/Dacrycarpus_dacrydioides_early_seed_capsule_-001.JPG
+  width: 800
+  height: 603
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7104/Dacrycarpus_dacrydioides_early_seed_capsule_-002.JPG
-- src: uploads/images/Te%20Henui/Trees/Dacrycarpus_dacrydioides%20by%20Sandy%20Austin%20whanau%20on%20Flickr.jpg
+  width: 800
+  height: 600
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Dacrycarpus_dacrydioides%20by%20Sandy%20Austin%20whanau%20on%20Flickr.jpg
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/2428/Dacrycarpus_dacrydioides__Kahikatea_White_pine_-001.JPG
+  width: 1200
+  height: 900
   caption: A mature trunk. Mature trees are buttressed at the base.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/2433/Dacrycarpus_dacrydioides__Kahikatea_White_pine_-002.JPG
+  width: 1200
+  height: 900
   caption: When fully grown it sheds large flakes of bark, leaving a wavy pattern
     on the trunk.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7109/White_pine__kahikatea__Dacrycarpus_dacrydioides.JPG
+  width: 1024
+  height: 770
   caption: Trunks of two young trees.
 permalink: plants/trees/trees-native/dacrycarpus_dacrydioides.html
 layout: page

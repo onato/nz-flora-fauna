@@ -22,6 +22,8 @@ attributes:
   common name: Coprosma 'Whangaroa'.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/3243/coprosma_neglecta_whangaroa.jpg
+  width: 683
+  height: 1024
 permalink: plants/trees/trees-native/coprosma_affneglecta_whangaroa.html
 layout: page
 title: Coprosma aff.neglecta whangaroa (Coprosma 'Whangaroa')

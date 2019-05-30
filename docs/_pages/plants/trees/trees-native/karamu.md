@@ -21,40 +21,76 @@ attributes:
   - Karamu
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3544/coprosma__robusta_.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5524/Coprosma_robusta_-007.JPG
+  width: 1200
+  height: 1600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5509/Coprosma_robusta_-002.JPG
+  width: 1200
+  height: 901
   caption: Green unripe fruit. October Taranaki.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5529/Coprosma_robusta_.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/3579/Coprosma_robusta__Karamu_.JPG
+  width: 800
+  height: 600
   caption: Opening male flowers.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5353/Male_flowers_coprosma_robusta.JPG
+  width: 1200
+  height: 899
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5333/Female_Coprosma_robusta..JPG
+  width: 1200
+  height: 1200
   caption: Female flowers September.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5338/female_flowersCoprosma_robusta..JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5363/female_flowers_Coprosma_robusta.-001.JPG
+  width: 800
+  height: 601
   caption: Female flowers. September.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/7789/Karamu_Coprosma_rubusta-2.JPG
+  width: 800
+  height: 600
   caption: Ripe fruit March. They can be orange or red.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4334/Coprosma_robusta__Karamu_-007.JPG
+  width: 1024
+  height: 769
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/7794/Coprosma_rubusta_leaf_centre_vein_not_raised.JPG
+  width: 800
+  height: 600
   caption: Leaf of Coprosma robusta showing the centre vein which is not raised. This
     is a distinguishing feature of Coprosma robusta. C.grandifolia and C. lucida have
     raised midribs.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4339/Coprosma_robusta__Karamu_.JPG
+  width: 1024
+  height: 769
   caption: The underside of a leaf. Notice raised mid-vein and the domatia.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5519/Coprosma_robusta_-004.JPG
+  width: 600
+  height: 451
   caption: 'Coprosmas are identified by the domatia (tiny holes at the junction of
     the veins on the underside of the leaf. NB:  raised midrib distinguishing feature
     of Coprosma robusta and Coprosma lucida.'
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5358/domatia_on_underside_leaf_C.robusta.JPG
+  width: 600
+  height: 453
   caption: A domatia underside of the leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5343/domatia_lumps.JPG
+  width: 1200
+  height: 901
   caption: The top surface of the leave showing the domatia lumps and the centre vein
     of the leaf which is not raised.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5348/coprosma_robusta__leaf_margin.JPG
+  width: 600
+  height: 451
   caption: A distinguishing feature of Coprosma robusta is the rough edge of the leaves
     margin. All other large-leaved coprosma have smooth edges.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5328/Coprosma_robusta_short_stipule_with_black_gland.JPG
+  width: 1024
+  height: 769
   caption: Where the leaf stalks join the branch there is a short stipule with a black
     gland at the top.
 permalink: plants/trees/trees-native/coprosma_robusta.html

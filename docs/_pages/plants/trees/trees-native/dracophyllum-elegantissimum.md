@@ -20,6 +20,8 @@ attributes:
   - Slender Dragon Tree
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8549/Dracophyllum_elegantissimum-002.JPG
+  width: 1600
+  height: 1200
 - src: uploads/images/Te%20Henui/Trees/Diagnostic%20characters%20of%20Dracophyllum.jpg
 permalink: plants/trees/trees-native/dracophyllum_elegantissimum.html
 layout: page

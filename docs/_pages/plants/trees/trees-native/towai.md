@@ -20,16 +20,30 @@ attributes:
   - Tawhero
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7524/Weinmannia_silvicola__towai-038.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7519/Weinmannia_silvicola__towai-037.JPG
+  width: 1024
+  height: 768
   caption: An adult tree after flowering with young capsules.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7514/Weinmannia_silvicola__towai-035.JPG
+  width: 800
+  height: 600
   caption: The young capsules.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7494/Weinmannia_silvicola__towai-007.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7509/Weinmannia_silvicola__towai-010.JPG
+  width: 1200
+  height: 900
   caption: The surface of a leaf (4.5 cm in length).
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7499/Weinmannia_silvicola__towai-008.JPG
+  width: 1024
+  height: 770
   caption: The undersurface of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7284/Weinmannia_silvicola__Towai-003.JPG
+  width: 1200
+  height: 898
   caption: A young tree at Otari
 permalink: plants/trees/trees-native/weinmannia_silvicola.html
 layout: page

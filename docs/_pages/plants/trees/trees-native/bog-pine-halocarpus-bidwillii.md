@@ -20,14 +20,24 @@ attributes:
   - Mountain pine
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1874/bog_pine__Halocarpus_bidwilli_-2.JPG
+  width: 1024
+  height: 686
   caption: Photo taken at the scientific reserve at "The Wilderness" near Lake Te
     Anau has excellent examples growing in stony ground.  These trees are slow growing
     and some of the threes in the photos are 200 years old.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1879/bog_pine__Halocarpus_bidwilli_-4.JPG
+  width: 1024
+  height: 768
   caption: Mature seed cone with a  white aril 
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1884/bog_pine__Halocarpus_bidwilli_-7.JPG
+  width: 800
+  height: 599
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1869/bog_pine__Halocarpus_bidwilli_-1.JPG
+  width: 600
+  height: 800
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1889/bog_pine__Halocarpus_bidwilli_.JPG
+  width: 600
+  height: 800
 permalink: plants/trees/trees-native/halocarpus_bidwillii.html
 layout: page
 title: Bog Pine (Halocarpus bidwillii)

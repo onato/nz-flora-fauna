@@ -22,9 +22,15 @@ attributes:
   - pirirangi and roeroe.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6874/Red_Mistletoe__Peraxilla_tetrapetaia__-7.JPG
+  width: 1024
+  height: 765
   caption: Photographed March.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6879/Red_Mistletoe__Peraxilla_tetrapetaia__-9.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6899/Red_Mistletoe__Peraxilla_tetrapetaia__-13.JPG
+  width: 1200
+  height: 900
 permalink: plants/trees/trees-native/peraxilla_tetrapetala.html
 layout: page
 title: Peraxilla tetrapetala (Red Mistletoe)

@@ -10,7 +10,7 @@ layout: default
   <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
     {% for image in page.images %}
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="{{ image.src }}" itemprop="contentUrl" data-size="600x400">
+      <a href="{{ image.src }}" itemprop="contentUrl" data-size="{{ image.width }}x{{ image.height }}">
           <img src="{{ image.src }}" itemprop="thumbnail" alt="{{ image.caption | strip_html}}" />
       </a>
       <figcaption itemprop="caption description">{{ image.caption | markdownify }}</figcaption>

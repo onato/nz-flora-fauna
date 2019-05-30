@@ -18,17 +18,31 @@ attributes:
   - Tutu
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/9329/Coriaria_arborea__Tutu-15.JPG
+  width: 800
+  height: 450
   caption: Coriaria arborea.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/9334/Coriaria_arborea__Tutu-16.JPG
+  width: 800
+  height: 601
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/9344/Coriaria_arborea__Tutu-18.JPG
+  width: 600
+  height: 800
   caption: Coriaria arborea flowers.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/9609/Coriaria_arborea__Tutu_.JPG
+  width: 1600
+  height: 1198
   caption: Fruit forming.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6249/Coriaria_arborea__Tutu-001.JPG
+  width: 1600
+  height: 1298
   caption: Coriaria arborea berries.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9834/Coriaria_arborea__Tutu.JPG
+  width: 1024
+  height: 768
   caption: The upper surface of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9829/Coriaria_arborea__Tutu-001.JPG
+  width: 1024
+  height: 769
   caption: The underside of a leaf.
 permalink: plants/trees/trees-native/coriaria_arborea.html
 layout: page

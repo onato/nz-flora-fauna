@@ -21,18 +21,32 @@ attributes:
   - Pahautea
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6629/Libocedrus_bidwillii__Native_Cedar__Pahautea.JPG
+  width: 1071
+  height: 1600
   caption: Photographed roadside North Egmont road.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/9099/Libocedrus_bidwillii.Mountian_cedar.Mountian_cedar__Kaikawaka_Pahautea-5.JPG
+  width: 600
+  height: 800
   caption: A  Libocedrus bidwillii with the typical pyramidal shape. Photographed
     Westcoast, South Island
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6619/Libocedrus_bidwillii__Native_Cedar__Pahautea-007.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6624/Libocedrus_bidwillii__Native_Cedar__Pahautea..JPG
+  width: 600
+  height: 450
   caption: Brown opened seed cones.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/9774/Libocedrus_bidwillii_trunk__Mountain_cedar-5.JPG
+  width: 600
+  height: 800
   caption: Libocedrus bidwillii trunk.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/9104/Libocedrus_bidwillii.Mountian_cedar.Mountian_cedar__Kaikawaka_Pahautea.JPG
+  width: 600
+  height: 800
   caption: A juvenile tree.
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/map%20MT%20Cedar.gif
+  width: 286
+  height: 402
   caption: A distribution map of Libocedrus bidwillii by L.Metcalf 2002
 permalink: plants/trees/trees-native/libocedrus_bidwillii.html
 layout: page

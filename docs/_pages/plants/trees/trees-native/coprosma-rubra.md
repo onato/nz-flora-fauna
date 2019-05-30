@@ -20,14 +20,24 @@ attributes:
   synonym: Coprosma rubra var. Pendula
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3544/Coprosma_rubra-006.JPG
+  width: 1600
+  height: 1200
   caption: Photographed at Otari Wilton Bush Reserve, Wellington
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2958/coprosma_rubra-001.JPG
+  width: 1600
+  height: 1200
   caption: Photographed at Otari Wilton Bush Reserve, Wellington
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3539/Coprosma_rubra-005.JPG
+  width: 1024
+  height: 766
   caption: Photographed at Otari Wilton Bush Reserve, Wellington
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2963/coprosma_rubra-002.JPG
+  width: 1024
+  height: 768
   caption: Photographed at Otari Wilton Bush Reserve, Wellington
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2968/coprosma_rubra-004.JPG
+  width: 800
+  height: 601
   caption: Photographed at Otari Wilton Bush Reserve, Wellington
 permalink: plants/trees/trees-native/coprosma_rubra.html
 layout: page

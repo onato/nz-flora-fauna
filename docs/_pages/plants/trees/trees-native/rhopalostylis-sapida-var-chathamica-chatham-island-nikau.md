@@ -23,6 +23,8 @@ attributes:
 images:
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-ChathamsNikau267.jpg
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5098/1-1-Chatham_Island_Nikau_a.JPG
+  width: 598
+  height: 800
   caption: A young palm growing the undergrowth in the Chatam Islands.
 permalink: plants/trees/trees-native/rhopalostylis_sapida_var_chathamica.html
 layout: page

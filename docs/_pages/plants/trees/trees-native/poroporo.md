@@ -20,19 +20,37 @@ attributes:
   - Poroporo
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4419/Solanum_laciniatum__Poroporo-004.JPG
+  width: 1600
+  height: 1203
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4424/Solanum_laciniatum__Poroporo-014.JPG
+  width: 2000
+  height: 1339
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/8849/Solanum_laciniatum__Poroporo-3.JPG
+  width: 600
+  height: 800
   caption: Young Solanum laciniatum plant
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4434/Solanum_laciniatum__Poroporo-016.JPG
+  width: 2000
+  height: 1502
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/8844/Solanum_laciniatum__Poroporo-1.JPG
+  width: 800
+  height: 600
   caption: The Poroporo flower with a native bee.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/6094/Solanum_laciniatum__poroporo.JPG
+  width: 800
+  height: 600
   caption: The green berries of the Poroporo just turning yellow.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4414/Solanum_laciniatum__Poroporo-002.JPG
+  width: 2000
+  height: 1501
   caption: Ripe fruit.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4444/Solanum_laciniatum__Poroporo-042.JPG
+  width: 2000
+  height: 1500
   caption: Variation of leaf shapes.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4439/Solanum_laciniatum__Poroporo-040.JPG
+  width: 2000
+  height: 1501
   caption: The underside of a leaf.
 permalink: plants/trees/trees-native/solanum_laciniatum.html
 layout: page

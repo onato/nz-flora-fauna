@@ -19,36 +19,62 @@ attributes:
   - Shining broadleaf
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3688/Griselinia_lucida_vine_on_Tawa_tree__Te_Henui_Walkway_19-10-2009_9-33-31_p.m..jpg
+  width: 501
+  height: 651
   caption: Griselinia lucida vine on Tawa tree. See rata vine on right side bottom
     of the trunk. Griselinia lucida usually starts in a nest of epiphytes or in a
     branch fork. After a while, it will send a root to the ground. When developed
     it has distinctive longitudinal ridges.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/6469/A_fallen_tree_with_Griselinia_lucida_vine.JPG
+  width: 1200
+  height: 675
   caption: This is the same vine as above photo with the fallen host tree which collapsed
     after strong winds January 2011. This old Tawa had an epiphytic Grisellinia crown,
     a very old Rata vine, Perching lilies and a Pukatea are growing on it.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3703/Griselinia_lucida__on_top_of_Tawa_tree.jpg
+  width: 2000
+  height: 2988
   caption: An old Tawa tree covered with epiphytic plants,  Griselinia lucida, rata
     vine and a perching lily. .By clicking on the image below and loading a larger
     photo three species of epiphytes can be seen
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5489/Griselinia_lucida__Shining_broadleaf_Akapuka_.__188_.JPG
+  width: 2500
+  height: 1875
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5474/Griselinia_lucida__Shining_broadleaf_Akapuka_.__184_.JPG
+  width: 1024
+  height: 769
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1213/1-Griselinia_lucida_flowers_male.JPG
+  width: 1200
+  height: 1600
   caption: Male flower arrangement. Ther male and female flowers are on different
     plants.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3728/Griselinia_lucida_flowers.JPG
+  width: 814
+  height: 564
   caption: Griselinia lucida male buds and flowers.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2568/Griselinia_lucida-004.JPG
+  width: 600
+  height: 451
   caption: The male flower of Griselinia lucida
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1218/1-Griselinia_lucida_male_flower.JPG
+  width: 600
+  height: 452
   caption: Male flower.
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-grisel_luc_fem8(PS).jpg
+  width: 800
+  height: 548
   caption: A mature female flower.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5174/Griselinia_lucida__Shining_broadleaf_-003.JPG
+  width: 800
+  height: 602
   caption: A young leaf
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5479/Griselinia_lucida__Shining_broadleaf_Akapuka_.__185_.JPG
+  width: 1024
+  height: 770
   caption: A Griselinia lucida adult leaf
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5484/Griselinia_lucida__Shining_broadleaf_Akapuka_.__187_.JPG
+  width: 1024
+  height: 769
   caption: The underside of a leaf.
 permalink: plants/trees/trees-native/griselinia_lucida.html
 layout: page

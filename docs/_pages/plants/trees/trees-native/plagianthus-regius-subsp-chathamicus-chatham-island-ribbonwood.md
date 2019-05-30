@@ -21,9 +21,17 @@ attributes:
   - Chatham Island ribbonwood
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5108/1-Plagianthus_regius_subsp._chathamicus.JPG
+  width: 897
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5123/1-Plagianthus_regius_subsp._chathamicus-002.JPG
+  width: 897
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5113/1-Plagianthus_regius_subsp._chathamicus-001.JPG
+  width: 897
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5118/1-Plagianthus_regius_subsp._chathamicus-003.JPG
+  width: 640
+  height: 491
   caption: The small flowers.
 permalink: plants/trees/trees-native/plagianthus_regius_subsp_chathamicus.html
 layout: page

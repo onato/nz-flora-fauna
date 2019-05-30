@@ -19,24 +19,46 @@ attributes:
   - Totorowhiti
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/0443/Dracophyllum_strictum__Totorowhiti-002.JPG
+  width: 1600
+  height: 1200
   caption: Photographed at Pukekura Park, New Plymouth in October.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/0438/Dracophyllum_strictum__Totorowhiti-001.JPG
+  width: 1600
+  height: 1200
   caption: Photographed at Pukekura Park, New Plymouth in October.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4539/Dracophyllum_strictum.JPG
+  width: 1600
+  height: 1200
   caption: Dracophyllum strictum in flower July.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4529/Dracophyllum_strictum-001.JPG
+  width: 1024
+  height: 766
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6219/Dracophyllum_strictum__Totorowhiti__Grass_Tree-003.JPG
+  width: 1024
+  height: 769
   caption: Photographed early November.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4534/Dracophyllum_strictum-004.JPG
+  width: 1600
+  height: 1203
   caption: The leaf structure.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6189/Dracophyllum_strictum__Totorowhiti__Grass_Tree-001.JPG
+  width: 1600
+  height: 1201
   caption: Photographed at Otari Wilton Bush Reserve.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6214/Dracophyllum_strictum__Totorowhiti__Grass_Tree-002.JPG
+  width: 1200
+  height: 898
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6199/Dracophyllum_strictum__Totorowhiti__Grass_Tree-006.JPG
+  width: 1200
+  height: 901
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6064/1-Dracophyllum_strictum__Totorowhiti.JPG
+  width: 1200
+  height: 901
   caption: The plant below is growing in the  Te Kainga Marire Gardens. Photographed
     mid-June.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6069/1-Dracophyllum_strictum__Totorowhiti-001.JPG
+  width: 1024
+  height: 770
 permalink: plants/trees/trees-native/dracophyllum_strictum.html
 layout: page
 title: Dracophyllum strictum (Totorowhiti)

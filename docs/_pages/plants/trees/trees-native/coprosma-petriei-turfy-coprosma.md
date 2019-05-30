@@ -24,6 +24,8 @@ attributes:
   - Mirrorplant
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5964/Coprosma_petriei.__127_.JPG
+  width: 800
+  height: 600
   caption: Photographed at Otari Wilton Bush Reserve
 permalink: plants/trees/trees-native/coprosma_petriei.html
 layout: page

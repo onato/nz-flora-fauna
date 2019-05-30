@@ -24,19 +24,35 @@ attributes:
   - piriraki
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4719/Alepis_flavida_fruit__Yellow_mistletoe-3.JPG
+  width: 1024
+  height: 769
   caption: Alepis flavida with fruit growing through a hosts canopy.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4734/Alepis_flavida__Yellow_mistletoe-17.JPG
+  width: 1024
+  height: 769
   caption: The parasitic Alepis flavida attached to a hosts branch
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4724/Alepis_flavida__Yellow_mistletoe-2.JPG
+  width: 1024
+  height: 771
   caption: Another parasitic Alepis flavida attached to a hosts branch
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4714/Alepis_flavida_fruit__Yellow_mistletoe-1.JPG
+  width: 1024
+  height: 768
   caption: Green and ripe orange fruit mid-March
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4709/Alepis_flavida_fruit__Yellow_mistletoe.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4729/Alepis_flavida__Yellow_mistletoe-8.JPG
+  width: 800
+  height: 600
   caption: The leaves sit in pairs on opposite sides of the stem.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4739/Alepis_flavida__Yellow_mistletoe-021.JPG
+  width: 800
+  height: 603
   caption: The leaf with a red margin.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/4088/1-Alepis_flavida.jpg
+  width: 850
+  height: 1092
 permalink: plants/trees/trees-native/alepis_flavida.html
 layout: page
 title: Alepis flavida (Yellow mistletoe)

@@ -21,8 +21,12 @@ attributes:
   - Griselinia 'Green Jewel'
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6979/Griselinia_littoralis___Green_jewel_-005.JPG
+  width: 1600
+  height: 1199
   caption: Photographed atthe New Plymouth airport.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6974/Griselinia_littoralis___Green_jewel_-003.JPG
+  width: 1600
+  height: 1200
 permalink: plants/trees/trees-native/griselinia_littoralis_'green_jewel'.html
 layout: page
 title: Griselinia littoralis 'Green Jewel'

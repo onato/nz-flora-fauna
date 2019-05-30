@@ -20,11 +20,19 @@ attributes:
   - Kaikawaka
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6294/Libocedrus_plumosa__Kawaka__Kaikawaka.JPG
+  width: 1200
+  height: 1600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6279/Libocedrus_plumosa__Kawaka__Kaikawaka-001.JPG
+  width: 800
+  height: 600
   caption: Foliage showing flat sprays.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6284/Libocedrus_plumosa__Kawaka__Kaikawaka-002.JPG
+  width: 800
+  height: 600
   caption: The underside of the leaf fans.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6289/Libocedrus_plumosa__Kawaka__Kaikawaka-003.JPG
+  width: 800
+  height: 600
   caption: The thin, scaly, peeling bark.
 permalink: plants/trees/trees-native/libocedrus_plumose.html
 layout: page

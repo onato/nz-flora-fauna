@@ -23,13 +23,23 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7864/Pisonia_brunoniana_%E2%80%98Variegata%E2%80%99.JPG
   caption: The variegated form P. brunoniana 'Variegata' is growing on the Horton
     Walk in Pukekura Park, New Plymouth.
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/9894/Pisonia_brunoniana__Variegata_-001.JPG
+  width: 1200
+  height: 900
   caption: Flowering January.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/9899/Pisonia_brunoniana__Variegata_-004.JPG
+  width: 800
+  height: 601
   caption: The flower.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7854/Pisonia_brunoniana_%E2%80%98Variegata%E2%80%99-001.JPG
+  width: 800
+  height: 601
   caption: Topside of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7859/Pisonia_brunoniana_%E2%80%98Variegata%E2%80%99-002.JPG
+  width: 800
+  height: 600
   caption: The underside of a leaf.
 permalink: plants/trees/trees-native/pisonia_brunoniana_'variegata'.html
 layout: page

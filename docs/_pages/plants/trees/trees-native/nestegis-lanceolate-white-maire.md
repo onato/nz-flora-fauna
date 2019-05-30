@@ -21,10 +21,16 @@ attributes:
   - White maire
 images:
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Nestegis_lanceolata_wikipedia.JPG
+  width: 804
+  height: 1024
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7869/Nestegis_lanceolate_White_maire._20.jpg
+  width: 800
+  height: 601
   caption: Photos were below taken at Otari Native Botanic Garden and Wilton's Bush
     Reserve. Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7874/Nestegis_lanceolate_White_maire.__147_.JPG
+  width: 601
+  height: 800
   caption: The trunk.
 permalink: plants/trees/trees-native/nestegis_lanceolata.html
 layout: page

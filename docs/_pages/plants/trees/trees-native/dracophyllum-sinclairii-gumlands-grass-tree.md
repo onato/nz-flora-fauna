@@ -25,8 +25,14 @@ attributes:
   - Gumlands grass tree,
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3628/Dracophyllum_sinclairii__2_.jpg
+  width: 600
+  height: 480
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3638/Dracophyllum_sinclairii__3_.jpg
+  width: 600
+  height: 480
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3633/Dracophyllum_sinclairii__1_.jpg
+  width: 600
+  height: 480
   caption: The growing tip.
 permalink: plants/trees/trees-native/dracophyllum_sinclairii.html
 layout: page

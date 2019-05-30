@@ -22,9 +22,13 @@ attributes:
     Silver Pine).
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5299/Halocarpus_kirkii__Monoao-003.JPG
+  width: 900
+  height: 1200
   caption: Young tree photographed at Otari Native Botanic Garden and Wilton's Bush
     Reserve. Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5304/Halocarpus_kirkii__Monoao-001.JPG
+  width: 1024
+  height: 768
 permalink: plants/trees/trees-native/halocarpus_kirkii.html
 layout: page
 title: Halocarpus kirkii (Kirk's pine)

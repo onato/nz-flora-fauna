@@ -23,28 +23,52 @@ attributes:
     drink)
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/5873/ManukaFlowers__Leptospermum_scoparium_-dec5.jpg
+  width: 800
+  height: 600
   caption: White star-shaped Manuka flowers are borne prolifically for many months
     from spring - bees love them!
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0754/manuka__Leptospermum__scoparium-3.JPG
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/9044/Leptospermum_scoparium__Manuka.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6284/Leptospermum_scoparium__Manuka-002.JPG
+  width: 800
+  height: 602
   caption: Early flower with green centre
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/9039/Leptospermum_scoparium__Manuka-001.JPG
+  width: 1600
+  height: 1200
   caption: A late flower red centre. Manuka flowers stamens are shorter than the petals.
     Kanuka stamens are longer than the petals.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6289/Leptospermum_scoparium__Manuka-003.JPG
+  width: 800
+  height: 599
   caption: Underneath the flower showing the receptacle.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6279/Leptospermum_scoparium__Manuka-001.JPG
+  width: 600
+  height: 451
   caption: A developing seed capsule, The petals have just dropped off.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1964/Leptospermum_scoparium__Manuka_-002.JPG
+  width: 900
+  height: 1200
   caption: Seed capsules.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6274/Leptospermum_scoparium__Manuka.JPG
+  width: 800
+  height: 601
   caption: A seed capsule
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6299/Leptospermum_scoparium__Manuka-005.JPG
+  width: 800
+  height: 602
   caption: Manuka leaves
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6304/Leptospermum_scoparium__Manuka-006.JPG
+  width: 800
+  height: 600
   caption: Underside of leaf
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6309/Leptospermum_scoparium__Manuka-007.JPG
+  width: 900
+  height: 1200
   caption: Adult trunk
 permalink: plants/trees/trees-native/leptospermum_scoparium.html
 layout: page

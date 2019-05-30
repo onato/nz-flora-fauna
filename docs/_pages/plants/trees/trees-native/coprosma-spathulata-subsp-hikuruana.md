@@ -20,8 +20,12 @@ attributes:
   binomial name: Coprosma spathulata subsp. Hikuruana
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2988/Coprosma_spathulata_var._hikuruana-002.JPG
+  width: 600
+  height: 450
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2993/Coprosma_spathulata_var._hikuruana-004.JPG
+  width: 800
+  height: 602
   caption: The flattened spoon like leaf.
 permalink: plants/trees/trees-native/coprosma_spathulata_subsp_hikuruana.html
 layout: page

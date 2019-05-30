@@ -17,9 +17,17 @@ attributes:
   binomial name: Coprosma serrulata
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6134/Coprosma_serrulata__-004.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6129/Coprosma_serrulata__.JPG
+  width: 1024
+  height: 770
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6139/Coprosma_serrulata__-002.JPG
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6124/Coprosma_serrulata-002.JPG
+  width: 600
+  height: 450
   caption: Photo showing the pistils of the female flowers.
 permalink: plants/trees/trees-native/coprosma_serrulata.html
 layout: page

@@ -20,20 +20,32 @@ attributes:
   binomial name: Coprosma virescens
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4524/Coprosma_virescens-002.JPG
+  width: 768
+  height: 1024
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3779/Coprosma_virescens-001.JPG
+  width: 900
+  height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3784/Coprosma_virescens-002.JPG
+  width: 1024
+  height: 768
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4529/Coprosma_virescens-003.JPG
+  width: 800
+  height: 600
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4539/Coprosma_virescens-005.JPG
+  width: 800
+  height: 598
   caption: Leaves with unusual growths on the mid-vein.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4534/Coprosma_virescens-004.JPG
+  width: 800
+  height: 599
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
 permalink: plants/trees/trees-native/coprosma_virescens.html

@@ -18,7 +18,8 @@ attributes:
   common names: Prostrate marble leaf.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3284/Carpodetus_serratus_prostrate__Prostrate_marble_leaf.jpg.JPG
-  caption: ''
+  width: 600
+  height: 450
 permalink: plants/trees/trees-native/carpodetus_serratus_prostrate.html
 layout: page
 title: Carpodetus serratus prostrate (Prostrate marble leaf)

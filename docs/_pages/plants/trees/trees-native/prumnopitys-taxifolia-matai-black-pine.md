@@ -21,23 +21,39 @@ attributes:
   - Black Yew Pine
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8684/Prumnopitys_taxifolia__matai_._Black_pine-003.JPG
+  width: 1200
+  height: 1600
   caption: Photographed at Burgess Park.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8704/Prumnopitys_taxifolia__matai_._Black_pine-014.JPG
+  width: 1200
+  height: 901
   caption: Adult leaves.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8699/Prumnopitys_taxifolia__matai_._Black_pine-010.JPG
+  width: 1024
+  height: 770
   caption: The top surface of adult leaves.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8694/Prumnopitys_taxifolia__matai_._Black_pine-008.JPG
+  width: 1200
+  height: 900
   caption: The underside of adult leaves.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8799/Prumnopitys_taxifolia__matai__Black_pine.JPG
+  width: 1600
+  height: 1200
   caption: Matai bark comes off in thick flakes leave bark below that is bright red.
     As this bark gets older it turns brown, Green crustose lichen is covering the
     old bark.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8804/Prumnopitys_taxifolia__matai__Black_pine-001.JPG
+  width: 1600
+  height: 1200
   caption: Another photo higher up the trunk.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8719/Prumnopitys_taxifolia__matai_-001.JPG
+  width: 899
+  height: 1200
   caption: A juvenile stage, Photographed at Otari Native Botanic Garden and Wilton's
     Bush Reserve. Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8714/Prumnopitys_taxifolia__matai_-002.JPG
+  width: 1200
+  height: 900
 permalink: plants/trees/trees-native/prumnopitys_taxifolia.html
 layout: page
 title: Prumnopitys taxifolia (Matai, Black pine)

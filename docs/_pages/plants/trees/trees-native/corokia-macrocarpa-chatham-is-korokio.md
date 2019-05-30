@@ -20,8 +20,12 @@ attributes:
   - Whakataka
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2528/Corokia_macrocarpa__Chatham_Is_Korokio____2_.JPG
+  width: 1200
+  height: 1600
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2523/Corokia_macrocarpa__Chatham_Is_Korokio____1_.JPG
+  width: 1024
+  height: 769
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
 permalink: plants/trees/trees-native/corokia_macrocarpa.html
 layout: page

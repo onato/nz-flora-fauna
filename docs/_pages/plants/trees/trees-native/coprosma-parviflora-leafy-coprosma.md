@@ -19,10 +19,16 @@ attributes:
   common name: Leafy coprosma
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3834/Coprosma_parviflora__Leafy_coprosma-005.JPG
+  width: 1200
+  height: 900
   caption: Photographed at Otari Wilton Bush Reserve. Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3839/Coprosma_parviflora__Leafy_coprosma-006.JPG
+  width: 900
+  height: 1200
   caption: In some plants, the leafy branches form more or less flattened plane.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3829/Coprosma_parviflora__Leafy_coprosma-003.JPG
+  width: 800
+  height: 601
   caption: Closeup of the variable leaves.
 permalink: plants/trees/trees-native/coprosma_parviflora.html
 layout: page

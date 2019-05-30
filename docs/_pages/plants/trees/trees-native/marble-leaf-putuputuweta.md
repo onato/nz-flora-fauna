@@ -21,26 +21,50 @@ attributes:
   - Bucket of Water tree.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/0233/Carpodetus_serratus_-_putaputaweta__marbleleaf-001.JPG
+  width: 1600
+  height: 1200
   caption: A mature tree in the Christchurch Botanical Gardens Photographed November.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7319/Carpodeus_serratus___Marble_Leaf__Putaputaweta_-003.JPG
+  width: 1200
+  height: 1600
   caption: A small shrub.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/0228/Carpodetus_serratus_-_putaputaweta__marbleleaf.JPG
+  width: 1600
+  height: 1200
   caption: Flowering November.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/0238/Carpodetus_serratus_-_putaputaweta__marbleleaf-002.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1239/Putaputaweta__Carpodeus_serratus-5.JPG
+  width: 1024
+  height: 768
   caption: The flowers just after pollen stage and they are loosing petals. Black
     fruits then develop.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1234/Putaputaweta__Carpodeus_serratus-4.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5574/marble_leaf__Carpodeus_serratus__Putuputuweta-4.JPG
+  width: 800
+  height: 537
   caption: Late juvenile stage.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5584/Carpodeus_serratus_juvenile__Marble_Leaf__Putuputuweta.-2.JPG
+  width: 800
+  height: 600
   caption: The tangled zigzag pattern of branching of a juvenile tree.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7314/Carpodeus_serratus___Marble_Leaf__Putaputaweta_-001.JPG
+  width: 1200
+  height: 900
   caption: Adult leaves.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/0243/Carpodetus_serratus_-_putaputaweta__marbleleaf-003.JPG
+  width: 1024
+  height: 769
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/0248/Carpodetus_serratus_-_putaputaweta__marbleleaf-004.JPG
+  width: 1024
+  height: 768
   caption: The veins on the underside of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/0253/Carpodetus_serratus_-_putaputaweta__marbleleaf-005.JPG
+  width: 900
+  height: 1200
   caption: The trunk of a mature tree. A scar can be seen where several limbs have
     been removed. Photographed at Christchurch Botanical Gardens.
 permalink: plants/trees/trees-native/carpodetus_serratus.html

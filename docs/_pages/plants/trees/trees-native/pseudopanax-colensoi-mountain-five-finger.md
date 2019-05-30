@@ -27,20 +27,40 @@ attributes:
   - Orihou
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/3973/1-Pseudopanax_colensoi_var._colensoi___Mountain_five_finger.JPG
+  width: 2000
+  height: 1500
   caption: Photographed Mt Taranaki / Egmont
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/3978/1-Pseudopanax_colensoi_var._colensoi___Mountain_five_finger-001.JPG
+  width: 2000
+  height: 1501
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4484/Pseudopanax_colensoi_var._colenoi_._colenoi__mountain_five_finger._colenoi__mountain_five_finger.JPG
+  width: 1600
+  height: 1198
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3334/Pseudopanex_colensoi__Mountain_five_finger.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6703/Psuedopandex_colensoi_var._colensni-001.JPG
+  width: 1200
+  height: 898
   caption: Inflorescences of female flowers
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4479/Pseudopanax_colensoi_var._colenoi_._colenoi__mountain_five_finger._colenoi__mountain_five_finger-003.JPG
+  width: 1600
+  height: 1200
   caption: The fruiting inflorescences (December)
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2779/Pseudopanax_colensoi__Mountain_five-finger___-003.JPG
+  width: 1600
+  height: 1203
   caption: The fruiting inflorescences (March)
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3329/Pseudopanex_colensoi__Mountain_five_finger-001.JPG
+  width: 800
+  height: 603
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2769/Pseudopanax_colensoi__Mountain_five-finger___-001.JPG
+  width: 600
+  height: 450
   caption: Adult leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5184/Pseudopanax_colensoi__Mountain_five_finger-002.JPG
+  width: 1200
+  height: 900
   caption: A young plant photographed at Otari Wilton Bush Reserve.
 permalink: plants/trees/trees-native/pseudopanax_colensoi_var_colensoi.html
 layout: page

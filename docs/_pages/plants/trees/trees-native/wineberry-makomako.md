@@ -20,23 +20,45 @@ attributes:
   - Makomako
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1518/Aristotelia_serrata__wineberry.JPG
+  width: 1024
+  height: 769
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1523/Aristotelia_serrata__wineberry-001.JPG
+  width: 1024
+  height: 770
   caption: Flowering November.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/6774/Aristotelia_serrata__Wineberry__Makomako-008.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5224/Aristotelia_serrata__Wineberry__Makomako-002.JPG
+  width: 800
+  height: 603
   caption: Male flowers.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5234/Aristotelia_serrata__Wineberry__Makomako-003.JPG
+  width: 640
+  height: 481
   caption: A male flower which has short stamens that open to release pollen.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1414/leaf_of_Aristotelia_serrata__Makomako_wineberry_Aristotelia_serrata-001.JPG
+  width: 1024
+  height: 768
   caption: A young tree.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/6779/Aristotelia_serrata__Wineberry__Makomako-009.JPG
+  width: 800
+  height: 602
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1419/leaf_of_Aristotelia_serrata__Makomako_wineberry_Aristotelia_serrata-002.JPG
+  width: 1024
+  height: 768
   caption: The underside of the Wineberry leaves.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5254/Aristotelia_serrata__Wineberry__Makomako-004.jpg
+  width: 640
+  height: 512
   caption: Closeup of the underside of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1533/Aristotelia_serrata__wineberry-003.JPG
+  width: 1024
+  height: 770
   caption: Two sharp pointed buds at leaf axis.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5244/Aristotelia_serrata__Wineberry__Makomako-005.JPG
+  width: 1200
+  height: 901
   caption: The trunk.
 permalink: plants/trees/trees-native/aristotelia_serrata.html
 layout: page

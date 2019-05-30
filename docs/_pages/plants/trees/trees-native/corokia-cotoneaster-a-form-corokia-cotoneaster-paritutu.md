@@ -32,15 +32,27 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5933/Corokia_cotoneaster_%E2%80%98Paritutu%E2%80%99-001.JPG
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5938/Corokia_cotoneaster_%E2%80%98Paritutu%E2%80%99-002.JPG
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/7943/Corokia_cotoneaster_-_The_Paritutu_Korokio-002.JPG
+  width: 800
+  height: 602
   caption: The characteristic yellow-orange drupes of the Paritutu korokio.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/7953/Corokia_cotoneaster_-_The_Paritutu_Korokio-004.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/7938/Corokia_cotoneaster_-_The_Paritutu_Korokio-001.JPG
+  width: 1024
+  height: 768
   caption: The dark branches.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/7958/Corokia_cotoneaster_-_The_Paritutu_Korokio-005.JPG
+  width: 1200
+  height: 902
   caption: The leaves.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/7963/Corokia_cotoneaster_-_The_Paritutu_Korokio-006.JPG
+  width: 1024
+  height: 768
   caption: The underside of the leaves showing the thick tomentose.
-- src: uploads/images/Te%20Henui/Trees/Paratutu.jpg
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Paratutu.jpg
+  width: 800
+  height: 493
   caption: Photo of the inland side of Paritutu rock where there is a colony of Corokia
     cotoneaster ‘Paritutu’
 permalink: plants/trees/trees-native/corokia_cotoneaster.html

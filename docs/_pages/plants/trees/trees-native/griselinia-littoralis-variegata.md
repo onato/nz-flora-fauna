@@ -22,6 +22,8 @@ attributes:
   - Griselinia 'Variegata'
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8709/Griselina_littoralis_variegata.JPG
+  width: 800
+  height: 600
   caption: Leaves of a small shrub.
 permalink: plants/trees/trees-native/griselinia_littoralis_'variegata'.html
 layout: page

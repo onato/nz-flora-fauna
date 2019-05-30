@@ -25,10 +25,16 @@ images:
   caption: A tree growing on the campus of the University of Auckland, Auckland, New
     Zealand.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6924/Metrosideros_bartlettii__Bartletts_rata-001.JPG
+  width: 1198
+  height: 1600
   caption: A young tree growing at Otari Wilton Bush Reserve, Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6929/Metrosideros_bartlettii__Bartletts_rata-003.JPG
+  width: 1024
+  height: 768
   caption: The top surface of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6934/Metrosideros_bartlettii__Bartletts_rata-004.JPG
+  width: 1024
+  height: 770
   caption: The underside of a leaf.
 permalink: plants/trees/trees-native/metrosideros_bartlettii.html
 layout: page

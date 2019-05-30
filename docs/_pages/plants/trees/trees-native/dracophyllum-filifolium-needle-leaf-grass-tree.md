@@ -21,12 +21,18 @@ attributes:
   - Turpentine scrub (because of its readiness to burn even when green)
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6169/Dracophyllum_filifolium__Needle-leaf_Grass_Tree-001.JPG
+  width: 1600
+  height: 1201
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6174/Dracophyllum_filifolium__Needle-leaf_Grass_Tree-002.JPG
+  width: 1200
+  height: 900
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3989/Dracophyllum_filifolium___needle-leaf__grass_tree-004.JPG
+  width: 768
+  height: 1024
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
 permalink: plants/trees/trees-native/dracophyllum_filifolium.html

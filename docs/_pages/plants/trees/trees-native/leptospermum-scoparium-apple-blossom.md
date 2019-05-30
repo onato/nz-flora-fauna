@@ -25,8 +25,12 @@ attributes:
   - Apple Blossom' Tee Tree
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/7788/1-Leptospermum_scoparium_Apple_Blossom_.JPG
+  width: 1600
+  height: 1203
   caption: A mature shrub.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/7793/1-Leptospermum_scoparium_Apple_Blossom_-004.JPG
+  width: 1200
+  height: 903
   caption: The double flowers of  Leptospermum 'Apple Blossom'.
 permalink: plants/trees/trees-native/leptospermum_scoparium.html
 layout: page

@@ -21,17 +21,33 @@ attributes:
   - perching Kohuhu.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9483/Pittosporum_cornifolium-018.JPG
+  width: 1200
+  height: 1600
   caption: Photographed at Te Kainga Marire Native Garden, New Plymouth in mid-September.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9523/Pittosporum_cornifolium__Tawhirikaro__Perching_Kohuhu__2_.JPG
+  width: 1024
+  height: 769
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9528/Pittosporum_cornifolium__Tawhirikaro__Perching_Kohuhu__3_.JPG
+  width: 800
+  height: 603
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9463/Pittosporum_cornifolium.JPG
+  width: 1024
+  height: 769
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9518/Pittosporum_cornifolium__Tawhirikaro__Perching_Kohuhu__1_.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6229/Piitosporum_cornifolium___Tawhirikaro__perching_Kohuhu__2_.JPG
+  width: 900
+  height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6224/Piitosporum_cornifolium___Tawhirikaro__perching_Kohuhu__1_.JPG
+  width: 1024
+  height: 770
   caption: The leaves in a whorl (verticil)
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6219/Piitosporum_cornifolium___Tawhirikaro__perching_Kohuhu.JPG
+  width: 1024
+  height: 771
   caption: The underside of a leaf.
 permalink: plants/trees/trees-native/pittosporum_cornifolium.html
 layout: page

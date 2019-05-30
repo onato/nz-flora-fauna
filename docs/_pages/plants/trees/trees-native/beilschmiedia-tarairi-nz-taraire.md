@@ -28,9 +28,15 @@ images:
   caption: The thick branches of an adult tree
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Taraire%20drupes%20wikipedia-1.jpg
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2514/Bellschmedia_taraire__NZ_Taraire.JPG
+  width: 768
+  height: 1024
   caption: A young N.Z. Taraire
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2519/Bellschmedia_taraire__NZ_Taraire-006.JPG
+  width: 800
+  height: 602
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2524/Bellschmedia_taraire__NZ_Taraire-007.JPG
+  width: 800
+  height: 602
   caption: The underside of a leaf
 permalink: plants/trees/trees-native/beilschmiedia_tarairi.html
 layout: page

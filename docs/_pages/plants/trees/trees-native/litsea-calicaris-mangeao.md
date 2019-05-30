@@ -27,10 +27,16 @@ images:
   caption: A Litsea calicaris growing in the grounds of Penrose High School, Auckland,
     New Zealand
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6659/Litsea_calicaris__Mangeao_-003.JPG
+  width: 1600
+  height: 1200
   caption: A small tree growing at Otari Wilton Bush Botanical Reserve.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6654/Litsea_calicaris__Mangeao_-002.JPG
+  width: 1024
+  height: 767
   caption: The leaves of the mangeao have prominent veins.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6669/Litsea_calicaris__Mangeao_-005.JPG
+  width: 600
+  height: 451
   caption: The underside of a leaf that is a bluish-green colour.
 permalink: plants/trees/trees-native/litsea_calicaris.html
 layout: page

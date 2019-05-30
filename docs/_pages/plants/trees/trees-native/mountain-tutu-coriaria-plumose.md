@@ -25,10 +25,16 @@ attributes:
   - small-leaved tutu
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3619/Coriaria_plumosa__tutu-papa-001.JPG
+  width: 1200
+  height: 900
   caption: Photographed at Otari Native Botanic Garden and Wilton''s Bush Reserve.
     Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3609/Coriaria_plumosa__tutu-papa-002.JPG
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/9329/Coriaria_arborea__Tutu-15.JPG
+  width: 800
+  height: 450
 permalink: plants/trees/trees-native/coriaria_plumosa.html
 layout: page
 title: Coriaria plumosa (Mountain Tutu)

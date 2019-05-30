@@ -26,12 +26,22 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2324/Melicytus_obovatus_ssp_%E2%80%9CCoast%E2%80%9D-002.JPG
   caption: Green berries turning a dark purple late March.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3564/Melicytus_obovatus-002.JPG
+  width: 800
+  height: 599
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3569/Melicytus_obovatus-003.JPG
+  width: 800
+  height: 598
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3508/Melicytus_obovatus-006.JPG
+  width: 1024
+  height: 769
   caption: Flowers of Melicytus obovatus.  Photographed September at Te Kainga Marire
     Garden, New Plymouth.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3498/Melicytus_obovatus-002.JPG
+  width: 1200
+  height: 902
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3503/Melicytus_obovatus-007.JPG
+  width: 600
+  height: 451
 permalink: plants/trees/trees-native/melicytus_orarius.html
 layout: page
 title: Melicytus orarius

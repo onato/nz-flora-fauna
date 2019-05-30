@@ -33,29 +33,53 @@ attributes:
   - Mirror plant.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7819/Coprosma_repens_Taupata__Mirror_Bush_naupata-008.JPG
+  width: 1200
+  height: 900
   caption: Trees planted New Plymouth harbour area.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/2968/Taupata__Coprosma_repens__by_Regina_Baumert.jpg
+  width: 659
+  height: 878
   caption: A Coprosma repens growing on a seaside cliff
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2548/Coprosma_repens__Taupata-001.JPG
+  width: 1200
+  height: 900
   caption: Male flower buds and male flowers.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2558/Coprosma_repens__Taupata-003.JPG
+  width: 1200
+  height: 901
   caption: ''
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7814/Coprosma_repens_Taupata__Mirror_Bush_naupata-007.JPG
+  width: 800
+  height: 603
   caption: The top surface of the leaves and a few female flowers can be seen bottom
     right.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3938/Female_flowers_Coprosma_repens__Taupata.JPG
+  width: 1600
+  height: 1200
   caption: Female flowers with last years fruit.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3879/Coprosma_repens_female_flowers.JPG
+  width: 800
+  height: 600
   caption: ''
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1534/Coprosma_repens__Taupata-001.JPG
+  width: 1024
+  height: 768
   caption: Ripe fruit.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5219/Coprosma_repens_Taupata-010.JPG
+  width: 1024
+  height: 767
   caption: The top surface of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3943/Coprosma_repens__Taupata-001.JPG
+  width: 1024
+  height: 769
   caption: he underside of a leaf.  Notice the domatia.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4024/Coprosma_repens_domatia_.JPG
+  width: 901
+  height: 1200
   caption: Coprosma repens domatia  (plant cavities) on underside of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3884/Coprosma_repens_short_stipule_and_small_glands.JPG
+  width: 432
+  height: 324
   caption: The distinctive short stipule and many small glands.
 permalink: plants/trees/trees-native/coprosma_repens.html
 layout: page

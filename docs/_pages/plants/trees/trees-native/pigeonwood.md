@@ -24,25 +24,41 @@ attributes:
   - Poporokaiwhiri
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1573/1-Pigeonwood__Hedycarya_arborea-1.JPG
+  width: 1124
+  height: 2000
   caption: ''
-- src: uploads/images/Te%20Henui/Trees/1-1-Hedycarya_arborea_2.jpg
-  caption: ''
-- src: uploads/images/Te%20Henui/Trees/1-Pigeonwood__Hedycarya_arborea-001.jpg
-  caption: ''
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-1-Hedycarya_arborea_2.jpg
+  width: 1200
+  height: 1008
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-Pigeonwood__Hedycarya_arborea-001.jpg
+  width: 1367
+  height: 2048
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1578/1-Hedycarya_arborea_pigeonwood-1.JPG
+  width: 2000
+  height: 1500
   caption: Fragrant male flowers/
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-11%20hedy_male3(PS).jpg
+  width: 800
+  height: 600
   caption: Closeup top view of a male flower. Green tepals surround a disc of sessile
     (have no stalk) stamens.
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-13%20hedy_femJ%20Braggins%20.jpg
+  width: 800
+  height: 598
   caption: The top view.of a fragrant female flower. Each ovary bears a fleshy conical
     style.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1583/1-Pigeonwood_green_berries__Hedycarya_arborea-2.JPG
+  width: 1200
+  height: 834
   caption: Green unripe berries on a female plant.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1613/1-Hedycarya_arborea.jpg
+  width: 1500
+  height: 1001
   caption: A photo of a tree with ripe berries taken 1st February on the Porirua walkway
     to Colonial knob (Wellington).
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1588/1-Pigeonwood_berries__Hedycarya_arborea-3.JPG
+  width: 800
+  height: 602
   caption: Green and ripe orange berries.
 permalink: plants/trees/trees-native/hedycarya_arborea.html
 layout: page

@@ -20,16 +20,26 @@ attributes:
   - Curved Leaved Mountain Neinie
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/2933/Dracophyllum_recurvum.jpg
+  width: 1024
+  height: 766
   caption: Photographed on the Tongariro Alpine Crossing January at an elevation of
     1780 m
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6184/Dracophyllum_recurvum-003.JPG
+  width: 600
+  height: 451
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3744/Dracophyllum_recurvum-004.JPG
+  width: 1024
+  height: 770
   caption: Flowering March.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3994/Dracophyllum_recurvum__Curved_leaved_mountain_neinei.JPG
+  width: 1024
+  height: 770
   caption: A prostrate form.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3999/Dracophyllum_recurvum__Curved_leaved_mountain_neinei-001.JPG
+  width: 800
+  height: 597
 permalink: plants/trees/trees-native/dracophyllum_recurvum.html
 layout: page
 title: Dracophyllum recurvum (Curved Leaf Grass Tree)

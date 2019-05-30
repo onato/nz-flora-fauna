@@ -23,26 +23,52 @@ attributes:
   - kauere.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3218/puriri__vitex_lucens.JPG
+  width: 600
+  height: 896
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8594/Vitex_lucens__Puriri_.JPG
+  width: 1024
+  height: 768
   caption: Puriri Flower (Flowers early winter to mid-spring).
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1544/Flower_of_Vitex_lucens__Puriri-2.JPG
+  width: 800
+  height: 601
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1539/Flower_of_Vitex_lucens__Puriri-1.JPG
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1244/Vitex_lucens___Puriri_leaves_and_flowers-1.JPG
+  width: 800
+  height: 602
   caption: Puriri Flower.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/0189/Vitex_lucens__Puriri_tree_berries.JPG
+  width: 2000
+  height: 1339
   caption: Berries February.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/3929/Vitex_lucens_fruit__Puriri-2.JPG
+  width: 800
+  height: 600
   caption: Puriri berries.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6724/Puriri_fruit__Vitex_lucens_.JPG
+  width: 800
+  height: 601
   caption: A fallen berry.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/3574/Leaves_on_young_Puriri__Vitex_lucens-1.JPG
+  width: 1200
+  height: 902
   caption: Leaves of the Puriri.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1549/Leaves_of_Vitex_lucens__Puriri.JPG
+  width: 800
+  height: 602
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/3579/Puriri__Vitex_lucens-4.JPG
+  width: 1024
+  height: 768
   caption: The underside of a Puriri leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7379/Vitex_lucens_trunk__Puriri_-001.JPG
+  width: 769
+  height: 1024
   caption: The trunk of a Vitex lucens.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/7978/Vitex_lucens___Puriri-002.JPG
+  width: 1200
+  height: 1600
   caption: This a small tree is growing on wasteland next to a motorway. The seed
     must have been excreted here by a bird. Fruit-eating birds play an important ecological
     role in dispersing seeds of podocarp and broadleaf trees and shrubs here in New
@@ -53,13 +79,19 @@ images:
     important seed disperser of native plants and trees. There 7 introduced bird species
     that also eat small quantities of fruit.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/4434/Pruri_moth_hole__Aenetus_virescens_moth.JPG
+  width: 800
+  height: 536
   caption: An old puriri moth (Aenetus virescens) burrow in a puriri tree trunk. The
     trunk below has lost its bark, revealing a pepperpot of burrow entrances and feeding
     scar.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2149/Puriri_caterpillar_holes.JPG
+  width: 1600
+  height: 1201
   caption: The damage was done by the larva of a puriri moth in a piece of puriri
     timber.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2144/Puriri_caterpillar_holes-001.JPG
+  width: 1600
+  height: 1201
   caption: The distinctive shape of the burrow.
 permalink: plants/trees/trees-native/vitex_lucens.html
 layout: page

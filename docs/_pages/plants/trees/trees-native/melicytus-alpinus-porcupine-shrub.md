@@ -23,8 +23,12 @@ attributes:
   - Mahoe Porcupine Shrub
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8499/Melicytus_alpinus__Porcupine_shrub_-001.JPG
+  width: 1600
+  height: 1200
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8504/Melicytus_alpinus__Porcupine_shrub_-003.JPG
+  width: 1200
+  height: 900
 permalink: plants/trees/trees-native/melicytus_alpinus.html
 layout: page
 title: Melicytus alpinus (Porcupine shrub)

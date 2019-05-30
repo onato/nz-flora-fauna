@@ -26,14 +26,28 @@ attributes:
   - Silver cottonwood.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9498/Ozothamnus_leptophyllus-001.JPG
+  width: 1024
+  height: 768
   caption: Photographed at Te Kainga Marire - Native New Zealand Garden, New Plymouth.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1959/Cassinia_leptophylla__Tauhinu-7.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1949/Cassinia_leptophylla__Tauhinu-5.JPG
+  width: 800
+  height: 598
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9493/Ozothamnus_leptophyllus.JPG
+  width: 1024
+  height: 897
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1954/Cassinia_leptophylla__Tauhinu-6.JPG
+  width: 768
+  height: 1024
   caption: New branch
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9503/Ozothamnus_leptophyllus-003.JPG
+  width: 766
+  height: 1024
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3598/Ozothamnus_leptophyllus.JPG
+  width: 2000
+  height: 1334
   caption: "**The photos below were taken of populations at Cape Reinga.**\nHistorically,
     Ozothamnus in New Zealand has been separated into five endemic species and seven
     varieties, and more recently united into a single, undivided, but polymorphic
@@ -49,8 +63,14 @@ images:
     it is called Ozothamnus leptophyllus, but once the revision is published it will
     be a distinct taxon again. \n"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/9834/Ozothamnus_leptophyllus__Tauhinu_.JPG
+  width: 600
+  height: 450
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/9824/Ozothamnus_leptophyllus__Tauhinu__1_.JPG
+  width: 1024
+  height: 683
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/9829/Ozothamnus_leptophyllus__Tauhinu__2_.JPG
+  width: 1024
+  height: 767
 permalink: plants/trees/trees-native/ozothamnus_leptophyllus.html
 layout: page
 title: Ozothamnus leptophyllus (Tauhinu)

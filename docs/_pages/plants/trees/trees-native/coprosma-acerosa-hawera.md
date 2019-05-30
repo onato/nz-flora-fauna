@@ -21,7 +21,11 @@ attributes:
   - Sand Coprosma
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/8744/Coprosma_acerosa_hawera-001.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/9159/Coprosma_acerosa__Hawera__.JPG
+  width: 800
+  height: 603
 permalink: plants/trees/trees-native/coprosma_acerosa_'hawera'.html
 layout: page
 title: Coprosma acerosa 'Hawera'

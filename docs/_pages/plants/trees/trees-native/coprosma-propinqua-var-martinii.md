@@ -20,8 +20,12 @@ attributes:
   common name: Swamp Karamu
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2604/Coprosma_propinqua_var._martinii__Swamp_Karamu_-001.JPG
+  width: 900
+  height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2609/Coprosma_propinqua_var._martinii__Swamp_Karamu_-002.JPG
+  width: 640
+  height: 481
 permalink: plants/trees/trees-native/coprosma_propinqua_var_martinii.html
 layout: page
 title: Coprosma propinqua var. martinii (Swamp Karamu)

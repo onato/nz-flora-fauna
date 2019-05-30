@@ -27,6 +27,8 @@ attributes:
   - Myrtle
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6299/Neomyrtus_pedunculata__Rohutu.JPG
+  width: 1067
+  height: 1600
 permalink: plants/trees/trees-native/neomyrtus_pedunculata.html
 layout: page
 title: Neomyrtus pedunculata (Rōhutu)

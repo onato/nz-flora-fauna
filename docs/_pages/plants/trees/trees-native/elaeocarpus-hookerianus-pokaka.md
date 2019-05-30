@@ -22,13 +22,23 @@ attributes:
   - Elaeocarpus dentatus x hookerianus 'Moana'
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1829/Elaeocarpus_dentatus_x_hookerianus__Moana_.__216_.JPG
+  width: 768
+  height: 1024
   caption: The photos below are of Elaeocarpus dentatus x hookerianus (‘Moana’)
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4029/Elaeocarpus_dentatus_x_hookerianus__Moana-002.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4034/Elaeocarpus_dentatus_x_hookerianus__Moana-003.JPG
+  width: 767
+  height: 1024
   caption: Top surface of an adult leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4039/Elaeocarpus_dentatus_x_hookerianus__Moana-007.JPG
+  width: 766
+  height: 1024
   caption: The underside of an adult leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5759/Elaeocarpus_dentatus_x_hookerianus__Moana_.__215_.JPG
+  width: 900
+  height: 1200
   caption: The trunk.
 permalink: plants/trees/trees-native/elaeocarpus_dentatus_x_hookerianus.html
 layout: page

@@ -23,18 +23,36 @@ attributes:
   - Marlborough Daisy.
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5793/Pachystegia_minor__Marlborough_Daisy.JPG
+  width: 1024
+  height: 768
   caption: Photographed February at Orari Wilton Native Gardens.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2749/Pachystegia_minor__Marlborough_Daisy_.JPG
+  width: 2000
+  height: 1500
   caption: Photographed at <a href="http://www.tekaingamarire.co.nz/">Te Kainga Marire
     Gardens</a> at Spencer Place, January. 
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5798/Pachystegia_minor__Marlborough_Daisy-001.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5788/Pachystegia_minor-002.JPG
+  width: 1024
+  height: 766
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6619/Pachystegia_minor.JPG
+  width: 1024
+  height: 772
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6624/Pachystegia_minor-001.JPG
+  width: 640
+  height: 482
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6634/Pachystegia_minor-003.JPG
+  width: 800
+  height: 602
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/5803/Pachystegia_minor__Marlborough_Daisy-003.JPG
+  width: 800
+  height: 599
   caption: The topside of a leaf.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2744/Pachystegia_minor__Marlborough_Daisy_-002.JPG
+  width: 800
+  height: 601
   caption: The undersurface of a leaf showing the white tomentum.
 permalink: plants/trees/trees-native/pachystegia_minor.html
 layout: page

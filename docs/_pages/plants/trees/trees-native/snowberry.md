@@ -25,20 +25,36 @@ attributes:
   - taupuku,
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/7319/Gaultheria_antipoda__Snowberry.JPG
+  width: 1200
+  height: 900
   caption: Photographed at Oparara River, Westcoast, South Island (February).
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/3893/1-Gaultheria_antipoda__Snowberry_-001.JPG
+  width: 1600
+  height: 1200
   caption: Gaultheria antipoda with red berries Oparara River, Westcoast, South Island
     (February).
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/0998/1-1-Gaultheria_antipoda__Snowberry___1_.JPG
+  width: 1024
+  height: 768
   caption: Gaultheria antipoda with white berries Lake Taupo mid-January.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/4689/Gaultheria_antipoda__snowberry-1.JPG
+  width: 800
+  height: 554
   caption: Gaultheria antipoda in flower in the Pureora forest, Waikato in early November.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/4694/Gaultheria_antipoda__snowberry-2.JPG
+  width: 800
+  height: 553
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/4699/Gaultheria_antipoda__snowberry-4.JPG
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/4704/Gaultheria_antipoda__snowberry-3.JPG
+  width: 800
+  height: 600
   caption: The beech shaped leaves give the plant its common names False Beech or
     Fools Beech.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/3898/1-Gaultheria_antipoda__Snowberry_-003.JPG
+  width: 1600
+  height: 1196
 permalink: plants/trees/trees-native/gaultheria_antipoda.html
 layout: page
 title: Gaultheria antipoda (Snowberry)

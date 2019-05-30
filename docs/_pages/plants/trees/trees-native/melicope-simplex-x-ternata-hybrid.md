@@ -23,10 +23,18 @@ attributes:
   synonyms: Melicope mantelli
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8259/Melicope_simplex_x_ternata-002.JPG
+  width: 1199
+  height: 1600
   caption: The photos below are of a tree growing at Otari Wilton Bush Reserve.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8269/Melicope_simplex_x_ternata.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8264/Melicope_simplex_x_ternata-003.JPG
+  width: 1200
+  height: 900
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8254/Melicope_simplex_x_ternata-001.JPG
+  width: 1024
+  height: 770
   caption: Leaf shapes.
 permalink: plants/trees/trees-native/melicope_simplex_x_ternata.html
 layout: page

@@ -22,6 +22,8 @@ attributes:
   - Tree coprosma
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6629/coprosma_arborea-003.JPG
+  width: 1024
+  height: 768
 permalink: plants/trees/trees-native/coprosma_arborea.html
 layout: page
 title: Coprosma arborea (Mamangi)

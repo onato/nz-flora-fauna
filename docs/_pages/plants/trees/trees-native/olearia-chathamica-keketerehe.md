@@ -22,12 +22,20 @@ attributes:
   - Cliff Aster
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5249/Olearia_chathamica__Keketerehe_-001.JPG
+  width: 1200
+  height: 900
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5254/Olearia_chathamica__Keketerehe_-003.JPG
+  width: 1200
+  height: 901
   caption: Photographed 28th March
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5259/Olearia_chathamica__Keketerehe_-004.JPG
+  width: 1024
+  height: 770
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5264/Olearia_chathamica__Keketerehe_-005.JPG
+  width: 800
+  height: 601
   caption: The undersurface of a leaf.
 permalink: plants/trees/trees-native/olearia_chathamica.html
 layout: page

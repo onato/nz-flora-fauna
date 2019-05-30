@@ -26,11 +26,16 @@ attributes:
   - Lignum Vitae
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6174/Sophora_howinsula__Lord_Howe_Kowhai_-003.JPG
+  width: 2000
+  height: 1500
   caption: Photographed at Otari-Wilton's bush in Wellington, New Zealand.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6179/Sophora_howinsula__Lord_Howe_Kowhai_-004.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6169/Sophora_howinsula__Lord_Howe_Kowhai_-002.JPG
+  width: 600
+  height: 450
   caption: Sun shining through leaves highlighting the veins.
-- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6174/Sophora_howinsula__Lord_Howe_Kowhai_-003.JPG
 permalink: plants/trees/trees-native/sophora_howinsula.html
 layout: page
 title: Sophora howinsula (Lord Howe Kowhai)

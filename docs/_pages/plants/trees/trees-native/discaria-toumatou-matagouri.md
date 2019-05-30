@@ -21,20 +21,42 @@ attributes:
   - Wild Irishman
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0699/Matagouri_Discaria_toumatou-9.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/2608/1-Matagouri__Discaria_toumatou_.JPG
+  width: 1600
+  height: 1200
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/2613/1-Matagouri__Discaria_toumatou_-001.JPG
+  width: 1600
+  height: 1202
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0704/Matagouri_Discaria_toumatou-10.JPG
+  width: 1024
+  height: 768
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0709/Matagouri_Discaria_toumatou-3.JPG
+  width: 1024
+  height: 768
   caption: A dead branch showing thorn structure.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/2219/Discaria_toumatou__Matagouri_-001.JPG
+  width: 1024
+  height: 769
   caption: The small shiny leaves.
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9773/Discaria_toumatou__Matagouri_-007.JPG
+  width: 1024
+  height: 770
   caption: The tiny white flowers with no petals (November)
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3018/Discaria_toumatou__Matagouri-003.JPG
+  width: 1024
+  height: 768
   caption: November flowering
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3013/Discaria_toumatou__Matagouri-002.JPG
+  width: 800
+  height: 601
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9763/Discaria_toumatou__Matagouri_-005.JPG
+  width: 800
+  height: 600
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9768/Discaria_toumatou__Matagouri_-006.JPG
+  width: 1200
+  height: 900
   caption: The thorny interior of Discaria toumatou,
 permalink: plants/trees/trees-native/discaria_toumatou.html
 layout: page
