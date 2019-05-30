@@ -1,0 +1,47 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/raukaua-simplex.html
+wikipedia: https://en.wikipedia.org/wiki/Raukaua_simplex
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Asterids
+  order: Apiales
+  family: Araliaceae
+  subfamily: Aralioideae
+  genus: Raukaua
+  species: R. simplex
+  binomial name: Raukaua simplex
+  synonyms:
+  - Panax simplex
+  - Pseudopanax simplex
+  - Nothopanax simplex
+  - Neopanax simplex
+  - Raukaua simplex
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5929/juvenile_leaves_of_Raukaua_simplex.JPG
+  caption: A juvenile tree photographed at Otari Wilton Bush Reserve, Wellington.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5914/juvenile_leaves_of_Raukaua_simplex__2_.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5919/juvenile_leaves_of_Raukaua_simplex__3_.JPG
+  caption: Deeply incised juvenile leaves.
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5909/juvenile_leaves_of_Raukaua_simplex__1_.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5924/juvenile_leaves_of_Raukaua_simplex__4_.JPG
+  caption: The underside of a juvenile leaf.
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Raukauasimplex2-002.jpg
+  caption: Adult leaves of Raukaua simplex.
+permalink: plants/trees/trees-native/raukaua_simplex.html
+layout: page
+title: Raukaua simplex (Haumakaroa)
+
+---
+Raukaua simplex is a small much-branched evergreen monoecious native tree (?8m) endemic to the North, South, Stewart and Auckland Islands. In the North Island, it grows from the Coromandel south. It is present on Mt Egmont/Taranaki. Its habit is lowland to montane forests (>1400 m.a.s.l).
+
+The juvenile leaves (3-5-foliate) have deeply incised leaflets with up to 6 pinnate segments and are 4-15 cm long and 1-2cm wide.
+The adult leaves (1-3-foliate) are 5-10cm long and 1.5-4cm wide. 
+The leaves are on long red stalks. Small green/yellow flowers are followed by flattened fruit (white with purple specks).
+For more detail information visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=1258" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=1258</a>

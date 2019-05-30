@@ -1,0 +1,44 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/sophora-tetraptera-large-leaved-kowhai.html
+wikipedia: https://en.wikipedia.org/wiki/Sophora_tetraptera
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Rosids
+  order: Fabales
+  family: Fabaceae
+  subfamily: Faboideae
+  tribe: Sophoreae
+  genus: Sophora
+  species: S. tetraptera
+  binomial name: Sophora tetraptera
+  synonyms:
+  - Edwardsia grandiflora
+  - Edwardsia tetraptera
+  common names:
+  - Large-leaved kowhai
+  - Kowhai
+  - Wing-podded sophora
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/7303/Sophora_microphylla-009.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/7278/DSC08177-002.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/7293/Sophora_microphylla-006.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/7283/Sophora_microphylla-003.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/7288/Sophora_microphylla-005.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/7298/Sophora_microphylla-007.JPG
+  caption: Sophora tetraptera juvenile plants are not divaricating.
+permalink: plants/trees/trees-native/sophora_tetraptera.html
+layout: page
+title: Sophora tetraptera (Large-leaved kowhai)
+
+---
+Sophora tetraptera is a dicotyledonous endemic tree that sometimes has several trunks. It can grow up to 15 m tall. It is naturally occurring in the eastern North Island from East Cape south to the Wairarapa, extending west toward Taihape, lake Taupo and along the Waikato river to about LakeKarapiro.
+
+S. tetraptera has larger more widely spaced leaves than the seven other species of kōwhai. The leaves are very large and wide grey-green is up to 220 mm long. The greyish-green leaflets are up to 40mm long and are widely spaced. 
+Sophora tetraptera is a late flowering kōwhai developing bunches of drooping golden-yellow flowers during October-December. After flowering, it develops dry ridged and knobbly seed pods (100-280mm long) that contain hard yellow seeds.

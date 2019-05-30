@@ -1,0 +1,51 @@
+---
+category:
+- plants
+- trees
+- trees-native
+source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/solanum-aviculare-poroporo.html
+attributes:
+  kingdom:
+  - Plantae
+  - Angiosperms
+  - Eudicots
+  - Asterids
+  order: Solanales
+  family: Solanaceae
+  genus: Solanum
+  species: S. aviculare
+  binomial name: Solanum aviculare var. aviculare
+  synonyms:
+  - Solanum baylisii
+  - Solanum cheesemanii
+  - Solanum glaberrimum.
+  common names:
+  - Poroporo
+  - New Zealand nightshade
+  - Bullibul
+  - Bullibulli
+  - Kangaroo apple; Pōpopo
+  - Poro
+  - Poroporotanguru.
+images:
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4538/Poroporo__Solanum_aviculare_.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4543/Poroporo__Solanum_aviculare_-001.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4553/Poroporo__Solanum_aviculare_-003.JPG
+- src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4548/Poroporo__Solanum_aviculare_-002.JPG
+  caption: Green poisonous fruit
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-Fruit%20of%20Solanum%20aviculare%20.jpg
+permalink: plants/trees/trees-native/solanum_aviculare_var_aviculare.html
+layout: page
+title: Solanum aviculare (Poroporo)
+
+---
+<img src="http://www.terrain.net.nz/uploads/images/Te%20Henui/Skull_and_crossbones1.jpg" alt="" width="100%" height="auto">
+
+Like all Solanum species, Solanum aviculare leaves and unripe fruits contain quantities of toxic spirosolane alkaloids, including solanine and solanidine.  
+Solanum aviculare is a fast-growing, short-lived, shrub native to New Zealand and the east coast of Australia. In New Zealand, it is found on the Kermadec Islands, North Island, the northern South Island and Chatham Islands of New Zealand. It grows in coastal and lowland forest margins and in shrubland.
+Solanum aviculare is an upright shrub that can grow up to 4 m tall. It has a soft-wooded trunk and branches that persist for several years and become straggly with age.
+There is much confusion between this species and Solanum laciniatum. Solanum aviculare has smaller flowers than Solanum laciniatum whose flowers are a darker purple and have broad, flared (ruffled) corolla lobes with rounded apices and larger seeds that are 2–3 mm long.
+Solanum aviculare leaves are 8–30 cm long, lobed or entire, with any lobes being 1–10 cm long.
+Solanum aviculare has white, mauve to blue-violet flowers that are hermaphroditic (having both male and female organs). They are 25–40 mm wide and are followed by ovoid to ellipsoid berries that are 10–15 mm in diameter. They are first green changing to bright orange colour when ripe. The seeds 1-1.5 mm long, light brown or reddish-brown.
+There is a number of subspecific taxa in New Zealand within Solanum aviculare. (G. Forst) 
+The photos are of Solanum aviculare var. aviculare.
