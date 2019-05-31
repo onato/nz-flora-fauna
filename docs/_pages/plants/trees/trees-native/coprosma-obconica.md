@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/coprosma-obconica.html
 wikipedia: https://en.wikipedia.org/wiki/Coprosma_obconica
+nzpcn: 157
 attributes:
   kingdom:
   - Plantae
@@ -15,6 +16,7 @@ attributes:
   family: Rubiaceae
   subfamily: Rubioideae
   tribe: Anthospermeae
+  genus: Coprosma
   binomial name: Coprosma obconica
   synonym: Coprosma obconica subsp. obconica
 images:
@@ -39,4 +41,3 @@ Coprosma obconica is a suberect to erect, heavily branched, divaricating shrub 2
 
 The narrow thick short-stalked leaves are widest at the middle 4-7 x 1.5-2mm. 
 Male and female plants on separate plants.The fruits are whitish/pale blue tinge with purple markings and appear January to September.
-For more details visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=157" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=157</a> 

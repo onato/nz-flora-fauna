@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/melicytus-crassifolius-thick-leaved-mahoe.html
 wikipedia: https://en.wikipedia.org/wiki/Melicytus_crassifolius
+nzpcn: 283
 attributes:
   kingdom:
   - Plantae
@@ -42,4 +43,3 @@ Melicytus crassifolius is a compact hardy shrub native to both the North and Sou
 
 It is heavily-branched, with arching stems that taper at the tips to a sharp point. The small bright olive green leaves are teardrop shaped.
 Melicytus crassifolius small, greenish, bell-shaped flowers appear underneath branches in summer, They form in clusters along the branches. The fruit is small bright white berries and they develop late summer until early winter. Usually, a blue spot appears on the berry with age.
-For more details visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=283" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=283</a>

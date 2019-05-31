@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/myrsine-salicina-toro.html
 wikipedia: https://en.wikipedia.org/wiki/Rapanea_salicina
+nzpcn: 1011
 attributes:
   kingdom:
   - Plantae
@@ -58,4 +59,3 @@ The leaves are 7-18cm long by 2-3cm wide, with a smooth edge and the leaves surf
 In spring clusters of small cream to pale pink coloured flowers (3 - 5 mm across) are produced along the branches. These are followed by single-seeded, red-to-purple 8-9mm long fruits.
 Myrsine salicina is threatened in areas where the introduced possum occurs, as it is one of their preferred foods.
 The early Rotorua Maori used a straight piece of a branch as the handle of a bag net because the wood is very springy and will not break or snap.
-For more details visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=1011" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=1011</a>

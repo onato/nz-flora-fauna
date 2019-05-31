@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pseudopanax-lessonii-houpapa.html
 wikipedia: https://en.wikipedia.org/wiki/Pseudopanax_lessonii
+nzpcn: 1198
 attributes:
   kingdom:
   - Plantae
@@ -72,4 +73,3 @@ Pseudopanax lessonii is a New Zealand native coastal five finger with leathery f
 It is endemic to New Zealand and its natural range is coastal forest and scrub on the Three Kings Islands and the North Island as far south as Poverty Bay (38°4′S) and northern Taranaki. Houpara is popular in New Zealand gardens and it has become naturalised and is becoming a weed in some areas.
 Green flowers develop Dec.–Feb. 
 A number of cultivars have been developed including “Gold Splash” which has a green leaf with splashes of yellow
-For more detailed information visit: <a href="http://www.nzpcn.org.nz/flora_details.asp?ID=1198%20%20" target="_blank">http://www.nzpcn.org.nz/flora_details.asp?ID=1198 </a>

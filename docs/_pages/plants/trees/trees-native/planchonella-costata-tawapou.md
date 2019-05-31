@@ -3,7 +3,8 @@ category:
 - plants
 - trees
 - trees-native
-source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/planchonella-costata-tawapou.html
+source: 
+nzpcn: 2227
 wikipedia: https://en.wikipedia.org/wiki/Pouteria_costata
 attributes:
   kingdom:
@@ -60,4 +61,3 @@ The leathery, glossy green leaves measure from 5 to 10 cm (sometimes up to 15 cm
 Small, greenish flowers (4-6 mm in diameter) are followed by bright red berries (2.5–4 cm long) which contain 2 or 4 hard, curved, polished seeds. These glossy seeds were used as necklaces by the Maori. 
 The fruit is consumed by the kererū, the New Zealand pigeon, and the kākā parrot. The fruit and seeds of P. costata are also very palatable to rats. Research in New Zealand has shown that the eating of the fruit and the destruction of the seeds by kiore (Pacific rats) has substantially reduced the population of the tree and significantly altered the composition of the coastal forests of the northern North Island. Tawapou is common on rodent-free offshore islands in the Hauraki Gulf, around the Coromandel Peninsula, Great Barrier Island, and on the Mokohinau, Poor Knights, Hen &amp; Chickens and the Three Kings Islands.
 The white-coloured wood is hard and durable and the Māori use Tawāpou logs as rollers to help bring large canoes onshore.
-For more details visit: <a href="http://nzpcn.org.nz/flora_details.asp?ID=2227" target="_blank">http://nzpcn.org.nz/flora_details.asp?ID=2227</a>

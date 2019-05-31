@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/dracophyllum-adamsii.html
+nzpcn: 1818
 attributes:
   kingdom:
   - Plantae
@@ -38,4 +39,3 @@ title: Dracophyllum adamsii
 ---
 Dracophyllum adamsii is an erect native grass tree growing up to 2m tall. Its slender branches are close-set and the branchlets are very slender. It is endemic to the east side of the North Island up to 1200 masl from Mount Makarako (Kaimanawa Range), Waiotapu (Taupo volcanic zone), Mt.Taratihi (Raukumara Range) and the East Cape district to Karikari in the north.
 
-For more detailed information visit: <a href="http://www.nzpcn.org.nz/flora_details.asp?ID=1818" target="_blank"> http://www.nzpcn.org.nz/flora_details.asp?ID=1818</a>

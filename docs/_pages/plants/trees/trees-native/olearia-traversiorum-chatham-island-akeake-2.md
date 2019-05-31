@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/olearia-traversiorum-chatham-island-akeake-2.html
 wikipedia: https://en.wikipedia.org/wiki/Olearia_traversiorum
+nzpcn: 609
 attributes:
   kingdom:
   - Plantae
@@ -62,4 +63,3 @@ Olearia traversiorum is a rapidly growing hardy tree endemic to the Chatham Isla
 
 This olive-like tree has a tall narrow growth form growing to a height of 18m and has a trunk up to 1 m wide. Yellow flowers appear late spring and into summer and fruits appear from January to June.
 This threatened species is now sold in specialised nurseries.
-For more details of this tree visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=609">http://www.nzpcn.org.nz/flora_details.aspx?ID=609</a>

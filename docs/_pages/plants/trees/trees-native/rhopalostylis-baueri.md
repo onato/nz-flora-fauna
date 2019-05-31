@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/rhopalostylis-baueri.html
 wikipedia: https://en.wikipedia.org/wiki/Rhopalostylis_baueri
+nzpcn: 670
 attributes:
   kingdom:
   - Plantae
@@ -63,4 +64,3 @@ Rhopalostylis baueri is a species of palm native to Norfolk Island (Australia) a
 Rhopalostylis baueri reaches 10 m or more in height. The pinnate leaves are 3 to 4 m long, on a stout, erect petiole (leaf stem) approximately 20 cm long. The crown shaft is 50-60 cm long. The inflorescence is 30 50 cm long and has from 50 to 60 fairly stout branches. The fruits are green at first, turning a bright red when ripe, and are a favourite food of the endangered Norfolk Island Parakeet. The growing tip of the palm was used by early settlers as a vegetable and is said to have tasted like a nut when raw and like an artichoke bottom when boiled. It is much faster growing than the New Zealand nikau, Rhopalostylis sapida.
 There is a Rhopalostylis bauer which is on the notable tree list 2002 beside the Cricket Pavilion at Pukekura Park.
 Download pdf on that tree ( <a class="popup_link" tabindex="1" href="http://kete.pukekura.org.nz/documents/0000/0000/0104/Rhopalostylis_cheesemani_ET114.pdf">view</a> )
-For more details on Rhopalostylis baueri visit: <a href="http://www.nzpcn.org.nz/flora_details.asp?%20ID=670" target="_blank">http://www.nzpcn.org.nz/flora_details.asp? ID=670</a>

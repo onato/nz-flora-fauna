@@ -5,6 +5,7 @@ category:
 - trees-native
 name: Alepis flavida (Yellow mistletoe)
 origin: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/alepis-flavida-yellow-mistletoe.html
+nzpcn: 146
 description: >
   Alepis flavida is found the North and South
   Islands including Taranaki. In the North Island, it appears to have always been
@@ -21,8 +22,6 @@ description: >
   tends to grow on branches further out from the host trunk, and its leaves have a
   faint red margin. Like all other New Zealand Loranthaceae mistletoe species it has
   fleshy fruits which are bird dispersed.
-  
-  For more information visit: <a href="http://www.nzpcn.org.nz/flora_details.asp?ID=146">http://www.nzpcn.org.nz/flora_details.asp?ID=146</a>
 attributes:
   kingdom:
   - Plantae

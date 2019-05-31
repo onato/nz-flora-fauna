@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/libocedrus-plumose-kawaka.html
 wikipedia: https://en.wikipedia.org/wiki/Libocedrus_plumosa
+nzpcn: 281
 attributes:
   kingdom:
   - Plantae
@@ -50,4 +51,3 @@ The bark tears off in long thin strips which often spiral gradually around the t
 Libocedrus plumose and Libocedrus bidwilli are unique among New Zealand conifers in having small seed cones made up of a few thin woody scales. The male and female cones occur at the tips of twigs on the same tree. Male cones are 3–5 millimetres long and contain about 10–14 scales. They are produced in spring to early summer.
 The female cones are reduced to four large green scales, two sterile and two fertile. When ripe the tiny, dry woody cones split open to release two winged seeds, which are dispersed by wind. 
 In the past, it was selectively milled to near extinction for its red wood which was used for house shingles and in cabinet making.
-For more details visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=281" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=281</a>

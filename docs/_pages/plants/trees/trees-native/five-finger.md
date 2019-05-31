@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/five-finger.html
 wikipedia: https://en.wikipedia.org/wiki/Pseudopanax_arboreus
+nzpcn: 1194
 attributes:
   kingdom:
   - Plantae
@@ -94,4 +95,3 @@ title: Pseudopanax arboreus (Five finger)
 This plant is poisonous visit <a href="friends-of-te-henui-group/plants-toxic-if-eaten-by-man.html" target="_blank">http://www.terrain.net.nz/friends-of-te-henui-group/plants-toxic-if-eaten-by-man.html</a>
 This is one of New Zealand’s most common native trees found from Cape Reinga to Bluff in lowland forests. Its particular form of a glossy, five to seven-fingered leaf along with quick and luxuriant growth. It grows into a small stout tree up to 8 metres high and grows well in most soils and situations. 
 It has large leaves divided into 5-7 leaflets. Pseudopanax arboreus is fast growing with small purplish black berries in autumn. The leaves are a favourite food of the possum New Zealand's main forest pest.
-For more details visit: <a href="http://nzpcn.org.nz/flora_details.aspx?ID=1194" target="_blank">http://nzpcn.org.nz/flora_details.aspx?ID=1194</a>

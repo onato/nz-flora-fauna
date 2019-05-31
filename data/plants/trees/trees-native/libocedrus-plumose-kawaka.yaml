@@ -6,6 +6,7 @@ category:
 name: Libocedrus plumose (Kawaka)
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/libocedrus-plumose-kawaka.html
 wikipedia: https://en.wikipedia.org/wiki/Libocedrus_plumosa
+nzpcn: 281
 description: >
   Libocedrus plumosa is a species of conifer endemic to New Zealand, occurring
   on the North Island in lowland and hill forest near Te Paki and to the south of
@@ -34,8 +35,6 @@ description: >
 
   In the past, it was selectively milled to near extinction for its
   red wood which was used for house shingles and in cabinet making.
-
-  For more details visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=281" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=281</a>
 attributes:
   kingdom:
   - Plantae

@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/raukaua-simplex.html
 wikipedia: https://en.wikipedia.org/wiki/Raukaua_simplex
+nzpcn: 1258
 attributes:
   kingdom:
   - Plantae
@@ -62,4 +63,3 @@ Raukaua simplex is a small much-branched evergreen monoecious native tree (?8m) 
 The juvenile leaves (3-5-foliate) have deeply incised leaflets with up to 6 pinnate segments and are 4-15 cm long and 1-2cm wide.
 The adult leaves (1-3-foliate) are 5-10cm long and 1.5-4cm wide. 
 The leaves are on long red stalks. Small green/yellow flowers are followed by flattened fruit (white with purple specks).
-For more detail information visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=1258" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=1258</a>

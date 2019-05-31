@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/coprosma-parviflora-leafy-coprosma.html
 wikipedia: https://en.wikipedia.org/wiki/Coprosma_parviflora
+nzpcn: 1725
 attributes:
   kingdom:
   - Plantae
@@ -42,4 +43,3 @@ Coprosma parviflora is a small-leaved divaricating shrub (2-5 m) that is native 
 
 It is a shrub with greyish bark, divaricating branches and small variable thick leathery leaves (7-12 mm long) which occur on short hairy petioles. In some plants, the leafy branches form more or less flattened planes. (See photo below)
 The flowers are minute and appear August to October. The drupes, about 5 mm in diameter, ripening in late summer/ early autumn are either yellow/white or dark purple.
-For more details visit: <a href="http://nzpcn.org.nz/flora_details.aspx?ID=1725" target="_blank">http://nzpcn.org.nz/flora_details.aspx?ID=1725</a> 

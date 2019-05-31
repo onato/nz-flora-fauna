@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pennantia-baylisiana-three-kings-kaikomako.html
 wikipedia: https://en.wikipedia.org/wiki/Pennantia_baylisiana
+nzpcn: 32
 attributes:
   kingdom:
   - Plantae
@@ -60,4 +61,3 @@ The first seedlings of Pennantia baylisiana were sold at the Ellerslie Flower Sh
 
  A tree is growing
 in Pukekura Park, New Plymouth.</p> <p>Pennantia baylisiana is a sturdy, multi-trunked tree 5-8 x 4 m tall with large, roundest, dark green, leathery, smooth, leaves. On shaded plants, the leaves the leaves are flat while plants in the sun have smaller leaves and these are strongly rolled under at the margins.
-For more details of Pennantia baylisiana <a href="http://nzpcn.org.nz/flora_details.asp?ID=32" target="_blank">http://nzpcn.org.nz/flora_details.asp?ID=32</a>

@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/titoki.html
 wikipedia: https://en.wikipedia.org/wiki/Alectryon_excelsus
+nzpcn: 1523
 attributes:
   kingdom:
   - Eudicots
@@ -90,4 +91,4 @@ Titoki is an attractive tree (height 4 - 18 metres) found in lowland forests. It
 
 The Maoris used to bruise the seeds and then steamed them to release oil. The oil was used for an earache, for eye problems and as a lotion for a wide range of skin ailments including sore breasts, infant rashes, eczema, sores, sprains and wounds, rheumatism, swellings due to bites and stings. It was also highly valued as a general skin softener-conditioner and is used as a carrier for scents obtained from other plants such as tarata (Pittosporum eugenoides). The scarlet flesh surrounding the seeds is very astringent and was used by consumptive invalids.
 <img src="http://www.terrain.net.nz/uploads/images/Te%20Henui/Skull_and_crossbones1.jpg" alt="" width="100%" height="auto"> The round black seeds are best avoided despite limited information on their toxicity. many plants in the same family are poisonous.
-More Information at <a href="http://www.nzpcn.org.nz/vascular_plants/detail.asp?PlantID=1523">The New Zealand Plant Conservation Network</a> and <a href="http://www.sbs.auckland.ac.nz/uoa/science/about/departments/sbs/newzealandplants/seed-plants-flowering/find-by-north-&amp;-south-islands/sapindaceae-lychee-family.cfm">The NZ School of Biological Sciences</a> 
+More Information <a href="http://www.sbs.auckland.ac.nz/uoa/science/about/departments/sbs/newzealandplants/seed-plants-flowering/find-by-north-&amp;-south-islands/sapindaceae-lychee-family.cfm">The NZ School of Biological Sciences</a> 

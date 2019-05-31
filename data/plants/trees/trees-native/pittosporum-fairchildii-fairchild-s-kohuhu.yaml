@@ -6,6 +6,7 @@ category:
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pittosporum-fairchildii-fairchild-s-kohuhu.html
 name: Pittosporum fairchildii (Fairchild's kohuhu)
 wikipedia: https://en.wikipedia.org/wiki/Pittosporum_fairchildii
+nzpcn: 621
 description: >
   Pittosporum fairchildii is endemic to the coastal forest and the sheltered cliff faces of New Zealand’s Three Kings Islands
   where it is known from North East, Great (Manawa Tawhi), South East and West islands.
@@ -25,8 +26,6 @@ description: >
 
   Pittosporum fairchildii is included IUCN red list of threatened species
   of the International Union for Conservation of Nature as vulnerable. 
-
-  For more information visit: <a href="http://nzpcn.org.nz/flora_details.asp?ID=621">http://nzpcn.org.nz/flora_details.asp?ID=621</a>
 attributes:
   kingdom:
   - Plantae

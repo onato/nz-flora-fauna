@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/teucridium-parvifoliu.html
 wikipedia: https://en.wikipedia.org/wiki/Teucridium
+nzpcn: 207
 attributes:
   kingdom:
   - Plantae
@@ -60,4 +61,3 @@ T. parvifolium populations are scattered throughout the country, often with larg
 T. parvifolium habitat is mainly on slopes and alluvial terraces along forest margins, streambeds and under broken canopies. 
 The causes of the decline of this plant are browsing animals, invasive weeds and habitat disruption. 
 The IUCN threat classification is that of vulnerable.
-<a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=207" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=207</a>

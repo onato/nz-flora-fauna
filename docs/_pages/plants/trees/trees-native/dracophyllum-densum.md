@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/dracophyllum-densum.html
+nzpcn: 470
 attributes:
   kingdom:
   - Plantae
@@ -37,4 +38,3 @@ Dracophyllum densum is a prostrate shrub (0.3–0.5 m tall), endemic to New Zeal
 
 Dracophyllum densum has a prostrate habit with branches that have a dark grey, deeply, fissured bark. The branches bear short erect leaves that tightly clasp the stem. The leaves apices are obtusely acute.
 Solitary white flowers appear January - April
-For more details on Dracophyllum densum visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=470" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=470</a> 

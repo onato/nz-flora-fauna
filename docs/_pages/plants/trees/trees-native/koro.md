@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/koro.html
 wikipedia: https://en.wikipedia.org/wiki/Pittosporum_crassifolium
+nzpcn: 1133
 attributes:
   kingdom:
   - Plantae
@@ -83,4 +84,3 @@ Pittosporum crassifoliumis a small tree or shrub native to New Zealand. Karo's o
 
 P. crassifolium occurs in lowland and coastal forests. Mature trees grow to about 5 metres in height.
 P. crassifolium has dense dark grey-green leathery leaves that are furry underneath. An early coloniser, P. crassifolium is able to withstand high winds and salt spray. Clusters of small red-purple flowers appear in spring, developing into seed pods that split to expose the sticky seeds. Birds easily spread Karo seeds and in areas south of its natural range it has become a pest plant.
-For more detail information visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=1133" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=1133</a>

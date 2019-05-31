@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pseudopanax-gilliesii.html
 wikipedia: https://en.wikipedia.org/wiki/Pseudopanax_gilliesii
+nzpcn: 647
 attributes:
   kingdom:
   - Plantae
@@ -42,4 +43,3 @@ Pseudopanax gilliesii is a tree endemic to the northern side of Whangaroa Harbou
 It will grow up to 5 m. tall and has its slender branches. 
 It has glossy leathery leaves which are notched on the margins can be single or trifoliate
 This northern species now rare in the wild but is sold in specialised nurseries.
-For more information visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=647" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=647</a>

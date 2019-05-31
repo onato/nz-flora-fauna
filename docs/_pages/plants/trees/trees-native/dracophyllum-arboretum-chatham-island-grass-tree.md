@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/dracophyllum-arboretum-chatham-island-grass-tree.html
+nzpcn: 469
 attributes:
   kingdom:
   - Plantae
@@ -42,4 +43,3 @@ Dracophyllum arboreum is a distinctive dracophyllum with a tree habit (growing u
 Although it is dicotyledonous, they resemble primitive monocots having slender leaves concentrated in clumps at the ends of the branches, giving them the common name grass-trees.
 The tree has a distinct juvenile phase with leaves that are broad. The older trees develop leaves that are narrow, this makes them wind-resistant.
 The mature tree develops spikes of white flowers all year round.
-For more details of this tree visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=469" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=469</a>

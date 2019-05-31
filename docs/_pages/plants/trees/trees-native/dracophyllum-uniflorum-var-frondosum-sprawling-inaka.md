@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/dracophyllum-uniflorum-var-frondosum-sprawling-inaka.html
+nzpcn: 475
 attributes:
   kingdom:
   - Plantae
@@ -36,4 +37,3 @@ title: Dracophyllum uniflorum var. frondosum (Sprawling inaka)
 
 Dracophyllum uniflorum var. frondosum is shrub of the lowland to montane areas of rocky gorges, riversides and cliff faces. Its distribution is southeast Nelson, southern Marlborough and the schist country of eastern Otago.
 It is a spreading to decumbent multi-stemmed low-growing grassy shrub 0.50–1.0 m tall. Its branches droop down slopes and have tufts of narrow wavy leaves at tips of twigs. Its leaves are 18-34mm long by 0.5-1.5mm wide. The solitary white tubular flowers (7-10mm long) appear at the tips of short side branches during December – February.
-For more details visit: <a href="http://nzpcn.org.nz/flora_details.aspx?ID=475%20" target="_blank">http://nzpcn.org.nz/flora_details.aspx?ID=475 </a> 

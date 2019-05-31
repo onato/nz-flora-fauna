@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/podocarpus-nivalis-mountain-totara.html
 wikipedia: https://en.wikipedia.org/wiki/Podocarpus_nivalis
+nzpcn: 1175
 attributes:
   kingdom:
   - Plantae
@@ -59,5 +60,4 @@ Podocarpus nivalis is a species of conifer in the Podocarpaceae family and is fo
 
 It is prostrate to suberect, spreading woody shrub forming broadly domed patches up to 1.5 × 3.0 m.
 P. nivalis is common in open tussock grassland, subalpine scrub and herbfield, at the base of active scree, amongst boulder falls and on cliff faces and razorback ridges. Sometimes extending down into beech (Nothofagus forest) and down into valley heads. In the North Island, it is virtually confined to subalpine and alpine areas.
-For more details visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=1175" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=1175 </a>
 Podocarpus nivalis has many variations of foliage colour, shape and vigour in the wild, as seen in photos below.

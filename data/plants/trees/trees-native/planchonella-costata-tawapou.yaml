@@ -4,8 +4,10 @@ category:
 - trees
 - trees-native
 name: Planchonella costata (Tawapou)
-source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/planchonella-costata-tawapou.html
+source: 
+nzpcn: .terrain.net.nz/friends-of-te-henui-group/table-1/planchonella-costata-tawapou.html
 wikipedia: https://en.wikipedia.org/wiki/Pouteria_costata
+nzpcn: 2227
 description: >
   Planchonella costata which is strictly coastal is naturally
   found locally on islands and headlands along the northern coasts of the North Island,
@@ -43,8 +45,6 @@ description: >
 
   The white-coloured wood is hard and durable and the Māori use Tawāpou logs as rollers
   to help bring large canoes onshore.
-  
-  For more details visit: <a href="http://nzpcn.org.nz/flora_details.asp?ID=2227" target="_blank">http://nzpcn.org.nz/flora_details.asp?ID=2227</a>
 attributes:
   kingdom:
   - Plantae

@@ -32,7 +32,7 @@ layout: default
 
   <div class="row">
       <div class="column">
-          <ul id="attributes">
+          <ul id="attributes" class="list">
               {% for attr in page.attributes %}
               
               <li>
@@ -54,28 +54,32 @@ layout: default
       </div>
 
       <div class="column">
-          <ul id="relatives">
-            {% assign pages = site.html_pages | where_exp:'doc','doc.sitemap != false' | where_exp:'doc','doc.url != "/404.html"' | sort: "title" %}
-            {% for subpage in pages %}
-              {% if subpage.attributes["genus"] == page.attributes["genus"] %}
-                {% if page.name == subpage.name %}<li class="active">{% else %}<li>{% endif %}
-                <a href="{{ subpage.url | absolute_url }}">{{ subpage.title }}</a></li>
-              {% endif %}
-            {% endfor %}
-          </ul>
+        <h2>Relatives</h2>
+        <ul id="relatives" class="list">
+          {% assign pages = site.html_pages | where_exp:'doc','doc.sitemap != false' | where_exp:'doc','doc.url != "/404.html"' | sort: "title" %}
+          {% for subpage in pages %}
+            {% if subpage.attributes["family"] == page.attributes["family"] %}
+              {% if page.name == subpage.name %}<li class="active">{% else %}<li>{% endif %}
+              <a href="{{ subpage.url | absolute_url }}">{{ subpage.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
       </div>
   </div>
 
   <p>
+    <ul id="links" class="list">
     {% if page.wikipedia.first %}
-    <ul>
       {% for wikipedia in page.wikipedia %}
-        <li><a href="{{ wikipedia }}">{{ wikipedia }}</a></li>
+        <li><a href="{{ wikipedia }}"><use xlink:href="{{ '/assets/minima-social-icons.svg#wikipedia' | relative_url }}"></use></svg> {{ page.wikipedia }}</a></li>
       {% endfor %}
-    </ul>
-    {% else %}
-      <a href="{{ page.wikipedia }}">Wikipedia</a>
+    {% elsif page.wikipedia %}
+      <li><a href="{{ page.wikipedia }}"><svg class="svg-link-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#wikipedia' | relative_url }}"></use></svg> {{ page.wikipedia | split: '/' | last | replace: '_', ' ' }}</a></li>
     {% endif %}
+    {% if page.nzpcn %}
+      <li><a href=http://www.nzpcn.org.nz/flora_details.asp?ID={{ page.nzpcn }}><svg class="svg-link-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#nzpcn' | relative_url }}"></use></svg> New Zealand Plant Conservation Network</a></li>
+    {% endif %}
+    </ul>
   </p>
   
   <div class="post-content">

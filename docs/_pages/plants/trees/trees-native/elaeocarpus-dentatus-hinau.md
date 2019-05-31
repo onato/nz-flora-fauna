@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/elaeocarpus-dentatus-hinau.html
 wikipedia: https://en.wikipedia.org/wiki/Elaeocarpus_dentatus
+nzpcn: 1830
 attributes:
   kingdom:
   - Plantae
@@ -59,4 +60,3 @@ Elaeocarpus dentatus is a tall native coastal and lowland forest tree of New Zea
 The leaves are dark green 8-15cm. long and finely dentated. The underside of the leaf has small domatia pits at the midrib and vein junctions.
 Elaeocarpus dentatus produces clusters of small white flowers (8-12 mm diameter) in spring, and in late summer the flowers form into a fleshy olive shape drupes (12mm long).
 It was officially first recorded for science by botanists Joseph Banks and Daniel Solander on 5 November 1769
-For details visit: <a href="http://nzpcn.org.nz/flora_details.aspx?ID=1830" target="_blank">http://nzpcn.org.nz/flora_details.aspx?ID=1830</a>

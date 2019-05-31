@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/toronia-toru-toru.html
 wikipedia: https://en.wikipedia.org/wiki/Toronia_toru
+nzpcn: 796
 attributes:
   kingdom:
   - Plantae
@@ -37,4 +38,3 @@ title: Toronia toru (Toru)
 Toronia toru is a small bushy endemic evergreen tree of New Zealand. It is found in the northern half of the North Island and is one of only two members of the protea family found in New Zealand. 
 
 Toronia toru grows to >12 metres and has long, slender, smooth-edged, green leaves. During late spring and early summer months, small white to yellow flowers are produced and these are followed with red to dark purple-blue fleshy fruits. 
-For more details visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=796" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=796</a>

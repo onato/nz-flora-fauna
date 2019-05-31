@@ -11,6 +11,7 @@ attributes:
   division: Magnoliophyta
   class: Magnoliopsida
   order: Asterales
+  genus: Corokia
   binomial name: Corokia cotoneaster
   common names:
   - New Zealand wire-netting bush

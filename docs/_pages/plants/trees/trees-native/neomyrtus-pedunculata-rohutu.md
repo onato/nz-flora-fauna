@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/neomyrtus-pedunculata-rohutu.html
 wikipedia: https://en.wikipedia.org/wiki/Neomyrtus
+nzpcn: 1392</a>
 attributes:
   kingdom:
   - Plant
@@ -40,4 +41,4 @@ Neomyrtus pedunculata is a native shrub or small tree openly to compact branched
 The small roundish leaves (6-20mm x 4-15mm) are opposite, thick and leathery with thickened smooth margins. They have prominent oil glands on the underside. 
 In January it develops white open flowers (6-7mm) on 15mm long stalks. The flowers have long stamens. The flowers are followed in February-June with broadly ovoid 6-8 mm long orange, red or yellow berries on long stalks. They contain 2-5 seeds.
 It is reported that a decoction was made from the bark and berries of the rōhutu tree used as a medicine in cases of difficult menstruation. (Best 1905) The ripe berries contain anthocyanins, reported to have anti-inflammatory and antioxidant properties. (Cambie, Ferguson 2003)
-For more details visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=1392" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=1392</a>
+For more details visit: <a href="http://www.nzpcn.org.nz/

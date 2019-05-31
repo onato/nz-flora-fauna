@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/leucopogon-parviflorus-chatham-island-mingimingi.html
 wikipedia: https://en.wikipedia.org/wiki/Leucopogon_parviflorus
+nzpcn: 573
 attributes:
   kingdom:
   - Plantae
@@ -58,4 +59,3 @@ Leucopogon parviflorus is indigenous to the Chatham Islands New Zealand. It also
 
 It is strictly coastal, usually on stable, sand dunes, dune slacks and sand flats, more rarely on sandy soils in pasture. It is also found rocky headlands, at the head of ravines and in low, windswept coastal scrub where it may be dominant. Prefers free-draining substrates and avoids permanently damp soils.
 The species grow to between 1.2 and 5 metres in height and has leaves that are 11 to 29 mm long and 2.4 to 7.5 mm in width, often with curved tips. The white flowers are around 15 mm long and are produced in spikes of 7 to 13. These occur throughout the year. The fruit is a fleshy, ovoid or spherical drupe 3 mm diameter which when immature is a greenish-yellow, then turning pale yellow and maturing to white.
-For more details: <a href="http://www.nzpcn.org.nz/flora_details.asp?%20ID=573" target="_blank">http://www.nzpcn.org.nz/flora_details.asp?ID=573</a>

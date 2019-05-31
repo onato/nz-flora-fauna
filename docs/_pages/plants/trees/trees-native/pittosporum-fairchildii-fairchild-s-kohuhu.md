@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pittosporum-fairchildii-fairchild-s-kohuhu.html
 wikipedia: https://en.wikipedia.org/wiki/Pittosporum_fairchildii
+nzpcn: 621
 attributes:
   kingdom:
   - Plantae
@@ -57,4 +58,3 @@ P. fairchildii is a gynodioecious (a dimorphic breeding system in which male-ste
 The dark to light green leaves ( 7.5 cm long 3.5 cm wide) with the sides sometimes rolled under. The undersurface of the leaves is a pale green with a network of veins visible. 
 Flowering and fruiting occur late winter to spring. The dark red to nearly black flowers (12 mm diameter) are terminal in 2-4-flowered clusters. 
 Pittosporum fairchildii is included IUCN red list of threatened species of the International Union for Conservation of Nature as vulnerable. 
-For more information visit: <a href="http://nzpcn.org.nz/flora_details.asp?ID=621">http://nzpcn.org.nz/flora_details.asp?ID=621</a>

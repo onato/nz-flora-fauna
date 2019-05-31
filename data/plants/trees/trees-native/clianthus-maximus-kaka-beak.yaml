@@ -6,6 +6,7 @@ category:
 name: Clianthus maximus (Kaka beak)
 origin: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/clianthus-maximus-kaka-beak.html
 wikipedia: https://en.wikipedia.org/wiki/Clianthus_maximus
+nzpcn: 5
 description: >
   Clianthus maximus is a woody legume shrub (5-6 m tall) native to
   New Zealand''s NorthIsland. It is one of two species of Clianthus (Kaka beak) and
@@ -29,9 +30,6 @@ description: >
   and January. C. maximus is closely related to C. puniceus which have mat-green foliage,
   whose upper leaf surface is often slightly glaucous in colour. C. puniceus flowers
   are slightly smaller.
-  
-  For more detailed information visit <a href="http://www.nzpcn.org.nz/flora_details.asp?%20ID=5"
-  target="_blank">http://www.nzpcn.org.nz/flora_details.asp? ID=5</a>9
 attributes:
   kingdom:
   - Plantae

@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/dracophyllum-strictum-totorowhiti.html
+nzpcn: 1819
 attributes:
   kingdom:
   - Plantae
@@ -79,4 +80,3 @@ D. strictum is a small, branching shrub (up to 70cm in height) with whorls of na
 
 It is native to New Zealand and widespread from lowland to higher montane shrubland and forest in higher rainfall areas from sea level to 1000m in the North Island from Thames and East Cape South. It is also known from Mayor Island and is most commonly found in the ignimbrite country of the Central Volcanic Plateau. 
 It is found in north Taranaki generally in the sedimentary hill country on damp banks.
-For more detailed information visit: [http://nzpcn.org.nz/](http://nzpcn.org.nz/flora_details.asp?ID=1819)

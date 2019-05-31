@@ -5,6 +5,7 @@ category:
 - trees-native
 name: Dracophyllum strictum (Totorowhiti)
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/dracophyllum-strictum-totorowhiti.html
+nzpcn: 1819
 description: >
   D. strictum is a small, branching shrub (up to 70cm in height) with whorls of narrow leaves (up to 10cm long by 12mm wide).
   
@@ -14,8 +15,6 @@ description: >
   commonly found in the ignimbrite country of the Central Volcanic Plateau. 
 
   It is found in north Taranaki generally in the sedimentary hill country on damp banks.
-  
-  For more detailed information visit: [http://nzpcn.org.nz/](http://nzpcn.org.nz/flora_details.asp?ID=1819)
 attributes:
   kingdom:
   - Plantae

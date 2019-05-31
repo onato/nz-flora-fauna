@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/myrsine-chathamica-chatham-island-matipo.html
+nzpcn: 1008
 attributes:
   kingdom:
   - Plantae
@@ -49,4 +50,3 @@ title: Myrsine chathamica (Chatham Island matipo)
 Myrsine chathamica is a stout, densely branched, spreading tree up to 8 m tall. It has bisexual flowers on some plants and only female flowers on other plants. It is abundant on the Chatham Islands and occasional on some islands and headlands of Stewart Island and the Foveaux Strait area. It is a forest species ranging from coastal sites to the inland areas.
 
 During September – October yellowish 2-3mm flowers with prominent red oil gland appear. The trees pale purple (10mm) fruit follow during summer to winter.
-For more details visit: <a href="http://www.nzpcn.org.nz/flora_details.asp?ID=1008" target="_blank">http://www.nzpcn.org.nz/flora_details.asp?ID=1008</a>

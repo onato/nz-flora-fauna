@@ -1,0 +1,2 @@
+sed -i '' -e $'s/flora_details\.asp?ID=/\\\nnzpcn: /g'
+sed -i '' -e $'s/flora_details\.aspx?ID=/\\\nnzpcn: /g'

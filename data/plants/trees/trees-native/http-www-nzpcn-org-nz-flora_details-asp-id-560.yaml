@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/http-www-nzpcn-org-nz-flora_details-asp-id-560.html
 name: Leptecophylla robusta (Pouteretere)
+nzpcn: 560
 description: >
   Leptecophylla robusta is a dioecious shrub
   or small tree up to 8 m tall with a deeply furrowed trunk. It is endemic to the
@@ -17,9 +18,6 @@ description: >
   Leptecophylla robusta flower throughout the year, these are white sickly-sweet fragrant. It develops
   a red, pink or white, fleshy, spherical, 5-8 × 6-10 mm drupe (a fruit in which an
   outer fleshy part surrounds a shell).
-  
-  For more detailed information visit: <a href="http://www.nzpcn.org.nz/flora_details.asp?%20ID=560"
-  target="_blank">http://www.nzpcn.org.nz/flora_details.asp? ID=560</a>
 attributes:
   kingdom:
   - Plantae

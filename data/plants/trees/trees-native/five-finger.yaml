@@ -6,6 +6,7 @@ category:
 name: Pseudopanax arboreus (Five finger)
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/five-finger.html
 wikipedia: https://en.wikipedia.org/wiki/Pseudopanax_arboreus
+nzpcn: 1194
 description: >
   <img src="/nz-flora-fauna/assets/images/Skull_and_crossbones.jpg" alt="" width="100" height="auto" />
 
@@ -20,8 +21,6 @@ description: >
   It has large leaves divided into 5-7 leaflets. Pseudopanax arboreus is fast growing
   with small purplish black berries in autumn. The leaves are a favourite food of
   the possum New Zealand's main forest pest.
-
-  For more details visit: <a href="http://nzpcn.org.nz/flora_details.aspx?ID=1194" target="_blank">http://nzpcn.org.nz/flora_details.aspx?ID=1194</a>
 attributes:
   kingdom:
   - Plantae

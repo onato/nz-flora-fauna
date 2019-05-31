@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pseudopanax-colensoi-mountain-five-finger.html
 wikipedia: https://en.wikipedia.org/wiki/Pseudopanax_colensoi
+nzpcn: 1195
 attributes:
   kingdom:
   - Plantae
@@ -83,4 +84,3 @@ It has 3-7 fleshy leaflets (50-200 mm x 20-110 mm) arranged fanwise on very shor
 In October-March it produces cream/green, heavy-scented flowers and then small (4-6 mm) black compressed fruit on large sprays below the leaves.
 This shrub is heavily predated on by possums. 
 There are two other subspecies of Psuedopandex colensoi They are Psuedopandex colensoi var. ternatus and Psuedopandex colensoi var. fiordensis. 
-For more information visit: <a href="http://nzpcn.org.nz/flora_details.asp?ID=1195" target="_blank">http://nzpcn.org.nz/flora_details.asp?ID=1195</a>

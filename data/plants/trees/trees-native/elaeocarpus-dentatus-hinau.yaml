@@ -6,6 +6,7 @@ category:
 name: Elaeocarpus dentatus (Hinau)
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/elaeocarpus-dentatus-hinau.html
 wikipedia: https://en.wikipedia.org/wiki/Elaeocarpus_dentatus
+nzpcn: 1830
 description: >
   Elaeocarpus dentatus is a tall native coastal and lowland forest
   tree of New Zealand growing to 20m. it is found on both the North and South Island''s
@@ -21,8 +22,6 @@ description: >
 
   It was officially first recorded for science
   by botanists Joseph Banks and Daniel Solander on 5 November 1769
-
-  For details visit: <a href="http://nzpcn.org.nz/flora_details.aspx?ID=1830" target="_blank">http://nzpcn.org.nz/flora_details.aspx?ID=1830</a>
 attributes:
   kingdom:
   - Plantae

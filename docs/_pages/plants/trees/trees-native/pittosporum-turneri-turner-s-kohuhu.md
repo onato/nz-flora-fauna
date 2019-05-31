@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pittosporum-turneri-turner-s-kohuhu.html
 wikipedia: https://en.wikipedia.org/wiki/Pittosporum_turneri
+nzpcn: 89
 attributes:
   kingdom:
   - Plantae
@@ -48,4 +49,3 @@ Pittosporum turneri is a rare small native tree (up to 8 m tall) with a columnar
 
 During October to December, this small tree has red/pink night-scented flowers.
 This rare shrubs adult foliage is a favourite of possums and it is suspected that saplings are eaten by deer and goats.
-For more details visit <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=89" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=89</a>.

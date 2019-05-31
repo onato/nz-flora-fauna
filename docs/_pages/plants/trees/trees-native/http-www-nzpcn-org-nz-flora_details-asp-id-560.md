@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/http-www-nzpcn-org-nz-flora_details-asp-id-560.html
+nzpcn: 560
 attributes:
   kingdom:
   - Plantae
@@ -40,4 +41,3 @@ Leptecophylla robusta is a dioecious shrub or small tree up to 8 m tall with a d
 
 The leaves are erect or spreading, green, thick and stiff (10-16 mm long 2-4 mm wide) narrowed to a callus tip. The leaves lower surface has 5-11 conspicuous veins.
 Leptecophylla robusta flower throughout the year, these are white sickly-sweet fragrant. It develops a red, pink or white, fleshy, spherical, 5-8 × 6-10 mm drupe (a fruit in which an outer fleshy part surrounds a shell).
-For more detailed information visit: <a href="http://www.nzpcn.org.nz/flora_details.asp?%20ID=560" target="_blank">http://www.nzpcn.org.nz/flora_details.asp? ID=560</a>

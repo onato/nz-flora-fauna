@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pseudopanax-chathamicus-chatham-island-lancewood.html
+nzpcn: 646
 attributes:
   kingdom:
   - Plantae
@@ -38,4 +39,3 @@ title: Pseudopanax chathamicus (Chatham Island Lancewood)
 Pseudopanax chathamicus is a small tree that is endemic to the Chatham Islands where it grows in moist soil in the coastal forests between Coprosma robusta and Myrsine chathamica.
 
 It can grow 7 m or taller and it has a smooth trunk >30 cm in diameter. A juvenile tree is first unbranched but it changes with age into a branched adult.
-For a more detailed description visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=646" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=646</a>

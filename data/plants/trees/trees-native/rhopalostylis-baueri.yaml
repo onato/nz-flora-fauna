@@ -6,6 +6,7 @@ category:
 name: Rhopalostylis baueri (Kermadec nikau)
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/rhopalostylis-baueri.html
 wikipedia: https://en.wikipedia.org/wiki/Rhopalostylis_baueri
+nzpcn: 670
 description: >
   Rhopalostylis baueri is a species of palm native to Norfolk Island
   (Australia) and to the Kermadec Islands (New Zealand). On RaoulIsland in the Kemadecs,
@@ -29,9 +30,6 @@ description: >
 
   Download pdf on that tree ( <a class="popup_link"
   tabindex="1" href="http://kete.pukekura.org.nz/documents/0000/0000/0104/Rhopalostylis_cheesemani_ET114.pdf">view</a> )
-  
-  For more details on Rhopalostylis baueri visit: <a href="http://www.nzpcn.org.nz/flora_details.asp?%20ID=670"
-  target="_blank">http://www.nzpcn.org.nz/flora_details.asp? ID=670</a>
 attributes:
   kingdom:
   - Plantae

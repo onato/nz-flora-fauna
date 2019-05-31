@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/litsea-calicaris-mangeao.html
 wikipedia: https://en.wikipedia.org/wiki/Litsea_calicaris
+nzpcn: 940
 attributes:
   kingdom:
   - Plantae
@@ -53,4 +54,5 @@ Litsea calicaris is a much branched stout tree with a spreading crown and it can
 It has 5–15 centimetres long oval opposite leaves that are leathery with wavy margins. During September – November it produces small yellow dioecious sweet-scented yellowish flowers in umbels of 4 to 5. 
 The fruit is a red/purple oblong-ovoid drupe (15-20 mm) seated on a disc. These juicy fruits loved by Tui (Prosthemadera novaeseelandiae).
 Litsea calicaris suffers badly from browsing by possums.
-Litsea calicaris produces a high-quality timber with excellent strength and flexibility. The wood is white, firm, and strong, combining toughness with elasticity and lightweight. In the 19th century, it was used for many purposes including the making of barrels and wheels, and for boat frames, railway carriages and sporting goods, agricultural implements, bullock-yokes, oars, ships' blocks. It also produces a high-quality sliced veneer. It is used are in the making of violins and for the ribs of kayaks. It was also used on the 9th floor of the Beehive building (the executive wing of the Parliament of New Zealand). </p> <p>The Māori are said to have used it for its medicinal properties in midwifery. They used it to create a vapour bath (with kōhutuku and tātarāmoa) to promote lochial discharge (Bennett 1883; Goldie 1905).</p> <p>For more details on this tree visit: <a href="http://www.nzpcn.org.nz/flora_details.asp?ID=940">http://www.nzpcn.org.nz/flora_details.asp?ID=940</a>
+Litsea calicaris produces a high-quality timber with excellent strength and flexibility. The wood is white, firm, and strong, combining toughness with elasticity and lightweight. In the 19th century, it was used for many purposes including the making of barrels and wheels, and for boat frames, railway carriages and sporting goods, agricultural implements, bullock-yokes, oars, ships' blocks. It also produces a high-quality sliced veneer. It is used are in the making of violins and for the ribs of kayaks. It was also used on the 9th floor of the Beehive building (the executive wing of the Parliament of New Zealand).
+The Māori are said to have used it for its medicinal properties in midwifery. They used it to create a vapour bath (with kōhutuku and tātarāmoa) to promote lochial discharge (Bennett 1883; Goldie 1905).

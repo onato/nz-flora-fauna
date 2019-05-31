@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/dracophyllum-sinclairii-gumlands-grass-tree.html
+nzpcn: 1818
 attributes:
   kingdom:
   - Plantae
@@ -47,4 +48,3 @@ Dracophyllum sinclairii is a single-stemmed small tree up to 7.6m tall.
 The long narrow adult leaves (1cm wide) are spreading to recurved, glaucous to light green but occasionally light brown.
 It is a common species north of Auckland and Thames. Its habitat is the northern coastal cliffs, shrublands (especially gum land scrub), and secondary regrowth but it is also known from forested slopes (especially kauri forest), and also colonises, along ridgelines and mountain slopes. It has white flowers January – November. Fruiting occurs March to August.
 The Northern Maori tribes made a fibre from the leaves which were used for superior articles of apparel. Weavers also used the stiff, gleaming leaves for decorative features, such as tags on cloaks. Best in 1908 describes that a kōauau (flute) was probably made of neinei.
-For more information visit: <a href="http://nzpcn.org.nz/flora_details.asp?ID=1818" target="_blank">http://nzpcn.org.nz/flora_details.asp?ID=1818</a>

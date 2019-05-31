@@ -5,6 +5,7 @@ category:
 - trees-native
 name: Dracophyllum arboreum (Chatham Island grass tree)
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/dracophyllum-arboretum-chatham-island-grass-tree.html
+nzpcn: 469
 description: >
   Dracophyllum arboreum is a distinctive dracophyllum with a tree habit
   (growing up to 18 m tall). It is endemic to Chatham Islands (Rekohu (Chatham), Rangiuria
@@ -17,10 +18,7 @@ description: >
   The tree has a distinct juvenile phase with leaves that are broad. The older trees develop
   leaves that are narrow, this makes them wind-resistant.
 
-  The mature tree develops
-  spikes of white flowers all year round.
-
-  For more details of this tree visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=469" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=469</a>
+  The mature tree develops spikes of white flowers all year round.
 attributes:
   kingdom:
   - Plantae

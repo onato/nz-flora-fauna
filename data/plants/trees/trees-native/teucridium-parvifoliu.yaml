@@ -6,6 +6,7 @@ category:
 name: Teucridium parvifolium (Teucridium)
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/teucridium-parvifoliu.html
 wikipedia: https://en.wikipedia.org/wiki/Teucridium
+nzpcn: 207
 description: >
   Teucridium parvifolium is an erect, closely branched, softly
   wooded native shrub up to c. 1.5 m tall with branchlets that are square in cross-section
@@ -31,8 +32,6 @@ description: >
   are browsing animals, invasive weeds and habitat disruption. 
 
   The IUCN threat classification is that of vulnerable.
-
-  <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=207" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=207</a>
 attributes:
   kingdom:
   - Plantae

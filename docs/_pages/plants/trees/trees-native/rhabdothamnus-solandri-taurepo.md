@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/rhabdothamnus-solandri-taurepo.html
 wikipedia: https://en.wikipedia.org/wiki/Rhabdothamnus
+nzpcn: 791
 attributes:
   kingdom:
   - Plantae
@@ -80,4 +81,3 @@ Rhabdothamnus solandri is the sole representative of the genus and the only memb
 
 Throughout the year but peaking between October and February the variable Rhabdothamnus solandri has small brightly coloured trumpet-shaped flowers that are principally adapted for bird pollination and range in colour from brick-red through to orange and more rarely a pale yellow. Fruiting occurs throughout the year and the seeds are a tiny dry capsule which develops a few weeks after the flower dies.
 It is thought that in the past Rhabdothamnus solandri needed the long beaks of stitchbirds and bellbirds for pollination. It is now recorded that the colonist silvereye (Zosterops lateralis) are nectar robbers of the flower by going through the side of the flower tube leaving holes. While doing this they partly maintain pollination for this species and without this compensation, these plants would be significantly more pollen-limited.
-For more details visit: <a href="http://www.nzpcn.org.nz/flora_details.asp?ID=791" target="_blank">http://www.nzpcn.org.nz/flora_details.asp?ID=791</a>

@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/coprosma-rubra.html
 wikipedia: https://en.wikipedia.org/wiki/Coprosma_rubra
+nzpcn: 1735
 attributes:
   kingdom:
   - Plantae
@@ -52,5 +53,3 @@ title: Coprosma rubra
 Coprosma rubra is a shrub native to New Zealand. C. rubra is found in both the North (mainly east) and in the South Island east of the divide from lowland to montane areas. It is often found in riparian forest or shrubland on alluvial soils.
 
 C. rubra can grow up to 4 metres high with red-brown bark and slender branches. The fruit is yellowish-white, oblong and up to 6mm long and appears during February – August. Flowering occurs September – January.
-For more details visit:
-<a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=1735" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=1735</a>

@@ -6,6 +6,7 @@ category:
 name: Pittosporum crassifolium (Karo)
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/koro.html
 wikipedia: https://en.wikipedia.org/wiki/Pittosporum_crassifolium
+nzpcn: 1133
 description: >
   Pittosporum crassifoliumis a small tree or shrub native to New Zealand.
   Karo's original distribution was generally the top half of the North Island from
@@ -20,8 +21,6 @@ description: >
   Clusters of small red-purple flowers appear in spring, developing into seed pods
   that split to expose the sticky seeds. Birds easily spread Karo seeds and in areas
   south of its natural range it has become a pest plant.
-  
-  For more detail information visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=1133" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=1133</a>
 attributes:
   kingdom:
   - Plantae

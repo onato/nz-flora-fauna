@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pseudopanax-colensoi-var-ternatus-three-finger.html
+nzpcn: 1200
 attributes:
   kingdom:
   - Plantae
@@ -55,4 +56,3 @@ It has leathery, compound, usually 3-foliate leaves arranged fanwise on a long p
 The flowers (October-March) are yellowish and its inflorescence is a terminal umbel, similar to five-finger (Pseudopanax arboreus). 
 Fruiting occurs October-March.
 It is endemic to the South Island growing in cool moist forests and shrublands in the damper regions. It is usually found at 50m to 1000 m.a.s.l.
-For more information visit: <a href="http://www.nzpcn.org.nz/flora_details.aspx?ID=1200" target="_blank">http://www.nzpcn.org.nz/flora_details.aspx?ID=1200</a>
