@@ -22,35 +22,44 @@ images:
   width: 800
   height: 600
   caption: A Kiekie plant with fruit.
+  path: "/image_files/0000/0001/4019/Kiekie_Freycinetia_banksii-3.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0284/Freycinetia_banksii___Kiekie-1.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0002/0284/Freycinetia_banksii___Kiekie-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1094/Waxeye_feeding_on_Kiekie-7.JPG
   width: 640
   height: 480
   caption: Waxeye feeding on Keikei fruit.
+  path: "/image_files/0000/0002/1094/Waxeye_feeding_on_Kiekie-7.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/2954/Freycinetia_banksii__Kiekie.JPG
   width: 800
   height: 536
+  path: "/image_files/0000/0001/2954/Freycinetia_banksii__Kiekie.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/1248/frecinetia_banksii.jpg
   width: 600
   height: 896
   caption: Young Kiekie growing up a tree fern.
+  path: "/image_files/0000/0000/1248/frecinetia_banksii.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/2959/young_kie_kie__Freycinetia_banksii_..JPG
   width: 800
   height: 600
   caption: Young Kiekie growing on a bank.
+  path: "/image_files/0000/0001/2959/young_kie_kie__Freycinetia_banksii_..JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/3154/Astelia_fragrans-002.JPG
   width: 2000
   height: 1500
   caption: Photographed on Westcoast roadside.
+  path: "/image_files/0000/0006/3154/Astelia_fragrans-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/3149/Astelia_fragrans-001.JPG
   width: 2000
   height: 1500
   caption: Freycinetia banksii growing on a coastal cliff in South Westland.
+  path: "/image_files/0000/0006/3149/Astelia_fragrans-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/3169/Astelia_fragrans.JPG
   width: 2000
   height: 1500
+  path: "/image_files/0000/0006/3169/Astelia_fragrans.JPG"
 permalink: plants/trees/trees-native/freycinetia_banksii.html
 layout: page
 title: Freycinetia banksii (Kiekie)

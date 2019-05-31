@@ -26,19 +26,24 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/9404/Hard_beech__Nothofagus_truncata.JPG
   width: 900
   height: 1200
+  path: "/image_files/0000/0002/9404/Hard_beech__Nothofagus_truncata.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/9414/Hard_beech__Nothofagus_truncata-006.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0002/9414/Hard_beech__Nothofagus_truncata-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1264/Nothofagus_truncate__Hard_Beech_-001.JPG
   width: 898
   height: 1200
   caption: Photograph was taken in the Buller Gorge, Westland, New Zealand.
+  path: "/image_files/0000/0005/1264/Nothofagus_truncate__Hard_Beech_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1269/Nothofagus_truncate__Hard_Beech_-003.JPG
   width: 1024
   height: 771
+  path: "/image_files/0000/0005/1269/Nothofagus_truncate__Hard_Beech_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/4454/Hard_Beech__Nothofagus_truncate.JPG
   width: 600
   height: 451
+  path: "/image_files/0000/0002/4454/Hard_Beech__Nothofagus_truncate.JPG"
 permalink: plants/trees/trees-native/fuscospora_truncata.html
 layout: page
 title: Fuscospora truncata (Hard Beech)

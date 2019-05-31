@@ -22,30 +22,37 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/3648/1-Metrosideros_excelsa_Aurea__Yellow_Pohutukawa.jpg
   width: 1600
   height: 1202
+  path: "/image_files/0000/0011/3648/1-Metrosideros_excelsa_Aurea__Yellow_Pohutukawa.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7419/Metrosideros_excelsa__Aurea____Yellow_Puhutukawa..JPG
   width: 1200
   height: 902
   caption: Yellow Pohutukawa. and red Pohutukawa growing together near the junction
     of Wallath Rd and Tukapa St.
+  path: "/image_files/0000/0004/7419/Metrosideros_excelsa__Aurea____Yellow_Puhutukawa..JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/5128/yellow_Pohutukawa_2-1.JPG
   width: 800
   height: 600
   caption: Can be seen at Spencer place entrance.  This tree flowers in January later
     than the trees on the coast.
+  path: "/image_files/0000/0000/5128/yellow_Pohutukawa_2-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/8153/1-Metrosideros_excelsa__Aurea__.jpg
   width: 1200
   height: 901
   caption: A specimen growing centre city New Plymouth.
+  path: "/image_files/0000/0012/8153/1-Metrosideros_excelsa__Aurea__.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3479/Metrosideros_excelsa__Aurea___Yellow_Pohutukawa_.JPG
   width: 800
   height: 600
   caption: Flower buds mid-November.
+  path: "/image_files/0000/0005/3479/Metrosideros_excelsa__Aurea___Yellow_Pohutukawa_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7409/Metrosideros_excelsa__Aurea____Yellow_Puhutukawa.-001.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0004/7409/Metrosideros_excelsa__Aurea____Yellow_Puhutukawa.-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/5133/yellow_Pohutukawa_2-5.JPG
   width: 640
   height: 480
+  path: "/image_files/0000/0000/5133/yellow_Pohutukawa_2-5.JPG"
 permalink: plants/trees/trees-native/metrosideros_excelsa_'aurea'.html
 layout: page
 title: Metrosideros excelsa 'Aurea' (Yellow Pohutukawa)

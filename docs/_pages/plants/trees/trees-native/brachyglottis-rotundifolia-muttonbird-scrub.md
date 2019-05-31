@@ -21,8 +21,11 @@ attributes:
   common names: Muttonbird scrub
 images:
 - src: uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia%203.JPG
+  path: uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia%203.JPG
 - src: uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia_MurielBendel.JPG
+  path: uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia_MurielBendel.JPG
 - src: uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia_Governors_Bush_Walk_Mount_Cook_2.JPG
+  path: uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia_Governors_Bush_Walk_Mount_Cook_2.JPG
 permalink: plants/trees/trees-native/brachyglottis_rotundifolia.html
 layout: page
 title: Brachyglottis rotundifolia (Muttonbird scrub)

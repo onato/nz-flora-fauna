@@ -25,27 +25,34 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/7533/1-Olearia_solandri.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0011/7533/1-Olearia_solandri.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4779/Olearia_solandri-001.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0007/4779/Olearia_solandri-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/7548/1-Olearia_solandri-004.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0011/7548/1-Olearia_solandri-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4784/Olearia_solandri.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0007/4784/Olearia_solandri.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4804/Olearia_solandri__Coastal_shrub_daisy-007.JPG
   width: 1600
   height: 1200
   caption: Below are photos of a very old tree planted in a public garden in Reefton,
     South Island, Early March.
+  path: "/image_files/0000/0007/4804/Olearia_solandri__Coastal_shrub_daisy-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4809/Olearia_solandri__Coastal_shrub_daisy-005.JPG
   width: 800
   height: 602
+  path: "/image_files/0000/0007/4809/Olearia_solandri__Coastal_shrub_daisy-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4814/Olearia_solandri__Coastal_shrub_daisy-001.JPG
   width: 800
   height: 600
   caption: The trunk of a very old tree.
+  path: "/image_files/0000/0007/4814/Olearia_solandri__Coastal_shrub_daisy-001.JPG"
 permalink: plants/trees/trees-native/olearia_solandri.html
 layout: page
 title: Olearia solandri (Coastal shrub daisy)

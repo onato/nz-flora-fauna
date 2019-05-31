@@ -23,24 +23,30 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8874/Lepidothamnus_intermedius__Yellow_Silver_Pine_-002.JPG
   width: 1200
   height: 902
+  path: "/image_files/0000/0005/8874/Lepidothamnus_intermedius__Yellow_Silver_Pine_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8909/Lepidothamnus_intermedius__Yellow_Silver_Pine_-008.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0005/8909/Lepidothamnus_intermedius__Yellow_Silver_Pine_-008.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8889/Lepidothamnus_intermedius__Yellow_Silver_Pine_-004.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0005/8889/Lepidothamnus_intermedius__Yellow_Silver_Pine_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8894/Lepidothamnus_intermedius__Yellow_Silver_Pine_-006.JPG
   width: 800
   height: 599
   caption: Branchlets a bumpy outline.
+  path: "/image_files/0000/0005/8894/Lepidothamnus_intermedius__Yellow_Silver_Pine_-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8899/Lepidothamnus_intermedius__Yellow_Silver_Pine_-007.JPG
   width: 800
   height: 601
   caption: Closeup of a branchlet.
+  path: "/image_files/0000/0005/8899/Lepidothamnus_intermedius__Yellow_Silver_Pine_-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8904/Lepidothamnus_intermedius__Yellow_Silver_Pine_.JPG
   width: 902
   height: 1200
   caption: The trunk.
+  path: "/image_files/0000/0005/8904/Lepidothamnus_intermedius__Yellow_Silver_Pine_.JPG"
 permalink: plants/trees/trees-native/lepidothamnus_intermedius.html
 layout: page
 title: Lepidothamnus intermedius (Yellow Silver Pine)

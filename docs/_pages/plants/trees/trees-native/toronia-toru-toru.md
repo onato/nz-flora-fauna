@@ -23,10 +23,12 @@ images:
   width: 900
   height: 1200
   caption: A young tree.
+  path: "/image_files/0000/0008/2678/Toronia_toru__Toru-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2673/Toronia_toru__Toru-002.JPG
   width: 1200
   height: 403
   caption: The distinctive long leaf.
+  path: "/image_files/0000/0008/2673/Toronia_toru__Toru-002.JPG"
 permalink: plants/trees/trees-native/toronia_toru.html
 layout: page
 title: Toronia toru (Toru)

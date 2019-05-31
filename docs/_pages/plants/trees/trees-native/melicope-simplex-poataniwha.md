@@ -26,6 +26,7 @@ images:
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Melicope_simplex_11.JPG
   width: 800
   height: 600
+  path: "/uploads/images/Te%20Henui/Trees/Melicope_simplex_11.JPG"
 permalink: plants/trees/trees-native/melicope_simplex.html
 layout: page
 title: Melicope simplex (Poataniwha)

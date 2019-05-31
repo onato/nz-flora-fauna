@@ -26,17 +26,21 @@ images:
   width: 1600
   height: 1201
   caption: Photographed at Otari Wilton Bush Reserve November.
+  path: "/image_files/0000/0004/6904/Myrsine_chathamica-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6919/Myrsine_chathamica-004.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0004/6919/Myrsine_chathamica-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6909/Myrsine_chathamica-002.JPG
   width: 800
   height: 603
   caption: The top surface of a leaf.
+  path: "/image_files/0000/0004/6909/Myrsine_chathamica-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6914/Myrsine_chathamica-003.JPG
   width: 800
   height: 600
   caption: The underside of a leaf.
+  path: "/image_files/0000/0004/6914/Myrsine_chathamica-003.JPG"
 permalink: plants/trees/trees-native/myrsine_chathamica.html
 layout: page
 title: Myrsine chathamica (Chatham Island matipo)

@@ -22,12 +22,15 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4874/Pittosporum_Stephens_Island-004.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0006/4874/Pittosporum_Stephens_Island-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4879/Pittosporum__Stephens_Island__-002.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0006/4879/Pittosporum__Stephens_Island__-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4884/Pittosporum__Stephens_Island__-003.JPG
   width: 600
   height: 451
+  path: "/image_files/0000/0006/4884/Pittosporum__Stephens_Island__-003.JPG"
 permalink: plants/trees/trees-native/pittosporum_'stephens_island'.html
 layout: page
 title: Pittosporum (a form) 'Stephens Island'

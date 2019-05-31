@@ -20,31 +20,39 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2379/Olearia_angulata_in_New_Plymouth.JPG
   width: 1600
   height: 1202
+  path: "/image_files/0000/0003/2379/Olearia_angulata_in_New_Plymouth.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2754/Olearia_angulata.JPG
   width: 1600
   height: 1200
   caption: Olearia angulata displaying flower buds.
+  path: "/image_files/0000/0006/2754/Olearia_angulata.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2384/Olearia_angulata-001.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0003/2384/Olearia_angulata-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2394/Olearia_angulata-007.JPG
   width: 1024
   height: 767
+  path: "/image_files/0000/0003/2394/Olearia_angulata-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3059/Olearia_angulata-003.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0003/3059/Olearia_angulata-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2399/Olearia_angulata-002.JPG
   width: 1024
   height: 768
   caption: A distinguishing feature of the leaves is that the veins on the upper surface
     are depressed.
+  path: "/image_files/0000/0005/2399/Olearia_angulata-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2404/Olearia_angulata-003.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0005/2404/Olearia_angulata-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2409/Olearia_angulata-004.JPG
   width: 1024
   height: 768
   caption: Trunk.
+  path: "/image_files/0000/0005/2409/Olearia_angulata-004.JPG"
 permalink: plants/trees/trees-native/olearia_angulata.html
 layout: page
 title: Olearia angulata

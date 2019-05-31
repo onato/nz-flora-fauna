@@ -19,9 +19,11 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1739/Olearia_locheliia.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0006/1739/Olearia_locheliia.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1734/Olearia_locheliia-003.JPG
   width: 1024
   height: 766
+  path: "/image_files/0000/0006/1734/Olearia_locheliia-003.JPG"
 permalink: plants/trees/trees-native/olearia_locheliia.html
 layout: page
 title: Olearia locheliia

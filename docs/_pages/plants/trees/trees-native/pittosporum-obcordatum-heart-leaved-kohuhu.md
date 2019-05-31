@@ -28,20 +28,25 @@ images:
   height: 900
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0005/1944/Pittosporum_obcordatum-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6199/1-Pittosporum_obcordatum__Heart-leaved_Kohuhu-002.JPG
   width: 1200
   height: 1600
+  path: "/image_files/0000/0003/6199/1-Pittosporum_obcordatum__Heart-leaved_Kohuhu-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6189/1-Pittosporum_obcordatum__Heart-leaved_Kohuhu-003.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0003/6189/1-Pittosporum_obcordatum__Heart-leaved_Kohuhu-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/5388/Pittosporum_obcardatum-001.JPG
   width: 640
   height: 480
+  path: "/image_files/0000/0008/5388/Pittosporum_obcardatum-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6194/1-Pittosporum_obcordatum__Heart-leaved_Kohuhu-004.JPG
   width: 600
   height: 451
   caption: In the centre of the photo is some notched tip leaves with a heart shape
     hence the common name Heart-leaved Kohuhu.
+  path: "/image_files/0000/0003/6194/1-Pittosporum_obcordatum__Heart-leaved_Kohuhu-004.JPG"
 permalink: plants/trees/trees-native/pittosporum_obcordatum.html
 layout: page
 title: Pittosporum obcordatum (Heart leaved Kohuhu)

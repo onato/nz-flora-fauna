@@ -24,6 +24,7 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/5964/Androstoma_empetrifolia.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0007/5964/Androstoma_empetrifolia.JPG"
 permalink: plants/trees/trees-native/androstoma_empetrifolia.html
 layout: page
 title: Androstoma empetrifolia (Mountain Mikimiki)

@@ -27,6 +27,7 @@ images:
   width: 800
   height: 600
   caption: Photographed at Otari Wilton Bush Reserve
+  path: "/image_files/0000/0004/5964/Coprosma_petriei.__127_.JPG"
 permalink: plants/trees/trees-native/coprosma_petriei.html
 layout: page
 title: Coprosma petriei (Turfy coprosma)

@@ -23,12 +23,15 @@ images:
   width: 1200
   height: 900
   caption: Photographed at OtariNativeBotanic Garden and Wilton''s Bush Reserve. Wellington.
+  path: "/image_files/0000/0004/7964/Pseudopanax_gilliesii__1_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7969/Pseudopanax_gilliesii__2_.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0004/7969/Pseudopanax_gilliesii__2_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7974/Pseudopanax_gilliesii.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0004/7974/Pseudopanax_gilliesii.JPG"
 permalink: plants/trees/trees-native/pseudopanax_gilliesii.html
 layout: page
 title: Pseudopanax gilliesii

@@ -22,24 +22,30 @@ images:
   width: 1200
   height: 900
   caption: Photographed at the Meeting of the Waters reserve in Taranaki.
+  path: "/image_files/0000/0005/7144/Lophomyrtus_X_ralphii.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/7124/Lophomyrtus_X_ralphii-001.JPG
   width: 1024
   height: 767
+  path: "/image_files/0000/0005/7124/Lophomyrtus_X_ralphii-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/7154/Lophomyrtus_X_ralphii.JPG
   width: 1024
   height: 766
+  path: "/image_files/0000/0005/7154/Lophomyrtus_X_ralphii.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/7149/Lophomyrtus_X_ralphii-003.JPG
   width: 1024
   height: 767
   caption: The underside of the leaves.
+  path: "/image_files/0000/0005/7149/Lophomyrtus_X_ralphii-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/7139/Lophomyrtus_X_ralphii-004.JPG
   width: 767
   height: 1024
   caption: The trunk of the above tree.
+  path: "/image_files/0000/0005/7139/Lophomyrtus_X_ralphii-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/7129/Lophomyrtus_X_ralphii-002.JPG
   width: 600
   height: 448
   caption: Seed capsule May.
+  path: "/image_files/0000/0005/7129/Lophomyrtus_X_ralphii-002.JPG"
 permalink: plants/trees/trees-native/lophomyrtus_×ralphii.html
 layout: page
 title: Lophomyrtus ×ralphii (Small-leaved ramarama)

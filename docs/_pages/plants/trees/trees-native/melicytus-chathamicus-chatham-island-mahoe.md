@@ -26,9 +26,11 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5148/1-Melicytus_chathamicus_.JPG
   width: 1195
   height: 1600
+  path: "/image_files/0000/0011/5148/1-Melicytus_chathamicus_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5153/1-Melicytus_chathamicus_-002.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0011/5153/1-Melicytus_chathamicus_-002.JPG"
 permalink: plants/trees/trees-native/melicytus_chathamicus.html
 layout: page
 title: Melicytus chathamicus (Chatham Island mahoe)

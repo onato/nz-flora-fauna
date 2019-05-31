@@ -27,11 +27,13 @@ images:
   height: 900
   caption: Photographed late March at Otari Native Botanic Garden and Wilton's Bush
     Reserve. Wellington.
+  path: "/image_files/0000/0003/4634/Myrsine_nummularia__Creeping_mapou-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6899/Myrsine_nummularia-001.JPG
   width: 1600
   height: 1200
   caption: Photographed early November with winter coloured foliage. Small pale green
     berries which will change to a purple colour are present.
+  path: "/image_files/0000/0004/6899/Myrsine_nummularia-001.JPG"
 permalink: plants/trees/trees-native/myrsine_nummularia.html
 layout: page
 title: Myrsine nummularia (Creeping matipo)

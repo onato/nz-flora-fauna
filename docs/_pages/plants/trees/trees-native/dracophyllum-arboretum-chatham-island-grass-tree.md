@@ -26,10 +26,12 @@ images:
   width: 2000
   height: 1500
   caption: Adult trees
+  path: "/image_files/0000/0011/4938/1-Dracophyllum_arboreum._Chatham_Islands__March_2017._Chatham_Islands__March_2017.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4943/1-Dracophyllum_arboreum__Chatham_Island_grass_tree__._Chatham_Island__March_2017.jpg
   width: 1500
   height: 2000
   caption: The juvenile stage.
+  path: "/image_files/0000/0011/4943/1-Dracophyllum_arboreum__Chatham_Island_grass_tree__._Chatham_Island__March_2017.jpg"
 permalink: plants/trees/trees-native/dracophyllum_arboreum.html
 layout: page
 title: Dracophyllum arboreum (Chatham Island grass tree)

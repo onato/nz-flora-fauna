@@ -26,9 +26,11 @@ images:
   height: 900
   caption: A small tree photographed at Otari Native Botanic Garden and Wilton's Bush
     Reserve. Wellington.
+  path: "/image_files/0000/0003/3364/Leptecophylla_robusta__Pouteretere.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3369/Leptecophylla_robusta__Pouteretere-001.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0003/3369/Leptecophylla_robusta__Pouteretere-001.JPG"
 permalink: plants/trees/trees-native/leptecophylla_robusta.html
 layout: page
 title: Leptecophylla robusta (Pouteretere)

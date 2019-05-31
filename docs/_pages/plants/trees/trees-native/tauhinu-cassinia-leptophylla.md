@@ -29,22 +29,28 @@ images:
   width: 1024
   height: 768
   caption: Photographed at Te Kainga Marire - Native New Zealand Garden, New Plymouth.
+  path: "/image_files/0000/0007/9498/Ozothamnus_leptophyllus-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1959/Cassinia_leptophylla__Tauhinu-7.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0002/1959/Cassinia_leptophylla__Tauhinu-7.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1949/Cassinia_leptophylla__Tauhinu-5.JPG
   width: 800
   height: 598
+  path: "/image_files/0000/0002/1949/Cassinia_leptophylla__Tauhinu-5.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9493/Ozothamnus_leptophyllus.JPG
   width: 1024
   height: 897
+  path: "/image_files/0000/0007/9493/Ozothamnus_leptophyllus.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1954/Cassinia_leptophylla__Tauhinu-6.JPG
   width: 768
   height: 1024
   caption: New branch
+  path: "/image_files/0000/0002/1954/Cassinia_leptophylla__Tauhinu-6.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9503/Ozothamnus_leptophyllus-003.JPG
   width: 766
   height: 1024
+  path: "/image_files/0000/0007/9503/Ozothamnus_leptophyllus-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3598/Ozothamnus_leptophyllus.JPG
   width: 2000
   height: 1334
@@ -62,15 +68,19 @@ images:
     in the images below is what was previously called Cassinia retorta.  For now,
     it is called Ozothamnus leptophyllus, but once the revision is published it will
     be a distinct taxon again. \n"
+  path: "/image_files/0000/0008/3598/Ozothamnus_leptophyllus.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/9834/Ozothamnus_leptophyllus__Tauhinu_.JPG
   width: 600
   height: 450
+  path: "/image_files/0000/0006/9834/Ozothamnus_leptophyllus__Tauhinu_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/9824/Ozothamnus_leptophyllus__Tauhinu__1_.JPG
   width: 1024
   height: 683
+  path: "/image_files/0000/0006/9824/Ozothamnus_leptophyllus__Tauhinu__1_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/9829/Ozothamnus_leptophyllus__Tauhinu__2_.JPG
   width: 1024
   height: 767
+  path: "/image_files/0000/0006/9829/Ozothamnus_leptophyllus__Tauhinu__2_.JPG"
 permalink: plants/trees/trees-native/ozothamnus_leptophyllus.html
 layout: page
 title: Ozothamnus leptophyllus (Tauhinu)

@@ -26,19 +26,24 @@ images:
   width: 2000
   height: 1339
   caption: Photographed at Forest Hill Reserve, Otahuti, Southland. March.
+  path: "/image_files/0000/0006/6884/Pseudopanax_colensoi_var._ternatus__Three-finger_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/6889/Pseudopanax_colensoi_var._ternatus__Three-finger_.JPG
   width: 1024
   height: 767
+  path: "/image_files/0000/0006/6889/Pseudopanax_colensoi_var._ternatus__Three-finger_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3694/Pseudopanax_colensoi_var._ternatus.JPG
   width: 1024
   height: 768
   caption: A juvenile tree.
+  path: "/image_files/0000/0007/3694/Pseudopanax_colensoi_var._ternatus.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3699/Pseudopanax_colensoi_var._ternatus-001.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0007/3699/Pseudopanax_colensoi_var._ternatus-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3704/Pseudopanax_colensoi_var._ternatus-002.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0007/3704/Pseudopanax_colensoi_var._ternatus-002.JPG"
 permalink: plants/trees/trees-native/pseudopanax_colensoi_var_ternatus.html
 layout: page
 title: Pseudopanax colensoi var. ternatus (Three-finger)

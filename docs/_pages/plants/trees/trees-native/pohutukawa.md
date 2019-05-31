@@ -25,12 +25,15 @@ images:
   height: 768
   caption: Crimson Pohutukawa (December)  Lat  39 3' 7.029"S  Long 174 5' 28.19E  Datum
     WGS 84
+  path: "/image_files/0000/0000/5143/Red_pohutukawa_22-12-2009_9-06-41_a.m..jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4344/Metrosideros_excelsa__Crimson_Pohutukawa-004.JPG
   width: 1600
   height: 1204
+  path: "/image_files/0000/0005/4344/Metrosideros_excelsa__Crimson_Pohutukawa-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4349/Metrosideros_excelsa__Crimson_Pohutukawa-003.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0005/4349/Metrosideros_excelsa__Crimson_Pohutukawa-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/0059/Metrosideros_excelsa__Pohutukawa-002.JPG
   width: 1600
   height: 1200
@@ -38,10 +41,12 @@ images:
     roots. Some pohutukawa trees are more prone to producing them than others.  The
     two trunks on the left are aerial roots that have touch the ground and are now
     rooted there.
+  path: "/image_files/0000/0003/0059/Metrosideros_excelsa__Pohutukawa-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3983/Pohutukaka_Trunk.JPG
   width: 800
   height: 600
   caption: Pohutukawa trunk
+  path: "/image_files/0000/0000/3983/Pohutukaka_Trunk.JPG"
 permalink: plants/trees/trees-native/metrosideros_excelsa.html
 layout: page
 title: Metrosideros excelsa (Crimson Pohutukawa)

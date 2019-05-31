@@ -24,18 +24,22 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8929/Alectryon_excelsus_grandis-004.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0004/8929/Alectryon_excelsus_grandis-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8924/Alectryon_excelsus_grandis-001.JPG
   width: 1200
   height: 900
   caption: The top surface of a leaf.
+  path: "/image_files/0000/0004/8924/Alectryon_excelsus_grandis-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8934/Alectryon_excelsus_grandis-005.JPG
   width: 1200
   height: 900
   caption: The underside of a leaf.
+  path: "/image_files/0000/0004/8934/Alectryon_excelsus_grandis-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/9429/Alectryon_excelsus__Titoki-001.JPG
   width: 1024
   height: 766
   caption: The fruit of Alectryon excelsus with black seed.
+  path: "/image_files/0000/0002/9429/Alectryon_excelsus__Titoki-001.JPG"
 permalink: plants/trees/trees-native/alectryon_excelsus_subsp_grandis.html
 layout: page
 title: Alectryon excelsus subsp. grandis (Three Kings titoki)

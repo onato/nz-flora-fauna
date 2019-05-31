@@ -27,19 +27,24 @@ images:
   height: 900
   caption: Photographed at <a href="http://www.tekaingamarire.co.nz/" target="_blank">Te
     Kainga Marire Gardens</a> at Spencer Place.
+  path: "/image_files/0000/0002/4944/Leptospermum_ericoides_var._microflorum__Geothermal_Kanuka-4.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/4939/Leptospermum_ericoides_var._microflorum__Geothermal_Kanuka-1.JPG
   width: 1200
   height: 903
+  path: "/image_files/0000/0002/4939/Leptospermum_ericoides_var._microflorum__Geothermal_Kanuka-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/4954/Leptospermum_ericoides_var._microflorum__Geothermal_Kanuka-7.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0002/4954/Leptospermum_ericoides_var._microflorum__Geothermal_Kanuka-7.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/4949/Leptospermum_ericoides_var._microflorum__Geothermal_Kanuka-5.JPG
   width: 800
   height: 602
+  path: "/image_files/0000/0002/4949/Leptospermum_ericoides_var._microflorum__Geothermal_Kanuka-5.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/8178/Kunzea_ericoides_var._microflora__-002.JPG
   width: 800
   height: 600
   caption: New red coloured leaves (November)
+  path: "/image_files/0000/0009/8178/Kunzea_ericoides_var._microflora__-002.JPG"
 permalink: plants/trees/trees-native/kunzea_ericoides_var_microflora.html
 layout: page
 title: Kunzea ericoides var. microflora (Geothermal Kanuka)

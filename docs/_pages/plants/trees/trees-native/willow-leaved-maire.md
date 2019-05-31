@@ -31,10 +31,12 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/3309/Mida_salicifolia_Willow-leaved_maire_Maire_Taike.JPG
   width: 501
   height: 800
+  path: "/image_files/0000/0001/3309/Mida_salicifolia_Willow-leaved_maire_Maire_Taike.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6269/Mida_salicifolia_Maire_taiki.JPG
   width: 1024
   height: 766
   caption: Photographed February
+  path: "/image_files/0000/0005/6269/Mida_salicifolia_Maire_taiki.JPG"
 permalink: plants/trees/trees-native/mida_salicifolia.html
 layout: page
 title: Mida salicifolia (NZ Sandalwood)

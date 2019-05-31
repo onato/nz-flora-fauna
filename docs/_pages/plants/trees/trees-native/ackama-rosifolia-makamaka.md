@@ -21,62 +21,77 @@ images:
   width: 1200
   height: 902
   caption: Photographed at Te Kainga Marire Gardens at Spencer Place
+  path: "/image_files/0000/0003/8049/Ackama_rosifolia___Makamaka-015.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8064/Ackama_rosifolia__Makamaka.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0003/8064/Ackama_rosifolia__Makamaka.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8044/Ackama_rosifolia___Makamaka-011.JPG
   width: 800
   height: 601
   caption: The tiny flowers with yellow nectaries (A glandlike organ, located outside
     or within a flower, that secretes nectar)
+  path: "/image_files/0000/0003/8044/Ackama_rosifolia___Makamaka-011.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8069/Ackama_rosifolia__Makamaka-001.JPG
   width: 800
   height: 602
   caption: The tiny flowers with stamens standing proud. Stamens are the pollen-producing
     part of a flower,  with a slender filament supporting the anther.
+  path: "/image_files/0000/0003/8069/Ackama_rosifolia__Makamaka-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9854/Ackama_rosifolia__Makamaka.-004.JPG
   width: 1200
   height: 900
   caption: Fruiting tree.
+  path: "/image_files/0000/0004/9854/Ackama_rosifolia__Makamaka.-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6554/Ackama_rosifolia__Makamaka__cluster_of_red_fruit.JPG
   width: 1600
   height: 1200
   caption: Clusters of red fruit before releasing their seeds.(December)
+  path: "/image_files/0000/0004/6554/Ackama_rosifolia__Makamaka__cluster_of_red_fruit.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7064/Ackama_rosifolia__Makamaka__Caldcluvia_rosifolia.JPG
   width: 800
   height: 601
   caption: Hairy immature capsules with two persistent styles at the top.  A style
     is a  tube-like appendage that connects the stigma to the ovary.
+  path: "/image_files/0000/0004/7064/Ackama_rosifolia__Makamaka__Caldcluvia_rosifolia.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9029/Ackama_rosifolia__Makamaka-001.JPG
   width: 1200
   height: 901
   caption: New leaves forming.
+  path: "/image_files/0000/0004/9029/Ackama_rosifolia__Makamaka-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8079/Ackama_rosifolia__Makamaka-003.JPG
   width: 900
   height: 1200
+  path: "/image_files/0000/0003/8079/Ackama_rosifolia__Makamaka-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9864/Ackama_rosifolia__Makamaka.-008.JPG
   width: 1200
   height: 901
+  path: "/image_files/0000/0004/9864/Ackama_rosifolia__Makamaka.-008.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9859/Ackama_rosifolia__Makamaka.-005.JPG
   width: 1200
   height: 902
   caption: The underside of a leaf.
+  path: "/image_files/0000/0004/9859/Ackama_rosifolia__Makamaka.-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9034/Ackama_rosifolia__Makamaka.JPG
   width: 1200
   height: 903
   caption: The underside of young leaves.
+  path: "/image_files/0000/0004/9034/Ackama_rosifolia__Makamaka.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8084/Ackama_rosifolia__Makamaka-004.JPG
   width: 800
   height: 601
   caption: Domatia on underside of a leaf
+  path: "/image_files/0000/0003/8084/Ackama_rosifolia__Makamaka-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8074/Ackama_rosifolia__Makamaka-002.JPG
   width: 800
   height: 601
   caption: The underside of a leaf showing the short leaf stalks.
+  path: "/image_files/0000/0003/8074/Ackama_rosifolia__Makamaka-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8034/Ackama_rosifolia___Makamaka-006.JPG
   width: 1200
   height: 900
   caption: The smooth grey-brown bark on the trunk
+  path: "/image_files/0000/0003/8034/Ackama_rosifolia___Makamaka-006.JPG"
 permalink: plants/trees/trees-native/ackama_rosifolia.html
 layout: page
 title: Ackama rosifolia (Makamaka)

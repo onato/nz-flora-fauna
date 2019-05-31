@@ -24,16 +24,20 @@ images:
   height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton''s Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/6259/Pittosporum_ralphii__Ralph_s_Kohuhu-005__1_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6264/Pittosporum_ralphii__Ralph_s_Kohuhu-005__2_.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0003/6264/Pittosporum_ralphii__Ralph_s_Kohuhu-005__2_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6269/Pittosporum_ralphii__Ralph_s_Kohuhu-005__3_.JPG
   width: 768
   height: 1024
+  path: "/image_files/0000/0003/6269/Pittosporum_ralphii__Ralph_s_Kohuhu-005__3_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6254/Pittosporum_ralphii__Ralph_s_Kohuhu-005.JPG
   width: 1024
   height: 769
   caption: The undersurface of a leaf showing the whitish tomentum.
+  path: "/image_files/0000/0003/6254/Pittosporum_ralphii__Ralph_s_Kohuhu-005.JPG"
 permalink: plants/trees/trees-native/pittosporum_ralphii.html
 layout: page
 title: Pittosporum ralphii (Ralph's Kohuhu)

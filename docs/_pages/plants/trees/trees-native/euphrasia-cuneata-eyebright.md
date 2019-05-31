@@ -26,30 +26,37 @@ images:
   width: 1024
   height: 768
   caption: Photographed January Mt Egmont/Taranaki January.
+  path: "/image_files/0000/0005/5889/Euphrasia_cuneata-003.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/7228/Euphrasia_cuneata__North_Island_eyebright-004.JPG
   width: 1200
   height: 1600
   caption: Flowering early June at Maikaikatea, inland of Uriti, North Taranaki
+  path: "/image_files/0000/0010/7228/Euphrasia_cuneata__North_Island_eyebright-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/7213/Euphrasia_cuneata__North_Island_eyebright.JPG
   width: 1200
   height: 902
+  path: "/image_files/0000/0010/7213/Euphrasia_cuneata__North_Island_eyebright.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/7218/Euphrasia_cuneata__North_Island_eyebright-002.JPG
   width: 1200
   height: 901
   caption: Looking at the back of the flower.
+  path: "/image_files/0000/0010/7218/Euphrasia_cuneata__North_Island_eyebright-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/7223/Euphrasia_cuneata__North_Island_eyebright-003.JPG
   width: 1024
   height: 769
   caption: Looking at the flower from above.
+  path: "/image_files/0000/0010/7223/Euphrasia_cuneata__North_Island_eyebright-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/7233/Euphrasia_cuneata__North_Island_eyebright-005.JPG
   width: 601
   height: 800
   caption: Photo showing the shape of the very small leaf that is nearly 1 cc long
     including the petiole.
+  path: "/image_files/0000/0010/7233/Euphrasia_cuneata__North_Island_eyebright-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/7238/Euphrasia_cuneata__North_Island_eyebright-006.JPG
   width: 601
   height: 800
   caption: The underside of a leaf with distinctive veins.
+  path: "/image_files/0000/0010/7238/Euphrasia_cuneata__North_Island_eyebright-006.JPG"
 permalink: plants/trees/trees-native/euphrasia_cuneata.html
 layout: page
 title: Euphrasia cuneata (North Island Eyebright)

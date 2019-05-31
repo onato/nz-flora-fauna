@@ -22,22 +22,27 @@ images:
   width: 1600
   height: 1200
   caption: Photographed at Arthurs Pass, South Island.
+  path: "/image_files/0000/0007/5684/Dracophyllum_uniflorum.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3964/Dracophyllum_uniflorum.JPG
   width: 1600
   height: 1071
   caption: Photographed at Arthurs Pass, South Island.
+  path: "/image_files/0000/0005/3964/Dracophyllum_uniflorum.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3949/Dracophyllum_uniflorum-001.JPG
   width: 1024
   height: 768
   caption: Photographed at Arthurs Pass, South Island.
+  path: "/image_files/0000/0005/3949/Dracophyllum_uniflorum-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3954/Dracophyllum_uniflorum-002.JPG
   width: 800
   height: 600
   caption: Photographed at Arthurs Pass, South Island.
+  path: "/image_files/0000/0005/3954/Dracophyllum_uniflorum-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3959/Dracophyllum_uniflorum-003.JPG
   width: 600
   height: 450
   caption: Photographed at Arthurs Pass, South Island.
+  path: "/image_files/0000/0005/3959/Dracophyllum_uniflorum-003.JPG"
 permalink: plants/trees/trees-native/dracophyllum_uniflorum.html
 layout: page
 title: Dracophyllum uniflorum (Turpentine Bush)

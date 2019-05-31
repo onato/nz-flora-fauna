@@ -22,32 +22,40 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4878/1_Coprosma_rigida-003.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0011/4878/1_Coprosma_rigida-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4863/1_Coprosma_rigida.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0011/4863/1_Coprosma_rigida.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4868/1_Coprosma_rigida-001.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0011/4868/1_Coprosma_rigida-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4873/1_Coprosma_rigida-002.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0011/4873/1_Coprosma_rigida-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2194/Coprosma_rigida-001.JPG
   width: 1024
   height: 770
   caption: Young plants photographed at Otari Native Botanic Garden and Wilton's Bush
     Reserve. Wellington.
+  path: "/image_files/0000/0003/2194/Coprosma_rigida-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2199/Coprosma_rigida-002.JPG
   width: 800
   height: 601
   caption: Closeup of a young plant
+  path: "/image_files/0000/0003/2199/Coprosma_rigida-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/9359/Coprosma_rigida_12.JPG
   width: 800
   height: 600
   caption: The fruit can be white or yellow or orange and sometimes flecked with blue
     or black.
+  path: "/image_files/0000/0001/9359/Coprosma_rigida_12.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/9354/Coprosma_rigida-4.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0001/9354/Coprosma_rigida-4.JPG"
 permalink: plants/trees/trees-native/coprosma_rigida.html
 layout: page
 title: Coprosma rigida

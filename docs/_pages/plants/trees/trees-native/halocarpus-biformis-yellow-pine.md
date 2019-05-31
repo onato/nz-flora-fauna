@@ -28,10 +28,12 @@ images:
   height: 900
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/5184/Halocarpus_biformis__Yellow_pine-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5179/Halocarpus_biformis__Yellow_pine-001.JPG
   width: 1200
   height: 900
   caption: The whipcord type leaves.
+  path: "/image_files/0000/0003/5179/Halocarpus_biformis__Yellow_pine-001.JPG"
 permalink: plants/trees/trees-native/halocarpus_biformis.html
 layout: page
 title: Halocarpus biformis (Yellow pine)

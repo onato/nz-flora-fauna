@@ -25,28 +25,36 @@ images:
   width: 1200
   height: 900
   caption: A plant growing at summit Arthurs Pass road.
+  path: "/image_files/0000/0011/4883/Coprosma_rugosa_1.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4964/Coprosma_rugosa.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0007/4964/Coprosma_rugosa.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6739/Coprosma_rugosa__Needle-leaved_mountain_copromsa.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0007/6739/Coprosma_rugosa__Needle-leaved_mountain_copromsa.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4888/Coprosma_rugosa_2l.jpg
   width: 600
   height: 451
+  path: "/image_files/0000/0011/4888/Coprosma_rugosa_2l.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6744/Coprosma_rugosa.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0007/6744/Coprosma_rugosa.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4893/leaves_Coprosma_rugosa.jpg
   width: 1024
   height: 768
+  path: "/image_files/0000/0011/4893/leaves_Coprosma_rugosa.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4969/Coprosma_rugosa-001.JPG
   width: 1024
   height: 769
   caption: Ripe fruit mid-March.
+  path: "/image_files/0000/0007/4969/Coprosma_rugosa-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4974/Coprosma_rugosa-002.JPG
   width: 1200
   height: 901
+  path: "/image_files/0000/0007/4974/Coprosma_rugosa-002.JPG"
 permalink: plants/trees/trees-native/coprosma_rugosa.html
 layout: page
 title: Coprosma rugosa (Needle-leaved mountain)

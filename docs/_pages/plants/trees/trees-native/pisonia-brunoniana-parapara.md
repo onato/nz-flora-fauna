@@ -28,38 +28,48 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/0628/Pisonia_brunoniana__Parapara_-004.JPG
   width: 1500
   height: 2000
+  path: "/image_files/0000/0013/0628/Pisonia_brunoniana__Parapara_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/3128/1-Pisonia_brunoniana__Parapara_-004.JPG
   width: 2000
   height: 1500
   caption: Pisonia brunoniana original form photographed at Otari Botanical Gardens,
     Wellington.
+  path: "/image_files/0000/0012/3128/1-Pisonia_brunoniana__Parapara_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/0633/Pisonia_brunoniana__Parapara_-005.JPG
   width: 1600
   height: 1203
+  path: "/image_files/0000/0013/0633/Pisonia_brunoniana__Parapara_-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/0623/Pisonia_brunoniana__Parapara_-001.JPG
   width: 600
   height: 800
   caption: The flower buds.
+  path: "/image_files/0000/0013/0623/Pisonia_brunoniana__Parapara_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/3118/1-Pisonia_brunoniana__Parapara_-002.JPG
   width: 1024
   height: 767
   caption: The flowers. February.
+  path: "/image_files/0000/0012/3118/1-Pisonia_brunoniana__Parapara_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/3123/1-Pisonia_brunoniana__Parapara_-003.JPG
   width: 769
   height: 1024
+  path: "/image_files/0000/0012/3123/1-Pisonia_brunoniana__Parapara_-003.JPG"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Parapara_seeds-001.jpg
   caption: The sticky long seeds.
+  path: "/uploads/images/Te%20Henui/Trees/Parapara_seeds-001.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/0643/Pisonia_brunoniana__Parapara_-010.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0013/0643/Pisonia_brunoniana__Parapara_-010.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/3103/1-Pisonia_brunoniana__Parapara_-001.JPG
   width: 2000
   height: 1500
   caption: Topside of a leaf.
+  path: "/image_files/0000/0012/3103/1-Pisonia_brunoniana__Parapara_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/3108/1-Pisonia_brunoniana__Parapara_-005.JPG
   width: 600
   height: 450
   caption: The underside of a leaf.
+  path: "/image_files/0000/0012/3108/1-Pisonia_brunoniana__Parapara_-005.JPG"
 permalink: plants/trees/trees-native/pisonia_brunoniana.html
 layout: page
 title: Pisonia brunoniana (Parapara)

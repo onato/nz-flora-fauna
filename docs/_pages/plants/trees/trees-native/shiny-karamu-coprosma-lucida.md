@@ -25,30 +25,37 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5969/Coprosma_lucida__Shining_karamu.JPG
   width: 1200
   height: 899
+  path: "/image_files/0000/0005/5969/Coprosma_lucida__Shining_karamu.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2099/Shining_Karamu__Coprosma_lucida_-002.JPG
   width: 1200
   height: 903
   caption: The top surface of a leaf. A distinctively raised midrib is visible.
+  path: "/image_files/0000/0007/2099/Shining_Karamu__Coprosma_lucida_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5954/Coprosma_lucida__Shining_karamu-002.JPG
   width: 1024
   height: 768
   caption: The top surface of a leaf.  Note the distinctive sharp point on the leaf.
+  path: "/image_files/0000/0005/5954/Coprosma_lucida__Shining_karamu-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5959/Coprosma_lucida__Shining_karamu-003.JPG
   width: 1024
   height: 768
   caption: The under surface of a leaf.
+  path: "/image_files/0000/0005/5959/Coprosma_lucida__Shining_karamu-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2104/Shining_Karamu__Coprosma_lucida_-004.JPG
   width: 2000
   height: 1500
   caption: Green fruit February.
+  path: "/image_files/0000/0007/2104/Shining_Karamu__Coprosma_lucida_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5974/Coprosma_lucida.JPG
   width: 1200
   height: 900
   caption: Ripe fruit, March.
+  path: "/image_files/0000/0005/5974/Coprosma_lucida.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2089/Coprosma_lucida__Shining_karamu.JPG
   width: 1200
   height: 900
   caption: Fruit, May.
+  path: "/image_files/0000/0006/2089/Coprosma_lucida__Shining_karamu.JPG"
 permalink: plants/trees/trees-native/coprosma_lucida.html
 layout: page
 title: Coprosma (Shiny Karamu) Coprosma lucida

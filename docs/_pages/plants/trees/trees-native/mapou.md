@@ -23,45 +23,57 @@ images:
   width: 900
   height: 1200
   caption: Photographed at Percy Gardens Wellington.
+  path: "/image_files/0000/0005/7959/Myrsine_australis__Mapou.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/6579/Myrsine_australis_Red_Matipo_Mapou.JPG
   width: 600
   height: 800
   caption: A young shrub.
+  path: "/image_files/0000/0001/6579/Myrsine_australis_Red_Matipo_Mapou.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/1748/Myrsine_australis__Red_Matipo__Mapou.JPG
   width: 1199
   height: 1600
+  path: "/image_files/0000/0010/1748/Myrsine_australis__Red_Matipo__Mapou.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/1773/Myrsine_australis__Red_Matipo__Mapou-005.JPG
   width: 1024
   height: 769
   caption: Flowers (January).
+  path: "/image_files/0000/0010/1773/Myrsine_australis__Red_Matipo__Mapou-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/1753/Myrsine_australis__Red_Matipo__Mapou-001.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0010/1753/Myrsine_australis__Red_Matipo__Mapou-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/1758/Myrsine_australis__Red_Matipo__Mapou-002.JPG
   width: 640
   height: 481
+  path: "/image_files/0000/0010/1758/Myrsine_australis__Red_Matipo__Mapou-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/1768/Myrsine_australis__Red_Matipo__Mapou-004.JPG
   width: 640
   height: 480
+  path: "/image_files/0000/0010/1768/Myrsine_australis__Red_Matipo__Mapou-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/1763/Myrsine_australis__Red_Matipo__Mapou-003.JPG
   width: 640
   height: 481
+  path: "/image_files/0000/0010/1763/Myrsine_australis__Red_Matipo__Mapou-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/1778/Myrsine_australis__Red_Matipo__Mapou-006.JPG
   width: 1200
   height: 901
+  path: "/image_files/0000/0010/1778/Myrsine_australis__Red_Matipo__Mapou-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/7109/Myrsine_australis__Mapou__Red_matipo-007.JPG
   width: 1200
   height: 898
   caption: Older leaves can have scattered dark blotches.on their surface.
+  path: "/image_files/0000/0005/7109/Myrsine_australis__Mapou__Red_matipo-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/1788/Myrsine_australis__Red_Matipo__Mapou.JPG
   width: 1200
   height: 901
   caption: The underside of a leaf. Notice the the top leaf has the distinctive knotch
     tip that some Myrsine australis leaves have.
+  path: "/image_files/0000/0010/1788/Myrsine_australis__Red_Matipo__Mapou.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/7964/Myrsine_australis_Matipo.JPG
   width: 768
   height: 1024
   caption: Trunk of a mature tree.
+  path: "/image_files/0000/0005/7964/Myrsine_australis_Matipo.JPG"
 permalink: plants/trees/trees-native/myrsine_australis.html
 layout: page
 title: Myrsine australis (Red matipo)

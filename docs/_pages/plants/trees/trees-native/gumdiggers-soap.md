@@ -25,33 +25,41 @@ images:
   width: 2000
   height: 1500
   caption: In bud mid-September at Te Kainga Marire Gardens, New Plymouth.
+  path: "/image_files/0000/0007/9933/Pomaderris_kumeraho__Gumdiggers_soap__Kumerahou_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2474/Pomaderris_kumeraho__Gumdiggers_soap__Kumerahou__Golden_tainui-004.JPG
   width: 2000
   height: 1500
   caption: Flowering occurs September - October.
+  path: "/image_files/0000/0006/2474/Pomaderris_kumeraho__Gumdiggers_soap__Kumerahou__Golden_tainui-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2484/Pomaderris_kumeraho__Gumdiggers_soap__Kumerahou__Golden_tainui-011.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0006/2484/Pomaderris_kumeraho__Gumdiggers_soap__Kumerahou__Golden_tainui-011.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2464/Pomaderris_kumeraho__Gumdiggers_soap__Kumerahou__Golden_tainui-001.JPG
   width: 600
   height: 450
   caption: Close up of the flower.
+  path: "/image_files/0000/0006/2464/Pomaderris_kumeraho__Gumdiggers_soap__Kumerahou__Golden_tainui-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/5729/Pomaderris_kumeraho-002.JPG
   width: 1024
   height: 770
   caption: The top surface of a leaf.
+  path: "/image_files/0000/0007/5729/Pomaderris_kumeraho-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/5734/Pomaderris_kumeraho-003.JPG
   width: 1024
   height: 769
   caption: The underneath side of a leaf.
+  path: "/image_files/0000/0007/5734/Pomaderris_kumeraho-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/5724/Pomaderris_kumeraho-001.JPG
   width: 1024
   height: 769
   caption: Flower buds May.
+  path: "/image_files/0000/0007/5724/Pomaderris_kumeraho-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4314/Kumerahou___Pomaderris_kumerahou-002.JPG
   width: 1024
   height: 768
   caption: The seeds late November. New Plymouth.
+  path: "/image_files/0000/0004/4314/Kumerahou___Pomaderris_kumerahou-002.JPG"
 permalink: plants/trees/trees-native/pomaderris_kumeraho.html
 layout: page
 title: Pomaderris kumeraho (Gumdiggers soap, Kumerahou)

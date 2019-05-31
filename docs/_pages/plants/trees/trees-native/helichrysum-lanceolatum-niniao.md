@@ -31,32 +31,40 @@ images:
   width: 2000
   height: 1500
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
+  path: "/image_files/0000/0009/1918/Helichrysum_lanceolatum__Niniao__Syn_Helichrysum_aggregatum-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/1923/Helichrysum_lanceolatum__Niniao__Syn_Helichrysum_aggregatum-002.JPG
   width: 1200
   height: 899
   caption: Flowers on the above shrub 28th October.
+  path: "/image_files/0000/0009/1923/Helichrysum_lanceolatum__Niniao__Syn_Helichrysum_aggregatum-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9628/Helicrysum_lanceolatum___Niniao-011.JPG
   width: 800
   height: 600
   caption: Photos below were taken at Te Kainga Marire Native Garden, New Plymouth.
+  path: "/image_files/0000/0007/9628/Helicrysum_lanceolatum___Niniao-011.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/9623/Helicrysum_lanceolatum___Niniao-006.JPG
   width: 800
   height: 601
   caption: Flower buds mid-September.
+  path: "/image_files/0000/0007/9623/Helicrysum_lanceolatum___Niniao-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1743/Helichrysum_lanceolatum__Niniao_-004.JPG
   width: 1200
   height: 902
   caption: Flowers in November.
+  path: "/image_files/0000/0008/1743/Helichrysum_lanceolatum__Niniao_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1738/Helichrysum_lanceolatum__Niniao_-002.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0008/1738/Helichrysum_lanceolatum__Niniao_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/1933/Helicrysum_lanceolatum___Niniao-001.JPG
   width: 1200
   height: 902
+  path: "/image_files/0000/0009/1933/Helicrysum_lanceolatum___Niniao-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/1928/Helicrysum_lanceolatum___Niniao-003.JPG
   width: 1200
   height: 900
   caption: The leathery leaves have buff-coloured tomentum on the under surface.
+  path: "/image_files/0000/0009/1928/Helicrysum_lanceolatum___Niniao-003.JPG"
 permalink: plants/trees/trees-native/helichrysum_lanceolatum.html
 layout: page
 title: Helichrysum lanceolatum (Niniao)

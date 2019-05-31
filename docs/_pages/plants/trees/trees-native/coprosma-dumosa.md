@@ -25,18 +25,23 @@ images:
   width: 768
   height: 1024
   caption: Photographed at Lake Kaniere, Westland.
+  path: "/image_files/0000/0005/4614/Coprosma_dumosa.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2504/Coprosma_parviflora_var._dumosa-001.JPG
   width: 900
   height: 1200
+  path: "/image_files/0000/0006/2504/Coprosma_parviflora_var._dumosa-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4604/Coprosma_dumosa-003.JPG
   width: 1024
   height: 767
+  path: "/image_files/0000/0005/4604/Coprosma_dumosa-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4609/Coprosma_dumosa-004.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0005/4609/Coprosma_dumosa-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4619/Coprosma_dumosa-016.JPG
   width: 600
   height: 450
+  path: "/image_files/0000/0005/4619/Coprosma_dumosa-016.JPG"
 permalink: plants/trees/trees-native/coprosma_dumosa.html
 layout: page
 title: Coprosma dumosa

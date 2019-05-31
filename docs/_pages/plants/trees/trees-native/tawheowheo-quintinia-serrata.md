@@ -21,9 +21,11 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5684/Quintinia_serrata___Tawheowheo.JPG
   width: 765
   height: 1024
+  path: "/image_files/0000/0002/5684/Quintinia_serrata___Tawheowheo.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5689/Quintinia_serrata___Tawheowheo-001.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0002/5689/Quintinia_serrata___Tawheowheo-001.JPG"
 permalink: plants/trees/trees-native/quintinia_serrata.html
 layout: page
 title: Quintinia serrata (Tawheowheo)

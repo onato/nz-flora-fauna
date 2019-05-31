@@ -27,35 +27,44 @@ images:
   height: 768
   caption: Brachyglottis Sunshine and Brachyglottis Otari cloud are common popular
     hybrids.
+  path: "/image_files/0000/0005/4284/Brachyglottis_greyii.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1649/Brachyglottis_greyi-007.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0005/1649/Brachyglottis_greyi-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1654/Brachyglottis_greyi.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0005/1654/Brachyglottis_greyi.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/6258/Brachyglottis_greyi__Hectors_Tree_Daisy_-001.JPG
   width: 1600
   height: 1202
+  path: "/image_files/0000/0012/6258/Brachyglottis_greyi__Hectors_Tree_Daisy_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2209/Brachyglottis_greyi__Hectors_Tree_Daisy_-002.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0006/2209/Brachyglottis_greyi__Hectors_Tree_Daisy_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/6783/Brachyglottis_greyi.JPG
   width: 1024
   height: 766
   caption: The top surface of a mature leaf.
+  path: "/image_files/0000/0012/6783/Brachyglottis_greyi.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/6268/Brachyglottis_greyi__Hectors_Tree_Daisy_-003.JPG
   width: 1600
   height: 1204
   caption: The top surface of an adult leaf.
+  path: "/image_files/0000/0012/6268/Brachyglottis_greyi__Hectors_Tree_Daisy_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/6263/Brachyglottis_greyi__Hectors_Tree_Daisy_-002.JPG
   width: 1600
   height: 1203
   caption: The underside of a leaf.
+  path: "/image_files/0000/0012/6263/Brachyglottis_greyi__Hectors_Tree_Daisy_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4289/Brachyglottis_greyi__Otari_cloud.JPG
   width: 1600
   height: 1200
   caption: Shrub below is a hybrid called Brachyglottis greyi "Otari cloud" sold in
     nurseries
+  path: "/image_files/0000/0005/4289/Brachyglottis_greyi__Otari_cloud.JPG"
 permalink: plants/trees/trees-native/brachyglottis_greyi.html
 layout: page
 title: Brachyglottis greyi (Daisy Bush)

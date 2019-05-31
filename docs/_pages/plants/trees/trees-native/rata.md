@@ -28,41 +28,50 @@ images:
     Reserve, South Taranaki. The rata starts as an epiphyte on the host tree. It then
     grows down the trunk till it reaches the ground where it sends out roots. In time
     the host tree dies.
+  path: "/image_files/0000/0011/2743/1-Arawhata_Rd_NY_2017_018.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/2748/1-1-Arawhata_Rd_NY_2017_019.JPG
   width: 1500
   height: 2000
   caption: The vine in the above photo. The remnants of the dead host tree can be
     seen inside.
+  path: "/image_files/0000/0011/2748/1-1-Arawhata_Rd_NY_2017_019.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3688/Metrosideros_robusta__Northern_rata-001.JPG
   width: 1200
   height: 1600
   caption: A mature adult tree in flower late January.
+  path: "/image_files/0000/0008/3688/Metrosideros_robusta__Northern_rata-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7449/Northern_rata__Metrosideros_robusta-002.JPG
   width: 1200
   height: 901
   caption: Metrosideros robusta in flower late January.
+  path: "/image_files/0000/0002/7449/Northern_rata__Metrosideros_robusta-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1109/rata_vine__Metrosideros_robusta__and_matai_tree-4.JPG
   width: 768
   height: 1024
   caption: Metrosideros robusta vine on a Matai tree.
+  path: "/image_files/0000/0002/1109/rata_vine__Metrosideros_robusta__and_matai_tree-4.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1114/rata_vine__Metrosideros_robusta__and_matai_tree-6.JPG
   width: 768
   height: 1024
   caption: Looking up the Metrosideros robusta vine on a Matai tree.
+  path: "/image_files/0000/0002/1114/rata_vine__Metrosideros_robusta__and_matai_tree-6.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3703/Griselinia_lucida__on_top_of_Tawa_tree.jpg
   width: 2000
   height: 2988
   caption: An epiphytic griselinia lucida growing at the top and the rata vine can
     be seen among the perching lily.
+  path: "/image_files/0000/0000/3703/Griselinia_lucida__on_top_of_Tawa_tree.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/9348/Northern_rata__Metrosideros_robusta_-001.JPG
   width: 800
   height: 601
   caption: A distinguishing feature of Metrosideros robusta leaf is a notch at its
     tip, visible on the leaves in the photo below.
+  path: "/image_files/0000/0008/9348/Northern_rata__Metrosideros_robusta_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/9343/Northern_rata__Metrosideros_robusta_.JPG
   width: 1024
   height: 770
   caption: A distinguishing feature of Metrosideros robusta leaf is a notch at its
+  path: "/image_files/0000/0008/9343/Northern_rata__Metrosideros_robusta_.JPG"
 permalink: plants/trees/trees-native/metrosideros_robusta.html
 layout: page
 title: Metrosideros robusta (Northern Rata)

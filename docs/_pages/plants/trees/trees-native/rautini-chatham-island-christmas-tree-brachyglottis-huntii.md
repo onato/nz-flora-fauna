@@ -28,22 +28,27 @@ images:
   width: 2592
   height: 1936
   caption: A tree after flowering, seed heads developing photographing early March.
+  path: "/image_files/0000/0011/4993/1-Brachyglottis_huntii_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4998/1-Brachyglottis_huntii-001.JPG
   width: 1936
   height: 2592
+  path: "/image_files/0000/0011/4998/1-Brachyglottis_huntii-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/1699/Brachyglottis_huntii__Rautini-001.JPG
   width: 900
   height: 1200
   caption: This juvenile Brachyglottis huntii was photographed at Otari Native Botanic
     Garden and Wilton's Bush Reserve. Wellington.
+  path: "/image_files/0000/0003/1699/Brachyglottis_huntii__Rautini-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/1704/Brachyglottis_huntii__Rautini-002.JPG
   width: 1200
   height: 900
   caption: The surface of a leaf.
+  path: "/image_files/0000/0003/1704/Brachyglottis_huntii__Rautini-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/1709/Brachyglottis_huntii__Rautini-003.JPG
   width: 1200
   height: 902
   caption: The under surface of a leaf.
+  path: "/image_files/0000/0003/1709/Brachyglottis_huntii__Rautini-003.JPG"
 permalink: plants/trees/trees-native/brachyglottis_huntii.html
 layout: page
 title: Brachyglottis huntii (Chatham Island Christmas tree)

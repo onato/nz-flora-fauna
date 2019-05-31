@@ -24,16 +24,19 @@ images:
   height: 768
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/6464/Coprosma_neglecta-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6484/Coprosma_neglecta-005.jpg
   width: 800
   height: 600
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/6484/Coprosma_neglecta-005.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6469/Coprosma_neglecta-004.JPG
   width: 800
   height: 603
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/6469/Coprosma_neglecta-004.JPG"
 permalink: plants/trees/trees-native/coprosma_neglecta.html
 layout: page
 title: Coprosma neglecta

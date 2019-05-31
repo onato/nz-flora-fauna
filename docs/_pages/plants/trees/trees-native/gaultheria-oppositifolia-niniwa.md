@@ -28,6 +28,7 @@ attributes:
 images:
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Gaultheria%20oppositifolia.jpg
   caption: 'Gaultheria oppositifolia: Hooker, Fl. Novae-Zelandiae (1853).'
+  path: "/uploads/images/Te%20Henui/Trees/Gaultheria%20oppositifolia.jpg"
 permalink: plants/trees/trees-native/gaultheria_oppositifolia.html
 layout: page
 title: Gaultheria oppositifolia (Niniwa)

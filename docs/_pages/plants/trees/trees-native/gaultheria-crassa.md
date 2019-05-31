@@ -23,12 +23,15 @@ images:
   width: 1600
   height: 1200
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
+  path: "/image_files/0000/0007/6174/Gaultheria_crassa-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6169/Gaultheria_crassa.JPG
   width: 1200
   height: 903
+  path: "/image_files/0000/0007/6169/Gaultheria_crassa.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6179/Gaultheria_crassa-002.JPG
   width: 1008
   height: 753
+  path: "/image_files/0000/0007/6179/Gaultheria_crassa-002.JPG"
 permalink: plants/trees/trees-native/gaultheria_crassa.html
 layout: page
 title: Gaultheria crassa

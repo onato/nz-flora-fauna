@@ -26,6 +26,7 @@ images:
   width: 1200
   height: 794
   caption: Photographed at the Iwaki ski area above Whakapapa.
+  path: "/image_files/0000/0010/3488/Pimelea_buxifolia_by_Leif_Stridvall__-002.jpg"
 permalink: plants/trees/trees-native/pimelea_buxifolia.html
 layout: page
 title: Pimelea buxifolia (Tall pinatore)

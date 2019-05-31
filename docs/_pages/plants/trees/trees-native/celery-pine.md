@@ -23,6 +23,7 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/8533/Toatoa_1024.jpg
   width: 1024
   height: 768
+  path: "/image_files/0000/0010/8533/Toatoa_1024.jpg"
 permalink: plants/trees/trees-native/phyllocladus_toatoa.html
 layout: page
 title: Phyllocladus toatoa (Blue Celery Pine)

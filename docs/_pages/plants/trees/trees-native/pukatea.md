@@ -22,27 +22,33 @@ images:
   width: 500
   height: 667
   caption: Photo was taken at 39 3'39.5 S 174 5'43.6 E Datum WGS-84
+  path: "/image_files/0000/0001/6594/Laurelia_novae-zelandiae_Pukatea.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2599/Laurelia_novae-zelandiae.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0005/2599/Laurelia_novae-zelandiae.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8309/Pukatea_not-2.JPG
   width: 800
   height: 600
   caption: Top surface of a leaf.
+  path: "/image_files/0000/0005/8309/Pukatea_not-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2619/Laurelia_novae-zelandiae-004.JPG
   width: 1024
   height: 769
   caption: A bisexual flower. The fluffy cluster at the centre are stigmas and with
     stamens around the side. Some of these are changing to a red/brown colour showing
     that they are fertile.
+  path: "/image_files/0000/0005/2619/Laurelia_novae-zelandiae-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5104/Laurelia_novae-zelandiae_trunk__Pukatea-2.JPG
   width: 800
   height: 600
   caption: Buttress and trunk.
+  path: "/image_files/0000/0001/5104/Laurelia_novae-zelandiae_trunk__Pukatea-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8824/Laurelia_novae-zelandiae_Pukatea_-001.JPG
   width: 800
   height: 600
   caption: Photo of a long plank buttress extending about 4m from the tree.
+  path: "/image_files/0000/0003/8824/Laurelia_novae-zelandiae_Pukatea_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1864/Pukatea___laurelia_novae-zelandiae__breathing_roots.JPG
   width: 800
   height: 600
@@ -50,10 +56,12 @@ images:
     floor. These are called pneumatophores. This is a specialized root of certain
     swamp plants, such as the mangrove, that branches upwards, rising above ground,
     and undergoes gaseous exchange with the atmosphere.
+  path: "/image_files/0000/0001/1864/Pukatea___laurelia_novae-zelandiae__breathing_roots.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1859/Pukatea___laurelia_novae-zelandiae__breathing_roots-2.JPG
   width: 800
   height: 601
   caption: Another Pneumatophore.
+  path: "/image_files/0000/0001/1859/Pukatea___laurelia_novae-zelandiae__breathing_roots-2.JPG"
 permalink: plants/trees/trees-native/laurelia_novae-zelandiae.html
 layout: page
 title: Laurelia novae-zelandiae (Pukatea)

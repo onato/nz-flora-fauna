@@ -25,32 +25,40 @@ attributes:
 images:
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-Nothofagus_fusca,_Christchurch_Botanic_Gardens,_.jpg
   caption: Fuscospora fusca (Red Beech) at Christchurch Botanical Gardens.
+  path: "/uploads/images/Te%20Henui/Trees/1-Nothofagus_fusca,_Christchurch_Botanic_Gardens,_.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/0958/1-Nothofagus_fusca_juvenile-003.JPG
   width: 1500
   height: 2000
   caption: A juvenile tree.
+  path: "/image_files/0000/0012/0958/1-Nothofagus_fusca_juvenile-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/0953/1-Nothofagus_fusca_juvenile-001.JPG
   width: 1024
   height: 768
   caption: Juvenile leaves.
+  path: "/image_files/0000/0012/0953/1-Nothofagus_fusca_juvenile-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1694/Red_Beech_leaves_Nothofagus_fusca-1.JPG
   width: 800
   height: 600
   caption: Adult leaves.
+  path: "/image_files/0000/0001/1694/Red_Beech_leaves_Nothofagus_fusca-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1714/Red_Beech_leaves_underside_Nothofagus_fusca-1.JPG
   width: 800
   height: 600
   caption: Underside of adult leaves.
+  path: "/image_files/0000/0001/1714/Red_Beech_leaves_underside_Nothofagus_fusca-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1699/Red_Beech_leaves_Nothofagus_fusca-2.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0001/1699/Red_Beech_leaves_Nothofagus_fusca-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1719/Red_Beech_leaves_Nothofagus_fusca.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0001/1719/Red_Beech_leaves_Nothofagus_fusca.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/1968/1-Nothofagus_fusca.JPG
   width: 1500
   height: 2000
   caption: The trunk of mature Fuscospora fusca.
+  path: "/image_files/0000/0011/1968/1-Nothofagus_fusca.JPG"
 permalink: plants/trees/trees-native/fuscospora_fusca.html
 layout: page
 title: Fuscospora fusca (Red Beech)

@@ -26,39 +26,48 @@ images:
   width: 1600
   height: 1200
   caption: Plant growing at Tupare Public Gardens, New Plymouth.
+  path: "/image_files/0000/0012/3773/1-Myrsine_aquilonia-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5284/Myrsine_aquilonia-001.JPG
   width: 1600
   height: 1200
   caption: A small Myrsine aquilonia shrub photographed at Otari Native Botanic Garden
     and Wilton's Bush Reserve. Wellington.
+  path: "/image_files/0000/0003/5284/Myrsine_aquilonia-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/3778/1-Myrsine_aquilonia.JPG
   width: 800
   height: 600
   caption: Myrsine aquilonia rounded leaf with a shallow notch at the apex.
+  path: "/image_files/0000/0012/3778/1-Myrsine_aquilonia.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7059/Myrsine_Aquilonia__Poor_Knights_Weeping_matipo_7.JPG
   width: 1200
   height: 900
   caption: Photos below of a plant at Fairfield Nursery, New Plymouth.
+  path: "/image_files/0000/0003/7059/Myrsine_Aquilonia__Poor_Knights_Weeping_matipo_7.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7039/Myrsine_Aquilonia__Poor_Knights_Weeping_matipo-001.JPG
   width: 800
   height: 600
   caption: The upper surface of a leaf.
+  path: "/image_files/0000/0003/7039/Myrsine_Aquilonia__Poor_Knights_Weeping_matipo-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/3783/1-Myrsine_aquilonia-011.JPG
   width: 800
   height: 600
   caption: The underside of a leaf.
+  path: "/image_files/0000/0012/3783/1-Myrsine_aquilonia-011.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7649/Orange_oil_glands_on_Myrsine_aquilonia_leaf-001.JPG
   width: 600
   height: 451
   caption: Oil glands appear as bright orange dots at the margins.
+  path: "/image_files/0000/0003/7649/Orange_oil_glands_on_Myrsine_aquilonia_leaf-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7049/Myrsine_Aquilonia__Poor_Knights_Weeping_matipo-008.JPG
   width: 800
   height: 601
   caption: Flower buds.
+  path: "/image_files/0000/0003/7049/Myrsine_Aquilonia__Poor_Knights_Weeping_matipo-008.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7054/Myrsine_Aquilonia__Poor_Knights_Weeping_matipo-009.JPG
   width: 1024
   height: 769
   caption: The stem of a young shrub.
+  path: "/image_files/0000/0003/7054/Myrsine_Aquilonia__Poor_Knights_Weeping_matipo-009.JPG"
 permalink: plants/trees/trees-native/myrsine_aquilonia.html
 layout: page
 title: Myrsine aquilonia (Coastal matipo)

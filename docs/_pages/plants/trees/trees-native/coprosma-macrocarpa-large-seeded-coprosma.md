@@ -26,18 +26,22 @@ images:
   width: 900
   height: 1200
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
+  path: "/image_files/0000/0005/8229/Coprosma_macrocarpa-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8239/Coprosma_macrocarpa-003.JPG
   width: 1600
   height: 1198
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
+  path: "/image_files/0000/0005/8239/Coprosma_macrocarpa-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8234/Coprosma_macrocarpa-002.JPG
   width: 1600
   height: 1200
   caption: The female flowers.
+  path: "/image_files/0000/0005/8234/Coprosma_macrocarpa-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8244/Coprosma_macrocarpa-004.JPG
   width: 1200
   height: 900
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
+  path: "/image_files/0000/0005/8244/Coprosma_macrocarpa-004.JPG"
 permalink: plants/trees/trees-native/coprosma_macrocarpa_subsp_minor.html
 layout: page
 title: Coprosma macrocarpa (Large seeded coprosma)

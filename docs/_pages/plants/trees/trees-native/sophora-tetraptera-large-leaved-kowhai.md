@@ -29,22 +29,28 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/7303/Sophora_microphylla-009.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0009/7303/Sophora_microphylla-009.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/7278/DSC08177-002.JPG
   width: 1024
   height: 686
+  path: "/image_files/0000/0009/7278/DSC08177-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/7293/Sophora_microphylla-006.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0009/7293/Sophora_microphylla-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/7283/Sophora_microphylla-003.JPG
   width: 1200
   height: 901
+  path: "/image_files/0000/0009/7283/Sophora_microphylla-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/7288/Sophora_microphylla-005.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0009/7288/Sophora_microphylla-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/7298/Sophora_microphylla-007.JPG
   width: 1200
   height: 900
   caption: Sophora tetraptera juvenile plants are not divaricating.
+  path: "/image_files/0000/0009/7298/Sophora_microphylla-007.JPG"
 permalink: plants/trees/trees-native/sophora_tetraptera.html
 layout: page
 title: Sophora tetraptera (Large-leaved kowhai)

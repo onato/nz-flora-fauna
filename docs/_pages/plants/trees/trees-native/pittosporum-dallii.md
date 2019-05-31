@@ -25,26 +25,32 @@ images:
   height: 1202
   caption: A juvenile tree photographed at Otari Native Botanic Garden and Wilton''s
     Bush Reserve. Wellington.
+  path: "/image_files/0000/0003/6109/1-Pittosporum_dallii_Dalls_Pittosporum__Kohuhu.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6114/1-Pittosporum_dallii_Dalls_Pittosporum__Kohuhu__1_.JPG
   width: 1024
   height: 768
   caption: The top surface of a  juvenile leaf.
+  path: "/image_files/0000/0003/6114/1-Pittosporum_dallii_Dalls_Pittosporum__Kohuhu__1_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6119/1-Pittosporum_dallii_Dalls_Pittosporum__Kohuhu__2_.JPG
   width: 1024
   height: 768
   caption: The undersurface of a juvenile leaf.
+  path: "/image_files/0000/0003/6119/1-Pittosporum_dallii_Dalls_Pittosporum__Kohuhu__2_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3098/Pittosporum_dallii-001.JPG
   width: 1024
   height: 769
   caption: The surface of a mature leaf. Photographed at Christchurch Botanical Gardens.
+  path: "/image_files/0000/0008/3098/Pittosporum_dallii-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3108/Pittosporum_dallii-003.JPG
   width: 1024
   height: 768
   caption: The underside of a mature leaf.
+  path: "/image_files/0000/0008/3108/Pittosporum_dallii-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3103/Pittosporum_dallii-002.JPG
   width: 1024
   height: 769
   caption: A leaf with a serrated margin only on one side.
+  path: "/image_files/0000/0008/3103/Pittosporum_dallii-002.JPG"
 permalink: plants/trees/trees-native/pittosporum_dallii.html
 layout: page
 title: Pittosporum dallii (Kohuhu)

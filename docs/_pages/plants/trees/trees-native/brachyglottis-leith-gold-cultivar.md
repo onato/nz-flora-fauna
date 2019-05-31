@@ -22,7 +22,9 @@ attributes:
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2878/Brachyglottis__%CB%9CLeiths_Gold-001.JPG
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
+  path: "/image_files/0000/0008/2878/Brachyglottis__%CB%9CLeiths_Gold-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2873/Brachyglottis__%CB%9CLeiths_Gold.JPG
+  path: "/image_files/0000/0008/2873/Brachyglottis__%CB%9CLeiths_Gold.JPG"
 permalink: plants/trees/trees-native/brachyglottis_repanda_x_brachyglottis_greyii.html
 layout: page
 title: Brachyglottis 'Leith Gold' (B. repanda x B. greyii)

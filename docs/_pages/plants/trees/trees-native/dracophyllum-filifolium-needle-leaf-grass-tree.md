@@ -25,16 +25,19 @@ images:
   height: 1201
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0004/6169/Dracophyllum_filifolium__Needle-leaf_Grass_Tree-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6174/Dracophyllum_filifolium__Needle-leaf_Grass_Tree-002.JPG
   width: 1200
   height: 900
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0004/6174/Dracophyllum_filifolium__Needle-leaf_Grass_Tree-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3989/Dracophyllum_filifolium___needle-leaf__grass_tree-004.JPG
   width: 768
   height: 1024
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/3989/Dracophyllum_filifolium___needle-leaf__grass_tree-004.JPG"
 permalink: plants/trees/trees-native/dracophyllum_filifolium.html
 layout: page
 title: Dracophyllum filifolium (Needle-leaf grass tree)

@@ -26,41 +26,51 @@ images:
   height: 902
   caption: Griselinia littoralis photographed at Stratford Plateau Carpark, Pembroke
     Road, Egmont National Park.
+  path: "/image_files/0000/0005/6684/Griselinia_littoralis__Papauma__Broadleaf__Kapuka.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/2843/Broadleaf__Griselinia_littoralis-001.jpg
   width: 2000
   height: 1334
   caption: Photographed on the Tongariro Alpine Crossing.
+  path: "/image_files/0000/0010/2843/Broadleaf__Griselinia_littoralis-001.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6619/Griselinia_littoralis__Broadleaf__Kapuka_.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0007/6619/Griselinia_littoralis__Broadleaf__Kapuka_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/3689/Griselinia_littoralis__broadleaf_1-10-2016.JPG
   width: 800
   height: 536
   caption: The flower buds early October
+  path: "/image_files/0000/0001/3689/Griselinia_littoralis__broadleaf_1-10-2016.JPG"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-Griselinia%20littoralis%20male.jpg
   width: 800
   height: 589
   caption: Male flower
+  path: "/uploads/images/Te%20Henui/Trees/1-Griselinia%20littoralis%20male.jpg"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-Griselinia%20littoralis%20female.jpg
   width: 800
   height: 553
   caption: Female flower
+  path: "/uploads/images/Te%20Henui/Trees/1-Griselinia%20littoralis%20female.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6614/Griselinia_littoralis__Broadleaf__Kapuka_-001.JPG
   width: 1200
   height: 901
   caption: Top surface of a leaf
+  path: "/image_files/0000/0007/6614/Griselinia_littoralis__Broadleaf__Kapuka_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7229/Griselinia_littoralis__Broadleaf_Kapuka_-003.JPG
   width: 1024
   height: 770
   caption: Underside of a leaf
+  path: "/image_files/0000/0003/7229/Griselinia_littoralis__Broadleaf_Kapuka_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6674/Griselinia_littoralis__Papauma__Broadleaf__Kapuka-001.JPG
   width: 600
   height: 450
   caption: Stem with bud scales below the leaves.
+  path: "/image_files/0000/0005/6674/Griselinia_littoralis__Papauma__Broadleaf__Kapuka-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1184/Griselinia_littoralis__Broadleaf__Kapuka_-002.JPG
   width: 1200
   height: 1600
   caption: Trunk of a mature tree at Pukekura Park, New Plymouth
+  path: "/image_files/0000/0004/1184/Griselinia_littoralis__Broadleaf__Kapuka_-002.JPG"
 permalink: plants/trees/trees-native/griselinia_littoralis.html
 layout: page
 title: Griselinia littoralis (Broadleaf, Kapuka)

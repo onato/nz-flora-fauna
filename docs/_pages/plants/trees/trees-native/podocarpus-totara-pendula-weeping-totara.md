@@ -26,9 +26,11 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5109/Podocarpus_Totara_Pendula.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0003/5109/Podocarpus_Totara_Pendula.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5114/Podocarpus_Totara_Pendula-001.JPG
   width: 800
   height: 602
+  path: "/image_files/0000/0003/5114/Podocarpus_Totara_Pendula-001.JPG"
 permalink: plants/trees/trees-native/podocarpus_totara_'pendula'.html
 layout: page
 title: Podocarpus totara 'Pendula' (Weeping Totara)

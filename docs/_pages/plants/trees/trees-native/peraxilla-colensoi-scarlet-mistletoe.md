@@ -23,9 +23,11 @@ attributes:
 images:
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/poll-tui-Pcol.jpg
   caption: Tui opening Peraxilla colensoi flower buds. Photo courtesy of Jenny Ladley.
+  path: "/uploads/images/Te%20Henui/Trees/poll-tui-Pcol.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/4093/1-Peraxilla_colensoi.jpg
   width: 733
   height: 978
+  path: "/image_files/0000/0012/4093/1-Peraxilla_colensoi.jpg"
 permalink: plants/trees/trees-native/peraxilla_colensoi.html
 layout: page
 title: Peraxilla colensoi (Scarlet mistletoe)

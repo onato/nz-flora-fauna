@@ -25,47 +25,59 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3218/puriri__vitex_lucens.JPG
   width: 600
   height: 896
+  path: "/image_files/0000/0000/3218/puriri__vitex_lucens.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8594/Vitex_lucens__Puriri_.JPG
   width: 1024
   height: 768
   caption: Puriri Flower (Flowers early winter to mid-spring).
+  path: "/image_files/0000/0007/8594/Vitex_lucens__Puriri_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1544/Flower_of_Vitex_lucens__Puriri-2.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0001/1544/Flower_of_Vitex_lucens__Puriri-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1539/Flower_of_Vitex_lucens__Puriri-1.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0001/1539/Flower_of_Vitex_lucens__Puriri-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1244/Vitex_lucens___Puriri_leaves_and_flowers-1.JPG
   width: 800
   height: 602
   caption: Puriri Flower.
+  path: "/image_files/0000/0001/1244/Vitex_lucens___Puriri_leaves_and_flowers-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/0189/Vitex_lucens__Puriri_tree_berries.JPG
   width: 2000
   height: 1339
   caption: Berries February.
+  path: "/image_files/0000/0007/0189/Vitex_lucens__Puriri_tree_berries.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/3929/Vitex_lucens_fruit__Puriri-2.JPG
   width: 800
   height: 600
   caption: Puriri berries.
+  path: "/image_files/0000/0001/3929/Vitex_lucens_fruit__Puriri-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6724/Puriri_fruit__Vitex_lucens_.JPG
   width: 800
   height: 601
   caption: A fallen berry.
+  path: "/image_files/0000/0002/6724/Puriri_fruit__Vitex_lucens_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/3574/Leaves_on_young_Puriri__Vitex_lucens-1.JPG
   width: 1200
   height: 902
   caption: Leaves of the Puriri.
+  path: "/image_files/0000/0002/3574/Leaves_on_young_Puriri__Vitex_lucens-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1549/Leaves_of_Vitex_lucens__Puriri.JPG
   width: 800
   height: 602
+  path: "/image_files/0000/0001/1549/Leaves_of_Vitex_lucens__Puriri.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/3579/Puriri__Vitex_lucens-4.JPG
   width: 1024
   height: 768
   caption: The underside of a Puriri leaf.
+  path: "/image_files/0000/0002/3579/Puriri__Vitex_lucens-4.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7379/Vitex_lucens_trunk__Puriri_-001.JPG
   width: 769
   height: 1024
   caption: The trunk of a Vitex lucens.
+  path: "/image_files/0000/0003/7379/Vitex_lucens_trunk__Puriri_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/7978/Vitex_lucens___Puriri-002.JPG
   width: 1200
   height: 1600
@@ -78,21 +90,25 @@ images:
     16 large native trees. The Tui (Prosthemadera novaeseelandiae) is the second most
     important seed disperser of native plants and trees. There 7 introduced bird species
     that also eat small quantities of fruit.
+  path: "/image_files/0000/0010/7978/Vitex_lucens___Puriri-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/4434/Pruri_moth_hole__Aenetus_virescens_moth.JPG
   width: 800
   height: 536
   caption: An old puriri moth (Aenetus virescens) burrow in a puriri tree trunk. The
     trunk below has lost its bark, revealing a pepperpot of burrow entrances and feeding
     scar.
+  path: "/image_files/0000/0002/4434/Pruri_moth_hole__Aenetus_virescens_moth.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2149/Puriri_caterpillar_holes.JPG
   width: 1600
   height: 1201
   caption: The damage was done by the larva of a puriri moth in a piece of puriri
     timber.
+  path: "/image_files/0000/0007/2149/Puriri_caterpillar_holes.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2144/Puriri_caterpillar_holes-001.JPG
   width: 1600
   height: 1201
   caption: The distinctive shape of the burrow.
+  path: "/image_files/0000/0007/2144/Puriri_caterpillar_holes-001.JPG"
 permalink: plants/trees/trees-native/vitex_lucens.html
 layout: page
 title: Vitex lucens (Puriri)

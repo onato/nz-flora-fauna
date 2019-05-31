@@ -27,10 +27,12 @@ images:
   height: 600
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0001/5654/Coprosma_foetidissima._hupori._hupori-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5659/Coprosma_foetidissima._hupori.JPG
   width: 600
   height: 450
   caption: Leaves of Hupori.
+  path: "/image_files/0000/0001/5659/Coprosma_foetidissima._hupori.JPG"
 permalink: plants/trees/trees-native/coprosma_foetidissima.html
 layout: page
 title: Coprosma (Hupiro) Coprosma foetidissima

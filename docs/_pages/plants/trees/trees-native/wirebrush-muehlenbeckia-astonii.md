@@ -26,15 +26,19 @@ images:
   height: 1200
   caption: Muehlenbeckia astonii, Wirebrush, Pohuehue photographed at Otari Native
     Botanic Garden and Wilton's Bush Reserve. Wellington.
+  path: "/image_files/0000/0007/6314/Muehlenbeckia_astonii-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1929/Muehlenbeckia_astonii-1.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0002/1929/Muehlenbeckia_astonii-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1934/Muehlenbeckia_astonii-6.JPG
   width: 640
   height: 480
+  path: "/image_files/0000/0002/1934/Muehlenbeckia_astonii-6.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6924/Muehlenbeckia_astonii__Wirebrush.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0007/6924/Muehlenbeckia_astonii__Wirebrush.JPG"
 permalink: plants/trees/trees-native/muehlenbeckia_astonii.html
 layout: page
 title: Muehlenbeckia astonii (Wirebrush)

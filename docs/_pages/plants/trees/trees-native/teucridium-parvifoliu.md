@@ -24,24 +24,29 @@ images:
   height: 900
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0004/8064/Teucridium_parvifolium_._parvifolium-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8074/Teucridium_parvifolium_._parvifolium-004.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0004/8074/Teucridium_parvifolium_._parvifolium-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8069/Teucridium_parvifolium_._parvifolium-003.JPG
   width: 640
   height: 481
   caption: The leaves edges are usually smooth or occasionally irregularly and gently
     lobed as in the photo.
+  path: "/image_files/0000/0004/8069/Teucridium_parvifolium_._parvifolium-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8079/Teucridium_parvifolium_._parvifolium-008.JPG
   width: 800
   height: 602
   caption: The topside of a leaf.
+  path: "/image_files/0000/0004/8079/Teucridium_parvifolium_._parvifolium-008.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/8084/Teucridium_parvifolium_._parvifolium-010.JPG
   width: 1024
   height: 769
   caption: |
     The underside of a leaf.
     Notice the square stems that the small leaved coprosmas do not have.
+  path: "/image_files/0000/0004/8084/Teucridium_parvifolium_._parvifolium-010.JPG"
 permalink: plants/trees/trees-native/teucridium_parvifolium.html
 layout: page
 title: Teucridium parvifolium (Teucridium)

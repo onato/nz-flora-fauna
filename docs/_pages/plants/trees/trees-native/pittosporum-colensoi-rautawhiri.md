@@ -29,21 +29,26 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1623/1-Pittosporum_colensoi_-003.JPG
   width: 1200
   height: 1600
+  path: "/image_files/0000/0013/1623/1-Pittosporum_colensoi_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1909/Pittosporum_colensoi___Rautawhiri_.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0006/1909/Pittosporum_colensoi___Rautawhiri_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1899/Pittosporum_colensoi___Rautawhiri_-001.JPG
   width: 1200
   height: 898
+  path: "/image_files/0000/0006/1899/Pittosporum_colensoi___Rautawhiri_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1904/Pittosporum_colensoi___Rautawhiri_-002.JPG
   width: 1024
   height: 768
   caption: The raised midrib on the under surface is visible. The underside is paler
     than the upper surface.
+  path: "/image_files/0000/0006/1904/Pittosporum_colensoi___Rautawhiri_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1618/1-trunk_of_P.colensio.jpg
   width: 971
   height: 1600
   caption: The dark coloured trunk.
+  path: "/image_files/0000/0013/1618/1-trunk_of_P.colensio.jpg"
 permalink: plants/trees/trees-native/pittosporum_colensoi.html
 layout: page
 title: Pittosporum colensoi (Black Mapou)

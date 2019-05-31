@@ -24,31 +24,39 @@ images:
   width: 800
   height: 536
   caption: Position Lat 39 3'35.926 S Long 174 5'42.538 E Datum WGS 84.
+  path: "/image_files/0000/0000/4288/Dysoxylum_spectabile_Kohekohe.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3333/koekoe_leaves.jpg
   width: 800
   height: 600
+  path: "/image_files/0000/0000/3333/koekoe_leaves.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4809/Dysoxylum_spectabile__Kohekohe_-002.JPG
   width: 899
   height: 1200
   caption: A new flower panicle growing directly from the trunk.
+  path: "/image_files/0000/0005/4809/Dysoxylum_spectabile__Kohekohe_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5949/1-kohekohe._Dysoxylum_spectabile.JPG
   width: 1024
   height: 771
   caption: Flowers of the Kohekohe (June).
+  path: "/image_files/0000/0003/5949/1-kohekohe._Dysoxylum_spectabile.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5954/1-kohekohe._Dysoxylum_spectabile-002.JPG
   width: 800
   height: 602
+  path: "/image_files/0000/0003/5954/1-kohekohe._Dysoxylum_spectabile-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/0404/Kohe_Kohe_fruit.jpg
   width: 400
   height: 600
   caption: Kohekohe fruit (May).
+  path: "/image_files/0000/0001/0404/Kohe_Kohe_fruit.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5969/1-kohekohe._Dysoxylum_spectabile-005.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0003/5969/1-kohekohe._Dysoxylum_spectabile-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5964/1-kohekohe._Dysoxylum_spectabile-004.JPG
   width: 1024
   height: 768
   caption: Fruit dried and ready to drop its seeds.
+  path: "/image_files/0000/0003/5964/1-kohekohe._Dysoxylum_spectabile-004.JPG"
 permalink: plants/trees/trees-native/dysoxylum_spectabile.html
 layout: page
 title: Dysoxylum spectabile (Kohekohe)

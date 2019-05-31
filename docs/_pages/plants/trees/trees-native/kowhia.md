@@ -26,54 +26,68 @@ attributes:
   - Kowhai is the Maori word for yellow.
 images:
 - src: uploads/images/Te%20Henui/Skull_and_crossbones1.jpg
+  path: uploads/images/Te%20Henui/Skull_and_crossbones1.jpg
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/0049/Sophora_microphylla__Kowhai-006.JPG
   width: 1200
   height: 804
+  path: "/image_files/0000/0004/0049/Sophora_microphylla__Kowhai-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/0059/Sophora_microphylla__Kowhai-014.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0004/0059/Sophora_microphylla__Kowhai-014.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/4058/Sophora_microphylla__Kowhai_-002.JPG
   width: 1200
   height: 901
+  path: "/image_files/0000/0009/4058/Sophora_microphylla__Kowhai_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/4053/Sophora_microphylla__Kowhai_-001.JPG
   width: 1200
   height: 901
+  path: "/image_files/0000/0009/4053/Sophora_microphylla__Kowhai_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1749/Sophora_microphylla__Kowhai-3.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0002/1749/Sophora_microphylla__Kowhai-3.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/4048/Sophora_microphylla__Kowhai__Flowers__and_seeds.JPG
   width: 1200
   height: 1600
   caption: Flowers and last years seeds.
+  path: "/image_files/0000/0009/4048/Sophora_microphylla__Kowhai__Flowers__and_seeds.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1639/Sophora_microphylla__Kowhai_seeds_and_seed_pod.-2.JPG
   width: 1024
   height: 769
   caption: Sophora microphylla seeds and the seed pod.
+  path: "/image_files/0000/0002/1639/Sophora_microphylla__Kowhai_seeds_and_seed_pod.-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1489/Juvenile_form_of_Sophora_microplylla.JPG
   width: 1200
   height: 900
   caption: The juvenile form of Sophora microphylla growing at Pukekura Park, New
     Plymouth.
+  path: "/image_files/0000/0004/1489/Juvenile_form_of_Sophora_microplylla.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1479/Sophora_microplylla-002.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0004/1479/Sophora_microplylla-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1544/Juvenile_leaves_of_Sophora_microphylla__Kowhai.JPG
   width: 1024
   height: 768
   caption: The top surface of a juvenile leaf.
+  path: "/image_files/0000/0004/1544/Juvenile_leaves_of_Sophora_microphylla__Kowhai.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1484/Sophora_microplylla-005.JPG
   width: 800
   height: 602
   caption: The underside of the juvenile leaf.
+  path: "/image_files/0000/0004/1484/Sophora_microplylla-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1779/Kowhai__Sophora_microphylla___10-09-2011_4-08-39_p.m..JPG
   width: 1024
   height: 768
   caption: Sophora microphylla hybridises with all the other species except S. molloyi.
     The photo below is of a hybrid.  Note it is flowering while it has its leaves.
+  path: "/image_files/0000/0002/1779/Kowhai__Sophora_microphylla___10-09-2011_4-08-39_p.m..JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/1039/Sophora_microphylla_Kowhia-1.JPG
   width: 800
   height: 600
   caption: A cultivar of Sophora microphylla.
+  path: "/image_files/0000/0001/1039/Sophora_microphylla_Kowhia-1.JPG"
 permalink: plants/trees/trees-native/sophora_microphylla.html
 layout: page
 title: Sophora microphylla (Kowhai)

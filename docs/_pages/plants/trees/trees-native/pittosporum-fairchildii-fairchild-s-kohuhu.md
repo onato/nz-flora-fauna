@@ -24,23 +24,28 @@ images:
   height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.   
+  path: "/image_files/0000/0003/6334/Pittosporum_fairchildii__Fairchild_s_kohuhu_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6354/Pittosporum_fairchildii__Fairchild_s_kohuhu___4_.JPG
   width: 1200
   height: 900
   caption: The much-branched trunk with white patches of crustose lichens.
+  path: "/image_files/0000/0003/6354/Pittosporum_fairchildii__Fairchild_s_kohuhu___4_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6349/Pittosporum_fairchildii__Fairchild_s_kohuhu___3_.JPG
   width: 1200
   height: 900
   caption: The 3 to 4 valved developing fruit capsules. Photographed late March.
+  path: "/image_files/0000/0003/6349/Pittosporum_fairchildii__Fairchild_s_kohuhu___3_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6359/Pittosporum_fairchildii__Fairchild_s_kohuhu_.JPG
   width: 1600
   height: 1204
   caption: White hairs on the younger vegetation.  Click on photo to enlarge then
     click on the new photo to enlarge again.
+  path: "/image_files/0000/0003/6359/Pittosporum_fairchildii__Fairchild_s_kohuhu_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6344/Pittosporum_fairchildii__Fairchild_s_kohuhu___2_.JPG
   width: 1024
   height: 767
   caption: The underside of a leaf showing the veins.
+  path: "/image_files/0000/0003/6344/Pittosporum_fairchildii__Fairchild_s_kohuhu___2_.JPG"
 permalink: plants/trees/trees-native/pittosporum_fairchildii.html
 layout: page
 title: Pittosporum fairchildii (Fairchild's kohuhu)

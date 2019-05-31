@@ -26,11 +26,13 @@ images:
   height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/2164/Coprosma_linariifolia_Yellow-wood__Mikimiki-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2174/Coprosma_linariifolia_Yellow-wood__Mikimiki-003.JPG
   width: 640
   height: 480
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/2174/Coprosma_linariifolia_Yellow-wood__Mikimiki-003.JPG"
 permalink: plants/trees/trees-native/coprosma_linariifolia.html
 layout: page
 title: Coprosma (Mikimiki) Coprosma linariifolia

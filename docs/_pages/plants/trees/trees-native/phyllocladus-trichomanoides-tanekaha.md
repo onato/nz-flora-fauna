@@ -24,20 +24,25 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8384/Phyllocladus_trichomanoides__Tanekaha__3_.JPG
   width: 829
   height: 1200
+  path: "/image_files/0000/0006/8384/Phyllocladus_trichomanoides__Tanekaha__3_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8379/Phyllocladus_trichomanoides__Tanekaha__2_.JPG
   width: 1600
   height: 1107
+  path: "/image_files/0000/0006/8379/Phyllocladus_trichomanoides__Tanekaha__2_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8374/Phyllocladus_trichomanoides__Tanekaha__1_.JPG
   width: 1200
   height: 898
+  path: "/image_files/0000/0006/8374/Phyllocladus_trichomanoides__Tanekaha__1_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8389/Phyllocladus_trichomanoides__Tanekaha.JPG
   width: 800
   height: 450
   caption: The trunk.
+  path: "/image_files/0000/0006/8389/Phyllocladus_trichomanoides__Tanekaha.JPG"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Phyllocladus%20trichomanoides.gif
   width: 286
   height: 402
   caption: Distribution map. Thanks to Lawrie Metcalf.
+  path: "/uploads/images/Te%20Henui/Trees/Phyllocladus%20trichomanoides.gif"
 permalink: plants/trees/trees-native/phyllocladus_trichomanoides.html
 layout: page
 title: Phyllocladus trichomanoides (Tanekaha)

@@ -25,25 +25,31 @@ images:
   width: 1600
   height: 1200
   caption: Photographed on Mt Egmont/Taranaki February.
+  path: "/image_files/0000/0007/5679/Pentachondra_pumila__Little_Mountain_heath_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2919/Pentachondra_pumila.JPG
   width: 900
   height: 1200
+  path: "/image_files/0000/0006/2919/Pentachondra_pumila.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2914/Pentachondra_pumila-004.JPG
   width: 1024
   height: 768
   caption: The multi trunks of Pennantia baylisiana.
+  path: "/image_files/0000/0006/2914/Pentachondra_pumila-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3793/Pentachondra_pumila-004.JPG
   width: 800
   height: 600
   caption: These leaves which are in the sun are strongly rolled under at the margins.
+  path: "/image_files/0000/0010/3793/Pentachondra_pumila-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2904/Pentachondra_pumila-002.JPG
   width: 1200
   height: 900
   caption: The surface of the leaf.
+  path: "/image_files/0000/0006/2904/Pentachondra_pumila-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2899/Pentachondra_pumila-001.JPG
   width: 1024
   height: 768
   caption: The undersurface of a leaf.
+  path: "/image_files/0000/0006/2899/Pentachondra_pumila-001.JPG"
 permalink: plants/trees/trees-native/pentachondra_pumila.html
 layout: page
 title: Pentachondra pumila

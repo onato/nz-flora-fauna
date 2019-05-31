@@ -25,19 +25,24 @@ images:
   caption: Photo taken at the scientific reserve at "The Wilderness" near Lake Te
     Anau has excellent examples growing in stony ground.  These trees are slow growing
     and some of the threes in the photos are 200 years old.
+  path: "/image_files/0000/0002/1874/bog_pine__Halocarpus_bidwilli_-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1879/bog_pine__Halocarpus_bidwilli_-4.JPG
   width: 1024
   height: 768
   caption: Mature seed cone with a  white aril 
+  path: "/image_files/0000/0002/1879/bog_pine__Halocarpus_bidwilli_-4.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1884/bog_pine__Halocarpus_bidwilli_-7.JPG
   width: 800
   height: 599
+  path: "/image_files/0000/0002/1884/bog_pine__Halocarpus_bidwilli_-7.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1869/bog_pine__Halocarpus_bidwilli_-1.JPG
   width: 600
   height: 800
+  path: "/image_files/0000/0002/1869/bog_pine__Halocarpus_bidwilli_-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1889/bog_pine__Halocarpus_bidwilli_.JPG
   width: 600
   height: 800
+  path: "/image_files/0000/0002/1889/bog_pine__Halocarpus_bidwilli_.JPG"
 permalink: plants/trees/trees-native/halocarpus_bidwillii.html
 layout: page
 title: Bog Pine (Halocarpus bidwillii)

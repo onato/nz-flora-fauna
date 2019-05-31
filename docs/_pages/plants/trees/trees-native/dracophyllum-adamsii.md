@@ -20,14 +20,17 @@ images:
   width: 1600
   height: 1200
   caption: Photographed at Otari Wilton Bush Reserve.
+  path: "/image_files/0000/0004/5369/Dracophyllum_adamsii.__267_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5374/Dracophyllum_adamsii.__268_.JPG
   width: 1600
   height: 1200
   caption: Photographed at Otari Wilton Bush Reserve.
+  path: "/image_files/0000/0004/5374/Dracophyllum_adamsii.__268_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5379/Dracophyllum_adamsii.__269_.JPG
   width: 1200
   height: 902
   caption: Photographed at Otari Wilton Bush Reserve.
+  path: "/image_files/0000/0004/5379/Dracophyllum_adamsii.__269_.JPG"
 permalink: plants/trees/trees-native/dracophyllum_adamsii.html
 layout: page
 title: Dracophyllum adamsii

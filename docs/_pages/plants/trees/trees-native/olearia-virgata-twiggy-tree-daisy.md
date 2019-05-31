@@ -37,20 +37,25 @@ images:
   height: 1875
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0012/5803/Olearia_virgata-009.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5793/Olearia_virgata-005.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0012/5793/Olearia_virgata-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5798/Olearia_virgata-008.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0012/5798/Olearia_virgata-008.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5334/Olearia_virgata__1_.JPG
   width: 1200
   height: 1600
   caption: Adult tree.
+  path: "/image_files/0000/0003/5334/Olearia_virgata__1_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5329/Olearia_virgata.JPG
   width: 1024
   height: 768
   caption: Olearia virgata branched from the ground.
+  path: "/image_files/0000/0003/5329/Olearia_virgata.JPG"
 permalink: plants/trees/trees-native/olearia_virgata.html
 layout: page
 title: Olearia virgata (Twiggy tree daisy)

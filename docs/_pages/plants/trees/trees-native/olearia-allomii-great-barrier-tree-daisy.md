@@ -24,13 +24,16 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/5208/1-1-Olearia_allomii.jpg
   width: 800
   height: 600
+  path: "/image_files/0000/0013/5208/1-1-Olearia_allomii.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/5223/1-Olearia_allomii_2.jpg
   width: 800
   height: 658
+  path: "/image_files/0000/0013/5223/1-Olearia_allomii_2.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/5218/1-Olearia_allomii_buds.jpg
   width: 800
   height: 600
   caption: Olearia allomii's broad leaves and new flower buds.
+  path: "/image_files/0000/0013/5218/1-Olearia_allomii_buds.jpg"
 permalink: plants/trees/trees-native/olearia_allomii.html
 layout: page
 title: Olearia allomii (Great Barrier Tree Daisy)

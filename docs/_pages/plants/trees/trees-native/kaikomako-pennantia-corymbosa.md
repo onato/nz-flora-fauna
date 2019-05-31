@@ -24,47 +24,59 @@ images:
   width: 1200
   height: 1600
   caption: Photographed at Otari Wilton Bush Reserve Wellington.
+  path: "/image_files/0000/0006/0929/Pennantia_corymbosa__Kaikomako_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/0919/Pennantia_corymbosa__Kaikomako_-001.JPG
   width: 1024
   height: 768
   caption: Fruit developing.
+  path: "/image_files/0000/0006/0919/Pennantia_corymbosa__Kaikomako_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2289/kaikomako__Pennantia_corymbosa_.JPG
   width: 1024
   height: 766
   caption: Ripe fruit.
+  path: "/image_files/0000/0002/2289/kaikomako__Pennantia_corymbosa_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2284/kaikomako__Pennantia_corymbosa_-10.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0002/2284/kaikomako__Pennantia_corymbosa_-10.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4948/1-Juvenile_Pennantia_corymbosa.JPG
   width: 1200
   height: 900
   caption: The divaricating juvenile form in native bush.
+  path: "/image_files/0000/0011/4948/1-Juvenile_Pennantia_corymbosa.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/5763/1-Pennantia_corymbosa__bellbird_tree__2_-001.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0008/5763/1-Pennantia_corymbosa__bellbird_tree__2_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/5758/1-Pennantia_corymbosa__bellbird_tree__2_.JPG
   width: 640
   height: 482
+  path: "/image_files/0000/0008/5758/1-Pennantia_corymbosa__bellbird_tree__2_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2299/Pennantia_corymbosa___Kaikomako__Ducks-foot-1.jpg
   width: 600
   height: 521
   caption: Juvenile leaf (shaped like a ducks foot).
+  path: "/image_files/0000/0002/2299/Pennantia_corymbosa___Kaikomako__Ducks-foot-1.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6994/Pennantia_corymbosa__Kaikomako_-003.JPG
   width: 800
   height: 602
   caption: Another juvenile leaf shape with large rounded teeth.
+  path: "/image_files/0000/0004/6994/Pennantia_corymbosa__Kaikomako_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/0924/Pennantia_corymbosa__Kaikomako_-002.JPG
   width: 800
   height: 600
   caption: A slightly older leaf.
+  path: "/image_files/0000/0006/0924/Pennantia_corymbosa__Kaikomako_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2294/kaikomako__Pennantia_corymbosa_-6.JPG
   width: 1024
   height: 768
   caption: A mature leaf.
+  path: "/image_files/0000/0002/2294/kaikomako__Pennantia_corymbosa_-6.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2264/kaikomako__Pennantia_corymbosa_-5.JPG
   width: 1024
   height: 769
   caption: The underside of a mature leaf.
+  path: "/image_files/0000/0002/2264/kaikomako__Pennantia_corymbosa_-5.JPG"
 permalink: plants/trees/trees-native/pennantia_corymbosa.html
 layout: page
 title: Pennantia corymbosa (Kaikomako)

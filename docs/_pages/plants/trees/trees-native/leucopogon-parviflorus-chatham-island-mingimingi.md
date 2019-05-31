@@ -32,18 +32,23 @@ images:
   height: 1202
   caption: Photographed early October at Te Kainga Marire - New Zealand's Native Garden,
     New Plymouth
+  path: "/image_files/0000/0008/0578/Leucopogon_parviflorus_1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/0583/Leucopogon_parviflorus_1-001.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0008/0583/Leucopogon_parviflorus_1-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/0588/Leucopogon_parviflorus_1-002.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0008/0588/Leucopogon_parviflorus_1-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/0593/Leucopogon_parviflorus_1-003.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0008/0593/Leucopogon_parviflorus_1-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4114/Leucopogon_parviflorus__Chatham_Island_Mingimingi-003.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0003/4114/Leucopogon_parviflorus__Chatham_Island_Mingimingi-003.JPG"
 permalink: plants/trees/trees-native/leucopogon_parviflorus.html
 layout: page
 title: Leucopogon parviflorus (Chatham Island Mingimingi)

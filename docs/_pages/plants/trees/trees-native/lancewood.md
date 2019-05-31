@@ -26,39 +26,48 @@ images:
   width: 600
   height: 800
   caption: Pseudopanax crassifolius juvenile form.
+  path: "/image_files/0000/0001/1094/Juvenile_Pseudopanax_crassifolius__lancewood-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0594/Juvenile_leaves_Pseudopanax_crassifolius.JPG
   width: 800
   height: 601
   caption: Juvenile leaf.
+  path: "/image_files/0000/0002/0594/Juvenile_leaves_Pseudopanax_crassifolius.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0589/Juvenile_leaves_Pseudopanax_crassifolius-1.JPG
   width: 800
   height: 600
   caption: Section of the juvenile leaf.
+  path: "/image_files/0000/0002/0589/Juvenile_leaves_Pseudopanax_crassifolius-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/6834/Pseudopanax_crassifolius__Lancewood_.JPG
   width: 1501
   height: 2000
   caption: After 15 to 20 years as a juvenile, the apex broadens and the stem thickens.
+  path: "/image_files/0000/0006/6834/Pseudopanax_crassifolius__Lancewood_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0599/Pseudopanax_crassifolius__Lancewood-13.JPG
   width: 1024
   height: 686
   caption: Pseudopanax crassifolius adult form.
+  path: "/image_files/0000/0002/0599/Pseudopanax_crassifolius__Lancewood-13.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0604/Pseudopanax_crassifolius__Lancewood-15.JPG
   width: 800
   height: 600
   caption: Adult leaves.
+  path: "/image_files/0000/0002/0604/Pseudopanax_crassifolius__Lancewood-15.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0584/Adult_leaves_Pseudopanax_crassifolius__Lancewood.JPG
   width: 800
   height: 600
   caption: Adult leaves.
+  path: "/image_files/0000/0002/0584/Adult_leaves_Pseudopanax_crassifolius__Lancewood.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0609/Pseudopanax_crassifolius__Lancewood-17.JPG
   width: 800
   height: 601
   caption: Fruiting April.
+  path: "/image_files/0000/0002/0609/Pseudopanax_crassifolius__Lancewood-17.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0614/Trunk_Pseudopanax_crassifolius__Lancewood-19.JPG
   width: 600
   height: 800
   caption: Pseudopanax crassifolius trunk of the adult tree. Note grey bark and ridges
     that spiral up the length of the trunk.
+  path: "/image_files/0000/0002/0614/Trunk_Pseudopanax_crassifolius__Lancewood-19.JPG"
 permalink: plants/trees/trees-native/pseudopanax_crassifolius.html
 layout: page
 title: Pseudopanax crassifolius (Lancewood)

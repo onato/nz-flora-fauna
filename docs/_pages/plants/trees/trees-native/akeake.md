@@ -31,69 +31,86 @@ images:
   width: 1600
   height: 1200
   caption: A branch is laden with flowers (March)
+  path: "/image_files/0000/0011/4818/1-Dodonaea_viscosa__Akeake_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3028/Dodonaea_viscosa__Akeake_.JPG
   width: 900
   height: 1200
   caption: An adult tree
+  path: "/image_files/0000/0008/3028/Dodonaea_viscosa__Akeake_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9869/Dodonaea_viscosa__Akeake-005.JPG
   width: 1200
   height: 900
   caption: A young tree planted on a sub-division end of Smiths Road, New Plymouth.
     Photographed early February.
+  path: "/image_files/0000/0004/9869/Dodonaea_viscosa__Akeake-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0704/Dodonaea_viscosa__Akeake-001.JPG
   width: 1600
   height: 1200
   caption: The upstanding leaves.
+  path: "/image_files/0000/0005/0704/Dodonaea_viscosa__Akeake-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3023/Male_flowers_Dodonaea_viscosa__Akeake_-004.JPG
   width: 800
   height: 600
   caption: Male flowers November.
+  path: "/image_files/0000/0008/3023/Male_flowers_Dodonaea_viscosa__Akeake_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5494/Akeake__Dodonaea_viscosa-3.JPG
   width: 800
   height: 600
   caption: Developing winged fruit.
+  path: "/image_files/0000/0001/5494/Akeake__Dodonaea_viscosa-3.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2544/Dodonaea_viscosa__Akeake-001.JPG
   width: 1024
   height: 768
   caption: Pale yellow winged fruits
+  path: "/image_files/0000/0005/2544/Dodonaea_viscosa__Akeake-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/9163/1-Dodonaea_viscosa__Akeake_-001.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0012/9163/1-Dodonaea_viscosa__Akeake_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9874/Dodonaea_viscosa__Akeake-008.JPG
   width: 1024
   height: 768
   caption: Winged fruit capsules.
+  path: "/image_files/0000/0004/9874/Dodonaea_viscosa__Akeake-008.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/9168/1-Dodonaea_viscosa__Akeake_-002.JPG
   width: 1600
   height: 1201
+  path: "/image_files/0000/0012/9168/1-Dodonaea_viscosa__Akeake_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/9908/Dodonaea_viscosa__Akeake_.JPG
   width: 1600
   height: 1200
   caption: The dried wing fruit.
+  path: "/image_files/0000/0008/9908/Dodonaea_viscosa__Akeake_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9884/Dodonaea_viscosa__Akeake-001.JPG
   width: 1024
   height: 769
   caption: The top surface of a leaf.
+  path: "/image_files/0000/0004/9884/Dodonaea_viscosa__Akeake-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4823/1-Dodonaea_viscosa__Akeake_-002.JPG
   width: 800
   height: 601
   caption: The surface of a young leaf.
+  path: "/image_files/0000/0011/4823/1-Dodonaea_viscosa__Akeake_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9889/Dodonaea_viscosa__Akeake-004.JPG
   width: 1024
   height: 770
   caption: The underside of a leaf.
+  path: "/image_files/0000/0004/9889/Dodonaea_viscosa__Akeake-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/9113/Dodonaea_viscosa__Akeake_-004.JPG
   width: 1024
   height: 768
   caption: Sometimes the leaves can have a reddish tinge.
+  path: "/image_files/0000/0008/9113/Dodonaea_viscosa__Akeake_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4828/1-Dodonaea_viscosa__Akeake_-006.JPG
   width: 768
   height: 1024
   caption: The trunk of a young tree.
+  path: "/image_files/0000/0011/4828/1-Dodonaea_viscosa__Akeake_-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/9118/Dodonaea_viscosa__Akeake_-005.JPG
   width: 1200
   height: 900
   caption: Trunk of a mature Akeake
+  path: "/image_files/0000/0008/9118/Dodonaea_viscosa__Akeake_-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4844/Dodonaea_viscosa_purpurea__Purple_Ake_Ake-001.JPG
   width: 1200
   height: 1600
@@ -103,6 +120,7 @@ images:
     bronzy-green 10 cm long leaves which turn purple in cooler weather. Tolerates
     some shade but the colour is better if grown in full sun. Tiny green flowers in
     clusters mid-summer followed by brown maple-like seed capsules in late summer.
+  path: "/image_files/0000/0005/4844/Dodonaea_viscosa_purpurea__Purple_Ake_Ake-001.JPG"
 permalink: plants/trees/trees-native/dodonaea_viscosa.html
 layout: page
 title: Dodonaea viscosa (Akeake)

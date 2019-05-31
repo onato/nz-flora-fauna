@@ -25,20 +25,25 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5769/Savage_Lancewood__Pseudopanex_ferox-4.JPG
   width: 767
   height: 1024
+  path: "/image_files/0000/0002/5769/Savage_Lancewood__Pseudopanex_ferox-4.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5759/Savage_Lancewood__Pseudopanex_ferox-1.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0002/5759/Savage_Lancewood__Pseudopanex_ferox-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5779/Savage_Lancewood__Pseudopanex_ferox-6.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0002/5779/Savage_Lancewood__Pseudopanex_ferox-6.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5774/Savage_Lancewood__Pseudopanex_ferox-5.JPG
   width: 800
   height: 600
   caption: A very young leaf.
+  path: "/image_files/0000/0002/5774/Savage_Lancewood__Pseudopanex_ferox-5.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/5764/Savage_Lancewood__Pseudopanex_ferox-3.JPG
   width: 900
   height: 1200
   caption: The trunk of Pseudopanax ferox 
+  path: "/image_files/0000/0002/5764/Savage_Lancewood__Pseudopanex_ferox-3.JPG"
 permalink: plants/trees/trees-native/pseudopanax_ferox.html
 layout: page
 title: Pseudopanax ferox (Savage lancewood)

@@ -1,12 +1,43 @@
-#attributes li { 
-  list-style-type: none;
+.column {
+  float: left;
+  width: 50%;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+.row {
   clear: both;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#attributes li, #relatives li { 
+  list-style-type: none;
+}
+
+#relatives {
+  font-size: 0.8em;
+}
+
+.gallery:after {
+  clear: both;
+}
+
+.active {
+  font-weight: bold;
 }
 
 figure {
   display: block;
   float: left;
-  margin: 3px;
+  margin: 0 3px 3px 0 !important;
   text-align: center;
   padding: 0;
   height: 150px;

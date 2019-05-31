@@ -27,27 +27,34 @@ images:
   height: 599
   caption: Acrothamnus colensois distinctive parallel veins on the underside of the
     leaves.
+  path: "/image_files/0000/0005/4154/Acrothamnus_colensoi__Colensos_Mingimingi_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4174/Acrothamnus_colensoi__Colensos_Mingimingi_.JPG
   width: 800
   height: 602
+  path: "/image_files/0000/0005/4174/Acrothamnus_colensoi__Colensos_Mingimingi_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4149/Acrothamnus_colensoi__Colensos_Mingimingi_-001.JPG
   width: 600
   height: 451
+  path: "/image_files/0000/0005/4149/Acrothamnus_colensoi__Colensos_Mingimingi_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/5989/Acrothamnus_colensoi_.JPG
   width: 800
   height: 599
   caption: Shrub with white berries.
+  path: "/image_files/0000/0007/5989/Acrothamnus_colensoi_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4179/Acrothamnus_colensoi__Colensos_Mingimingi_-003.JPG
   width: 800
   height: 600
   caption: Shrub with white/pink berries.
+  path: "/image_files/0000/0005/4179/Acrothamnus_colensoi__Colensos_Mingimingi_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4169/Acrothamnus_colensoi__Colensos_Mingimingi_-004.JPG
   width: 1200
   height: 900
   caption: Shrub with red berries.
+  path: "/image_files/0000/0005/4169/Acrothamnus_colensoi__Colensos_Mingimingi_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4164/Acrothamnus_colensoi__Colensos_Mingimingi_-005.JPG
   width: 600
   height: 452
+  path: "/image_files/0000/0005/4164/Acrothamnus_colensoi__Colensos_Mingimingi_-005.JPG"
 permalink: plants/trees/trees-native/acrothamnus_colensoi.html
 layout: page
 title: Acrothamnus colensoi (Colensos Mingimingi)

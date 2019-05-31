@@ -24,13 +24,16 @@ images:
   height: 768
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.  
+  path: "/image_files/0000/0003/3944/coprosma_mangitangi.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/2039/Coprosma_mangatangi-001.JPG
   width: 1200
   height: 900
   caption: Photographed New Plymouth.
+  path: "/image_files/0000/0004/2039/Coprosma_mangatangi-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3949/coprosma_mangitangi-001.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0003/3949/coprosma_mangitangi-001.JPG"
 permalink: plants/trees/trees-native/coprosma_acerosa_f_mangatangi.html
 layout: page
 title: Coprosma acerosa f. mangatangi (Coprosma 'Mangatangi')

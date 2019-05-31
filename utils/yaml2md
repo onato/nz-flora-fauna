@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 require 'json'
 require 'yaml'
+require 'uri'
 
 filename = ARGV.first
 puts filename
@@ -16,6 +17,10 @@ yaml["title"] = yaml["name"]
 
 yaml.delete("description")
 yaml.delete("name")
+
+for index in (0...yaml["images"].length)
+  yaml["images"][index]["path"] = URI.parse(yaml["images"][index]["src"]).path
+end
 
 File.open(destination, 'w') { |f| 
   f.write yaml.to_yaml()

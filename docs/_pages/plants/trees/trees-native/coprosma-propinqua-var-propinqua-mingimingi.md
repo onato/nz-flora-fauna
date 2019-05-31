@@ -20,19 +20,24 @@ images:
   width: 768
   height: 1024
   caption: Adult tree form.
+  path: "/image_files/0000/0010/3938/Coprosma_propinqua_var._propinqua.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3948/Coprosma_propinqua_var._propinqua-001.JPG
   width: 640
   height: 480
   caption: The prostrate form.
+  path: "/image_files/0000/0010/3948/Coprosma_propinqua_var._propinqua-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3923/Coprosma_propinqua_var._propinqua_._propinqua_15-03-2016_2-06-39_PM.JPG
   width: 1024
   height: 767
+  path: "/image_files/0000/0010/3923/Coprosma_propinqua_var._propinqua_._propinqua_15-03-2016_2-06-39_PM.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3928/Coprosma_propinqua_var._propinqua_._propinqua_15-03-2016_2-07-58_PM.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0010/3928/Coprosma_propinqua_var._propinqua_._propinqua_15-03-2016_2-07-58_PM.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/3933/Coprosma_propinqua_var._propinqua_-004.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0010/3933/Coprosma_propinqua_var._propinqua_-004.JPG"
 permalink: plants/trees/trees-native/coprosma_propinqua_var_propinqua.html
 layout: page
 title: Coprosma propinqua var. propinqua (Mingimingi)

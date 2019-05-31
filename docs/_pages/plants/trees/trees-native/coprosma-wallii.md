@@ -21,16 +21,19 @@ attributes:
 images:
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Landcareinfo/C.%20wallii%20Landcare.jpg
   caption: Information below courtesy of Landcare Research
+  path: "/uploads/images/Te%20Henui/Landcareinfo/C.%20wallii%20Landcare.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3789/Coprosma_walli-001.JPG
   width: 900
   height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/3789/Coprosma_walli-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3794/Coprosma_walli-003.JPG
   width: 1024
   height: 768
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/3794/Coprosma_walli-003.JPG"
 permalink: plants/trees/trees-native/coprosma_wallii.html
 layout: page
 title: Coprosma wallii

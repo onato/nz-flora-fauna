@@ -22,40 +22,49 @@ images:
   width: 1600
   height: 1200
   caption: Photographed at Ratanui, 538 Carrington Road, New Plymouth.
+  path: "/image_files/0000/0006/5664/Prumnopitys_ferruginea__Miro-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5934/Prumnopitys_ferruginea__Miro__Brown_pine-001.JPG
   width: 1024
   height: 768
   caption: Prumnopitys ferruginea at the DOC camp, Kakaho, Waikato.
+  path: "/image_files/0000/0005/5934/Prumnopitys_ferruginea__Miro__Brown_pine-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/0208/Miro__Prumnopitys_ferruginea-002.JPG
   width: 1200
   height: 900
   caption: The crown of a very old forest Prumnopitys ferruginea. Photographed from
     the West Coast Treetop Walkway.
+  path: "/image_files/0000/0009/0208/Miro__Prumnopitys_ferruginea-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5659/Prumnopitys_ferruginea__Miro-003.JPG
   width: 1600
   height: 1203
   caption: Miro leaves.
+  path: "/image_files/0000/0006/5659/Prumnopitys_ferruginea__Miro-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5939/Prumnopitys_ferruginea__Miro__Brown_pine-002.JPG
   width: 800
   height: 598
+  path: "/image_files/0000/0005/5939/Prumnopitys_ferruginea__Miro__Brown_pine-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/5944/Prumnopitys_ferruginea__Miro__Brown_pine-003.JPG
   width: 600
   height: 447
   caption: Unripe fruit. Photographed January.
+  path: "/image_files/0000/0005/5944/Prumnopitys_ferruginea__Miro__Brown_pine-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/9384/Prumnopitys_ferruginea__Miro.JPG
   width: 1024
   height: 686
   caption: An adult Miro.
+  path: "/image_files/0000/0001/9384/Prumnopitys_ferruginea__Miro.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1459/Prumnopitys_ferruginea___Miro__Brown_pine-001.JPG
   width: 1600
   height: 1200
   caption: An adult Miro trunk with its distinctive "hammer mark pattern" where the
     bark has flaked off.
+  path: "/image_files/0000/0007/1459/Prumnopitys_ferruginea___Miro__Brown_pine-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5074/Prumnopitys_ferruginea__trunk__miro-2.JPG
   width: 480
   height: 640
   caption: A tall adult Miro trunk. The leaves in the photo are of another tree. growing
     next to it.
+  path: "/image_files/0000/0001/5074/Prumnopitys_ferruginea__trunk__miro-2.JPG"
 permalink: plants/trees/trees-native/prumnopitys_ferruginea.html
 layout: page
 title: Prumnopitys ferruginea

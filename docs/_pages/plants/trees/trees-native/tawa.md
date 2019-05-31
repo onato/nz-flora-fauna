@@ -22,25 +22,31 @@ images:
   width: 1000
   height: 750
   caption: Tawa trunks Lat 39 4' 1.739" S Long 174 5' 39.816" E Datum WGS 84
+  path: "/image_files/0000/0000/3573/Tawa-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3358/tawa.JPG
   width: 1000
   height: 750
   caption: Tawa leaves.
+  path: "/image_files/0000/0000/3358/tawa.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3578/Tawa-2.JPG
   width: 800
   height: 1067
   caption: Tawa tree.
+  path: "/image_files/0000/0000/3578/Tawa-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5099/Beilschmiedia_tawa_trunk__tawa_trunk-3.JPG
   width: 600
   height: 800
   caption: Trunk of Tawa.
+  path: "/image_files/0000/0001/5099/Beilschmiedia_tawa_trunk__tawa_trunk-3.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/1698/Fruit_of_Beilschmiedia_tawa__Tawa_.jpg
   width: 1024
   height: 768
+  path: "/image_files/0000/0009/1698/Fruit_of_Beilschmiedia_tawa__Tawa_.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/6599/Tawa_fruit_Beilschmiedia_tawa-1.JPG
   width: 800
   height: 600
   caption: A fallen tawa fruit (about 30mm in length).
+  path: "/image_files/0000/0001/6599/Tawa_fruit_Beilschmiedia_tawa-1.JPG"
 permalink: plants/trees/trees-native/beilschmiedia_tawa.html
 layout: page
 title: Beilschmiedia tawa (Tawa)

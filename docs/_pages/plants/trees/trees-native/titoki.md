@@ -24,51 +24,63 @@ images:
   width: 2000
   height: 1339
   caption: A very old Alectryon excelsus. Egmont Road, New Plymouth
+  path: "/image_files/0000/0005/6099/Alectryon_excelsus__Titoki_tree-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/9434/Alectryon_excelsus__Titoki-005.jpg
   width: 800
   height: 536
   caption: Looking across the Te Henui stream towards Puketarata Pa at the historic
     Titoki trees fenced off in the paddock. These trees were very important to the
     Maori of this Pa.
+  path: "/image_files/0000/0002/9434/Alectryon_excelsus__Titoki-005.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/3994/Alectryon_excelsus__Titoki-001.JPG
   width: 1600
   height: 1200
   caption: A photo of younger tree with unopened capsules (November).
+  path: "/image_files/0000/0004/3994/Alectryon_excelsus__Titoki-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4014/Alectryon_excelsus_cpasules__Titoki.JPG
   width: 1600
   height: 1202
   caption: Unripe capsules.
+  path: "/image_files/0000/0004/4014/Alectryon_excelsus_cpasules__Titoki.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/9424/Alectryon_excelsus__Titoki.JPG
   width: 1024
   height: 767
   caption: A close view of the capsules split open to show the bright red aris and
     the shiny black seeds.
+  path: "/image_files/0000/0002/9424/Alectryon_excelsus__Titoki.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/9429/Alectryon_excelsus__Titoki-001.JPG
   width: 1024
   height: 766
+  path: "/image_files/0000/0002/9429/Alectryon_excelsus__Titoki-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/9569/Alectryon_excelsus__Titoki-002.JPG
   width: 767
   height: 1024
+  path: "/image_files/0000/0002/9569/Alectryon_excelsus__Titoki-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/9564/Alectryon_excelsus__Titoki-001.JPG
   width: 800
   height: 600
   caption: Topside of the leaves.
+  path: "/image_files/0000/0002/9564/Alectryon_excelsus__Titoki-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4004/Alectryon_excelsus__Titoki-003.JPG
   width: 1200
   height: 900
   caption: Underside of leaf.
+  path: "/image_files/0000/0004/4004/Alectryon_excelsus__Titoki-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/9574/Alectryon_excelsus__Titoki-003.JPG
   width: 900
   height: 1200
   caption: Close up of a trunk of a young Alectryon excelsus.
+  path: "/image_files/0000/0002/9574/Alectryon_excelsus__Titoki-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/3999/Alectryon_excelsus__Titoki-002.JPG
   width: 900
   height: 1200
   caption: The multi-trunks of some young Alectryon excelsus.
+  path: "/image_files/0000/0004/3999/Alectryon_excelsus__Titoki-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6109/Alectryon_excelsus__Titoki_tree-010.JPG
   width: 1600
   height: 1071
   caption: The trunk of an old tree.
+  path: "/image_files/0000/0005/6109/Alectryon_excelsus__Titoki_tree-010.JPG"
 permalink: plants/trees/trees-native/alectryon_excelsus.html
 layout: page
 title: Alectryon excelsus (Titoki)

@@ -27,39 +27,49 @@ images:
   width: 600
   height: 800
   caption: This tree was photographed in the Mt Taranaki reserve Stratford side.
+  path: "/image_files/0000/0001/6514/Mountain_Horopito__Pseudowintera_colorata.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/4243/Pseudowintera_colorata__Horopito_-1.JPG
   width: 800
   height: 715
+  path: "/image_files/0000/0000/4243/Pseudowintera_colorata__Horopito_-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/7304/Pseudowintera_colorata-010.JPG
   width: 901
   height: 1200
   caption: A young tree.
+  path: "/image_files/0000/0005/7304/Pseudowintera_colorata-010.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/6504/Mountain_Horopito__Pseudowintera__colorata-1.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0001/6504/Mountain_Horopito__Pseudowintera__colorata-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/2903/Pseudowintera_colorata_flower_buds-003.JPG
   width: 1024
   height: 770
   caption: New flower buds late August.
+  path: "/image_files/0000/0009/2903/Pseudowintera_colorata_flower_buds-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/7309/Pseudowintera_colorata-012.JPG
   width: 1024
   height: 768
   caption: The topside of the leaves.
+  path: "/image_files/0000/0005/7309/Pseudowintera_colorata-012.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/6509/Mountain_Horopito__Pseudowintera_colorata-2.JPG
   width: 600
   height: 800
+  path: "/image_files/0000/0001/6509/Mountain_Horopito__Pseudowintera_colorata-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/7299/Pseudowintera_colorata-007.JPG
   width: 1024
   height: 769
   caption: The underside of the leaves.
+  path: "/image_files/0000/0005/7299/Pseudowintera_colorata-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/2908/Pseudowintera_colorata_flower_buds-005.JPG
   width: 1024
   height: 768
   caption: The top surface of a leaf.
+  path: "/image_files/0000/0009/2908/Pseudowintera_colorata_flower_buds-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/2913/Pseudowintera_colorata_flower_buds-006.JPG
   width: 1024
   height: 768
   caption: The underside of the above leaf.
+  path: "/image_files/0000/0009/2913/Pseudowintera_colorata_flower_buds-006.JPG"
 permalink: plants/trees/trees-native/pseudowintera_colorata.html
 layout: page
 title: Pseudowintera colorata (Horopito)

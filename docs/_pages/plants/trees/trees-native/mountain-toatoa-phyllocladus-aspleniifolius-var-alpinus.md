@@ -24,34 +24,43 @@ images:
   width: 1500
   height: 2000
   caption: Phyllocladus alpinus covered in male cones (April).
+  path: "/image_files/0000/0009/1823/Phyllocladus_alpinus__Mountain_Toatoa__Mountain_Celery_Pine._11-4-2014_3-22-42_PM.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/1818/Phyllocladus_alpinus__Mountain_Toatoa_11-4-2014_3-14-26_PM.JPG
   width: 2000
   height: 1500
   caption: Male cones.
+  path: "/image_files/0000/0009/1818/Phyllocladus_alpinus__Mountain_Toatoa_11-4-2014_3-14-26_PM.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/1813/Phyllocladus_alpinus__Mountain_Toatoa_.JPG
   width: 1600
   height: 1201
   caption: Male cones.
+  path: "/image_files/0000/0009/1813/Phyllocladus_alpinus__Mountain_Toatoa_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/6753/mountain_toatoa__Phyllocladus_alpinus__-002.JPG
   width: 1024
   height: 769
   caption: Red pollen cones November.
+  path: "/image_files/0000/0009/6753/mountain_toatoa__Phyllocladus_alpinus__-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/6748/mountain_toatoa__Phyllocladus_alpinus__-001.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0009/6748/mountain_toatoa__Phyllocladus_alpinus__-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/6763/mountain_toatoa__Phyllocladus_alpinus__-004.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0009/6763/mountain_toatoa__Phyllocladus_alpinus__-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8324/Phyllocladus_alpinus__Mountain_Toatoa_4.JPG
   width: 1200
   height: 1600
   caption: A juvenile shrub.
+  path: "/image_files/0000/0006/8324/Phyllocladus_alpinus__Mountain_Toatoa_4.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8319/Phyllocladus_alpinus__Mountain_Toatoa_.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0006/8319/Phyllocladus_alpinus__Mountain_Toatoa_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8329/Phyllocladus_alpinus__Mountain_Toatoa_6.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0006/8329/Phyllocladus_alpinus__Mountain_Toatoa_6.JPG"
 permalink: plants/trees/trees-native/phyllocladus_alpinus.html
 layout: page
 title: Phyllocladus alpinus (Mountain Toatoa)

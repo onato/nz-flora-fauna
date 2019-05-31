@@ -29,18 +29,22 @@ images:
   width: 2624
   height: 3506
   caption: A juvenile tree photographed in the Uruiti Valley, North Taranaki.
+  path: "/image_files/0000/0013/4298/1-Manoao_colensoi__Silver_pine.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5269/Manoao_colensoi__Silver_pine-002.JPG
   width: 896
   height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/5269/Manoao_colensoi__Silver_pine-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5274/Manoao_colensoi__Silver_pine-003.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0003/5274/Manoao_colensoi__Silver_pine-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5279/Manoao_colensoi__Silver_pine-007.JPG
   width: 600
   height: 450
   caption: Some red pollen cones on upturned terminal branchlets.
+  path: "/image_files/0000/0003/5279/Manoao_colensoi__Silver_pine-007.JPG"
 permalink: plants/trees/trees-native/manoao_colensoi.html
 layout: page
 title: Manoao colensoi (Silver pine)

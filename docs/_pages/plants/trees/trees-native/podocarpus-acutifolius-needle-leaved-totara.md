@@ -24,26 +24,31 @@ images:
   height: 1200
   caption: Several shrubs of  Podocarpus acutifolius photographed at Otari Native
     Botanic Garden and Wilton's Bush Reserve. Wellington.
+  path: "/image_files/0000/0004/7924/Podocarpus_acutifius.__176_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4279/Podocarpus_acutifolius_Needle_leaved_totara-001.JPG
   width: 1200
   height: 900
   caption: Several shrubs of  Podocarpus acutifolius photographed at Otari Native
     Botanic Garden and Wilton's Bush Reserve. Wellington.
+  path: "/image_files/0000/0003/4279/Podocarpus_acutifolius_Needle_leaved_totara-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4284/Podocarpus_acutifolius_Needle_leaved_totara-002.JPG
   width: 1200
   height: 900
   caption: Several shrubs of  Podocarpus acutifolius photographed at Otari Native
     Botanic Garden and Wilton's Bush Reserve. Wellington.
+  path: "/image_files/0000/0003/4284/Podocarpus_acutifolius_Needle_leaved_totara-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7929/Podocarpus_acutifius.__177_.JPG
   width: 1200
   height: 900
   caption: Several shrubs of  Podocarpus acutifolius photographed at Otari Native
     Botanic Garden and Wilton's Bush Reserve. Wellington.
+  path: "/image_files/0000/0004/7929/Podocarpus_acutifius.__177_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4289/Podocarpus_acutifolius_Needle_leaved_totara-003.JPG
   width: 640
   height: 486
   caption: Several shrubs of  Podocarpus acutifolius photographed at Otari Native
     Botanic Garden and Wilton's Bush Reserve. Wellington.
+  path: "/image_files/0000/0003/4289/Podocarpus_acutifolius_Needle_leaved_totara-003.JPG"
 permalink: plants/trees/trees-native/podocarpus_acutifolius.html
 layout: page
 title: Podocarpus acutifolius (Needle-leaved totara)

@@ -23,12 +23,15 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1199/Clianthus_puniceus__Kaka_beak__white_form__1_.JPG
   width: 1600
   height: 1199
+  path: "/image_files/0000/0004/1199/Clianthus_puniceus__Kaka_beak__white_form__1_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1209/Clianthus_puniceus__Kaka_beak__white_form.JPG
   width: 1600
   height: 1202
+  path: "/image_files/0000/0004/1209/Clianthus_puniceus__Kaka_beak__white_form.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1204/Clianthus_puniceus__Kaka_beak__white_form__2_.JPG
   width: 1600
   height: 1199
+  path: "/image_files/0000/0004/1204/Clianthus_puniceus__Kaka_beak__white_form__2_.JPG"
 permalink: plants/trees/trees-native/clianthus_puniceus_albus.html
 layout: page
 title: Clianthus puniceus albus (White kaka beak)

@@ -31,19 +31,24 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4538/Poroporo__Solanum_aviculare_.JPG
   width: 1600
   height: 1199
+  path: "/image_files/0000/0011/4538/Poroporo__Solanum_aviculare_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4543/Poroporo__Solanum_aviculare_-001.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0011/4543/Poroporo__Solanum_aviculare_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4553/Poroporo__Solanum_aviculare_-003.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0011/4553/Poroporo__Solanum_aviculare_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4548/Poroporo__Solanum_aviculare_-002.JPG
   width: 1200
   height: 900
   caption: Green poisonous fruit
+  path: "/image_files/0000/0011/4548/Poroporo__Solanum_aviculare_-002.JPG"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-Fruit%20of%20Solanum%20aviculare%20.jpg
   width: 768
   height: 1024
+  path: "/uploads/images/Te%20Henui/Trees/1-Fruit%20of%20Solanum%20aviculare%20.jpg"
 permalink: plants/trees/trees-native/solanum_aviculare_var_aviculare.html
 layout: page
 title: Solanum aviculare (Poroporo)

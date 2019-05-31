@@ -20,38 +20,47 @@ images:
   width: 1600
   height: 1200
   caption: An 80-year-old tree at Tupare Gardens, New Plymouth, Taranaki.
+  path: "/image_files/0000/0009/6243/Fuscospora_solandri._Black_beech-001._Black_beech-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/6248/Fuscospora_solandri._Black_beech-002.JPG
   width: 1024
   height: 769
   caption: Tree flowering October.
+  path: "/image_files/0000/0009/6248/Fuscospora_solandri._Black_beech-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1364/Nothofagus_solandri_var_solandri.JPG
   width: 1200
   height: 1600
   caption: Photographed at Koromiko south of Picton.
+  path: "/image_files/0000/0005/1364/Nothofagus_solandri_var_solandri.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1359/Nothofagus_solandri_var_solandri-008.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0005/1359/Nothofagus_solandri_var_solandri-008.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1339/Nothofagus_solandri_var_solandri-001.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0005/1339/Nothofagus_solandri_var_solandri-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1344/Nothofagus_solandri_var_solandri-002.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0005/1344/Nothofagus_solandri_var_solandri-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1349/Nothofagus_solandri_var_solandri-005.JPG
   width: 800
   height: 600
   caption: The underside of the leaves.
+  path: "/image_files/0000/0005/1349/Nothofagus_solandri_var_solandri-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1354/Nothofagus_solandri_var_solandri-007.JPG
   width: 1024
   height: 768
   caption: The trunk with honeydew sooty mould that gives this tree its common name
     Black beech
+  path: "/image_files/0000/0005/1354/Nothofagus_solandri_var_solandri-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/8184/Large_burl_on_black_beech.JPG
   width: 800
   height: 600
   caption: Fuscospora (Beech) is a species that has a tendency to blastomania. This
     is sometimes referred to as a burl, and the wood it contains is called burl-wood.
     Photo below is a large burl nearly a metre across on a beech tree.
+  path: "/image_files/0000/0001/8184/Large_burl_on_black_beech.JPG"
 permalink: plants/trees/trees-native/fuscospora_solandri.html
 layout: page
 title: Fuscospora solandri (Black Beech)

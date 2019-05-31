@@ -26,10 +26,13 @@ attributes:
   - Broad-leaved maire
 images:
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-NestegisApetala.jpg
+  path: "/uploads/images/Te%20Henui/Trees/1-NestegisApetala.jpg"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-fruit%20CoastalMaire.jpg
   caption: The fruit.
+  path: "/uploads/images/Te%20Henui/Trees/1-fruit%20CoastalMaire.jpg"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1--NestegisApetala%20young.jpg
   caption: Leaves of a young plant.
+  path: "/uploads/images/Te%20Henui/Trees/1--NestegisApetala%20young.jpg"
 permalink: plants/trees/trees-native/nestegis_apetala.html
 layout: page
 title: Nestegis apetala (Coastal maire)

@@ -29,17 +29,21 @@ images:
   width: 1200
   height: 1600
   caption: Photographed late February the tree is covered in dry papery winged fruits.
+  path: "/image_files/0000/0012/3983/Hoheria_angustifolia__1_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/3978/1-Hoheria_angustifolia_.jpg
   width: 2048
   height: 1505
+  path: "/image_files/0000/0012/3978/1-Hoheria_angustifolia_.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/3988/Hoheria_angustifolia__6_.JPG
   width: 1600
   height: 1201
   caption: The dry papery winged fruits.
+  path: "/image_files/0000/0012/3988/Hoheria_angustifolia__6_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/4003/Hoheria_angustifolia__9_.JPG
   width: 767
   height: 1024
   caption: Dry fruits.
+  path: "/image_files/0000/0012/4003/Hoheria_angustifolia__9_.JPG"
 permalink: plants/trees/trees-native/hoheria_angustifolia.html
 layout: page
 title: Hoheria angustifolia (Narrow-leaved lacebark)

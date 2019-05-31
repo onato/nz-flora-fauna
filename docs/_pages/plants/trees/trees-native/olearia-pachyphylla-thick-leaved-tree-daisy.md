@@ -24,16 +24,20 @@ images:
   width: 1024
   height: 768
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
+  path: "/image_files/0000/0006/1794/Olearia_pachyphylla__Thick-leaved_tree_daisy-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1809/Olearia_pachyphylla__Thick-leaved_tree_daisy-005.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0006/1809/Olearia_pachyphylla__Thick-leaved_tree_daisy-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1799/Olearia_pachyphylla__Thick-leaved_tree_daisy-002.JPG
   width: 768
   height: 1024
+  path: "/image_files/0000/0006/1799/Olearia_pachyphylla__Thick-leaved_tree_daisy-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1804/Olearia_pachyphylla__Thick-leaved_tree_daisy-003.JPG
   width: 768
   height: 1024
   caption: The underside of a leaf with white woolly-tomentose.
+  path: "/image_files/0000/0006/1804/Olearia_pachyphylla__Thick-leaved_tree_daisy-003.JPG"
 permalink: plants/trees/trees-native/olearia_pachyphylla.html
 layout: page
 title: Olearia pachyphylla (Thick-leaved tree daisy)

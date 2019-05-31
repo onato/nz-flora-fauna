@@ -25,10 +25,12 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1364/Clianthus_maximus__Clianthus_kaka_king-00op.jpg
   width: 1600
   height: 1200
+  path: "/image_files/0000/0004/1364/Clianthus_maximus__Clianthus_kaka_king-00op.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1369/Leaves_of_Clianthus_maximus__Clianthus_kaka_king-003.JPG
   width: 1024
   height: 769
   caption: The shiny leaves of C. maximus
+  path: "/image_files/0000/0004/1369/Leaves_of_Clianthus_maximus__Clianthus_kaka_king-003.JPG"
 permalink: plants/trees/trees-native/clianthus_maximus.html
 layout: page
 title: Clianthus maximus (Kaka beak)

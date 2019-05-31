@@ -26,49 +26,62 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8958/Entelea_arborescens__Whau__Corkwood__.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0007/8958/Entelea_arborescens__Whau__Corkwood__.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/8458/Entelea_arborescens_Whau_-004.JPG
   width: 1200
   height: 902
+  path: "/image_files/0000/0009/8458/Entelea_arborescens_Whau_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2429/Entelea_arborescens_Whau_corkwood-2.JPG
   width: 1024
   height: 768
   caption: Whau flowers developing early October. Notice the tiny [Black Spined Weevil](http://www.terrain.net.nz/friends-of-te-henui-group/local-insects/weevil-black-spined-scolopterus-penicillatus.html)
     on buds.
+  path: "/image_files/0000/0002/2429/Entelea_arborescens_Whau_corkwood-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/8453/Entelea_arborescens_Whau_-001.JPG
   width: 1200
   height: 900
   caption: Green seed capsules and new flowers.
+  path: "/image_files/0000/0009/8453/Entelea_arborescens_Whau_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/3359/Whau__Entelea_arborescens-2.JPG
   width: 1200
   height: 899
   caption: Flowers early November.
+  path: "/image_files/0000/0002/3359/Whau__Entelea_arborescens-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/8448/Flower_Entelea_arborescens_Whau.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0009/8448/Flower_Entelea_arborescens_Whau.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/3354/Whau__Entelea_arborescens-1.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0002/3354/Whau__Entelea_arborescens-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5699/Entelea_arborescens__whau_seed_heads-1.JPG
   width: 800
   height: 450
   caption: Whau seed heads late December.
+  path: "/image_files/0000/0001/5699/Entelea_arborescens__whau_seed_heads-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8948/Entelea_arborescens__Whau__Corkwood__-002.JPG
   width: 1600
   height: 1201
   caption: Photographed August.
+  path: "/image_files/0000/0007/8948/Entelea_arborescens__Whau__Corkwood__-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8953/Entelea_arborescens__Whau__Corkwood__-003.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0007/8953/Entelea_arborescens__Whau__Corkwood__-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2439/Entelea_arborescens_Whau_corkwood-4.JPG
   width: 800
   height: 600
   caption: Dry spiny fruit cases.Photographed a year later (April).
+  path: "/image_files/0000/0002/2439/Entelea_arborescens_Whau_corkwood-4.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2444/Entelea_arborescens_Whau_corkwood-5.JPG
   width: 600
   height: 450
+  path: "/image_files/0000/0002/2444/Entelea_arborescens_Whau_corkwood-5.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2434/Entelea_arborescens_Whau_corkwood-3.JPG
   width: 600
   height: 800
+  path: "/image_files/0000/0002/2434/Entelea_arborescens_Whau_corkwood-3.JPG"
 permalink: plants/trees/trees-native/entelea_arborescens.html
 layout: page
 title: Entelea arborescens (Whau)

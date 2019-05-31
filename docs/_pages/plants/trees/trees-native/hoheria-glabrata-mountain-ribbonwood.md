@@ -28,27 +28,34 @@ images:
   width: 1600
   height: 1200
   caption: Photographed March Arthurs Pass.
+  path: "/image_files/0000/0005/2274/Hoheria_glabrata__Mountain_Ribbonwood.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2254/Hoheria_glabrata__Mountain_Ribbonwood-001.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0005/2254/Hoheria_glabrata__Mountain_Ribbonwood-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2269/Hoheria_glabrata__Mountain_Ribbonwood-004.JPG
   width: 1200
   height: 904
+  path: "/image_files/0000/0005/2269/Hoheria_glabrata__Mountain_Ribbonwood-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2259/Hoheria_glabrata__Mountain_Ribbonwood-002.JPG
   width: 800
   height: 625
   caption: The topside of a leaf.
+  path: "/image_files/0000/0005/2259/Hoheria_glabrata__Mountain_Ribbonwood-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2264/Hoheria_glabrata__Mountain_Ribbonwood-003.JPG
   width: 800
   height: 521
   caption: The underside of a leaf.
+  path: "/image_files/0000/0005/2264/Hoheria_glabrata__Mountain_Ribbonwood-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4204/Hoheria_glabrata__Mountain_ribbonwood.-001.-002.JPG
   width: 1600
   height: 1202
   caption: Photos below are juvenile leaves. Similar to H. lyallii but smaller.
+  path: "/image_files/0000/0005/4204/Hoheria_glabrata__Mountain_ribbonwood.-001.-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4209/Hoheria_glabrata__Mountain_ribbonwood..JPG
   width: 1600
   height: 1201
+  path: "/image_files/0000/0005/4209/Hoheria_glabrata__Mountain_ribbonwood..JPG"
 permalink: plants/trees/trees-native/hoheria_glabrata.html
 layout: page
 title: Hoheria glabrata (Mountain ribbonwood)

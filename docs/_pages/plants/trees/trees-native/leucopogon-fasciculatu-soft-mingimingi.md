@@ -30,19 +30,24 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1549/leucopogon_fasciculatus-016.JPG
   width: 1024
   height: 771
+  path: "/image_files/0000/0006/1549/leucopogon_fasciculatus-016.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1544/leucopogon_fasciculatus-015.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0006/1544/leucopogon_fasciculatus-015.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/9234/Leucopogon_fasciculatus_Soft_Mingimingi.JPG
   width: 899
   height: 1200
+  path: "/image_files/0000/0003/9234/Leucopogon_fasciculatus_Soft_Mingimingi.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/9244/Leucopogon_fasciculus_-001.JPG
   width: 598
   height: 800
+  path: "/image_files/0000/0003/9244/Leucopogon_fasciculus_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1539/leucopogon_fasciculatus-014.JPG
   width: 800
   height: 600
   caption: The red berry. February.
+  path: "/image_files/0000/0006/1539/leucopogon_fasciculatus-014.JPG"
 permalink: plants/trees/trees-native/leucopogon_fasciculatus.html
 layout: page
 title: Leucopogon fasciculatus (Soft Mingimingi)

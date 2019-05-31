@@ -26,30 +26,37 @@ images:
   width: 1600
   height: 1200
   caption: Photographed at Dawsons Falls, South Mt Egmont/Taranaki. November.
+  path: "/image_files/0000/0005/4954/Olearia_arborescens-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4964/Olearia_arborescens-003.JPG
   width: 1600
   height: 1200
   caption: Photographed at Dawsons Falls, South Mt Egmont/Taranaki. November.
+  path: "/image_files/0000/0005/4964/Olearia_arborescens-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4969/Olearia_arborescens-004.JPG
   width: 1600
   height: 1200
   caption: New plants colonising bush edge Northern Mt Egmont/Taranaki.
+  path: "/image_files/0000/0005/4969/Olearia_arborescens-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4959/Olearia_arborescens-002.JPG
   width: 1200
   height: 900
   caption: Juvenile leaves.
+  path: "/image_files/0000/0005/4959/Olearia_arborescens-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4974/Olearia_arborescens-010.JPG
   width: 1024
   height: 770
   caption: The top surface of an adult leaf.
+  path: "/image_files/0000/0005/4974/Olearia_arborescens-010.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4984/Olearia_arborescens.JPG
   width: 800
   height: 601
   caption: The top surface of a juvenile leaf.
+  path: "/image_files/0000/0005/4984/Olearia_arborescens.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4979/Olearia_arborescens-011.JPG
   width: 1024
   height: 768
   caption: The underside of a leaf.
+  path: "/image_files/0000/0005/4979/Olearia_arborescens-011.JPG"
 permalink: plants/trees/trees-native/olearia_arborescens.html
 layout: page
 title: Olearia arborescens (Common tree daisy)

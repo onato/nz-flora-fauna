@@ -25,14 +25,17 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/0754/Alseuosmia_pusilla.JPG
   width: 800
   height: 536
+  path: "/image_files/0000/0007/0754/Alseuosmia_pusilla.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/0739/Alseuosmia_pusilla2.JPG
   width: 600
   height: 800
   caption: Small shrub photographed East Mt Egmont/Taranaki February.
+  path: "/image_files/0000/0007/0739/Alseuosmia_pusilla2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/0744/Alseuosmia_pusilla3.JPG
   width: 600
   height: 450
   caption: The red juicy fruit.
+  path: "/image_files/0000/0007/0744/Alseuosmia_pusilla3.JPG"
 permalink: plants/trees/trees-native/alseuosmia_pusilla.html
 layout: page
 title: Alseuosmia pusilla (Small Toropapa)

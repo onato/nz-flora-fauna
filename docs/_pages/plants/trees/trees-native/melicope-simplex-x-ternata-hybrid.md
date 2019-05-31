@@ -26,16 +26,20 @@ images:
   width: 1199
   height: 1600
   caption: The photos below are of a tree growing at Otari Wilton Bush Reserve.
+  path: "/image_files/0000/0005/8259/Melicope_simplex_x_ternata-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8269/Melicope_simplex_x_ternata.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0005/8269/Melicope_simplex_x_ternata.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8264/Melicope_simplex_x_ternata-003.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0005/8264/Melicope_simplex_x_ternata-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8254/Melicope_simplex_x_ternata-001.JPG
   width: 1024
   height: 770
   caption: Leaf shapes.
+  path: "/image_files/0000/0005/8254/Melicope_simplex_x_ternata-001.JPG"
 permalink: plants/trees/trees-native/melicope_simplex_x_ternata.html
 layout: page
 title: Melicope simplex x ternata (Hybrid)

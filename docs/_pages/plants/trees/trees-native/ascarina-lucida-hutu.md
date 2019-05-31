@@ -20,22 +20,27 @@ images:
   width: 1200
   height: 901
   caption: A young shrub
+  path: "/image_files/0000/0006/4984/Ascarina_lucida__Hutu-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5754/Ascarina_lucida__Hutu.JPG
   width: 1024
   height: 769
   caption: A mature leaf
+  path: "/image_files/0000/0006/5754/Ascarina_lucida__Hutu.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4989/Ascarina_lucida__Hutu-004.JPG
   width: 1024
   height: 769
   caption: A new leaf.
+  path: "/image_files/0000/0006/4989/Ascarina_lucida__Hutu-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5749/Ascarina_lucida__Hutu-001.JPG
   width: 1024
   height: 768
   caption: The underside of a mature leaf.
+  path: "/image_files/0000/0006/5749/Ascarina_lucida__Hutu-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4999/Ascarina_lucida__Hutu-007.JPG
   width: 1200
   height: 900
   caption: The stems.of Ascarina lucida
+  path: "/image_files/0000/0006/4999/Ascarina_lucida__Hutu-007.JPG"
 permalink: plants/trees/trees-native/ascarina_lucida_var_lucida.html
 layout: page
 title: Ascarina lucida (Hutu)

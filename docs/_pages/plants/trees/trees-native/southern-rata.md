@@ -24,45 +24,56 @@ images:
   width: 1024
   height: 686
   caption: Southern rata in flower March Arthurs Pass, South Island.
+  path: "/image_files/0000/0007/2229/Metrosideros_umbellata__Southern_Rata_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2224/Metrosideros_umbellata__Southern_Rata_-001.JPG
   width: 1024
   height: 617
+  path: "/image_files/0000/0007/2224/Metrosideros_umbellata__Southern_Rata_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3629/Southern_Rata__Metrosideros_umbellata__.JPG
   width: 1024
   height: 768
   caption: A tree photographed March on the Denniston Plateau.
+  path: "/image_files/0000/0007/3629/Southern_Rata__Metrosideros_umbellata__.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2219/Metrosideros_umbellata__Southern_Rata__.JPG
   width: 1200
   height: 900
   caption: New red leaves on Metrosideros umbellata.
+  path: "/image_files/0000/0007/2219/Metrosideros_umbellata__Southern_Rata__.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/7628/Metrosideros_umbellata__southern_rata_1-7.JPG
   width: 1024
   height: 683
   caption: Southern rata flowers.
+  path: "/image_files/0000/0000/7628/Metrosideros_umbellata__southern_rata_1-7.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/7633/Metrosideros_umbellata__southern_rata_1-8.JPG
   width: 1024
   height: 683
+  path: "/image_files/0000/0000/7633/Metrosideros_umbellata__southern_rata_1-8.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2214/Metrosideros_umbellata__Southern_Rata__-002.JPG
   width: 1200
   height: 901
   caption: New leaves changing to green.
+  path: "/image_files/0000/0007/2214/Metrosideros_umbellata__Southern_Rata__-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2209/Metrosideros_umbellata__Southern_Rata__-003.JPG
   width: 1200
   height: 901
   caption: The underside of the above leaves still showing a red colour. Note the
     conspicuous oil glands and the midrib the only visible vein.
+  path: "/image_files/0000/0007/2209/Metrosideros_umbellata__Southern_Rata__-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3639/Southern_Rata__Metrosideros_umbellata__-002.JPG
   width: 800
   height: 600
   caption: A mature leaf.
+  path: "/image_files/0000/0007/3639/Southern_Rata__Metrosideros_umbellata__-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3644/Southern_Rata__Metrosideros_umbellata__-003.JPG
   width: 800
   height: 600
   caption: The underside of a mature leaf.
+  path: "/image_files/0000/0007/3644/Southern_Rata__Metrosideros_umbellata__-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/6703/Southern_rata_trunk.JPG
   width: 429
   height: 640
   caption: Southern rata trunk.
+  path: "/image_files/0000/0000/6703/Southern_rata_trunk.JPG"
 permalink: plants/trees/trees-native/metrosideros_umbellata.html
 layout: page
 title: Metrosideros umbellata (Southern Rata)

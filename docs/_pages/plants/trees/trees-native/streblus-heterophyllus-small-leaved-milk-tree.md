@@ -31,28 +31,35 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/9349/Streblus_heterophyllus.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0005/9349/Streblus_heterophyllus.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/9344/Streblus_heterophyllus-009.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0005/9344/Streblus_heterophyllus-009.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/9334/Streblus_heterophyllus-001.JPG
   width: 800
   height: 602
   caption: The top surface of a leaf.
+  path: "/image_files/0000/0005/9334/Streblus_heterophyllus-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/9339/Streblus_heterophyllus-002.JPG
   width: 1024
   height: 769
   caption: The veined underside of a leaf.
+  path: "/image_files/0000/0005/9339/Streblus_heterophyllus-002.JPG"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Streblus_heterophyllus_11.JPG
   width: 600
   height: 450
   caption: Small-leaved milk tree seedling with its fiddle-shaped juvenile foliage.
+  path: "/uploads/images/Te%20Henui/Trees/Streblus_heterophyllus_11.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/9279/Eriophyes_paratrophis_on_Streblus_heterophyllus_.JPG
   width: 1600
   height: 1200
   caption: A Witches Broom on Streblus heterophyllus.
+  path: "/image_files/0000/0005/9279/Eriophyes_paratrophis_on_Streblus_heterophyllus_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/9284/Eriophyes_paratrophis_on_Streblus_heterophyllus_-001.JPG
   width: 1024
   height: 767
+  path: "/image_files/0000/0005/9284/Eriophyes_paratrophis_on_Streblus_heterophyllus_-001.JPG"
 permalink: plants/trees/trees-native/streblus_heterophyllus.html
 layout: page
 title: Streblus heterophyllus (Small-leaved milk tree)

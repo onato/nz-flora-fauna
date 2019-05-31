@@ -24,44 +24,54 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8964/Meryta_sinclairii__Puka__Pukanui-009.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0003/8964/Meryta_sinclairii__Puka__Pukanui-009.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8974/Meryta_sinclairii__male_inflorescence.JPG
   width: 1200
   height: 902
   caption: A many-branched male inflorescence.
+  path: "/image_files/0000/0003/8974/Meryta_sinclairii__male_inflorescence.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8949/Meryta_sinclairii__Puka__Pukanui.JPG
   width: 1200
   height: 903
   caption: Leaves and terminal head of green fruit. Photographed New Plymouth 20th
     August.
+  path: "/image_files/0000/0003/8949/Meryta_sinclairii__Puka__Pukanui.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1488/1-Puka_berriers.jpg
   width: 600
   height: 450
   caption: The dark black ripe berries. February.
+  path: "/image_files/0000/0013/1488/1-Puka_berriers.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8599/Meryta_sinclairii__Puka-001.JPG
   width: 1024
   height: 769
   caption: The branching trunk.
+  path: "/image_files/0000/0003/8599/Meryta_sinclairii__Puka-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8954/Meryta_sinclairii__Puka__Pukanui-001.JPG
   width: 1200
   height: 900
   caption: The top surface of a leaf.
+  path: "/image_files/0000/0003/8954/Meryta_sinclairii__Puka__Pukanui-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8959/Meryta_sinclairii__Puka__Pukanui-003.JPG
   width: 1024
   height: 770
   caption: The underside of a leaf.
+  path: "/image_files/0000/0003/8959/Meryta_sinclairii__Puka__Pukanui-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1849/Mertyta_sinclairii__Puka.JPG
   width: 1024
   height: 767
   caption: This Puka tree by the Te Henui walkway has frost damage to its leaves.
     (mid-August frost)
+  path: "/image_files/0000/0002/1849/Mertyta_sinclairii__Puka.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3383/Meryta_sinclarri_Cream_delight-001.JPG
   width: 1024
   height: 770
   caption: A cultivar  Meryta sinclarri 'Cream Delight'.
+  path: "/image_files/0000/0008/3383/Meryta_sinclarri_Cream_delight-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/4178/Meryta_sinclairi__Moonlight_.JPG
   width: 749
   height: 1200
   caption: A cultivar Meryta sinclairi 'Moonlight'.
+  path: "/image_files/0000/0008/4178/Meryta_sinclairi__Moonlight_.JPG"
 permalink: plants/trees/trees-native/meryta_sinclairii.html
 layout: page
 title: Meryta sinclairii (Puka)

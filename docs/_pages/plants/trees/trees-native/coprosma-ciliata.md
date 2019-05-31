@@ -25,12 +25,15 @@ images:
   height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/2124/Coprosma_ciliata-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2129/Coprosma_ciliata-003.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0003/2129/Coprosma_ciliata-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2139/Coprosma_ciliata-006.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0003/2139/Coprosma_ciliata-006.JPG"
 permalink: plants/trees/trees-native/coprosma_ciliata.html
 layout: page
 title: Coprosma ciliata

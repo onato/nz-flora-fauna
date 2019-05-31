@@ -23,15 +23,19 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2414/Olearia_nummularifolia_var_cymbifolia-001.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0003/2414/Olearia_nummularifolia_var_cymbifolia-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2419/Olearia_nummularifolia_var_cymbifolia-002.JPG
   width: 1024
   height: 771
+  path: "/image_files/0000/0003/2419/Olearia_nummularifolia_var_cymbifolia-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2698/Olearia_cymbifolia.JPG
   width: 800
   height: 599
+  path: "/image_files/0000/0012/2698/Olearia_cymbifolia.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4059/Olearia_nummulariifolia_var._cymbifolia-003.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0006/4059/Olearia_nummulariifolia_var._cymbifolia-003.JPG"
 permalink: plants/trees/trees-native/olearia_cymbifolia.html
 layout: page
 title: Olearia cymbifolia (Hard Leaved Tree Daisy)

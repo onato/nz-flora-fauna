@@ -24,6 +24,7 @@ images:
   height: 710
   caption: Metrosideros kermadacensis with waxyeye. Photographed from location Lat
     39 3'42.378" S Long 174 5'40.418 E Datum WGS 84
+  path: "/image_files/0000/0000/3968/Kermadec_Pohutokawa_23-10-2009_..JPG"
 permalink: plants/trees/trees-native/metrosideros_kermadecensis.html
 layout: page
 title: Metrosideros kermadecensis (Kermadec Pohutukawa)

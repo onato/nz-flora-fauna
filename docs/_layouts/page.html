@@ -7,17 +7,16 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+  <div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
     {% for image in page.images %}
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="{{ image.src }}" itemprop="contentUrl" data-size="{{ image.width }}x{{ image.height }}">
-          <img src="{{ image.src }}" itemprop="thumbnail" alt="{{ image.caption | strip_html}}" />
+          <img src="http://www.onato.com/nz-flora-fauna-thumbnails{{ image.path }}" itemprop="thumbnail" alt="{{ image.caption | strip_html}}" />
       </a>
       <figcaption itemprop="caption description">{{ image.caption | markdownify }}</figcaption>
     </figure>
     {% endfor %}
   </div>
-  <br/>
   <script src="{{ "/assets/javascript/gallery.js" | relative_url }}"></script> 
 
 
@@ -30,25 +29,42 @@ layout: default
 
 
 
-  <ul id="attributes">
-  {% for attr in page.attributes %}
-  
-  <li>
-    <strong>{{ attr[0] | capitalize }}</strong>: 
 
-    {% if attr[1].first %}
-      <ul>
-        {% for sub_attr in attr[1] %}
-          <li>{{ sub_attr }}</li>
-        {% endfor %}
-      </ul>
-    {% else %}
-      {{ attr[1] }}
-    {% endif %}
-  </li>
-  
-  {% endfor %}
-  </ul>
+  <div class="row">
+      <div class="column">
+          <ul id="attributes">
+              {% for attr in page.attributes %}
+              
+              <li>
+                <strong>{{ attr[0] | capitalize }}</strong>: 
+            
+                {% if attr[1].first %}
+                  <ul>
+                    {% for sub_attr in attr[1] %}
+                      <li>{{ sub_attr }}</li>
+                    {% endfor %}
+                  </ul>
+                {% else %}
+                  {{ attr[1] }}
+                {% endif %}
+              </li>
+              
+              {% endfor %}
+          </ul>
+      </div>
+
+      <div class="column">
+          <ul id="relatives">
+            {% assign pages = site.html_pages | where_exp:'doc','doc.sitemap != false' | where_exp:'doc','doc.url != "/404.html"' | sort: "title" %}
+            {% for subpage in pages %}
+              {% if subpage.attributes["genus"] == page.attributes["genus"] %}
+                {% if page.name == subpage.name %}<li class="active">{% else %}<li>{% endif %}
+                <a href="{{ subpage.url | absolute_url }}">{{ subpage.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+      </div>
+  </div>
 
   <p>
     {% if page.wikipedia.first %}

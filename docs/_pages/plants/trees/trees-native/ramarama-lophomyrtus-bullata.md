@@ -25,31 +25,39 @@ images:
   height: 1600
   caption: The photo below photographed at Te Kainga Marire Gardens, Spencer Place,
     New Plymouth.
+  path: "/image_files/0000/0003/9209/Lophomyrtus_bullata__Ramarama__Bubble_leaf.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7564/lophomyrtus_bullata__Ramarama-005.JPG
   width: 1200
   height: 804
+  path: "/image_files/0000/0002/7564/lophomyrtus_bullata__Ramarama-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7549/lophomyrtus_bullata__Ramarama.JPG
   width: 900
   height: 1200
   caption: A young tree.
+  path: "/image_files/0000/0002/7549/lophomyrtus_bullata__Ramarama.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2554/lophomyrtus_bullata__Ramarama-002.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0005/2554/lophomyrtus_bullata__Ramarama-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9899/Lophomyrtus_bullata__Ramarama__1_.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0004/9899/Lophomyrtus_bullata__Ramarama__1_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/8358/Lophomyrtus_bullata__Ramarama_.JPG
   width: 1200
   height: 901
   caption: Plant flowering December.
+  path: "/image_files/0000/0009/8358/Lophomyrtus_bullata__Ramarama_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2734/Lophomyrtus_bullata___Ramarama-001.JPG
   width: 640
   height: 481
   caption: Flowers of Lophomyrtus bullata with a central style and abundant stamens.
+  path: "/image_files/0000/0005/2734/Lophomyrtus_bullata___Ramarama-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/9904/Lophomyrtus_bullata__Ramarama.JPG
   width: 1200
   height: 901
   caption: An older flower.
+  path: "/image_files/0000/0004/9904/Lophomyrtus_bullata__Ramarama.JPG"
 permalink: plants/trees/trees-native/lophomyrtus_bullata.html
 layout: page
 title: Lophomyrtus bullata (Ramarama)

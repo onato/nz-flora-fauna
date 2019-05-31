@@ -22,21 +22,25 @@ images:
   height: 800
   caption: Photographed at Otari Native Botanic Garden and Wilton''s Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0002/2229/coprosma_propinqua__Mingimingi-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2239/coprosma_propinqua__Mingimingi-7.JPG
   width: 800
   height: 601
   caption: Photographed at Otari Native Botanic Garden and Wilton''s Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0002/2239/coprosma_propinqua__Mingimingi-7.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2244/coprosma_propinqua__Mingimingi-8.JPG
   width: 800
   height: 601
   caption: Photographed at Otari Native Botanic Garden and Wilton''s Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0002/2244/coprosma_propinqua__Mingimingi-8.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2234/coprosma_propinqua__Mingimingi-3.JPG
   width: 800
   height: 600
   caption: Photographed at Otari Native Botanic Garden and Wilton''s Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0002/2234/coprosma_propinqua__Mingimingi-3.JPG"
 permalink: plants/trees/trees-native/coprosma_propinqua.html
 layout: page
 title: Coprosma propinqua

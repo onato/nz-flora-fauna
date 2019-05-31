@@ -23,34 +23,43 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/6863/Sand_Coprosma__Coprosma_acerosa__.jpg
   width: 1200
   height: 900
+  path: "/image_files/0000/0010/6863/Sand_Coprosma__Coprosma_acerosa__.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/6853/Sand_Coprosma__Coprosma_acerosa__2.jpg
   width: 1200
   height: 900
+  path: "/image_files/0000/0010/6853/Sand_Coprosma__Coprosma_acerosa__2.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/9253/1-Coprosma_acerosa__Sand_coprosma.JPG
   width: 2000
   height: 1500
   caption: A specimen growing on the Whangamata beach June
+  path: "/image_files/0000/0011/9253/1-Coprosma_acerosa__Sand_coprosma.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/9258/1-Coprosma_acerosa__Sand_coprosma-001.JPG
   width: 2000
   height: 1501
   caption: Whangamata beach June.
+  path: "/image_files/0000/0011/9258/1-Coprosma_acerosa__Sand_coprosma-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4984/Coprosma_acerosa__Sand_coprosma-006.JPG
   width: 1600
   height: 1200
   caption: A specimen growing Otari Wilton Reserve Wellington.
+  path: "/image_files/0000/0007/4984/Coprosma_acerosa__Sand_coprosma-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4989/Coprosma_acerosa__Sand_coprosma-012.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0007/4989/Coprosma_acerosa__Sand_coprosma-012.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4994/Coprosma_acerosa__Sand_coprosma-013.JPG
   width: 1024
   height: 768
   caption: NB. dark line down the middle on the underside of the leaves.
+  path: "/image_files/0000/0007/4994/Coprosma_acerosa__Sand_coprosma-013.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6574/Coprosma_acerosa__Sand_coprosma__-001.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0007/6574/Coprosma_acerosa__Sand_coprosma__-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6569/Coprosma_acerosa__Sand_coprosma__.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0007/6569/Coprosma_acerosa__Sand_coprosma__.JPG"
 permalink: plants/trees/trees-native/coprosma_acerosa.html
 layout: page
 title: Coprosma acerosa (Sand coprosma)

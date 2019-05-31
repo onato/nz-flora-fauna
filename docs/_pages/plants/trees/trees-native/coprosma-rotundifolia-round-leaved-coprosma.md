@@ -23,18 +23,23 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4954/Coprosma_rotundifolia__Round_leaved_coprosma_-003.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0007/4954/Coprosma_rotundifolia__Round_leaved_coprosma_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4939/Coprosma_rotundifolia-001.JPG
   width: 600
   height: 450
+  path: "/image_files/0000/0007/4939/Coprosma_rotundifolia-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4959/Coprosma_rotundifolia__Round_leaved_coprosma_-001.JPG
   width: 600
   height: 451
+  path: "/image_files/0000/0007/4959/Coprosma_rotundifolia__Round_leaved_coprosma_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4944/Coprosma_rotundifolia-002.JPG
   width: 600
   height: 450
+  path: "/image_files/0000/0007/4944/Coprosma_rotundifolia-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4929/Coprosma_rotundifolia_800.jpg
   width: 600
   height: 432
+  path: "/image_files/0000/0007/4929/Coprosma_rotundifolia_800.jpg"
 permalink: plants/trees/trees-native/coprosma_rotundifolia.html
 layout: page
 title: Coprosma rotundifolia (Round leaved coprosma)

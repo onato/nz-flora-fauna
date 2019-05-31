@@ -25,30 +25,38 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/9708/Olearia_ilicifolia__Mountain_holly_.JPG
   width: 1200
   height: 902
+  path: "/image_files/0000/0009/9708/Olearia_ilicifolia__Mountain_holly_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/9713/Olearia_ilicifolia__Mountain_holly_-001.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0009/9713/Olearia_ilicifolia__Mountain_holly_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0409/Olearia_ilicifolia__Mountain_holly_.JPG
   width: 1600
   height: 1200
   caption: Photographed at the North Egmont DOC parking area. (February)
+  path: "/image_files/0000/0005/0409/Olearia_ilicifolia__Mountain_holly_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0404/Olearia_ilicifolia__Mountain_holly_-005.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0005/0404/Olearia_ilicifolia__Mountain_holly_-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5354/Olearia_ilicifolia__Hakeke.Mountain_holly.JPG
   width: 1200
   height: 901
+  path: "/image_files/0000/0003/5354/Olearia_ilicifolia__Hakeke.Mountain_holly.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5359/Olearia_ilicifolia__Hakeke.Mountain_holly-001.JPG
   width: 800
   height: 599
+  path: "/image_files/0000/0003/5359/Olearia_ilicifolia__Hakeke.Mountain_holly-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/9718/Olearia_ilicifolia__Mountain_holly_-002.JPG
   width: 1600
   height: 1202
   caption: The top surface of the leaves.
+  path: "/image_files/0000/0009/9718/Olearia_ilicifolia__Mountain_holly_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5374/Olearia_ilicifolia__Hakeke.Mountain_holly.-3.JPG
   width: 1024
   height: 769
   caption: The undersurface of a leaf.
+  path: "/image_files/0000/0003/5374/Olearia_ilicifolia__Hakeke.Mountain_holly.-3.JPG"
 permalink: plants/trees/trees-native/olearia_ilicifolia.html
 layout: page
 title: Olearia ilicifolia (Mountain holly)

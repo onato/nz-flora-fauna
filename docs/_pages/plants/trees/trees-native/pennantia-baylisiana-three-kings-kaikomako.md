@@ -24,25 +24,31 @@ images:
   height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0004/7019/Pennantia_baylisiana_Three_Kings_Kaikomako_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7064/Pennantia_baylisiana___Three_Kings_Kaikomako_.JPG
   width: 900
   height: 1200
+  path: "/image_files/0000/0003/7064/Pennantia_baylisiana___Three_Kings_Kaikomako_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7009/Pennantia_baylisiana-066.jpg
   width: 1200
   height: 900
   caption: The multi trunks of Pennantia baylisiana.
+  path: "/image_files/0000/0004/7009/Pennantia_baylisiana-066.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7074/Pennantia_baylisiana___Three_Kings_Kaikomako_-003.JPG
   width: 1200
   height: 900
   caption: These leaves which are in the sun are strongly rolled under at the margins.
+  path: "/image_files/0000/0003/7074/Pennantia_baylisiana___Three_Kings_Kaikomako_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7014/Pennantia_baylisiana_Three_Kings_Kaikomako_-002.JPG
   width: 1024
   height: 768
   caption: The surface of the leaf.
+  path: "/image_files/0000/0004/7014/Pennantia_baylisiana_Three_Kings_Kaikomako_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7069/Pennantia_baylisiana___Three_Kings_Kaikomako_-002.JPG
   width: 1200
   height: 902
   caption: The undersurface of a leaf.
+  path: "/image_files/0000/0003/7069/Pennantia_baylisiana___Three_Kings_Kaikomako_-002.JPG"
 permalink: plants/trees/trees-native/pennantia_baylisiana.html
 layout: page
 title: Pennantia baylisiana (Three Kings Kaikomako)

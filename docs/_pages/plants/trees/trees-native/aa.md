@@ -24,11 +24,13 @@ images:
   height: 768
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington. 
+  path: "/image_files/0000/0003/2094/Coprosma_atropurpurea-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2089/Coprosma_atropurpurea.JPG
   width: 600
   height: 451
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/2089/Coprosma_atropurpurea.JPG"
 permalink: plants/trees/trees-native/coprosma_atropurpurea.html
 layout: page
 title: Coprosma atropurpurea

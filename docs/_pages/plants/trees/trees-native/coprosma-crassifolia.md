@@ -22,19 +22,24 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2538/Coprosma_crassifolia.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0008/2538/Coprosma_crassifolia.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2064/Coprosma__crassifolia-001.JPG
   width: 900
   height: 1200
+  path: "/image_files/0000/0003/2064/Coprosma__crassifolia-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4319/Coprosma_crassifolia.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0005/4319/Coprosma_crassifolia.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4314/Coprosma_crassifolia-004.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0005/4314/Coprosma_crassifolia-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4304/Coprosma_crassifolia-001.JPG
   width: 800
   height: 600
   caption: Ther branchlets are hairy when young.
+  path: "/image_files/0000/0005/4304/Coprosma_crassifolia-001.JPG"
 permalink: plants/trees/trees-native/coprosma_crassifolia.html
 layout: page
 title: Coprosma crassifolia

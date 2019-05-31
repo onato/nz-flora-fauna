@@ -20,15 +20,19 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4994/Corynocarpus__laevigatus__Picturata___2_.JPG
   width: 1600
   height: 1203
+  path: "/image_files/0000/0004/4994/Corynocarpus__laevigatus__Picturata___2_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4999/Corynocarpus__laevigatus__Picturata_.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0004/4999/Corynocarpus__laevigatus__Picturata_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4989/Corynocarpus__laevigatus__Picturata___1_.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0004/4989/Corynocarpus__laevigatus__Picturata___1_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5004/Corynocarpus__laevigatus__Picturata_._.__230_.JPG
   width: 600
   height: 453
+  path: "/image_files/0000/0004/5004/Corynocarpus__laevigatus__Picturata_._.__230_.JPG"
 permalink: plants/trees/trees-native/corynocarpus_laevigatus_"picturata".html
 layout: page
 title: Corynocarpus laevigatus "Picturata"

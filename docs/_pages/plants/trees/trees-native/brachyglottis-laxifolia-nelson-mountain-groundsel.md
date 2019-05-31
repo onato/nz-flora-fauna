@@ -25,25 +25,32 @@ images:
   width: 1600
   height: 1200
   caption: Photographed at Otari Wilton Reserve, Wellington.
+  path: "/image_files/0000/0005/1659/Brachyglottis_laxifolia._Nelson_Mountain_Groundsel-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1669/Brachyglottis_laxifolia._Nelson_Mountain_Groundsel-003.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0005/1669/Brachyglottis_laxifolia._Nelson_Mountain_Groundsel-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1664/Brachyglottis_laxifolia._Nelson_Mountain_Groundsel-002.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0005/1664/Brachyglottis_laxifolia._Nelson_Mountain_Groundsel-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1674/Brachyglottis_laxifolia._Nelson_Mountain_Groundsel-004.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0005/1674/Brachyglottis_laxifolia._Nelson_Mountain_Groundsel-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1679/Brachyglottis_laxifolia._Nelson_Mountain_Groundsel-005.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0005/1679/Brachyglottis_laxifolia._Nelson_Mountain_Groundsel-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1689/Brachyglottis_laxifolia._Nelson_Mountain_Groundsel-006.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0005/1689/Brachyglottis_laxifolia._Nelson_Mountain_Groundsel-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1684/Brachyglottis_laxifolia._Nelson_Mountain_Groundsel-007.JPG
   width: 800
   height: 601
   caption: The underside of a leaf.
+  path: "/image_files/0000/0005/1684/Brachyglottis_laxifolia._Nelson_Mountain_Groundsel-007.JPG"
 permalink: plants/trees/trees-native/brachyglottis_laxifolia.html
 layout: page
 title: Brachyglottis laxifolia (Nelson Mountain Groundsel)

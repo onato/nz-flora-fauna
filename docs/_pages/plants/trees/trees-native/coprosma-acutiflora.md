@@ -23,9 +23,11 @@ images:
   height: 800
   caption: Photographed at Otari Native Botanic Garden and Wilton''s Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/2119/Coprosma_acutiflora-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2114/Coprosma_acutiflora-002.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0003/2114/Coprosma_acutiflora-002.JPG"
 permalink: plants/trees/trees-native/coprosma_acutiflora.html
 layout: page
 title: Coprosma acutiflora

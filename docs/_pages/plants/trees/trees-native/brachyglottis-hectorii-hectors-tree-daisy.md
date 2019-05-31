@@ -28,21 +28,26 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0649/Brachyglottis_hectorii__Hectors_Tree_Daisy_.JPG
   width: 1200
   height: 901
+  path: "/image_files/0000/0005/0649/Brachyglottis_hectorii__Hectors_Tree_Daisy_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0639/Brachyglottis_hectorii__Hectors_Tree_Daisy_-003.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0005/0639/Brachyglottis_hectorii__Hectors_Tree_Daisy_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0629/Brachyglottis_hectorii__Hectors_Tree_Daisy_-001.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0005/0629/Brachyglottis_hectorii__Hectors_Tree_Daisy_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0634/Brachyglottis_hectorii__Hectors_Tree_Daisy_-002.JPG
   width: 1024
   height: 768
   caption: The underside of a leaf with fine tomentum.
+  path: "/image_files/0000/0005/0634/Brachyglottis_hectorii__Hectors_Tree_Daisy_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0644/Brachyglottis_hectorii__Hectors_Tree_Daisy_-004.JPG
   width: 1024
   height: 768
   caption: Photo of seed heads. Each seed is attached to long hairs which act as a
     parachute.
+  path: "/image_files/0000/0005/0644/Brachyglottis_hectorii__Hectors_Tree_Daisy_-004.JPG"
 permalink: plants/trees/trees-native/brachyglottis_hectorii.html
 layout: page
 title: Brachyglottis hectorii (Hectors Tree Daisy)

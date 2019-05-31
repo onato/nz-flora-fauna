@@ -29,6 +29,7 @@ images:
   width: 800
   height: 598
   caption: Photographed February in Abel Tasman Park.
+  path: "/image_files/0000/0010/4428/Pimelea_gnidia___Tasman_Bay.jpg"
 permalink: plants/trees/trees-native/pimelea_gnidia.html
 layout: page
 title: Pimelea gnidia (Pimelea)

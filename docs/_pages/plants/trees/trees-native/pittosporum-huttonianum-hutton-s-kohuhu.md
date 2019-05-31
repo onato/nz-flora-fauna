@@ -4,6 +4,7 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pittosporum-huttonianum-hutton-s-kohuhu.html
+nzpcn: 157
 attributes:
   kingdom:
   - Plantae
@@ -26,17 +27,21 @@ images:
   height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.  
+  path: "/image_files/0000/0003/6154/1-Pittosporum_huttonianum__Hutton_s_Kohuhu.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6174/1-Pittosporum_huttonianum__Hutton_s_Kohuhu-003.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0003/6174/1-Pittosporum_huttonianum__Hutton_s_Kohuhu-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6179/1-Pittosporum_huttonianum__Hutton_s_Kohuhu-002.JPG
   width: 900
   height: 1200
   caption: The surface of a leaf.
+  path: "/image_files/0000/0003/6179/1-Pittosporum_huttonianum__Hutton_s_Kohuhu-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6164/1-Pittosporum_huttonianum__Hutton_s_Kohuhu-001.JPG
   width: 1024
   height: 770
   caption: The undersurface of a leaf.
+  path: "/image_files/0000/0003/6164/1-Pittosporum_huttonianum__Hutton_s_Kohuhu-001.JPG"
 permalink: plants/trees/trees-native/pittosporum_huttonianum.html
 layout: page
 title: Pittosporum huttonianum (Hutton's kohuhu)
@@ -47,4 +52,3 @@ Pittosporum huttonianum is a small tree with spreading branches forming an open 
 The mature leaves are large and leathery are up to 12 cm long and 5 cm wide. The young new growth branchlets, leaves, some flower parts and buds are at first covered with floccose white, white-grey to faintly fulvous tomentum with pale hairs. The base of the leave's midribs is sometimes reddish.
 Flowering occurs October - November and they are 1cm in diameter and are a very dark red. The 1.5- 2 cm fruit capsules are present throughout the year. 
 Taxonomic Notes from NZPCN. "In parts of its range, this species appears to grade with P. colensoi and P. tenuifolium. Many botanists informally regard P. huttonianum as a subspecies of P. tenuifolium. Further research into its status, perhaps by using an appropriate range of molecular markers might clarify its status. NZPCN retain the species because for most of its range it is a well-marked species and in that range, it is often sympatric with P. tenuifolium." 
-For more information, visit: <a href="http://nzpcn.org.nz/flora_details.asp?ID=1136">http://nzpcn.org.nz/flora_details.asp?ID=1136</a>

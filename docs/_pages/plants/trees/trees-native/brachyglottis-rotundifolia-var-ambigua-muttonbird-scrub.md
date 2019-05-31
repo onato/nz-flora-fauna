@@ -25,26 +25,32 @@ images:
   width: 1600
   height: 1200
   caption: A branch tip with new growth.
+  path: "/image_files/0000/0012/6483/Brachyglottis_rotundifolia_var._ambigua-004.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/6488/Brachyglottis_rotundifolia_var._ambigua-005.jpg
   width: 1600
   height: 1200
   caption: The much branched terminal clusters of flowers
+  path: "/image_files/0000/0012/6488/Brachyglottis_rotundifolia_var._ambigua-005.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/6503/Brachyglottis_rotundifolia_var._ambigua-003.JPG
   width: 800
   height: 606
   caption: The flowers 
+  path: "/image_files/0000/0012/6503/Brachyglottis_rotundifolia_var._ambigua-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/6508/Brachyglottis_rotundifolia_var._ambigua-005.JPG
   width: 800
   height: 602
   caption: A juvenile leaf with its hairy upper surface.
+  path: "/image_files/0000/0012/6508/Brachyglottis_rotundifolia_var._ambigua-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/6493/Brachyglottis_rotundifolia_var._ambigua-006.jpg
   width: 1200
   height: 901
   caption: A mature leaf.
+  path: "/image_files/0000/0012/6493/Brachyglottis_rotundifolia_var._ambigua-006.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/6498/Brachyglottis_rotundifolia_var._ambigua-007.jpg
   width: 1200
   height: 902
   caption: The underside of a leaf
+  path: "/image_files/0000/0012/6498/Brachyglottis_rotundifolia_var._ambigua-007.jpg"
 permalink: plants/trees/trees-native/brachyglottis_rotundifolia_var_ambigua.html
 layout: page
 title: Brachyglottis rotundifolia var. ambigua (Muttonbird scrub)

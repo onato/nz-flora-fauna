@@ -23,44 +23,56 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1654/Fuchsia_excorticata__Tree_Fuchsia_.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0007/1654/Fuchsia_excorticata__Tree_Fuchsia_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1634/Fuchsia_excorticata__Tree_Fuchsia_-002.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0007/1634/Fuchsia_excorticata__Tree_Fuchsia_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5329/Fuchsia_excorticata__Tree_Fuchsia__.JPG
   width: 1200
   height: 903
   caption: Flowers of the tree fuschia.
+  path: "/image_files/0000/0006/5329/Fuchsia_excorticata__Tree_Fuchsia__.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/4059/Fuchsia_excorticata__Tree_fuchsia__New_Zealand_Fuchsia-9.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0002/4059/Fuchsia_excorticata__Tree_fuchsia__New_Zealand_Fuchsia-9.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/4069/Fuchsia_excorticata__Tree_fuchsia__New_Zealand_Fuchsia-10.JPG
   width: 1000
   height: 749
+  path: "/image_files/0000/0002/4069/Fuchsia_excorticata__Tree_fuchsia__New_Zealand_Fuchsia-10.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/4074/Fuchsia_excorticata__Tree_fuchsia__New_Zealand_Fuchsia-11.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0002/4074/Fuchsia_excorticata__Tree_fuchsia__New_Zealand_Fuchsia-11.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2029/Fuchsia_excorticate_Tree_Fuchsia-001.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0006/2029/Fuchsia_excorticate_Tree_Fuchsia-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1689/Fuchsia_excorticata__Tree_fuchsia-001.JPG
   width: 1600
   height: 1202
   caption: Leaves in a dry season.
+  path: "/image_files/0000/0006/1689/Fuchsia_excorticata__Tree_fuchsia-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1639/Fuchsia_excorticata__Tree_Fuchsia_-003.JPG
   width: 800
   height: 601
   caption: The top surface of a leaf.
+  path: "/image_files/0000/0007/1639/Fuchsia_excorticata__Tree_Fuchsia_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1644/Fuchsia_excorticata__Tree_Fuchsia_-004.JPG
   width: 800
   height: 600
   caption: The whitish underside of the leaves.
+  path: "/image_files/0000/0007/1644/Fuchsia_excorticata__Tree_Fuchsia_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/4054/Fuchsia_excorticata__Tree_fuchsia__New_Zealand_Fuchsia-8.JPG
   width: 800
   height: 1159
+  path: "/image_files/0000/0002/4054/Fuchsia_excorticata__Tree_fuchsia__New_Zealand_Fuchsia-8.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1649/Fuchsia_excorticata__Tree_Fuchsia_-005.JPG
   width: 1200
   height: 900
   caption: The red-barked trunks of Fuchsia excorticata.
+  path: "/image_files/0000/0007/1649/Fuchsia_excorticata__Tree_Fuchsia_-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1103/1-Fuchsia_excorticata__Tree_Fuchsia_..JPG
   width: 2500
   height: 1667
@@ -68,6 +80,7 @@ images:
     are formed as branches when weighed down by a high water content, snap off. The
     resulting hollows are utilised as nesting cavities by native birds in pest-free
     areas.
+  path: "/image_files/0000/0013/1103/1-Fuchsia_excorticata__Tree_Fuchsia_..JPG"
 permalink: plants/trees/trees-native/fuchsia_excorticata.html
 layout: page
 title: Fuchsia excorticata (Tree Fuchsia)

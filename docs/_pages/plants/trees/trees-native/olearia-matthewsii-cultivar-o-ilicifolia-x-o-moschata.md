@@ -23,13 +23,16 @@ images:
   height: 601
   caption: Photographed at <a href="http://www.tekaingamarire.co.nz/" target="_blank">Te
     Kainga Marire Gardens</a> at Spencer Place.
+  path: "/image_files/0000/0003/7989/Olearia_matthewsii__-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7994/Olearia_matthewsii__-002.JPG
   width: 768
   height: 1024
+  path: "/image_files/0000/0003/7994/Olearia_matthewsii__-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8009/Olearia_matthewsii__-004.JPG
   width: 800
   height: 601
   caption: The underside of a leaf.
+  path: "/image_files/0000/0003/8009/Olearia_matthewsii__-004.JPG"
 permalink: plants/trees/trees-native/olearia_matthewsii.html
 layout: page
 title: Olearia matthewsii (Cultivar O. ilicifolia x O. moschata)

@@ -29,12 +29,15 @@ images:
   width: 1600
   height: 1200
   caption: Sophora chathamica with new seed pods and new leaves.
+  path: "/image_files/0000/0013/4873/1-1-Sophora_chathamica_young_pods.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/4868/1-Sophora_chathamica.jpg
   width: 1200
   height: 901
+  path: "/image_files/0000/0013/4868/1-Sophora_chathamica.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/4858/1-Sophora_chathamica_underside.jpg
   width: 1200
   height: 900
+  path: "/image_files/0000/0013/4858/1-Sophora_chathamica_underside.jpg"
 permalink: plants/trees/trees-native/sophora_chathamica.html
 layout: page
 title: Sophora chathamica (Coastal kowhai)

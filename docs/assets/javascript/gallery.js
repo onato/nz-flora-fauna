@@ -40,7 +40,7 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 
             if(linkEl.children.length > 0) {
                 // <img> thumbnail element, retrieving thumbnail url
-                item.msrc = linkEl.children[0].getAttribute('src');
+                //item.msrc = linkEl.children[0].getAttribute('src');
             } 
 
             item.el = figureEl; // save link to element for getThumbBoundsFn
@@ -141,15 +141,17 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 
             // define gallery index (for URL)
             galleryUID: galleryElement.getAttribute('data-pswp-uid'),
+            showHideOpacity:true, 
+            getThumbBoundsFn:false
 
-            getThumbBoundsFn: function(index) {
-                // See Options -> getThumbBoundsFn section of documentation for more info
-                var thumbnail = items[index].el.getElementsByTagName('img')[0], // find thumbnail
-                    pageYScroll = window.pageYOffset || document.documentElement.scrollTop,
-                    rect = thumbnail.getBoundingClientRect(); 
+            // getThumbBoundsFn: function(index) {
+            //     // See Options -> getThumbBoundsFn section of documentation for more info
+            //     var thumbnail = items[index].el.getElementsByTagName('img')[0], // find thumbnail
+            //         pageYScroll = window.pageYOffset || document.documentElement.scrollTop,
+            //         rect = thumbnail.getBoundingClientRect(); 
 
-                return {x:rect.left, y:rect.top + pageYScroll, w:rect.width};
-            }
+            //     return {x:rect.left, y:rect.top + pageYScroll, w:rect.width};
+            // }
 
         };
 
@@ -202,4 +204,4 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 };
 
 // execute above function
-initPhotoSwipeFromDOM('.my-gallery');
+initPhotoSwipeFromDOM('.gallery');

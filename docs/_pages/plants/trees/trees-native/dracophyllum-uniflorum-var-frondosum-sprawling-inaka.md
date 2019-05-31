@@ -22,9 +22,11 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/0573/Dracophyllum_uniflorum_var._frondosum._frondosum.JPG
   width: 900
   height: 1200
+  path: "/image_files/0000/0011/0573/Dracophyllum_uniflorum_var._frondosum._frondosum.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/5699/Dracophyllum_uniflorum_var_frondosum.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0007/5699/Dracophyllum_uniflorum_var_frondosum.JPG"
 permalink: plants/trees/trees-native/dracophyllum_uniflorum_var_frondosum.html
 layout: page
 title: Dracophyllum uniflorum var. frondosum (Sprawling inaka)

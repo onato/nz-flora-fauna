@@ -38,30 +38,37 @@ images:
   width: 793
   height: 1024
   caption: A photo of an adult tree at California Park, Upper Hutt, New Zealand.
+  path: "/uploads/images/Te%20Henui/Trees/Plagianthus_regius_11.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1013/1-Plagianthus_regius_female_flowers.JPG
   width: 600
   height: 452
   caption: Female flowers.
+  path: "/image_files/0000/0013/1013/1-Plagianthus_regius_female_flowers.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1003/1-Plagianthus_regius_mature_fruits.JPG
   width: 1600
   height: 1202
   caption: Mature fruits some have already dropped away, leaving sepals behind.
+  path: "/image_files/0000/0013/1003/1-Plagianthus_regius_mature_fruits.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7119/Juvenile_Plagianthus_regius__Ribbonwood-001.JPG
   width: 768
   height: 1024
   caption: Branches of a juvenile tree.
+  path: "/image_files/0000/0002/7119/Juvenile_Plagianthus_regius__Ribbonwood-001.JPG"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Plagianthus-regius-adult-foliage.jpg
   width: 1024
   height: 816
   caption: Adult leaves.
+  path: "/uploads/images/Te%20Henui/Trees/Plagianthus-regius-adult-foliage.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4639/Plagianthus_regius__Lowland_ribbonwood._Matatu._Matatu.JPG
   width: 767
   height: 1024
   caption: A juvenile leaf.
+  path: "/image_files/0000/0005/4639/Plagianthus_regius__Lowland_ribbonwood._Matatu._Matatu.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4634/Plagianthus_regius__Lowland_ribbonwood._Matatu._Matatu-001.JPG
   width: 767
   height: 1024
   caption: The underside of a juvenile leaf.
+  path: "/image_files/0000/0005/4634/Plagianthus_regius__Lowland_ribbonwood._Matatu._Matatu-001.JPG"
 permalink: plants/trees/trees-native/plagianthus_regius.html
 layout: page
 title: Plagianthus regius subsp. regius (Ribbonwood)

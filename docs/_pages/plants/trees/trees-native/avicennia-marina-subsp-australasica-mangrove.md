@@ -25,46 +25,57 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8884/Mangrove__Avicennia_marina.-001.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0006/8884/Mangrove__Avicennia_marina.-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8889/Mangrove__Avicennia_marina.-002.JPG
   width: 1600
   height: 1203
+  path: "/image_files/0000/0006/8889/Mangrove__Avicennia_marina.-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8894/Mangrove__Avicennia_marina.-005.JPG
   width: 902
   height: 1200
   caption: Numerous erect pneumatophores (aerial roots). This area is known as the
     pneumatophore zone.
+  path: "/image_files/0000/0006/8894/Mangrove__Avicennia_marina.-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8899/Mangrove__Avicennia_marina.-006.JPG
   width: 1200
   height: 1600
   caption: The leaves.
+  path: "/image_files/0000/0006/8899/Mangrove__Avicennia_marina.-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2329/Avicennia_marina_subsp._australasica__Mangrove_-008.JPG
   width: 1600
   height: 1203
   caption: Upper surface.
+  path: "/image_files/0000/0007/2329/Avicennia_marina_subsp._australasica__Mangrove_-008.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2319/Avicennia_marina_subsp._australasica__Mangrove_-005.JPG
   width: 1600
   height: 1200
   caption: The underside of a leaf.
+  path: "/image_files/0000/0007/2319/Avicennia_marina_subsp._australasica__Mangrove_-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2324/Avicennia_marina_subsp._australasica__Mangrove_-006.JPG
   width: 600
   height: 452
   caption: A closeup of a mangrove leaf showing the salt crystals excreted through
     the pores of the leaf. Salt is excreted on both surfaces.
+  path: "/image_files/0000/0007/2324/Avicennia_marina_subsp._australasica__Mangrove_-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2314/Avicennia_marina_subsp._australasica__Mangrove_-001.JPG
   width: 640
   height: 481
   caption: Mangrove flowers (March).
+  path: "/image_files/0000/0007/2314/Avicennia_marina_subsp._australasica__Mangrove_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/2334/Avicennia_marina_subsp._australasica__Mangrove_-002.JPG
   width: 600
   height: 450
   caption: The yellowish leathery fruit. These mangrove propagules.
+  path: "/image_files/0000/0007/2334/Avicennia_marina_subsp._australasica__Mangrove_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8874/Mangrove__Avicennia_marina.._australasica__-001.JPG
   width: 1600
   height: 1200
   caption: Mangrove propagules germinating.
+  path: "/image_files/0000/0006/8874/Mangrove__Avicennia_marina.._australasica__-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8879/Mangrove__Avicennia_marina.._australasica__.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0006/8879/Mangrove__Avicennia_marina.._australasica__.JPG"
 permalink: plants/trees/trees-native/avicennia_marina_subsp_australasica.html
 layout: page
 title: Avicennia marina subsp. australasica (Mangrove)

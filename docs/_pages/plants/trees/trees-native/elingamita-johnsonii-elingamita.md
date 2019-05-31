@@ -22,24 +22,30 @@ images:
   width: 899
   height: 1200
   caption: Photographed at Otari Wilton Bush Reserve.
+  path: "/image_files/0000/0004/5129/Elingamita_johnsonii_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5109/Elingamita_johnsonii_-001.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0004/5109/Elingamita_johnsonii_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5124/Elingamita_johnsonii_-004.JPG
   width: 1024
   height: 770
   caption: The fruit is green before turning red.
+  path: "/image_files/0000/0004/5124/Elingamita_johnsonii_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5119/Elingamita_johnsonii_-003.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0004/5119/Elingamita_johnsonii_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7544/Elingamita_johnsonii__-001.JPG
   width: 1200
   height: 901
   caption: A young plant with yellow-green growth.
+  path: "/image_files/0000/0003/7544/Elingamita_johnsonii__-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7549/Elingamita_johnsonii__-003.JPG
   width: 767
   height: 1024
   caption: Underside of young leaf.
+  path: "/image_files/0000/0003/7549/Elingamita_johnsonii__-003.JPG"
 permalink: plants/trees/trees-native/elingamita_johnsonii.html
 layout: page
 title: Elingamita johnsonii (Elingamita)

@@ -28,25 +28,31 @@ images:
   width: 1045
   height: 1600
   caption: Photographed at Pukekura Park, New Plymouth.
+  path: "/image_files/0000/0006/0969/Rhopalostylis_baueri-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/0964/Rhopalostylis_baueri-001.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0006/0964/Rhopalostylis_baueri-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/0974/Rhopalostylis_baueri-003.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0006/0974/Rhopalostylis_baueri-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2344/Rhopalostylis_baueri__Kemadec_Island_nikau.JPG
   width: 2000
   height: 1497
   caption: Photo late August of green and the ripe red fruits.
+  path: "/image_files/0000/0006/2344/Rhopalostylis_baueri__Kemadec_Island_nikau.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8739/Rhopalostylis_baueri__Kermadec_nikau__Raoul_Island_palm-001.JPG
   width: 1200
   height: 900
   caption: Photographs below of a juvenile palm were taken at Otari Native Botanic
     Garden and Wilton's Bush Reserve. Wellington.
+  path: "/image_files/0000/0003/8739/Rhopalostylis_baueri__Kermadec_nikau__Raoul_Island_palm-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8744/Rhopalostylis_baueri__Kermadec_nikau__Raoul_Island_palm-002.JPG
   width: 1200
   height: 900
   caption: Closeup of the fronds.
+  path: "/image_files/0000/0003/8744/Rhopalostylis_baueri__Kermadec_nikau__Raoul_Island_palm-002.JPG"
 permalink: plants/trees/trees-native/rhopalostylis_baueri.html
 layout: page
 title: Rhopalostylis baueri (Kermadec nikau)

@@ -23,42 +23,53 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/9379/Geniostoma_ligustrifolium___Hangehange-2.JPG
   width: 800
   height: 536
+  path: "/image_files/0000/0001/9379/Geniostoma_ligustrifolium___Hangehange-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4394/Geniostoma_ligustrifolium_.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0005/4394/Geniostoma_ligustrifolium_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4409/Geniostoma_ligustrifolium__Hangehange_-001.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0005/4409/Geniostoma_ligustrifolium__Hangehange_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4414/Geniostoma_ligustrifolium__Hangehange_.JPG
   width: 1024
   height: 767
   caption: The undersurface of a leaf.
+  path: "/image_files/0000/0005/4414/Geniostoma_ligustrifolium__Hangehange_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4429/Geniostoma_ligustrifolium__Hangehange_.JPG
   width: 640
   height: 481
   caption: Flower buds just developing May.
+  path: "/image_files/0000/0005/4429/Geniostoma_ligustrifolium__Hangehange_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/6688/Geniostoma_ligustrifolium__Hangehange_-001.JPG
   width: 1200
   height: 902
   caption: Flowers of the Hangehange (late October).
+  path: "/image_files/0000/0012/6688/Geniostoma_ligustrifolium__Hangehange_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/6683/Geniostoma_ligustrifolium__Hangehange_.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0012/6683/Geniostoma_ligustrifolium__Hangehange_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/4054/flowers_Geniostoma_ligustrifolium__Hangehange-4.JPG
   width: 800
   height: 602
+  path: "/image_files/0000/0001/4054/flowers_Geniostoma_ligustrifolium__Hangehange-4.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/6703/Geniostoma_ligustrifolium__Hangehange_-004.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0012/6703/Geniostoma_ligustrifolium__Hangehange_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/4044/Geniostoma_ligustrifolium__Hangehange.JPG
   width: 800
   height: 600
   caption: Juvenile leaves and the small flowers of the Hangehange.
+  path: "/image_files/0000/0001/4044/Geniostoma_ligustrifolium__Hangehange.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/4049/Geniostoma_ligustrifolium__Hangehange-2.JPG
   width: 640
   height: 401
   caption: During October the ground under the Hangehange are covered with  fallen
     flowers as in photo.
+  path: "/image_files/0000/0001/4049/Geniostoma_ligustrifolium__Hangehange-2.JPG"
 permalink: plants/trees/trees-native/geniostoma_ligustrifolium.html
 layout: page
 title: Geniostoma ligustrifolium (Hangehange)

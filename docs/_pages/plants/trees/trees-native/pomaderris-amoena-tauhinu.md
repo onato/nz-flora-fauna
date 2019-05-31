@@ -20,10 +20,12 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/9958/Pomaderris_amoena_by_Guy_Folstar-004.jpg
   width: 2048
   height: 1152
+  path: "/image_files/0000/0010/9958/Pomaderris_amoena_by_Guy_Folstar-004.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/9953/Pomaderris_amoena_by_Guy_Folstar.jpg
   width: 1148
   height: 862
   caption: The flowering buds.
+  path: "/image_files/0000/0010/9953/Pomaderris_amoena_by_Guy_Folstar.jpg"
 permalink: plants/trees/trees-native/pomaderris_amoena.html
 layout: page
 title: Pomaderris amoena (Tauhinu)

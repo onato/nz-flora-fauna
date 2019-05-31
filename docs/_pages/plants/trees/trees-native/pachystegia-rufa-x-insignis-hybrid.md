@@ -22,19 +22,24 @@ images:
   width: 1600
   height: 1200
   caption: This form was photographed at Otari Wilton Native Plant Reserve, Wellington.
+  path: "/image_files/0000/0012/5568/Pachystegia_rufa_X_insignis_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5578/Pachystegia_rufa_X_insignis_-004.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0012/5578/Pachystegia_rufa_X_insignis_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5573/Pachystegia_rufa_X_insignis_-002.JPG
   width: 1600
   height: 1199
+  path: "/image_files/0000/0012/5573/Pachystegia_rufa_X_insignis_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5583/Pachystegia_rufa_X_insignis_-006.JPG
   width: 1600
   height: 1201
+  path: "/image_files/0000/0012/5583/Pachystegia_rufa_X_insignis_-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5588/Pachystegia_rufa_X_insignis_-007.JPG
   width: 1024
   height: 769
   caption: The leaf's underside.
+  path: "/image_files/0000/0012/5588/Pachystegia_rufa_X_insignis_-007.JPG"
 permalink: plants/trees/trees-native/pachystegia_rufa_x_insignis.html
 layout: page
 title: Pachystegia rufa X insignis (Marlborough rock daisy) hybrid

@@ -24,20 +24,25 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/6758/Olearia_X_macrodonta.JPG
   width: 2000
   height: 1500
+  path: "/image_files/0000/0012/6758/Olearia_X_macrodonta.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1774/Olearia_macrodonta__NZ_Holly_22.jpg
   width: 600
   height: 450
+  path: "/image_files/0000/0002/1774/Olearia_macrodonta__NZ_Holly_22.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/1764/Olearia_macrodonta__NZ_Holly-2.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0002/1764/Olearia_macrodonta__NZ_Holly-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1749/Olearia_macrodonta__Arorangi.JPG
   width: 1200
   height: 900
   caption: The top surface of a leaf.
+  path: "/image_files/0000/0006/1749/Olearia_macrodonta__Arorangi.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1744/Olearia_macrodonta__Arorangi-001.JPG
   width: 1200
   height: 902
   caption: The underside of a leaf.
+  path: "/image_files/0000/0006/1744/Olearia_macrodonta__Arorangi-001.JPG"
 permalink: plants/trees/trees-native/olearia_x_macrodonta.html
 layout: page
 title: Olearia x macrodonta (NZ Holly)

@@ -23,17 +23,21 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5548/Pachystegia_rufa_.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0012/5548/Pachystegia_rufa_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5553/Pachystegia_rufa_-001.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0012/5553/Pachystegia_rufa_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5558/Pachystegia_rufa_-002.JPG
   width: 1600
   height: 1198
   caption: The plant's shiny leaf.
+  path: "/image_files/0000/0012/5558/Pachystegia_rufa_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5563/Pachystegia_rufa_-003.JPG
   width: 1600
   height: 1202
   caption: The leaf's underside
+  path: "/image_files/0000/0012/5563/Pachystegia_rufa_-003.JPG"
 permalink: plants/trees/trees-native/pachystegia_rufa.html
 layout: page
 title: Pachystegia rufa (Marlborough rock daisy)

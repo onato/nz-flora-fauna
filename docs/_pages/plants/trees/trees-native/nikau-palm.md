@@ -25,41 +25,51 @@ images:
   width: 1200
   height: 677
   caption: A stand of coastal Nikau north-west Westland, South Island.
+  path: "/image_files/0000/0007/1544/Rhopalostylis_sapida__Nikau_Palms_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6599/Rhopalostylis_sapida__Nikau_Palm._.JPG
   width: 2000
   height: 1500
   caption: The next two photos are of Nikau palms photographed Westcoast, South Island.
+  path: "/image_files/0000/0005/6599/Rhopalostylis_sapida__Nikau_Palm._.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6594/Rhopalostylis_sapida__Nikau_Palm._-001.JPG
   width: 2000
   height: 1502
+  path: "/image_files/0000/0005/6594/Rhopalostylis_sapida__Nikau_Palm._-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/2494/Rhopalostylis_sapida__Young_nikau_palm-2.JPG
   width: 1024
   height: 768
   caption: Young Nikau palm.
+  path: "/image_files/0000/0002/2494/Rhopalostylis_sapida__Young_nikau_palm-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/2533/Palmae_Rhopalostylis_nikau_palm.jpg
   width: 800
   height: 600
+  path: "/image_files/0000/0000/2533/Palmae_Rhopalostylis_nikau_palm.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/2678/small_nikau_palm.jpg
   width: 500
   height: 747
+  path: "/image_files/0000/0000/2678/small_nikau_palm.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/4283/Rhopalostylis_sapida_Nikau_Palm-5.JPG
   width: 536
   height: 800
   caption: Nikau trunk with circular rings Photographed at Te Kaianga Marire Gardens,
     New Plymouth, Taranaki.
+  path: "/image_files/0000/0000/4283/Rhopalostylis_sapida_Nikau_Palm-5.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2289/Rhopalostylis_sapida__Nikau_palm.JPG
   width: 1600
   height: 1202
   caption: The flowers.
+  path: "/image_files/0000/0006/2289/Rhopalostylis_sapida__Nikau_palm.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2284/Rhopalostylis_sapida__Nikau_palm-002.JPG
   width: 1200
   height: 901
   caption: Closeup of the flowers.
+  path: "/image_files/0000/0006/2284/Rhopalostylis_sapida__Nikau_palm-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/8548/Nikau_palm_fruit_1-6.JPG
   width: 1024
   height: 768
   caption: The Nikau palm flower covering splitting open. It will drop off leaving
     the flower strands. Little white flowers develop on them.
+  path: "/image_files/0000/0000/8548/Nikau_palm_fruit_1-6.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/8133/Rhopalostylis_sapida__Nikau_Palm_2-7.JPG
   width: 1024
   height: 686
@@ -69,17 +79,20 @@ images:
     in threes. The flowers are sticky and sweet with nectar, which attracts insects,
     especially bees and hence it is pollinated. The red lower right branches are covered
     with the ripe fruit.
+  path: "/image_files/0000/0000/8133/Rhopalostylis_sapida__Nikau_Palm_2-7.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/9024/Rhopalostylis_sapida__Nikau_Palm_-001.JPG
   width: 1600
   height: 1200
   caption: The green fruit which will turn red. The bare branch has lost last years
     ripe fruit. A juvenile nikau on the right.
+  path: "/image_files/0000/0003/9024/Rhopalostylis_sapida__Nikau_Palm_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/8128/Rhopalostylis_sapida__Nikau_Palm_2-5.JPG
   width: 1024
   height: 684
   caption: The ripe fruit of the Nikau. The fruit of this palm takes about 1 year
     to ripen. The native pigeon and other birds feast on this fruit and disperse the
     seed.
+  path: "/image_files/0000/0000/8128/Rhopalostylis_sapida__Nikau_Palm_2-5.JPG"
 permalink: plants/trees/trees-native/rhopalostylis_sapida.html
 layout: page
 title: Rhopalostylis sapida (Nikau Palm)

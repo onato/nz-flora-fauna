@@ -22,39 +22,50 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/4903/Olearia_cheesemanii__Tree_daisy_.JPG
   width: 1200
   height: 901
+  path: "/image_files/0000/0010/4903/Olearia_cheesemanii__Tree_daisy_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5739/Olearia_cheesmanii__Tree_Daisy_.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0006/5739/Olearia_cheesmanii__Tree_Daisy_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4659/Olearia_cheesmanii__Tree_Daisy_-008.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0006/4659/Olearia_cheesmanii__Tree_Daisy_-008.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5724/Olearia_cheesmanii__Tree_Daisy_-001.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0006/5724/Olearia_cheesmanii__Tree_Daisy_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4644/Olearia_cheesmanii__Tree_Daisy_-003.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0006/4644/Olearia_cheesmanii__Tree_Daisy_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/4113/Olearia_cheesemanii__Tree_Daisy_-001.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0009/4113/Olearia_cheesemanii__Tree_Daisy_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5729/Olearia_cheesmanii__Tree_Daisy_-004.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0006/5729/Olearia_cheesmanii__Tree_Daisy_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5768/Olearia_cheesemanii_Streamside_daisy-004__2_.JPG
   width: 1600
   height: 1201
   caption: The leaves of Olearia cheesmanii
+  path: "/image_files/0000/0012/5768/Olearia_cheesemanii_Streamside_daisy-004__2_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4654/Olearia_cheesmanii__Tree_Daisy_-006.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0006/4654/Olearia_cheesmanii__Tree_Daisy_-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/5744/Olearia_cheesmanii__Tree_Daisy_-007.JPG
   width: 1024
   height: 770
   caption: The undersurface of a leaf.
+  path: "/image_files/0000/0006/5744/Olearia_cheesmanii__Tree_Daisy_-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/4908/DSC02440.JPG
   width: 640
   height: 481
   caption: Seed heads April
+  path: "/image_files/0000/0010/4908/DSC02440.JPG"
 permalink: plants/trees/trees-native/olearia_cheesemanii.html
 layout: page
 title: Olearia cheesemanii (Streamside tree daisy)

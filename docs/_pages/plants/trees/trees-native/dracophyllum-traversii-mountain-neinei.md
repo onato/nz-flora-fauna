@@ -25,23 +25,29 @@ images:
   width: 1200
   height: 902
   caption: Photographed North West Nelson
+  path: "/image_files/0000/0003/8539/Dracophyllum_traversii-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8529/Dracophyllum_traversii-003.JPG
   width: 1200
   height: 901
   caption: Photographed North West Nelson
+  path: "/image_files/0000/0003/8529/Dracophyllum_traversii-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8534/Dracophyllum_traversii-004.jpg
   width: 1024
   height: 769
   caption: Photographed North West Nelson
+  path: "/image_files/0000/0003/8534/Dracophyllum_traversii-004.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8544/Dracophyllum_traversii-007.JPG
   width: 1200
   height: 900
   caption: Young plants photographed at Otari Native Botanic Garden and Wilton's Bush
     Reserve. Wellington.
+  path: "/image_files/0000/0003/8544/Dracophyllum_traversii-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4019/Dracophyllum_traversii__Mountain_neinei-003.JPG
   width: 768
   height: 1024
+  path: "/image_files/0000/0003/4019/Dracophyllum_traversii__Mountain_neinei-003.JPG"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Diagnostic%20characters%20of%20Dracophyllum.jpg
+  path: "/uploads/images/Te%20Henui/Trees/Diagnostic%20characters%20of%20Dracophyllum.jpg"
 permalink: plants/trees/trees-native/dracophyllum_traversii.html
 layout: page
 title: Dracophyllum traversii (Mountain neinei)

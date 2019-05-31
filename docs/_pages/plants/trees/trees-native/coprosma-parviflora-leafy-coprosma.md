@@ -22,14 +22,17 @@ images:
   width: 1200
   height: 900
   caption: Photographed at Otari Wilton Bush Reserve. Wellington.
+  path: "/image_files/0000/0005/3834/Coprosma_parviflora__Leafy_coprosma-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3839/Coprosma_parviflora__Leafy_coprosma-006.JPG
   width: 900
   height: 1200
   caption: In some plants, the leafy branches form more or less flattened plane.
+  path: "/image_files/0000/0005/3839/Coprosma_parviflora__Leafy_coprosma-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3829/Coprosma_parviflora__Leafy_coprosma-003.JPG
   width: 800
   height: 601
   caption: Closeup of the variable leaves.
+  path: "/image_files/0000/0005/3829/Coprosma_parviflora__Leafy_coprosma-003.JPG"
 permalink: plants/trees/trees-native/coprosma_parviflora.html
 layout: page
 title: Coprosma parviflora (Leafy coprosma)

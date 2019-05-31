@@ -24,25 +24,31 @@ images:
   height: 768
   caption: Photographed Stratford Plateau area, East Mt Egmont/Taranaki October. The
     leaves have a yellowish tinge at this time of the year.
+  path: "/image_files/0000/0008/0063/Coprosma_pseudocuneata-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/0053/Coprosma_pseudocuneata.JPG
   width: 1024
   height: 768
   caption: Photographed Stratford Plateau area, East Mt Egmont/Taranaki October
+  path: "/image_files/0000/0008/0053/Coprosma_pseudocuneata.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/0058/Coprosma_pseudocuneata-002.JPG
   width: 1024
   height: 769
   caption: Photographed Stratford Plateau area, East Mt Egmont/Taranaki October
+  path: "/image_files/0000/0008/0058/Coprosma_pseudocuneata-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6339/Coprosma_pseudocuneata__Variable_coprosma.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0007/6339/Coprosma_pseudocuneata__Variable_coprosma.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3799/Coprosma_pseudocuneata___variable_coprosma-001.JPG
   width: 800
   height: 598
   caption: A young plant photographed at Otari Native Botanic Garden and Wilton's
     Bush Reserve. Wellington.
+  path: "/image_files/0000/0003/3799/Coprosma_pseudocuneata___variable_coprosma-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6344/Coprosma_pseudocuneata__Variable_coprosma-001.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0007/6344/Coprosma_pseudocuneata__Variable_coprosma-001.JPG"
 permalink: plants/trees/trees-native/coprosma_pseudocuneata.html
 layout: page
 title: Coprosma pseudocuneata (Variable coprosma)

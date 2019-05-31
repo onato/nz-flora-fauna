@@ -23,38 +23,47 @@ images:
   width: 600
   height: 800
   caption: A NZ Honeysuckle tree at Adams Point
+  path: "/image_files/0000/0000/6968/Knightia_excelsa__Rewarewa__Honeysuckle.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4493/1-Knightia_excelsa__NZ_Honeysuckle_.JPG
   width: 1200
   height: 1600
   caption: A juvenile.
+  path: "/image_files/0000/0011/4493/1-Knightia_excelsa__NZ_Honeysuckle_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4498/1-Knightia_excelsa__NZ_Honeysuckle_-004.JPG
   width: 1200
   height: 1600
   caption: Juvenile leaves.
+  path: "/image_files/0000/0011/4498/1-Knightia_excelsa__NZ_Honeysuckle_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8309/Knightia_excelia__Rewarewa.JPG
   width: 1200
   height: 804
   caption: A young plant with long juvenile leaves.
+  path: "/image_files/0000/0006/8309/Knightia_excelia__Rewarewa.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1164/Knightia_excelsa__NZ_Honeysuckle-004.jpg
   width: 1200
   height: 804
   caption: A juvenile on forest floor.
+  path: "/image_files/0000/0004/1164/Knightia_excelsa__NZ_Honeysuckle-004.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1169/Knightia_excelsa__NZ_Honeysuckle.JPG
   width: 1024
   height: 686
   caption: NZ Honeysuckle leaves
+  path: "/image_files/0000/0004/1169/Knightia_excelsa__NZ_Honeysuckle.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/4638/Knightia_excelsa__Rewarewa.JPG
   width: 1024
   height: 769
   caption: NZ Honeysuckle flower buds
+  path: "/image_files/0000/0009/4638/Knightia_excelsa__Rewarewa.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1174/Rewarewa_Knightia_excelsa_NZ_Honeysuckle_flower_1_.jpg
   width: 800
   height: 553
   caption: The flower buds.
+  path: "/image_files/0000/0004/1174/Rewarewa_Knightia_excelsa_NZ_Honeysuckle_flower_1_.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/9738/Knightia_excelsa___Rewarewa__NZ_Honeysuckle-002.JPG
   width: 901
   height: 1200
   caption: Unopened flower buds late December.
+  path: "/image_files/0000/0009/9738/Knightia_excelsa___Rewarewa__NZ_Honeysuckle-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/9723/Knightia_excelsa___Rewarewa__NZ_Honeysuckle.JPG
   width: 1200
   height: 1183
@@ -65,18 +74,22 @@ images:
     (the sexual part of the flower) are then left pointing outward, where they are
     pollinated largely by bees and birds such as tūī, korimako (bellbird) and tauhou
     (waxeye), which seek the nectar from the flowers.
+  path: "/image_files/0000/0009/9723/Knightia_excelsa___Rewarewa__NZ_Honeysuckle.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/9733/Knightia_excelsa___Rewarewa__NZ_Honeysuckle-001.JPG
   width: 1200
   height: 900
   caption: Close up of the flower.
+  path: "/image_files/0000/0009/9733/Knightia_excelsa___Rewarewa__NZ_Honeysuckle-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/9123/Knightia_excelsa___Rewarewa__NZ_Honeysuckle.JPG
   width: 800
   height: 600
   caption: Mature flowers and dried seed pods.from the previous year.
+  path: "/image_files/0000/0008/9123/Knightia_excelsa___Rewarewa__NZ_Honeysuckle.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1159/Trunk_of_Knightia_excelsa_.JPG
   width: 898
   height: 1200
   caption: A trunk of a mature NZ Honeysuckle.
+  path: "/image_files/0000/0004/1159/Trunk_of_Knightia_excelsa_.JPG"
 permalink: plants/trees/trees-native/knightia_excelsa.html
 layout: page
 title: Knightia excelsa (NZ Honeysuckle)

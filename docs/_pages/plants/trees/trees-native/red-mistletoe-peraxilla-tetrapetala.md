@@ -25,12 +25,15 @@ images:
   width: 1024
   height: 765
   caption: Photographed March.
+  path: "/image_files/0000/0003/6874/Red_Mistletoe__Peraxilla_tetrapetaia__-7.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6879/Red_Mistletoe__Peraxilla_tetrapetaia__-9.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0003/6879/Red_Mistletoe__Peraxilla_tetrapetaia__-9.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6899/Red_Mistletoe__Peraxilla_tetrapetaia__-13.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0003/6899/Red_Mistletoe__Peraxilla_tetrapetaia__-13.JPG"
 permalink: plants/trees/trees-native/peraxilla_tetrapetala.html
 layout: page
 title: Peraxilla tetrapetala (Red Mistletoe)

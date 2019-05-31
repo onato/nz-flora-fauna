@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pittosporum-huttonianum-hutton-s-kohuhu.html
 name: Pittosporum huttonianum (Hutton's kohuhu)
+nzpcn: 157
 description: >
   Pittosporum huttonianum is a small tree with spreading branches forming
   an open habit and growing to about 10m in height. It has brown to grey-black bark.
@@ -30,8 +31,6 @@ description: >
   perhaps by using an appropriate range of molecular markers might clarify its status.
   NZPCN retain the species because for most of its range it is a well-marked species
   and in that range, it is often sympatric with P. tenuifolium." 
-
-  For more information, visit: <a href="http://nzpcn.org.nz/flora_details.asp?ID=1136">http://nzpcn.org.nz/flora_details.asp?ID=1136</a>
 attributes:
   kingdom:
   - Plantae

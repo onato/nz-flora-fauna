@@ -25,6 +25,7 @@ images:
   width: 800
   height: 600
   caption: Leaves of a small shrub.
+  path: "/image_files/0000/0007/8709/Griselina_littoralis_variegata.JPG"
 permalink: plants/trees/trees-native/griselinia_littoralis_'variegata'.html
 layout: page
 title: Griselinia littoralis 'Variegata'

@@ -26,21 +26,26 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1124/Myrsine_salicina___Toro.JPG
   width: 1497
   height: 2000
+  path: "/image_files/0000/0007/1124/Myrsine_salicina___Toro.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1114/Myrsine_salicina___Toro-002.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0007/1114/Myrsine_salicina___Toro-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1119/Myrsine_salicina___Toro-004.JPG
   width: 1200
   height: 902
   caption: Growing tips. March.
+  path: "/image_files/0000/0007/1119/Myrsine_salicina___Toro-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1134/Myrsine_salicina___Toro-007.JPG
   width: 1024
   height: 769
   caption: The top surface of a leaf.
+  path: "/image_files/0000/0007/1134/Myrsine_salicina___Toro-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1129/Myrsine_salicina___Toro-005.JPG
   width: 1024
   height: 768
   caption: Close up of the top surface of a leaf.
+  path: "/image_files/0000/0007/1129/Myrsine_salicina___Toro-005.JPG"
 permalink: plants/trees/trees-native/myrsine_salicina.html
 layout: page
 title: Myrsine salicina (Toro)

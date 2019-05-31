@@ -26,52 +26,64 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4704/Schefflera_digitatal__Pate__Seven_Finger.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0005/4704/Schefflera_digitatal__Pate__Seven_Finger.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4709/Schefflera_digitatal__Pate__Seven_Finger-003.JPG
   width: 1200
   height: 901
   caption: Young leaves with undulated margins.
+  path: "/image_files/0000/0005/4709/Schefflera_digitatal__Pate__Seven_Finger-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6459/Schefflera_digitala__Pate.JPG
   width: 800
   height: 601
   caption: The top surface of an adult leaf. The veins are sunk.
+  path: "/image_files/0000/0005/6459/Schefflera_digitala__Pate.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6439/Schefflera_digitala__Pate-001.JPG
   width: 800
   height: 601
   caption: The undersurface of an adult leaf. The veins are raised.
+  path: "/image_files/0000/0005/6439/Schefflera_digitala__Pate-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4714/Schefflera_digitatal__Pate__Seven_Finger-002.JPG
   width: 600
   height: 451
   caption: The serations number about 10 per cm on a Schefflera digitata leaf. On
     Pseudopanax arboreus (Five finger) the serations are larger about 1 per cm. Below
     the serrated leaf margin of Schefflera digitata.
+  path: "/image_files/0000/0005/4714/Schefflera_digitatal__Pate__Seven_Finger-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1604/Schefflera_digitata__Pate-002.JPG
   width: 1024
   height: 768
   caption: Schefflera digitata large, multi-branched panicles.
+  path: "/image_files/0000/0007/1604/Schefflera_digitata__Pate-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1609/Schefflera_digitata__Pate-003.JPG
   width: 1600
   height: 1200
   caption: The photo was taken March.
+  path: "/image_files/0000/0007/1609/Schefflera_digitata__Pate-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6449/Schefflera_digitala__Pate-005.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0005/6449/Schefflera_digitala__Pate-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6444/Schefflera_digitala__Pate-002.JPG
   width: 1600
   height: 1202
   caption: Photo of fruit mid-May Mt Egmont/Taranaki.
+  path: "/image_files/0000/0005/6444/Schefflera_digitala__Pate-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6454/Schefflera_digitala__Pate-007.JPG
   width: 1024
   height: 768
   caption: Closeup of the fruit of which some are ripe.
+  path: "/image_files/0000/0005/6454/Schefflera_digitala__Pate-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/3799/Schefflera_digitata__Pate_-2.JPG
   width: 800
   height: 600
   caption: A young Schefflera digitata with eight leaves. The group on the left has
     seven.
+  path: "/image_files/0000/0001/3799/Schefflera_digitata__Pate_-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5469/Young_leaves_of_Schefflera_digitata__Pate-2.JPG
   width: 800
   height: 500
   caption: The juvenile leaves of Schefflera digitata.
+  path: "/image_files/0000/0001/5469/Young_leaves_of_Schefflera_digitata__Pate-2.JPG"
 permalink: plants/trees/trees-native/schefflera_digitata.html
 layout: page
 title: Schefflera digitata (Pate, Seven Finger)

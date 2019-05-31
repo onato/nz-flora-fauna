@@ -23,31 +23,39 @@ images:
   width: 1024
   height: 768
   caption: A stunted tree on the scrub line on the Stratford Mt Egmont/Taranaki plateau.
+  path: "/image_files/0000/0007/4439/Brachyglottis_elaeagnifolia___2_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5939/Brachyglottis_elaeagnifolia__Leatherwood__2_.JPG
   width: 1024
   height: 770
   caption: Young tree on the roadside, the lower section of North Egmont road.
+  path: "/image_files/0000/0003/5939/Brachyglottis_elaeagnifolia__Leatherwood__2_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4449/Brachyglottis_elaeagnifolia_-001.JPG
   width: 1200
   height: 898
+  path: "/image_files/0000/0007/4449/Brachyglottis_elaeagnifolia_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/0714/Brachyglottis_elaeagnifolia-007.JPG
   width: 1200
   height: 901
   caption: Young fruiting heads.
+  path: "/image_files/0000/0005/0714/Brachyglottis_elaeagnifolia-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6324/Brachyglottis_elaeagnifolia-003.JPG
   width: 2000
   height: 1497
   caption: Seeds about to be dispersed by the wind. (March)
+  path: "/image_files/0000/0005/6324/Brachyglottis_elaeagnifolia-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5944/Brachyglottis_elaeagnifolia__Leatherwood__3_.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0003/5944/Brachyglottis_elaeagnifolia__Leatherwood__3_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5934/Brachyglottis_elaeagnifolia__Leatherwood__1_.JPG
   width: 800
   height: 602
+  path: "/image_files/0000/0003/5934/Brachyglottis_elaeagnifolia__Leatherwood__1_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/5929/Brachyglottis_elaeagnifolia__Leatherwood.JPG
   width: 640
   height: 481
   caption: The undersides of the leaf showing the tomentum.
+  path: "/image_files/0000/0003/5929/Brachyglottis_elaeagnifolia__Leatherwood.JPG"
 permalink: plants/trees/trees-native/brachyglottis_elaeagnifolia.html
 layout: page
 title: Brachyglottis elaeagnifolia

@@ -23,51 +23,64 @@ images:
   width: 1600
   height: 1200
   caption: Photo of a mature tree at Oromahoe School, Northland
+  path: "/image_files/0000/0012/7238/Melicytus_ramiflorus__Mahoe___1_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/7243/Melicytus_ramiflorus__Mahoe___2_.JPG
   width: 1200
   height: 1600
   caption: The multiple trunks of the above tree.
+  path: "/image_files/0000/0012/7243/Melicytus_ramiflorus__Mahoe___2_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6554/Melicytus_ramiflorus__Mahoe-002.JPG
   width: 1600
   height: 1202
+  path: "/image_files/0000/0007/6554/Melicytus_ramiflorus__Mahoe-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4744/Melicytus_ramiflorus__Mahoe_a.jpg
   width: 1024
   height: 768
+  path: "/image_files/0000/0005/4744/Melicytus_ramiflorus__Mahoe_a.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4739/Melicytus_ramiflorus__Mahoe__Whitey_wood_-004.JPG
   width: 1200
   height: 1600
+  path: "/image_files/0000/0005/4739/Melicytus_ramiflorus__Mahoe__Whitey_wood_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/9274/Melicytus_ramiflorus__Mahoe_tree-2.JPG
   width: 800
   height: 600
   caption: Flowers photographed December.
+  path: "/image_files/0000/0000/9274/Melicytus_ramiflorus__Mahoe_tree-2.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5064/Melicytus_ramiflorus_ramiflory_mahoe_flowers.JPG
   width: 640
   height: 464
+  path: "/image_files/0000/0001/5064/Melicytus_ramiflorus_ramiflory_mahoe_flowers.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/4714/Male_flowers_Melicytus_ramiflorus__Mahoe.JPG
   width: 640
   height: 480
   caption: Melicytus ramiflorus shows ramiflory or the production of flowers directly
     from the branches. November.
+  path: "/image_files/0000/0001/4714/Male_flowers_Melicytus_ramiflorus__Mahoe.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2273/Melicytus_ramiflorus_fruit__Mahoe.JPG
   width: 1024
   height: 768
   caption: The developing berries still green. December.
+  path: "/image_files/0000/0008/2273/Melicytus_ramiflorus_fruit__Mahoe.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4724/Melicytus_ramiflorus__Mahoe__Whitey_wood_-001.JPG
   width: 1600
   height: 1200
   caption: The blue berries of the Mahoe tree. Photographed mid-February.
+  path: "/image_files/0000/0005/4724/Melicytus_ramiflorus__Mahoe__Whitey_wood_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6549/Melicytus_ramiflorus__Mahoe-003.JPG
   width: 1600
   height: 1200
   caption: Serrated leaves of Melicytus ramiflorus.
+  path: "/image_files/0000/0007/6549/Melicytus_ramiflorus__Mahoe-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4719/Melicytus_ramiflorus__Mahoe__Whitey_wood_-002.JPG
   width: 1600
   height: 1203
   caption: Topside of a leaf.
+  path: "/image_files/0000/0005/4719/Melicytus_ramiflorus__Mahoe__Whitey_wood_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4819/Mahoe__Melicytus_ramiflorus_.JPG
   width: 1024
   height: 769
   caption: The underside of leaf.
+  path: "/image_files/0000/0005/4819/Mahoe__Melicytus_ramiflorus_.JPG"
 permalink: plants/trees/trees-native/melicytus_ramiflorus.html
 layout: page
 title: Melicytus ramiflorus (Mahoe)

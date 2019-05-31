@@ -28,39 +28,49 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/1434/Muehlenbeckia__Creeping__Muehlenbeckia_axillaries-001.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0004/1434/Muehlenbeckia__Creeping__Muehlenbeckia_axillaries-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/8029/Muehlenbeckia_axilaris.JPG
   width: 640
   height: 480
+  path: "/image_files/0000/0002/8029/Muehlenbeckia_axilaris.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6004/Muehlenbeckia_axillaris-001.JPG
   width: 800
   height: 602
   caption: The next three photos are of Muehlenbeckia axillaris in alpine conditions
     on the Stratford Plateau Mt Egmont/Taranaki.
+  path: "/image_files/0000/0007/6004/Muehlenbeckia_axillaris-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/5994/Muehlenbeckia_axillaris-002.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0007/5994/Muehlenbeckia_axillaris-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/5999/Muehlenbeckia_axillaris-003.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0007/5999/Muehlenbeckia_axillaris-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6164/Muehlenbeckia_axillaris-010.JPG
   width: 640
   height: 480
   caption: Flowers.
+  path: "/image_files/0000/0007/6164/Muehlenbeckia_axillaris-010.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/4144/Muehlenbeckia_axillaris.JPG
   width: 800
   height: 599
   caption: Flowers and a developing fruit.
+  path: "/image_files/0000/0005/4144/Muehlenbeckia_axillaris.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7734/Creeping_Muehlenbeckia___Muehlenbeckia_axillaries-004.JPG
   width: 800
   height: 601
   caption: The fruit developing.
+  path: "/image_files/0000/0002/7734/Creeping_Muehlenbeckia___Muehlenbeckia_axillaries-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6474/Muehlenbeckia_axillaris-008.JPG
   width: 1024
   height: 768
   caption: The fruit with seed capsule.
+  path: "/image_files/0000/0005/6474/Muehlenbeckia_axillaris-008.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6159/Muehlenbeckia_axillaris-001.JPG
   width: 640
   height: 481
+  path: "/image_files/0000/0007/6159/Muehlenbeckia_axillaris-001.JPG"
 permalink: plants/trees/trees-native/muehlenbeckia_axillaris.html
 layout: page
 title: Muehlenbeckia axillaris (Creeping muehlenbeckia)

@@ -27,14 +27,17 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0139/Prickly_Mingimingi__Leptecophylla_juniperina__white_form-1.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0002/0139/Prickly_Mingimingi__Leptecophylla_juniperina__white_form-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/0144/Prickly_Mingimingi__Leptecophylla_juniperina__white_form-2.JPG
   width: 800
   height: 601
   caption: White berries.
+  path: "/image_files/0000/0002/0144/Prickly_Mingimingi__Leptecophylla_juniperina__white_form-2.JPG"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-Leptecophylla_juniperina.jpg
   width: 682
   height: 632
   caption: Red berries.
+  path: "/uploads/images/Te%20Henui/Trees/1-Leptecophylla_juniperina.jpg"
 permalink: plants/trees/trees-native/leptecophylla_juniperina.html
 layout: page
 title: Leptecophylla juniperina (Prickly Mingimingi)

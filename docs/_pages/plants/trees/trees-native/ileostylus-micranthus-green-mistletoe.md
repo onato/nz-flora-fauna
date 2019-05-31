@@ -25,10 +25,13 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5668/Ileostylus_micranthus__3.jpg
   width: 1600
   height: 1068
+  path: "/image_files/0000/0012/5668/Ileostylus_micranthus__3.jpg"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Plants/Ileostylus_micranthus_11-001.JPG
+  path: "/uploads/images/Te%20Henui/Plants/Ileostylus_micranthus_11-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5673/Ileostylus_micranthus__4-001.jpg
   width: 800
   height: 600
+  path: "/image_files/0000/0012/5673/Ileostylus_micranthus__4-001.jpg"
 permalink: plants/trees/trees-native/ileostylus_micranthus.html
 layout: page
 title: Ileostylus micranthus (Green mistletoe)

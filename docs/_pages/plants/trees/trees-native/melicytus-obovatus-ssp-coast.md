@@ -22,26 +22,34 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2314/Melicytus_obovatus_ssp_%E2%80%9CCoast%E2%80%9D.JPG
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0003/2314/Melicytus_obovatus_ssp_%E2%80%9CCoast%E2%80%9D.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2319/Melicytus_obovatus_ssp_%E2%80%9CCoast%E2%80%9D-001.JPG
+  path: "/image_files/0000/0003/2319/Melicytus_obovatus_ssp_%E2%80%9CCoast%E2%80%9D-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2324/Melicytus_obovatus_ssp_%E2%80%9CCoast%E2%80%9D-002.JPG
   caption: Green berries turning a dark purple late March.
+  path: "/image_files/0000/0003/2324/Melicytus_obovatus_ssp_%E2%80%9CCoast%E2%80%9D-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3564/Melicytus_obovatus-002.JPG
   width: 800
   height: 599
+  path: "/image_files/0000/0005/3564/Melicytus_obovatus-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3569/Melicytus_obovatus-003.JPG
   width: 800
   height: 598
+  path: "/image_files/0000/0005/3569/Melicytus_obovatus-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3508/Melicytus_obovatus-006.JPG
   width: 1024
   height: 769
   caption: Flowers of Melicytus obovatus.  Photographed September at Te Kainga Marire
     Garden, New Plymouth.
+  path: "/image_files/0000/0008/3508/Melicytus_obovatus-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3498/Melicytus_obovatus-002.JPG
   width: 1200
   height: 902
+  path: "/image_files/0000/0008/3498/Melicytus_obovatus-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3503/Melicytus_obovatus-007.JPG
   width: 600
   height: 451
+  path: "/image_files/0000/0008/3503/Melicytus_obovatus-007.JPG"
 permalink: plants/trees/trees-native/melicytus_orarius.html
 layout: page
 title: Melicytus orarius

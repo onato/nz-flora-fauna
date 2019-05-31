@@ -24,13 +24,16 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6384/nestegis_montana__narrow-leaved_maire-001.JPG
   width: 1200
   height: 1600
+  path: "/image_files/0000/0003/6384/nestegis_montana__narrow-leaved_maire-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6394/nestegis_montana__narrow-leaved_maire-004.JPG
   width: 1200
   height: 900
   caption: Young leaves.
+  path: "/image_files/0000/0003/6394/nestegis_montana__narrow-leaved_maire-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6389/nestegis_montana__narrow-leaved_maire-003.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0003/6389/nestegis_montana__narrow-leaved_maire-003.JPG"
 permalink: plants/trees/trees-native/nestegis_montana.html
 layout: page
 title: Nestegis montana (Narrow-leaved maire)

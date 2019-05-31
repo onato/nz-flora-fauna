@@ -23,31 +23,40 @@ images:
   width: 570
   height: 127
   caption: Pittosporum divaricatum leaf forms image courtesy Te Papa.
+  path: "/uploads/images/Te%20Henui/Trees/Pittosporum%20lineare%20leaf%20forms%20Te%20papa.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2248/Pittosporum_lineare__1_.JPG
   width: 1200
   height: 900
   caption: Photographed at Otari Native Botanic Garden, Wellington.
+  path: "/image_files/0000/0012/2248/Pittosporum_lineare__1_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6089/1-Pittosporum_lineare-004.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0003/6089/1-Pittosporum_lineare-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1939/Pittosporum_lineare.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0005/1939/Pittosporum_lineare.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2288/1-Pittosporum_divaricatum-006.JPG
   width: 600
   height: 451
+  path: "/image_files/0000/0012/2288/1-Pittosporum_divaricatum-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2253/Pittosporum_lineare__2_.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0012/2253/Pittosporum_lineare__2_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2268/Pittosporum_divaricatum__5_.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0012/2268/Pittosporum_divaricatum__5_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2258/Pittosporum_lineare__3_.JPG
   width: 1024
   height: 766
+  path: "/image_files/0000/0012/2258/Pittosporum_lineare__3_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2283/1-Pittosporum_divaricatum-003.JPG
   width: 600
   height: 449
+  path: "/image_files/0000/0012/2283/1-Pittosporum_divaricatum-003.JPG"
 permalink: plants/trees/trees-native/pittosporum_divaricatum.html
 layout: page
 title: Pittosporum divaricatum

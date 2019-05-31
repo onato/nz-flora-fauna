@@ -31,31 +31,40 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3228/Brachyglottis_perdicioides__Raukumara_.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0008/3228/Brachyglottis_perdicioides__Raukumara_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/8518/1-Brachyglottis_perdicioides___Raukumara.JPG
   width: 1197
   height: 1600
+  path: "/image_files/0000/0012/8518/1-Brachyglottis_perdicioides___Raukumara.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/3179/Brachyglottis_perdicioides__Raukumara-006.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0006/3179/Brachyglottis_perdicioides__Raukumara-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/8538/1-Brachyglottis_perdicioides___Raukumara-004.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0012/8538/1-Brachyglottis_perdicioides___Raukumara-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/3184/Brachyglottis_perdicioides__Raukumara-018.JPG
   width: 1024
   height: 767
+  path: "/image_files/0000/0006/3184/Brachyglottis_perdicioides__Raukumara-018.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/3233/Brachyglottis_perdicioides__Raukumara_-003.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0008/3233/Brachyglottis_perdicioides__Raukumara_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8019/Brachyglottis_pericioides__Raukumara-013.JPG
   width: 1200
   height: 902
+  path: "/image_files/0000/0003/8019/Brachyglottis_pericioides__Raukumara-013.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8024/Brachyglottis_pericioides__Raukumara-015.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0003/8024/Brachyglottis_pericioides__Raukumara-015.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8029/Brachyglottis_pericioides__Raukumara-016.JPG
   width: 1024
   height: 770
   caption: The underside of a leaf
+  path: "/image_files/0000/0003/8029/Brachyglottis_pericioides__Raukumara-016.JPG"
 permalink: plants/trees/trees-native/brachyglottis_perdicioides.html
 layout: page
 title: Brachyglottis perdicioides (Raukumara)

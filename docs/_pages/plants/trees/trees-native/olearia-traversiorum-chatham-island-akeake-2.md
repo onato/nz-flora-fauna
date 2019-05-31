@@ -27,26 +27,32 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5788/Olearia_traversiorum-010.JPG
   width: 2500
   height: 1875
+  path: "/image_files/0000/0012/5788/Olearia_traversiorum-010.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5783/Olearia_traversiorum-007.JPG
   width: 2500
   height: 1875
   caption: A growing tip of a young plant.
+  path: "/image_files/0000/0012/5783/Olearia_traversiorum-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6534/Olearia_traversiorum__Chatham_Island_Akeake_Olearia_traversii.JPG
   width: 1024
   height: 770
   caption: The top surface of a new leaf.with midrib raised and prominent.
+  path: "/image_files/0000/0005/6534/Olearia_traversiorum__Chatham_Island_Akeake_Olearia_traversii.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6524/Olearia_traversiorum__Chatham_Island_Akeake_Olearia_traversii-003.JPG
   width: 1024
   height: 768
   caption: The undersurface of a young leaf.
+  path: "/image_files/0000/0005/6524/Olearia_traversiorum__Chatham_Island_Akeake_Olearia_traversii-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3604/Olearia_traversiorum__Chatham_Island_Akeake.JPG
   width: 1024
   height: 768
   caption: The top surface of an adult leaf.with midrib raised and prominent.
+  path: "/image_files/0000/0005/3604/Olearia_traversiorum__Chatham_Island_Akeake.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5778/Olearia_traversiorum-003.JPG
   width: 1600
   height: 1199
   caption: An adult leaf's underside with dense appressed, off-white, tomentum.
+  path: "/image_files/0000/0012/5778/Olearia_traversiorum-003.JPG"
 permalink: plants/trees/trees-native/olearia_traversiorum.html
 layout: page
 title: Olearia traversiorum (Chatham Island Akeake)

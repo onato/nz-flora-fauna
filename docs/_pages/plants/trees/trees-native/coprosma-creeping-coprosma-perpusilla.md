@@ -25,22 +25,28 @@ images:
   height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0008/2973/Coprosma_perpusilla-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2054/Coprosma_perpusilla_Creeping_coprosma_-002.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0003/2054/Coprosma_perpusilla_Creeping_coprosma_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2978/Coprosma_perpusilla-003.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0008/2978/Coprosma_perpusilla-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/2983/Coprosma_perpusilla-005.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0008/2983/Coprosma_perpusilla-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6539/Coprosma_perpusilla_subsp._perpusilla__Creeping_Coprosma-001.JPG
   width: 800
   height: 599
   caption: Photographed Mt Egmont/Taranaki May.
+  path: "/image_files/0000/0005/6539/Coprosma_perpusilla_subsp._perpusilla__Creeping_Coprosma-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6544/Coprosma_perpusilla_subsp._perpusilla__Creeping_Coprosma.JPG
   width: 800
   height: 598
+  path: "/image_files/0000/0005/6544/Coprosma_perpusilla_subsp._perpusilla__Creeping_Coprosma.JPG"
 permalink: plants/trees/trees-native/coprosma_perpusilla_subsp_perpusilla.html
 layout: page
 title: Coprosma perpusilla subsp. perpusilla (Creeping Coprosma)

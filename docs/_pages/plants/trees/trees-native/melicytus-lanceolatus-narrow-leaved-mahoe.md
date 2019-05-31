@@ -27,14 +27,17 @@ images:
   height: 1500
   caption: Photographed at Otari Native Botanic Garden and Wilton''s Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0008/1588/Melicytus_lanceolatus__Narrow-leaved_Mahoe_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4699/Melicytus_lanceolatus__Narrow-leaved_Mahoe-001.JPG
   width: 1024
   height: 771
   caption: The topside of the leaves.
+  path: "/image_files/0000/0003/4699/Melicytus_lanceolatus__Narrow-leaved_Mahoe-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/4704/Melicytus_lanceolatus__Narrow-leaved_Mahoe-002.JPG
   width: 640
   height: 481
   caption: The underside of a leaf.
+  path: "/image_files/0000/0003/4704/Melicytus_lanceolatus__Narrow-leaved_Mahoe-002.JPG"
 permalink: plants/trees/trees-native/melicytus_lanceolatus.html
 layout: page
 title: Melicytus lanceolatus (Narrow-leaved Mahoe)

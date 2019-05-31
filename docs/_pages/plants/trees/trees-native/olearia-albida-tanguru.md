@@ -24,22 +24,27 @@ images:
   width: 1600
   height: 1198
   caption: A multitrunked tree.
+  path: "/image_files/0000/0006/1784/Olearia_albida__Tanguru.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1764/Olearia_albida__Tanguru-001.JPG
   width: 1200
   height: 898
   caption: ''
+  path: "/image_files/0000/0006/1764/Olearia_albida__Tanguru-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1769/Olearia_albida__Tanguru-002.JPG
   width: 902
   height: 1200
   caption: ''
+  path: "/image_files/0000/0006/1769/Olearia_albida__Tanguru-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1774/Olearia_albida__Tanguru-003.JPG
   width: 897
   height: 1200
   caption: The underside of a leaf.
+  path: "/image_files/0000/0006/1774/Olearia_albida__Tanguru-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1779/Olearia_albida__Tanguru-004.JPG
   width: 900
   height: 1200
   caption: Bark grey and peels off in strips.
+  path: "/image_files/0000/0006/1779/Olearia_albida__Tanguru-004.JPG"
 permalink: plants/trees/trees-native/olearia_albida.html
 layout: page
 title: Olearia albida (Tanguru)

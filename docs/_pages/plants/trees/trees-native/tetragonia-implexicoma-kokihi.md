@@ -28,10 +28,12 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2628/1-Tetragonia_implexicoma_2.jpg
   width: 900
   height: 1200
+  path: "/image_files/0000/0012/2628/1-Tetragonia_implexicoma_2.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/2633/1-Tetragonia_implexicoma.jpg
   width: 900
   height: 1200
   caption: The underside of a leaf.
+  path: "/image_files/0000/0012/2633/1-Tetragonia_implexicoma.jpg"
 permalink: plants/trees/trees-native/tetragonia_implexicoma.html
 layout: page
 title: Tetragonia implexicoma (Kokihi)

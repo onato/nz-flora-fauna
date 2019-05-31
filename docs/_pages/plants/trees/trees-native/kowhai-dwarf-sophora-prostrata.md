@@ -27,22 +27,27 @@ images:
   width: 1600
   height: 1200
   caption: Photographed Christchurch Botanical Garden in November.
+  path: "/image_files/0000/0008/4288/Sophora_prostrata-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/4293/Sophora_prostrata-002.JPG
   width: 1200
   height: 901
   caption: 
+  path: "/image_files/0000/0008/4293/Sophora_prostrata-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2479/Sophora_prostrata-005.JPG
   width: 1600
   height: 1200
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
     Wellington.
+  path: "/image_files/0000/0005/2479/Sophora_prostrata-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/1919/Sophora_prostrata__Prostrate_Kowhai__Dwarf_Kowhia-001.JPG
   width: 1200
   height: 900
   caption: A young plant.
+  path: "/image_files/0000/0003/1919/Sophora_prostrata__Prostrate_Kowhai__Dwarf_Kowhia-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6919/Sophora_prostrata-001.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0007/6919/Sophora_prostrata-001.JPG"
 permalink: plants/trees/trees-native/sophora_prostrata.html
 layout: page
 title: Sophora prostrata (Prostrate Kowhai)

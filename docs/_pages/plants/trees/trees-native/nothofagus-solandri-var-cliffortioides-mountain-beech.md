@@ -28,27 +28,34 @@ images:
   width: 1071
   height: 1600
   caption: Fuscospora cliffortioides (Mountain beech)
+  path: "/image_files/0000/0005/1509/Nothofagus_solandri_var.cliffortioides__Mountain_beech.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1499/Nothofagus_solandri_var.cliffortioides__Mountain_beech-003.jpg
   width: 800
   height: 600
+  path: "/image_files/0000/0005/1499/Nothofagus_solandri_var.cliffortioides__Mountain_beech-003.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1504/Nothofagus_solandri_var.cliffortioides__Mountain_beech-004.jpg
   width: 800
   height: 600
   caption: The underside of the leaves.
+  path: "/image_files/0000/0005/1504/Nothofagus_solandri_var.cliffortioides__Mountain_beech-004.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1494/Nothofagus_solandri_var.cliffortioides__Mountain_beech-001.JPG
   width: 800
   height: 536
+  path: "/image_files/0000/0005/1494/Nothofagus_solandri_var.cliffortioides__Mountain_beech-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3649/Fuscospora_cliffortioides__Mountain_beech._cliffortioides__Mountain_beech.JPG
   width: 1200
   height: 899
   caption: A small tree growing at altitude on the Denniston plateau, Westcoast.
+  path: "/image_files/0000/0007/3649/Fuscospora_cliffortioides__Mountain_beech._cliffortioides__Mountain_beech.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3664/Fuscospora_cliffortioides__Mountain_beech._cliffortioides__Mountain_beech-004.JPG
   width: 1024
   height: 768
   caption: Leaves of the above shrub.
+  path: "/image_files/0000/0007/3664/Fuscospora_cliffortioides__Mountain_beech._cliffortioides__Mountain_beech-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3659/Fuscospora_cliffortioides__Mountain_beech._cliffortioides__Mountain_beech-003.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0007/3659/Fuscospora_cliffortioides__Mountain_beech._cliffortioides__Mountain_beech-003.JPG"
 permalink: plants/trees/trees-native/fuscospora_cliffortioides.html
 layout: page
 title: Fuscospora cliffortioides (Mountain beech)

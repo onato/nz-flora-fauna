@@ -31,36 +31,46 @@ images:
   width: 2000
   height: 1500
   caption: This shrub was photographed at Otari Wilton Bush Reserve, Wellington.
+  path: "/image_files/0000/0004/6734/Rhabdothamnus_solandri___Taurepo__New_Zealand_Gloxinia-009.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1703/Rhabdothamnus_solandri__Taurepo.JPG
   width: 1600
   height: 1200
   caption: Photographed at Te Kainga Marire Gardens, New Plymouth.
+  path: "/image_files/0000/0008/1703/Rhabdothamnus_solandri__Taurepo.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1708/Rhabdothamnus_solandri__Taurepo-002.JPG
   width: 1600
   height: 1202
+  path: "/image_files/0000/0008/1708/Rhabdothamnus_solandri__Taurepo-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1718/Rhabdothamnus_solandri__Taurepo-003.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0008/1718/Rhabdothamnus_solandri__Taurepo-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1723/Rhabdothamnus_solandri__Taurepo-004.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0008/1723/Rhabdothamnus_solandri__Taurepo-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6729/Rhabdothamnus_solandri___Taurepo__New_Zealand_Gloxinia-007.JPG
   width: 1200
   height: 897
+  path: "/image_files/0000/0004/6729/Rhabdothamnus_solandri___Taurepo__New_Zealand_Gloxinia-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6739/Rhabdothamnus_solandri___Taurepo__New_Zealand_Gloxinia-012.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0004/6739/Rhabdothamnus_solandri___Taurepo__New_Zealand_Gloxinia-012.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6724/Rhabdothamnus_solandri___Taurepo__New_Zealand_Gloxinia-006.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0004/6724/Rhabdothamnus_solandri___Taurepo__New_Zealand_Gloxinia-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6714/Rhabdothamnus_solandri___Taurepo__New_Zealand_Gloxinia-002.JPG
   width: 1024
   height: 769
   caption: The top surface of a leaf.
+  path: "/image_files/0000/0004/6714/Rhabdothamnus_solandri___Taurepo__New_Zealand_Gloxinia-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6719/Rhabdothamnus_solandri___Taurepo__New_Zealand_Gloxinia-003.JPG
   width: 1024
   height: 767
   caption: The heavily veined underside of a leaf.
+  path: "/image_files/0000/0004/6719/Rhabdothamnus_solandri___Taurepo__New_Zealand_Gloxinia-003.JPG"
 permalink: plants/trees/trees-native/rhabdothamnus_solandri.html
 layout: page
 title: Rhabdothamnus solandri (Taurepo)

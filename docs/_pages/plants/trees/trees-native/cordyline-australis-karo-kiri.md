@@ -21,20 +21,25 @@ images:
   width: 1200
   height: 901
   caption: Cordyline australis 'Karo Kiri' is now sold by nurseries.
+  path: "/image_files/0000/0008/5753/1-_Cordyline_australis__Karo_Kiri___Karo_kiri-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6054/Cordyline_australis__Karo_Kiri_.JPG
   width: 900
   height: 1200
   caption: Photographs below is a mature tree growing in Otari Wiltons Bush Reserve,
     Wellington. NB the dead basal leaves have not been removed.
+  path: "/image_files/0000/0007/6054/Cordyline_australis__Karo_Kiri_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6064/Cordyline_australis__Karo_Kiri_-002.JPG
   width: 768
   height: 1024
+  path: "/image_files/0000/0007/6064/Cordyline_australis__Karo_Kiri_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6069/Cordyline_australis__Karo_Kiri_-003.JPG
   width: 900
   height: 1200
+  path: "/image_files/0000/0007/6069/Cordyline_australis__Karo_Kiri_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6059/Cordyline_australis__Karo_Kiri_-001.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0007/6059/Cordyline_australis__Karo_Kiri_-001.JPG"
 permalink: plants/trees/trees-native/cordyline_australis.html
 layout: page
 title: Cordyline australis 'Karo Kiri'

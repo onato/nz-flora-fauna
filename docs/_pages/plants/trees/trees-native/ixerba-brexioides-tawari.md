@@ -20,7 +20,9 @@ attributes:
   - Whakou (flowers)
 images:
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Ixerba_brexioides%20by%20Ang%20Wickham,%20Wikipedia.jpg
+  path: "/uploads/images/Te%20Henui/Trees/Ixerba_brexioides%20by%20Ang%20Wickham,%20Wikipedia.jpg"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Ixerba%20brexioides%20(Tawari)%20by%20Wade%20Doak.jpg
+  path: "/uploads/images/Te%20Henui/Trees/Ixerba%20brexioides%20(Tawari)%20by%20Wade%20Doak.jpg"
 permalink: plants/trees/trees-native/ixerba_brexioides.html
 layout: page
 title: Ixerba brexioides (Tawari)

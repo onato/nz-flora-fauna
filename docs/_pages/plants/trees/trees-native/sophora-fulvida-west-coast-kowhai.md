@@ -26,9 +26,13 @@ attributes:
   - Waitakere kowhai
 images:
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-Sophora_fulvida_tree%20(1).jpg
+  path: "/uploads/images/Te%20Henui/Trees/1-Sophora_fulvida_tree%20(1).jpg"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-Sophora%20fulvida..jpg
+  path: "/uploads/images/Te%20Henui/Trees/1-Sophora%20fulvida..jpg"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-Sophora_fulvida_kowhai_flowers.jpg
+  path: "/uploads/images/Te%20Henui/Trees/1-Sophora_fulvida_kowhai_flowers.jpg"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-Sophora_fulvida_leaves.jpg
+  path: "/uploads/images/Te%20Henui/Trees/1-Sophora_fulvida_leaves.jpg"
 permalink: plants/trees/trees-native/sophora_fulvida.html
 layout: page
 title: Sophora fulvida (West coast kowhai)

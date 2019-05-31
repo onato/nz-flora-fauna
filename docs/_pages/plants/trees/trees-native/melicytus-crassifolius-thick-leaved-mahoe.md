@@ -24,12 +24,15 @@ images:
   width: 1600
   height: 1200
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
+  path: "/image_files/0000/0008/1608/Melicytus_crassifolius__Thick-leaved_Mahoe_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1613/Melicytus_crassifolius__Thick-leaved_Mahoe_-001.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0008/1613/Melicytus_crassifolius__Thick-leaved_Mahoe_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/1618/Melicytus_crassifolius__Thick-leaved_Mahoe_-002.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0008/1618/Melicytus_crassifolius__Thick-leaved_Mahoe_-002.JPG"
 permalink: plants/trees/trees-native/melicytus_crassifolius.html
 layout: page
 title: Melicytus crassifolius (Thick-leaved Mahoe)

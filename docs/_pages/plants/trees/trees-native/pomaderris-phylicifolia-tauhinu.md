@@ -29,6 +29,7 @@ images:
   width: 1200
   height: 900
   caption: Photographed in November at Otari Wilton Bush Reserve, Wellington.
+  path: "/image_files/0000/0008/2808/Pomaderris_phylicifolia-001.JPG"
 permalink: plants/trees/trees-native/pomaderris_phylicifolia.html
 layout: page
 title: Pomaderris phylicifolia (Tauhinu)

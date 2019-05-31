@@ -28,29 +28,36 @@ images:
   width: 1200
   height: 1600
   caption: Photographed at Te Kainga Marire Gardens, Spencer Place, New Plymouth
+  path: "/image_files/0000/0007/0729/Alseuosmia_macrophylla_Toropapa__Large-leaved_Toropapa.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5808/Toropapa.jpg
   width: 1600
   height: 1200
   caption: The strong-smelling, red, tubular drooping flower.  A pure white flower
     form was discovered in the Waitakere Ranges, Auckland in 2006
+  path: "/image_files/0000/0012/5808/Toropapa.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1453/1-Alseuosmia_macrophylla_pink_form-008.JPG
   width: 1600
   height: 1202
   caption: Flowers a pink form
+  path: "/image_files/0000/0013/1453/1-Alseuosmia_macrophylla_pink_form-008.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/1448/1-Alseuosmia_macrophylla_pink_form-002.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0013/1448/1-Alseuosmia_macrophylla_pink_form-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/2034/Alseuosmia_macrophylla__Toropapa_.JPG
   width: 800
   height: 600
   caption: The trees red berries February, March
+  path: "/image_files/0000/0005/2034/Alseuosmia_macrophylla__Toropapa_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/0734/Alseuosmia_macrophylla__Toropapa_-004.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0007/0734/Alseuosmia_macrophylla__Toropapa_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/9204/Alseuosmia_macrophylla_Toropapa__Large-leaved_Toropapa-001.JPG
   width: 1024
   height: 768
   caption: Another of the leaf shapes
+  path: "/image_files/0000/0003/9204/Alseuosmia_macrophylla_Toropapa__Large-leaved_Toropapa-001.JPG"
 permalink: plants/trees/trees-native/alseuosmia_macrophylla.html
 layout: page
 title: Alseuosmia macrophylla (Large-leaved toropapa)

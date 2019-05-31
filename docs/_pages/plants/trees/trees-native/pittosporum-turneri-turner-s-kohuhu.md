@@ -24,17 +24,21 @@ images:
   width: 900
   height: 1200
   caption: Photographed at Otari Wilton Bush Reserve, Wellington.
+  path: "/image_files/0000/0005/6264/Pittosporum_turneri-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6259/Pittosporum_turneri-004.JPG
   width: 800
   height: 639
   caption: Pittosporum turneri divaricated branches.
+  path: "/image_files/0000/0005/6259/Pittosporum_turneri-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/7924/Pittosporum_turneri___Turner_s_kohuhu.JPG
   width: 600
   height: 450
   caption: The tiny leaves.
+  path: "/image_files/0000/0005/7924/Pittosporum_turneri___Turner_s_kohuhu.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/7919/Pittosporum_turneri___Turner_s_kohuhu-001.JPG
   width: 525
   height: 700
+  path: "/image_files/0000/0005/7919/Pittosporum_turneri___Turner_s_kohuhu-001.JPG"
 permalink: plants/trees/trees-native/pittosporum_turneri.html
 layout: page
 title: Pittosporum turneri (Turner's kohuhu)

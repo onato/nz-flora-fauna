@@ -21,12 +21,15 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6364/Gaultheria_colensoi_.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0007/6364/Gaultheria_colensoi_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6369/Gaultheria_colensoi_-001.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0007/6369/Gaultheria_colensoi_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/6374/Gaultheria_colensoi_-002.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0007/6374/Gaultheria_colensoi_-002.JPG"
 permalink: plants/trees/trees-native/gaultheria_colensoi.html
 layout: page
 title: Gaultheria colensoi (Mountain snowberry)

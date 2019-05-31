@@ -22,14 +22,17 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1594/Hoheria_populnea__Purple_Wave___cultivar_.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0005/1594/Hoheria_populnea__Purple_Wave___cultivar_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1584/Hoheria_populnea__Purple_Wave___cultivar_-001.JPG
   width: 1024
   height: 770
   caption: The top surface of a leaf.
+  path: "/image_files/0000/0005/1584/Hoheria_populnea__Purple_Wave___cultivar_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1589/Hoheria_populnea__Purple_Wave___cultivar_-002.JPG
   width: 1024
   height: 771
   caption: This form displaying a purple leaf reverse.
+  path: "/image_files/0000/0005/1589/Hoheria_populnea__Purple_Wave___cultivar_-002.JPG"
 permalink: plants/trees/trees-native/hoheria_populnea.html
 layout: page
 title: Hoheria populnea (Purple Wave)

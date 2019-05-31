@@ -24,31 +24,39 @@ images:
   width: 1200
   height: 901
   caption: Photo was taken June
+  path: "/image_files/0000/0005/9009/Cordyline_obtecta.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/9004/Cordyline_obtecta-001.JPG
   width: 1600
   height: 1200
   caption: Fruits June.
+  path: "/image_files/0000/0005/9004/Cordyline_obtecta-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6054/Three_Kings_cabbage_tree__Cordyline_obtecta-011.JPG
   width: 1024
   height: 686
+  path: "/image_files/0000/0002/6054/Three_Kings_cabbage_tree__Cordyline_obtecta-011.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6034/Three_Kings_cabbage_tree__Cordyline_obtecta-001.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0002/6034/Three_Kings_cabbage_tree__Cordyline_obtecta-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6059/Three_Kings_cabbage_tree__Cordyline_obtecta-012.JPG
   width: 1024
   height: 686
   caption: The developing fruit panicles of Cordyline obtecta January
+  path: "/image_files/0000/0002/6059/Three_Kings_cabbage_tree__Cordyline_obtecta-012.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6044/Three_Kings_cabbage_tree__Cordyline_obtecta-006.JPG
   width: 900
   height: 1200
+  path: "/image_files/0000/0002/6044/Three_Kings_cabbage_tree__Cordyline_obtecta-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6039/Three_Kings_cabbage_tree__Cordyline_obtecta-005.JPG
   width: 800
   height: 600
   caption: The surface of the leaf
+  path: "/image_files/0000/0002/6039/Three_Kings_cabbage_tree__Cordyline_obtecta-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/6049/Three_Kings_cabbage_tree__Cordyline_obtecta-008.JPG
   width: 800
   height: 536
   caption: The rough fissured bark.
+  path: "/image_files/0000/0002/6049/Three_Kings_cabbage_tree__Cordyline_obtecta-008.JPG"
 permalink: plants/trees/trees-native/cordyline_obtecta.html
 layout: page
 title: Cordyline obtecta

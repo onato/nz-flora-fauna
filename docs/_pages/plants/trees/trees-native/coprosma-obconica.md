@@ -21,21 +21,18 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3524/Coprosma_obconica.JPG
   width: 800
   height: 600
-  caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
-    Wellington.
+  path: "/image_files/0000/0005/3524/Coprosma_obconica.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3514/Coprosma_obconica-001.JPG
   width: 1024
   height: 768
-  caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
-    Wellington.
+  path: "/image_files/0000/0005/3514/Coprosma_obconica-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3519/Coprosma_obconica-003.JPG
   width: 600
   height: 449
-  caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
-    Wellington.
+  path: "/image_files/0000/0005/3519/Coprosma_obconica-003.JPG"
 permalink: plants/trees/trees-native/coprosma_obconica.html
 layout: page
-title: Coprosma neglecta
+title: Coprosma obconica
 
 ---
 Coprosma obconica is a suberect to erect, heavily branched, divaricating shrub 2-3.5 x 0.8-1 m. In the North Island, there are scattered populations in the Hautapu valley near Taihape and in the Tauwera Valley near Masterton. It is found on DUrville Island and Mt. Burnett south to Southland and Fiordland. It occupies a wide range of habitats, from estuarine shrublands, braided river bars, lowland podocarp. The species is a basicole preferring to grow on base-rich substrates (limestone, marble, calcareous mudstone, recent alluvium).

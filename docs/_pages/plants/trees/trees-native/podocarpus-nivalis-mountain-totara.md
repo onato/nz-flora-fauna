@@ -26,24 +26,30 @@ images:
   width: 1600
   height: 1200
   caption: This plant was photographed at Otari Wilton Nature Reserve, Wellington.
+  path: "/image_files/0000/0009/6183/Podocarpus_nivalis__Snow_Totara.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0009/6188/Podocarpus_nivalis__Snow_Totara-001.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0009/6188/Podocarpus_nivalis__Snow_Totara-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/3643/1-Podocarpus_nivalis.JPG
   width: 1200
   height: 900
   caption: Leaves of a young tree.
+  path: "/image_files/0000/0011/3643/1-Podocarpus_nivalis.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8349/Podocarpus_nivalis__Mountain_totara_.JPG
   width: 800
   height: 601
+  path: "/image_files/0000/0005/8349/Podocarpus_nivalis__Mountain_totara_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/8344/Podocarpus_nivalis__Mountain_totara_-002.JPG
   width: 600
   height: 451
+  path: "/image_files/0000/0005/8344/Podocarpus_nivalis__Mountain_totara_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/8469/Podocarpus_nivalis_Podocarpus__Jacks_Pass_-002.JPG
   width: 800
   height: 601
   caption: Podocarpus “Jack's Pass" is a more dense form of Podocarpus nivalis, from
     Jack's Pass near Molesworth Station, New Zealand.
+  path: "/image_files/0000/0007/8469/Podocarpus_nivalis_Podocarpus__Jacks_Pass_-002.JPG"
 permalink: plants/trees/trees-native/podocarpus_nivalis.html
 layout: page
 title: Podocarpus nivalis (Snow totara)

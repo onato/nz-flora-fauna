@@ -21,7 +21,9 @@ attributes:
 images:
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Pittosporum%20patulum-001.JPG
   caption: Photographed in the Temple catchment (near Lake Ohau).
+  path: "/uploads/images/Te%20Henui/Trees/Pittosporum%20patulum-001.JPG"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Pittosporum%20patulum.JPG
+  path: "/uploads/images/Te%20Henui/Trees/Pittosporum%20patulum.JPG"
 permalink: plants/trees/trees-native/pittosporum_patulum.html
 layout: page
 title: Pittosporum patulum (Pitpat)

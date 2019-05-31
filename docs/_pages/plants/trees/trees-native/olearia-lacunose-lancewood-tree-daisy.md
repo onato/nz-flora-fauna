@@ -24,18 +24,22 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/5233/1-Olearia_lacunose._n.jpg
   width: 830
   height: 622
+  path: "/image_files/0000/0013/5233/1-Olearia_lacunose._n.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/2409/Olearia_lacunosa__lancewood_tree_daisy-001.JPG
   width: 900
   height: 1200
   caption: A young plant photographed at Otari Native Botanic Garden and Wilton's
     Bush Reserve. Wellington.
+  path: "/image_files/0000/0003/2409/Olearia_lacunosa__lancewood_tree_daisy-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7844/Olearia_lacunosa_Lancewood_tree_daisy-001.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0004/7844/Olearia_lacunosa_Lancewood_tree_daisy-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0013/5228/1-Olearia_lacunose_3.jpg
   width: 720
   height: 960
   caption: A photo showing the brown tomentum on the underside of a leaf.
+  path: "/image_files/0000/0013/5228/1-Olearia_lacunose_3.jpg"
 permalink: plants/trees/trees-native/olearia_lacunosa.html
 layout: page
 title: Olearia lacunosa (Lancewood Tree Daisy)

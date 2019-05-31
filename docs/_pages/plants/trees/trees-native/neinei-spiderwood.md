@@ -27,31 +27,39 @@ images:
   width: 1200
   height: 900
   caption: Photographed at Pukekura Park, New Plymouth.
+  path: "/image_files/0000/0004/1064/Dracophyllum_latifolium__Neinei__Spiderwood.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8509/Dracophyllum_latifolium__3_.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0003/8509/Dracophyllum_latifolium__3_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8514/Dracophyllum_latifolium__4_.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0003/8514/Dracophyllum_latifolium__4_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8524/Dracophyllum_latifolium-009.JPG
   width: 1200
   height: 900
   caption: Photo showing the inflorescences growing from below the terminal leaves.
+  path: "/image_files/0000/0003/8524/Dracophyllum_latifolium-009.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8494/Dracophyllum_latifolium.JPG
   width: 1024
   height: 768
   caption: A stem below the terminal leaf cluster.
+  path: "/image_files/0000/0003/8494/Dracophyllum_latifolium.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8499/Dracophyllum_latifolium__1_.JPG
   width: 1200
   height: 900
   caption: The main trunk.
+  path: "/image_files/0000/0003/8499/Dracophyllum_latifolium__1_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6179/Dracophyllum_latifolium__Neinei__Spiderwood.JPG
   width: 1200
   height: 901
   caption: Photographed at Otari Native Botanic Garden Wellington.
+  path: "/image_files/0000/0004/6179/Dracophyllum_latifolium__Neinei__Spiderwood.JPG"
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Diagnostic%20characters%20of%20Dracophyllum.jpg
   width: 1088
   height: 600
+  path: "/uploads/images/Te%20Henui/Trees/Diagnostic%20characters%20of%20Dracophyllum.jpg"
 permalink: plants/trees/trees-native/dracophyllum_latifolium.html
 layout: page
 title: Dracophyllum latifolium (Neinei, Spiderwood)

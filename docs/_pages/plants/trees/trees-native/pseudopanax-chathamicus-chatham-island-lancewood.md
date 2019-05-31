@@ -25,9 +25,11 @@ images:
   width: 1200
   height: 1600
   caption: Juvenile trees.
+  path: "/image_files/0000/0011/5088/Pseudopanax_chathamicus__2_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/5083/Pseudopanax_chathamicus__1_.JPG
   width: 1200
   height: 1600
+  path: "/image_files/0000/0011/5083/Pseudopanax_chathamicus__1_.JPG"
 permalink: plants/trees/trees-native/pseudopanax_chathamicus.html
 layout: page
 title: Pseudopanax chathamicus (Chatham Island Lancewood)

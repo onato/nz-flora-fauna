@@ -26,26 +26,32 @@ images:
   height: 1600
   caption: Adult tree photographed at Otari Native Botanic Garden and Wilton's Bush
     Reserve. Wellington.
+  path: "/image_files/0000/0003/6489/Raukaua_edgerleyi__Pseudopanax_Raukaua__Raukaua.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6504/Raukaua_edgerleyi__Pseudopanax_Raukaua__Raukaua-003.JPG
   width: 1024
   height: 768
   caption: Adult leaves.
+  path: "/image_files/0000/0003/6504/Raukaua_edgerleyi__Pseudopanax_Raukaua__Raukaua-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6509/Raukaua_edgerleyi__Pseudopanax_Raukaua__Raukaua-004.JPG
   width: 640
   height: 480
+  path: "/image_files/0000/0003/6509/Raukaua_edgerleyi__Pseudopanax_Raukaua__Raukaua-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6494/Raukaua_edgerleyi__Pseudopanax_Raukaua__Raukaua-001.JPG
   width: 1024
   height: 768
   caption: An adult leaf.
+  path: "/image_files/0000/0003/6494/Raukaua_edgerleyi__Pseudopanax_Raukaua__Raukaua-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6499/Raukaua_edgerleyi__Pseudopanax_Raukaua__Raukaua-002.JPG
   width: 1024
   height: 769
   caption: Underside of an adult leaf.
+  path: "/image_files/0000/0003/6499/Raukaua_edgerleyi__Pseudopanax_Raukaua__Raukaua-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/6714/Raukaua-edgerleyi-juvenile-dissected-leaves.jpg
   width: 900
   height: 675
   caption: A photograph of a young plant showing the juvenile leaves that are deeply
     incised on the margins.
+  path: "/image_files/0000/0003/6714/Raukaua-edgerleyi-juvenile-dissected-leaves.jpg"
 permalink: plants/trees/trees-native/raukaua_edgerleyi.html
 layout: page
 title: Raukaua edgerleyi (Pseudopanax Raukaua)

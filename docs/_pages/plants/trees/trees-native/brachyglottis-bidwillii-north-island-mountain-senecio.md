@@ -28,10 +28,12 @@ images:
   caption: Photographed on the Tongariro Alpine Crossing.(click to enlarge) The margins
     of the leaves are covered in white indumentum. The underside of the leaves are
     totally covered in it.
+  path: "/image_files/0000/0010/2828/Brachyglottis_bidwillii_-001.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/4804/Brachyglottis_bidwillii__Thick-Leaved_Shrub_Groundsel__North_Island_Mountain_Senecio-001.JPG
   width: 1600
   height: 1203
   caption: Photographed at Otira Wilton Bush Reserve
+  path: "/image_files/0000/0004/4804/Brachyglottis_bidwillii__Thick-Leaved_Shrub_Groundsel__North_Island_Mountain_Senecio-001.JPG"
 permalink: plants/trees/trees-native/brachyglottis_bidwillii.html
 layout: page
 title: Brachyglottis bidwillii (Thick-Leaved Shrub Groundsel)

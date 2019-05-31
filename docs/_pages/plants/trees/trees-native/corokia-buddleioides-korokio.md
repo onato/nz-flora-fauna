@@ -24,17 +24,22 @@ images:
   width: 1200
   height: 900
   caption: A small bush photographed at Otari Wilton Bush Reserve.
+  path: "/image_files/0000/0004/6109/Corokia_buddleiodes-001.JPG"
 - src: uploads/images/Te%20Henui/Trees/Corokia_buddleioides%20Wikipedia.jpg
+  path: uploads/images/Te%20Henui/Trees/Corokia_buddleioides%20Wikipedia.jpg
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6119/Corokia_buddleiodes-003.JPG
   width: 600
   height: 450
   caption: The white tomentum on the underside of a leaf.
+  path: "/image_files/0000/0004/6119/Corokia_buddleiodes-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/9329/Coriaria_arborea__Tutu-15.JPG
   width: 800
   height: 450
+  path: "/image_files/0000/0001/9329/Coriaria_arborea__Tutu-15.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/9329/Coriaria_arborea__Tutu-15.JPG
   width: 800
   height: 450
+  path: "/image_files/0000/0001/9329/Coriaria_arborea__Tutu-15.JPG"
 permalink: plants/trees/trees-native/corokia_buddleioides.html
 layout: page
 title: Corokia buddleioides (Korokio)

@@ -26,18 +26,22 @@ images:
 - src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Litsea%20calicaris%20tree.jpg
   caption: A Litsea calicaris growing in the grounds of Penrose High School, Auckland,
     New Zealand
+  path: "/uploads/images/Te%20Henui/Trees/Litsea%20calicaris%20tree.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6659/Litsea_calicaris__Mangeao_-003.JPG
   width: 1600
   height: 1200
   caption: A small tree growing at Otari Wilton Bush Botanical Reserve.
+  path: "/image_files/0000/0004/6659/Litsea_calicaris__Mangeao_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6654/Litsea_calicaris__Mangeao_-002.JPG
   width: 1024
   height: 767
   caption: The leaves of the mangeao have prominent veins.
+  path: "/image_files/0000/0004/6654/Litsea_calicaris__Mangeao_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6669/Litsea_calicaris__Mangeao_-005.JPG
   width: 600
   height: 451
   caption: The underside of a leaf that is a bluish-green colour.
+  path: "/image_files/0000/0004/6669/Litsea_calicaris__Mangeao_-005.JPG"
 permalink: plants/trees/trees-native/litsea_calicaris.html
 layout: page
 title: Litsea calicaris (Mangeao)

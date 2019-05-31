@@ -23,17 +23,21 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4914/Coprosma_rhamnoides_Twiggy_coprosma_-004.JPG
   width: 768
   height: 1024
+  path: "/image_files/0000/0007/4914/Coprosma_rhamnoides_Twiggy_coprosma_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/3864/Coprosma_rhamnoides_Twiggy_coprosma-018.JPG
   width: 600
   height: 450
   caption: The berries, which turn dark red or black as they ripen (March)
+  path: "/image_files/0000/0005/3864/Coprosma_rhamnoides_Twiggy_coprosma-018.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4909/Coprosma_rhamnoides_Twiggy_coprosma_-002.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0007/4909/Coprosma_rhamnoides_Twiggy_coprosma_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/4904/Coprosma_rhamnoides_Twiggy_coprosma_-001.JPG
   width: 1024
   height: 768
   caption: The leaves are very variable in shape.
+  path: "/image_files/0000/0007/4904/Coprosma_rhamnoides_Twiggy_coprosma_-001.JPG"
 permalink: plants/trees/trees-native/coprosma_rhamnoides.html
 layout: page
 title: Coprosma rhamnoides

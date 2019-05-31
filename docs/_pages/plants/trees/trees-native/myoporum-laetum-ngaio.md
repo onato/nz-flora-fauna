@@ -26,36 +26,46 @@ images:
   width: 1600
   height: 1201
   caption: Myoporum laetum growing roadside north of  Kaikoura, East Coast South Island.
+  path: "/image_files/0000/0007/8998/Myoporum_laetum__Ngaio-008.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4289/Myoporum_laetum__Ngaio.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0006/4289/Myoporum_laetum__Ngaio.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5204/Myoporum_laetum__Ngaio-004.JPG
   width: 1024
   height: 769
+  path: "/image_files/0000/0004/5204/Myoporum_laetum__Ngaio-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4269/Myoporum_laetum__Ngaio-001.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0006/4269/Myoporum_laetum__Ngaio-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4274/Myoporum_laetum__Ngaio-002.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0006/4274/Myoporum_laetum__Ngaio-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/0088/Ngaio__Myoporum_laetum_-001.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0008/0088/Ngaio__Myoporum_laetum_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/0093/Ngaio__Myoporum_laetum_-002.JPG
   width: 1200
   height: 901
+  path: "/image_files/0000/0008/0093/Ngaio__Myoporum_laetum_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4279/Myoporum_laetum__Ngaio-003.JPG
   width: 1024
   height: 768
   caption: The top surface of a leaf with its densely packed oil glands.
+  path: "/image_files/0000/0006/4279/Myoporum_laetum__Ngaio-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/0098/Ngaio__Myoporum_laetum_-003.JPG
   width: 1024
   height: 769
   caption: The underside of a leaf.
+  path: "/image_files/0000/0008/0098/Ngaio__Myoporum_laetum_-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5199/Myoporum_laetum__Ngaio-003.JPG
   width: 1024
   height: 768
   caption: Leaves on a young shrub. Very small serrations on upper leaf margins.
+  path: "/image_files/0000/0004/5199/Myoporum_laetum__Ngaio-003.JPG"
 permalink: plants/trees/trees-native/myoporum_laetum.html
 layout: page
 title: Myoporum laetum (Ngaio)

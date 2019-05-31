@@ -28,13 +28,16 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/1978/1-_Lophozonia_menziesii__was_Nothofagus_menziesii-001.JPG
   width: 1500
   height: 2000
+  path: "/image_files/0000/0011/1978/1-_Lophozonia_menziesii__was_Nothofagus_menziesii-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/1983/1-_Lophozonia_menziesii__was_Nothofagus_menziesii-002.JPG
   width: 1024
   height: 769
   caption: The round serrated leaves of Lophozonia menziesii.
+  path: "/image_files/0000/0011/1983/1-_Lophozonia_menziesii__was_Nothofagus_menziesii-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/1973/1-_Lophozonia_menziesii__was_Nothofagus_menziesii.JPG
   width: 600
   height: 450
+  path: "/image_files/0000/0011/1973/1-_Lophozonia_menziesii__was_Nothofagus_menziesii.JPG"
 permalink: plants/trees/trees-native/lophozonia_menziesii.html
 layout: page
 title: Lophozonia menziesi (Silver beech)

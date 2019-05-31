@@ -28,46 +28,58 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/9623/Brachyglottis_repanda__Rangiora_.JPG
   width: 2000
   height: 1500
+  path: "/image_files/0000/0010/9623/Brachyglottis_repanda__Rangiora_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1959/Brachyglottis_repanda_flowers.JPG
   width: 1024
   height: 770
+  path: "/image_files/0000/0006/1959/Brachyglottis_repanda_flowers.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/4249/Brachyglottis_repande__rangiora-1.JPG
   width: 1024
   height: 768
   caption: Flower buds.
+  path: "/image_files/0000/0002/4249/Brachyglottis_repande__rangiora-1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/9633/Brachyglottis_repanda__Rangiora_-001.JPG
   width: 2500
   height: 1875
   caption: Flowers September October.
+  path: "/image_files/0000/0010/9633/Brachyglottis_repanda__Rangiora_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/9628/Brachyglottis_repanda__Rangiora_-002.JPG
   width: 2000
   height: 1500
+  path: "/image_files/0000/0010/9628/Brachyglottis_repanda__Rangiora_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1949/Brachyglottis_repanda_flowers-001.JPG
   width: 1024
   height: 772
+  path: "/image_files/0000/0006/1949/Brachyglottis_repanda_flowers-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/1964/Brachyglottis_repanda_flowers__Rangiora_flowers.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0006/1964/Brachyglottis_repanda_flowers__Rangiora_flowers.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/3539/Brachyglottis_repanda__Rangiora_.JPG
   width: 1600
   height: 1200
   caption: The ripe seeds that are about to be dispersed by the wind.
+  path: "/image_files/0000/0004/3539/Brachyglottis_repanda__Rangiora_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/2208/rangiora_leaves.jpg
   width: 1000
   height: 750
+  path: "/image_files/0000/0000/2208/rangiora_leaves.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0008/9663/Large_Brachyglottis_repanda_leaf__rangiora.JPG
   width: 1024
   height: 770
   caption: A large 22 cm leaf.
+  path: "/image_files/0000/0008/9663/Large_Brachyglottis_repanda_leaf__rangiora.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/4254/Brachyglottis_repande__rangiora-3.JPG
   width: 1200
   height: 900
   caption: The underside of the leaf was used to write messages on and as toilet paper
     by NZ's early bushmen.
+  path: "/image_files/0000/0002/4254/Brachyglottis_repande__rangiora-3.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4523/1-Brachyglottis_repanda__Rangiora_-001.JPG
   width: 1200
   height: 900
   caption: Underside of leaf with sun illuminating the veins.
+  path: "/image_files/0000/0011/4523/1-Brachyglottis_repanda__Rangiora_-001.JPG"
 permalink: plants/trees/trees-native/brachyglottis_repanda.html
 layout: page
 title: Brachyglottis repanda (Rangiora)

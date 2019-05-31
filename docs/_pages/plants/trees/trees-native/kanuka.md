@@ -26,36 +26,46 @@ images:
   width: 500
   height: 667
   caption: An old mature tree.
+  path: "/image_files/0000/0000/6113/Kanuka2.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4323/1-Kunzea_ericoides__Kanuka.JPG
   width: 2000
   height: 1613
   caption: Kanuka in flower December edge of Lake Wanaka
+  path: "/image_files/0000/0011/4323/1-Kunzea_ericoides__Kanuka.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4328/1-Kunzea_ericoides__Kanuka-001.JPG
   width: 2000
   height: 1500
+  path: "/image_files/0000/0011/4328/1-Kunzea_ericoides__Kanuka-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/6103/Kunzea_ericoides_Kanuka_flowers_1-5.JPG
   width: 800
   height: 600
+  path: "/image_files/0000/0000/6103/Kunzea_ericoides_Kanuka_flowers_1-5.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/2618/1-Kunzea_ericoides__Kanuka_.JPG
   width: 1600
   height: 1202
+  path: "/image_files/0000/0011/2618/1-Kunzea_ericoides__Kanuka_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/6108/Kunzea_ericoides_Kanuka_flowers_1.JPG
   width: 800
   height: 599
+  path: "/image_files/0000/0000/6108/Kunzea_ericoides_Kanuka_flowers_1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/2623/1-Kunzea_ericoides__Kanuka_-002.JPG
   width: 1198
   height: 1600
+  path: "/image_files/0000/0011/2623/1-Kunzea_ericoides__Kanuka_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/2633/1-Kunzea_ericoides__Kanuka_-004.JPG
   width: 1024
   height: 768
+  path: "/image_files/0000/0011/2633/1-Kunzea_ericoides__Kanuka_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0011/4318/1-Kunzea_ericoides__Kanuka-006.JPG
   width: 800
   height: 600
   caption: A New Zealand native bee on Kanuka flower.
+  path: "/image_files/0000/0011/4318/1-Kunzea_ericoides__Kanuka-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/6848/Kanuka_trunk.JPG
   width: 441
   height: 640
   caption: Kanuka trunk.
+  path: "/image_files/0000/0000/6848/Kanuka_trunk.JPG"
 permalink: plants/trees/trees-native/kunzea_ericoides.html
 layout: page
 title: Kunzea ericoides (Kanuka)

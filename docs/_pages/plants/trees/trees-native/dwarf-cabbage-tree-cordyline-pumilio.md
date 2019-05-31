@@ -27,21 +27,26 @@ images:
   width: 1600
   height: 1200
   caption: Photographed late December at Pukekura Park, New Plymouth.
+  path: "/image_files/0000/0005/9784/Cordyline_pumilio.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/9774/Cordyline_pumilio-007.JPG
   width: 1200
   height: 1600
+  path: "/image_files/0000/0005/9774/Cordyline_pumilio-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/9769/Cordyline_pumilio-001.JPG
   width: 600
   height: 450
+  path: "/image_files/0000/0005/9769/Cordyline_pumilio-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/3604/Cordyline_pumilio__Dwarf_cabbage_tree-001.JPG
   width: 1024
   height: 768
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve,
     Wellington. 
+  path: "/image_files/0000/0003/3604/Cordyline_pumilio__Dwarf_cabbage_tree-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8139/cordyline_pumilio.JPG
   width: 1024
   height: 770
   caption: Close up of a leaf.
+  path: "/image_files/0000/0003/8139/cordyline_pumilio.JPG"
 permalink: plants/trees/trees-native/cordyline_pumilio.html
 layout: page
 title: Cordyline pumilio (Dwarf cabbage tree)

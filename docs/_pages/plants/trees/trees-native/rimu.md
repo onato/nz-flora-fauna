@@ -24,46 +24,57 @@ images:
   width: 1600
   height: 899
   caption: The Rimu forest at Kakapo.
+  path: "/image_files/0000/0003/6864/Old_Rimu_Forest_at_Kakapo.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/1929/Prumnopitys_ferruginea__Rimu-001.jpg
   width: 2500
   height: 1875
   caption: The crown of an old mature rimu Westcoast, South Island.
+  path: "/image_files/0000/0007/1929/Prumnopitys_ferruginea__Rimu-001.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0010/7043/Dacrydium_cupressinum__rimu.JPG
   width: 2176
   height: 3477
   caption: A young rimu with its distinctive weeping form.
+  path: "/image_files/0000/0010/7043/Dacrydium_cupressinum__rimu.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0000/3463/rimu_leaves.jpg
   width: 600
   height: 896
   caption: Rimu Leaves.
+  path: "/image_files/0000/0000/3463/rimu_leaves.jpg"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0007/3374/Dacrydium_cupressinum__Rimu__Red_Pine_.JPG
   width: 1024
   height: 768
   caption: Rimu fruit Photographed North East Taranaki late March.
+  path: "/image_files/0000/0007/3374/Dacrydium_cupressinum__Rimu__Red_Pine_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/7149/Rimu__Fruit__Dacrydium_cupressinum-9.JPG
   width: 800
   height: 602
   caption: The fruit of the Rimu.
+  path: "/image_files/0000/0001/7149/Rimu__Fruit__Dacrydium_cupressinum-9.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/7374/Dacrydium_cupressinum_branch.JPG
   width: 1024
   height: 768
   caption: Close up of a drooping branch.
+  path: "/image_files/0000/0003/7374/Dacrydium_cupressinum_branch.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0003/8809/Dacrydium_cupressinum__Rimu__Red_Pine.JPG
   width: 1071
   height: 1600
   caption: Close up of a drooping branch.
+  path: "/image_files/0000/0003/8809/Dacrydium_cupressinum__Rimu__Red_Pine.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/4604/Trunk_Dacrydium_cupressinum_with_watermark_pattern.JPG
   width: 709
   height: 1024
   caption: Watermark pattern on an old rimu trunk in the Pureora forest.
+  path: "/image_files/0000/0001/4604/Trunk_Dacrydium_cupressinum_with_watermark_pattern.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5124/Dacrydium_cupressinum__Rimu.JPG
   width: 800
   height: 600
   caption: A giant trunk of an ancient rimu in the Pureora forest.
+  path: "/image_files/0000/0001/5124/Dacrydium_cupressinum__Rimu.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/5119/Dacrydium_cupressinum__Rimu-1.JPG
   width: 600
   height: 800
   caption: Giant ancient rimu in the Pureora forest.
+  path: "/image_files/0000/0001/5119/Dacrydium_cupressinum__Rimu-1.JPG"
 permalink: plants/trees/trees-native/dacrydium_cupressinum.html
 layout: page
 title: Dacrydium cupressinum (Rimu)

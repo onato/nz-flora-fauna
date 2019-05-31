@@ -29,33 +29,42 @@ images:
   width: 1024
   height: 766
   caption: Photographed at Otari Wilton Bush Reserve.
+  path: "/image_files/0000/0004/6874/Melicytus_novae-zelandiae.__141_.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6864/Melicytus_novae-zelandiae__Coastal_Mahoe_1.JPG
   width: 1200
   height: 901
+  path: "/image_files/0000/0004/6864/Melicytus_novae-zelandiae__Coastal_Mahoe_1.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/6854/Melicytus_novae-zelandiae__Coastal_Mahoe_-004.JPG
   width: 600
   height: 451
+  path: "/image_files/0000/0004/6854/Melicytus_novae-zelandiae__Coastal_Mahoe_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/7573/1-Melicytus_novae-zelandiae__Coastal_Mahoe_-002.JPG
   width: 1600
   height: 1203
   caption: Photos below are of a small shrub planted at Port Taranaki
+  path: "/image_files/0000/0012/7573/1-Melicytus_novae-zelandiae__Coastal_Mahoe_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/7568/1-Melicytus_novae-zelandiae__Coastal_Mahoe_-001.JPG
   width: 1600
   height: 1201
+  path: "/image_files/0000/0012/7568/1-Melicytus_novae-zelandiae__Coastal_Mahoe_-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/7583/1-Melicytus_novae-zelandiae__Coastal_Mahoe_-008.JPG
   width: 1600
   height: 1204
+  path: "/image_files/0000/0012/7583/1-Melicytus_novae-zelandiae__Coastal_Mahoe_-008.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/7578/1-Melicytus_novae-zelandiae__Coastal_Mahoe_-005.JPG
   width: 1600
   height: 1202
   caption: The leaf underside.
+  path: "/image_files/0000/0012/7578/1-Melicytus_novae-zelandiae__Coastal_Mahoe_-005.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/7593/3-Melicytus_novae-zelandiae__Coastal_Mahoe_-007.JPG
   width: 1600
   height: 1202
   caption: Another leaf shape (underside).
+  path: "/image_files/0000/0012/7593/3-Melicytus_novae-zelandiae__Coastal_Mahoe_-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/7588/2-Melicytus_novae-zelandiae__Coastal_Mahoe_-006.JPG
   width: 1600
   height: 1203
+  path: "/image_files/0000/0012/7588/2-Melicytus_novae-zelandiae__Coastal_Mahoe_-006.JPG"
 permalink: plants/trees/trees-native/melicytus_novae-zelandiae.html
 layout: page
 title: Melicytus novae-zelandiae (Coastal Mahoe)

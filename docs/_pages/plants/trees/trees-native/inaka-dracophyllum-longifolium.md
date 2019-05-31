@@ -24,32 +24,40 @@ images:
   width: 2000
   height: 1339
   caption: Dracophyllum longifolium var. filifolium photographed Mt Egmont/Taranaki
+  path: "/image_files/0000/0006/4559/Dracophyllum_longifolium_var.filifolium.filifolium_-008.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4549/Dracophyllum_longifolium_var.filifolium.filifolium_-010.JPG
   width: 900
   height: 1200
+  path: "/image_files/0000/0006/4549/Dracophyllum_longifolium_var.filifolium.filifolium_-010.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/4554/Dracophyllum_longifolium_var.filifolium.filifolium_-011.JPG
   width: 768
   height: 1024
   caption: Capsules.
+  path: "/image_files/0000/0006/4554/Dracophyllum_longifolium_var.filifolium.filifolium_-011.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/2934/Dracophyllum_longifolium__Inaka_-002.JPG
   width: 2000
   height: 1500
   caption: A young shrub
+  path: "/image_files/0000/0006/2934/Dracophyllum_longifolium__Inaka_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7164/Inaka__Dracophyllum_longifolium_-004.JPG
   width: 1200
   height: 804
+  path: "/image_files/0000/0002/7164/Inaka__Dracophyllum_longifolium_-004.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7174/Inaka__Dracophyllum_longifolium_-006.JPG
   width: 1200
   height: 804
   caption: A shrub with bronze leaves Photographed Mt Taranaki Stratford side plateau.
+  path: "/image_files/0000/0002/7174/Inaka__Dracophyllum_longifolium_-006.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7159/Inaka__Dracophyllum_longifolium_-002.JPG
   width: 800
   height: 600
   caption: The photographs below were taken at <a href="http://www.tekaingamarire.co.nz/">Te
     Kainga Marire Gardens</a> Spencer Place.
+  path: "/image_files/0000/0002/7159/Inaka__Dracophyllum_longifolium_-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0002/7154/Inaka__Dracophyllum_longifolium_-001.JPG
   width: 800
   height: 599
+  path: "/image_files/0000/0002/7154/Inaka__Dracophyllum_longifolium_-001.JPG"
 permalink: plants/trees/trees-native/dracophyllum_longifolium.html
 layout: page
 title: Dracophyllum longifolium (Inaka)

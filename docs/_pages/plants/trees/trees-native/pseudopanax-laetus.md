@@ -21,28 +21,35 @@ images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6229/Pseudopanax_laetus.JPG
   width: 1600
   height: 1200
+  path: "/image_files/0000/0005/6229/Pseudopanax_laetus.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6214/Pseudopanax_laetus-001.JPG
   width: 1200
   height: 900
+  path: "/image_files/0000/0005/6214/Pseudopanax_laetus-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6224/Pseudopanax_laetus-007.JPG
   width: 1024
   height: 769
   caption: The top surface of a leaf.
+  path: "/image_files/0000/0005/6224/Pseudopanax_laetus-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/6219/Pseudopanax_laetus-003.JPG
   width: 1024
   height: 768
   caption: The undersurface of a leaf.
+  path: "/image_files/0000/0005/6219/Pseudopanax_laetus-003.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0005/1794/Pseudopanax_laetus-001.JPG
   width: 1200
   height: 901
   caption: Leaves of a young shrub.
+  path: "/image_files/0000/0005/1794/Pseudopanax_laetus-001.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/3729/pseudopanax_laetus-5.JPG
   width: 800
   height: 600
   caption: Berries forming.
+  path: "/image_files/0000/0001/3729/pseudopanax_laetus-5.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0001/3744/pseudopanax_laetus-31.JPG
   width: 800
   height: 602
+  path: "/image_files/0000/0001/3744/pseudopanax_laetus-31.JPG"
 permalink: plants/trees/trees-native/pseudopanax_laetus.html
 layout: page
 title: Pseudopanax laetus
