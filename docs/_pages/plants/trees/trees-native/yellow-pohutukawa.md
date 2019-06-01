@@ -5,6 +5,8 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/yellow-pohutukawa.html
 wikipedia: https://en.wikipedia.org/wiki/Metrosideros_excelsa
+nzflora:
+- http://www.nzflora.info/factsheet/Taxon/Metrosideros-excelsa.html
 attributes:
   kingdom:
   - Plantae

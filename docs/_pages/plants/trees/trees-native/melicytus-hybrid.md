@@ -4,6 +4,9 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/melicytus-hybrid.html
+nzflora:
+- http://www.nzflora.info/factsheet/Taxon/Melicytus-obovatus.html
+- http://www.nzflora.info/factsheet/Taxon/Melicytus-novae-zelandiae.html
 attributes:
   kingdom:
   - Plantae

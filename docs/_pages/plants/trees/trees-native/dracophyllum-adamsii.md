@@ -15,7 +15,7 @@ attributes:
   family: Ericaceae
   genus: Dracophyllum
   species: D. adamsii
-  binomial name: Dracophyllum adamsii
+  binomial name: Dracophyllum sinclairii
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/5369/Dracophyllum_adamsii.__267_.JPG
   width: 1600
@@ -32,7 +32,7 @@ images:
   height: 902
   caption: Photographed at Otari Wilton Bush Reserve.
   path: "/image_files/0000/0004/5379/Dracophyllum_adamsii.__269_.JPG"
-permalink: plants/trees/trees-native/dracophyllum_adamsii.html
+permalink: plants/trees/trees-native/dracophyllum_sinclairii.html
 layout: page
 title: Dracophyllum adamsii
 

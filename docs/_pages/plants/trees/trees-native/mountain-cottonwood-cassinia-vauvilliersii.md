@@ -14,12 +14,12 @@ attributes:
   family: Asteraceae
   tribe: Gnaphalieae
   genus: Ozothamnus
-  species: O. vauvilliersii
-  binomial name: Ozothamnus vauvilliersii
+  species: O. leptophyllus
+  binomial name: Ozothamnus leptophyllus
   synonyms:
   - Cassinia vauvilliersii
   - Cassinia leptophylla subsp vauvilliersii
-  - Ozothamnus leptophyllus,
+  - Ozothamnus leptophyllus
   common names:
   - Mountain Cottonwood
   - Mountain tauhinu
@@ -81,11 +81,11 @@ images:
   width: 767
   height: 1024
   path: "/image_files/0000/0004/7849/Ozothamnus_vauvilliersii-002.JPG"
-permalink: plants/trees/trees-native/ozothamnus_vauvilliersii.html
+permalink: plants/trees/trees-native/ozothamnus_leptophyllus.html
 layout: page
-title: Ozothamnus vauvilliersii (Mountain Cottonwood)
+title: Ozothamnus leptophyllus (Mountain Cottonwood)
 
 ---
-2 New Zealand species of Ozothamnus occurs throughout New Zealand but only Ozothamnus vauvilliersii is widespread. It usually occurs in the 900m to 1400m zone and can be found on Mt Egmont/Taranaki.
+2 New Zealand species of Ozothamnus occurs throughout New Zealand but only Ozothamnus leptophyllus is widespread. It usually occurs in the 900m to 1400m zone and can be found on Mt Egmont/Taranaki.
 
-Ozothamnus vauvilliersii is an erect, evergreen, bushy shrub, which can grow up to 3 m high. The small, leathery, green leaves are typically about up to 12 mm long and the edges are rolled in beneath. The whitish flowers occur in dense clusters of 10 to 20 during summer.
+Ozothamnus leptophyllus is an erect, evergreen, bushy shrub, which can grow up to 3 m high. The small, leathery, green leaves are typically about up to 12 mm long and the edges are rolled in beneath. The whitish flowers occur in dense clusters of 10 to 20 during summer.

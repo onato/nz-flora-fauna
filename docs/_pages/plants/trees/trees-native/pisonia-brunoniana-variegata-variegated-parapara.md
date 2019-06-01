@@ -5,6 +5,8 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pisonia-brunoniana-variegata-variegated-parapara.html
 wikipedia: https://en.wikipedia.org/wiki/Pisonia_brunoniana
+nzflora:
+- http://www.nzflora.info/factsheet/Taxon/Pisonia-brunoniana.html
 attributes:
   kingdom:
   - Plantae

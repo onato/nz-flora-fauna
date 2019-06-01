@@ -5,6 +5,8 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/hoheria-populnea-purple-wave.html
 wikipedia: https://en.wikipedia.org/wiki/Hoheria_populnea
+nzflora:
+- http://www.nzflora.info/factsheet/Taxon/Hoheria-populnea.html
 attributes:
   kingdom:
   - Plantae
@@ -14,7 +16,7 @@ attributes:
   order: Malvales
   family: Malvaceae
   genus: Hoheria
-  binomial name: Hoheria populnea
+  binomial name: Hoheria populnea 'Purple Wave'
   cultivar: H populnea 'Purple Wave'
   common names:
   - Purple Lacebark
@@ -33,7 +35,7 @@ images:
   height: 771
   caption: This form displaying a purple leaf reverse.
   path: "/image_files/0000/0005/1589/Hoheria_populnea__Purple_Wave___cultivar_-002.JPG"
-permalink: plants/trees/trees-native/hoheria_populnea.html
+permalink: plants/trees/trees-native/hoheria_populnea_'purple_wave'.html
 layout: page
 title: Hoheria populnea (Purple Wave)
 

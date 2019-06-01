@@ -13,8 +13,8 @@ attributes:
   order: Pinales
   family: Podocarpaceae
   genus: Podocarpus
-  species: P. cunninghamii
-  binomial name: Podocarpus cunninghamii
+  species: P. laetus
+  binomial name: Podocarpus laetus
   synonyms:
   - Podocarpus hallii
   - Nageia hallii
@@ -65,14 +65,14 @@ images:
   height: 1200
   caption: The stringy bark of Podocarpus cunninghamii.
   path: "/image_files/0000/0005/4879/Podocarpus_cunninghamii__Mountain_totara-004.JPG"
-permalink: plants/trees/trees-native/podocarpus_cunninghamii.html
+permalink: plants/trees/trees-native/podocarpus_laetus.html
 layout: page
 title: Podocarpus cunninghamii (Mountain totara)
 
 ---
-Podocarpus cunninghamii is tall, slow-growing species of conifer growing to a maximum height of 20 metres and can have a trunk up to 1.25m in diameter. It is found only in New Zealand growing in lowland and montane forests as it is common in the 'goblin forest' on Mt Taranaki/Egmont (760 - 1100 metres above sea level). Where beech is absent, such as on Mt Taranaki the timberline can be gradual. Trees such as thin-bark totara (Podocarpus hallii) diminish in stature until they intermingle with subalpine scrub. 
+Podocarpus laetus is tall, slow-growing species of conifer growing to a maximum height of 20 metres and can have a trunk up to 1.25m in diameter. It is found only in New Zealand growing in lowland and montane forests as it is common in the 'goblin forest' on Mt Taranaki/Egmont (760 - 1100 metres above sea level). Where beech is absent, such as on Mt Taranaki the timberline can be gradual. Trees such as thin-bark totara (Podocarpus hallii) diminish in stature until they intermingle with subalpine scrub. 
 
 It is closely related to Podocarpus totara but distinguished from it by having thin, flaky, paper-like bark and longer juvenile leaves which are 2.5-5 cm long and 4-5 mm wide. The adult leaves are 2-3 cm long and 3-4mm wide.
-P. cunninghamii pollen and seed cones are similar to Podocarpus totara and appear at the same time. Cones occur solitary or in groups of 2-5. The seed cone is around fleshy red coloured receptacle which has on top a pale green epimatium (a specialized type of ovuliferous scale that bears and completely encloses a single inverted ovule). The seeds 3-5mm long.
+P. laetus pollen and seed cones are similar to Podocarpus totara and appear at the same time. Cones occur solitary or in groups of 2-5. The seed cone is around fleshy red coloured receptacle which has on top a pale green epimatium (a specialized type of ovuliferous scale that bears and completely encloses a single inverted ovule). The seeds 3-5mm long.
 The bark "was formerly used by southern Maori to encase the kelp bags used for storing mutton birds. These containers are known as pohatiti" (Metcalf 2002).
 For more information visit: <a href="http://www.conifers.org/po/Podocarpus_cunninghamii.php" target="_blank">http://www.conifers.org/po/Podocarpus_cunninghamii.php</a>

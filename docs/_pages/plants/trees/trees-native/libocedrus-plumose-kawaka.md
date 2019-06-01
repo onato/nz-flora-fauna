@@ -6,6 +6,8 @@ category:
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/libocedrus-plumose-kawaka.html
 wikipedia: https://en.wikipedia.org/wiki/Libocedrus_plumosa
 nzpcn: 281
+nzflora:
+- http://www.nzflora.info/factsheet/Taxon/Libocedrus-plumosa.html
 attributes:
   kingdom:
   - Plantae

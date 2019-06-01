@@ -33,30 +33,32 @@
   </div>
 
   {% if site.data.menu.first %}
-  <ul>
+  {% assign counter = 0 %}
+  <ul id="site-map">
   {% for item in site.data.menu %}
     <li>{{ item.title }}
       {% if item.children.first %}
         <ul>
             {% for entry in item.children %}
             <li>{{ entry.title }}
-                {% if entry.children.first %}
+                {% if entry.children.first %}""
                 <ul>
                   {% for subentry in entry.children %}
                     <li>{{ subentry.title }}</li>
                     <ul>
                       {% assign current_category = item.title | append: "/"  | append: entry.title  | append: "/"  | append: subentry.title %}
                       {% assign pages = site.html_pages | where_exp:'doc','doc.sitemap != false' | where_exp:'doc','doc.url != "/404.html"' | sort: "title" %}
-                      {% for page in pages %}
-                        {% assign category = page.category | join: '/' %}
-                        {% assign genus = page.title | split: " " | first %}
+                      {% for subpage in pages %}
+                        {% assign category = subpage.category | join: '/' %}
+                        {% assign genus = subpage.title | split: " " | first %}
                         {% if category == current_category %}
                           {% if genus != last_genus %}
                             </ul>
                             <h3>{{ genus }}</h3>
                             <ul>
                           {% endif %}
-                          <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+                          {% if page.name == subpage.name %}<li class="active">{% else %}<li>{% endif %}
+                            <a data-page-index="{% increment counter %}" href="{{ subpage.url | absolute_url }}">{{ subpage.title }}</a></li>
                           {% assign last_genus = genus %}
                         {% endif %}
                       {% endfor %}

@@ -5,6 +5,9 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pachystegia-rufa-x-insignis-hybrid.html
 wikipedia: https://en.wikipedia.org/wiki/Pachystegia
+nzflora:
+- http://www.nzflora.info/factsheet/Taxon/Pachystegia-rufa.html
+- http://www.nzflora.info/factsheet/Taxon/Pachystegia-insignis.html
 attributes:
   kingdom:
   - Plantae

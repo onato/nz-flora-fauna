@@ -205,3 +205,37 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 
 // execute above function
 initPhotoSwipeFromDOM('.gallery');
+
+
+
+document.addEventListener('DOMContentLoaded', function() { 
+    var pageIndex = parseInt(document.getElementById("site-map").getElementsByClassName("active")[0].children[0].dataset.pageIndex);
+    var previous = document.querySelector('[data-page-index="' + (pageIndex - 1) + '"]');
+    var next = document.querySelector('[data-page-index="' + (pageIndex + 1) + '"]');
+
+    var postHeader = document.getElementsByClassName("post-header")[0]
+    var prevButton = postHeader.getElementsByClassName("previous")[0]
+    var nextButton = postHeader.getElementsByClassName("next")[0]
+
+    if(previous === null) {
+        prevButton.style.display = "none";
+    } else {
+        prevButton.href = previous.href
+    }
+    if(next === null) {
+        nextButton.style.display = "none";
+    } else {
+        nextButton.href = next.href
+    }
+});
+
+document.addEventListener("keyup", function(key) {
+    if(!key.getModifierState("Alt")) { return }
+    if(key.which == 39) {
+        var postHeader = document.getElementsByClassName("post-header")[0]
+        postHeader.getElementsByClassName("next")[0].click()            
+    } else if(key.which == 37) {
+        var postHeader = document.getElementsByClassName("post-header")[0]
+        postHeader.getElementsByClassName("previous")[0].click()
+    }
+});

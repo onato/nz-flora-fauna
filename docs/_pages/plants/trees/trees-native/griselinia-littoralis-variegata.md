@@ -5,6 +5,8 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/griselinia-littoralis-variegata.html
 wikipedia: https://en.wikipedia.org/wiki/Griselinia_littoralis
+nzflora:
+- http://www.nzflora.info/factsheet/Taxon/Griselinia-littoralis.html
 attributes:
   kingdom:
   - Plantae

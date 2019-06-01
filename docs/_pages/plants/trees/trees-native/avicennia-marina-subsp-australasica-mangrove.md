@@ -20,7 +20,7 @@ attributes:
   - Avicennia marina var. resinifera
   common name:
   - Mangrove
-  - mānawa
+  - Mānawa
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0006/8884/Mangrove__Avicennia_marina.-001.JPG
   width: 1024

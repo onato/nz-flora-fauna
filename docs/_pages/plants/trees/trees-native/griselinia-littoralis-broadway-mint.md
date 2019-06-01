@@ -5,6 +5,8 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/griselinia-littoralis-broadway-mint.html
 wikipedia: https://en.wikipedia.org/wiki/Griselinia_littoralis
+nzflora:
+- http://www.nzflora.info/factsheet/Taxon/Griselinia-littoralis.html
 attributes:
   kingdom:
   - Plantae
@@ -15,7 +17,7 @@ attributes:
   family: Griseliniaceae
   genus: Griselinia
   species: G. littoralis
-  trinomial name: Griselinia littoralis 'Broadway Mint'
+  binomial name: Griselinia littoralis 'Broadway Mint'
   common names:
   - Griselinia 'Broadway Mint'
   - Broadleaf

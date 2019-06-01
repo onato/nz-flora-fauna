@@ -4,6 +4,8 @@ category:
 - trees
 - trees-native
 origin: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/aa.html
+nzflora:
+- http://www.nzflora.info/factsheet/Taxon/Coprosma-atropurpurea.html
 attributes:
   kingdom:
   - Plantae

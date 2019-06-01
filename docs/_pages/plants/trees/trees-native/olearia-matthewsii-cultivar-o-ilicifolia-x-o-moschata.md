@@ -4,7 +4,8 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/olearia-matthewsii-cultivar-o-ilicifolia-x-o-moschata.html
-nzflora: https://nzflora.landcareresearch.co.nz/default.aspx?selected=NameDetails&NameId=6251ECDB-FD50-4DBB-BC8F-74292B6FF481&StateId=&Sort=&TabNum=3
+nzflora:
+- https://nzflora.landcareresearch.co.nz/default.aspx?selected=NameDetails&NameId=6251ECDB-FD50-4DBB-BC8F-74292B6FF481&StateId=&Sort=&TabNum=3
 attributes:
   kingdom:
   - Plantae

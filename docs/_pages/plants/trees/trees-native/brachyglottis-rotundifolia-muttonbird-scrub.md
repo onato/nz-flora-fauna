@@ -20,12 +20,18 @@ attributes:
   - Senecio reinoldii
   common names: Muttonbird scrub
 images:
-- src: uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia%203.JPG
-  path: uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia%203.JPG
-- src: uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia_MurielBendel.JPG
-  path: uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia_MurielBendel.JPG
-- src: uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia_Governors_Bush_Walk_Mount_Cook_2.JPG
-  path: uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia_Governors_Bush_Walk_Mount_Cook_2.JPG
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia%203.JPG
+  width: 1494
+  height: 2000
+  path: "/uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia%203.JPG"
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia_MurielBendel.JPG
+  width: 1600
+  height: 1202
+  path: "/uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia_MurielBendel.JPG"
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia_Governors_Bush_Walk_Mount_Cook_2.JPG
+  width: 1195
+  height: 1600
+  path: "/uploads/images/Te%20Henui/Trees/Brachyglottis_rotundifolia_Governors_Bush_Walk_Mount_Cook_2.JPG"
 permalink: plants/trees/trees-native/brachyglottis_rotundifolia.html
 layout: page
 title: Brachyglottis rotundifolia (Muttonbird scrub)

@@ -2,9 +2,10 @@
 layout: default
 ---
 <article class="post">
+  <!-- {{ page.origin }} -->
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <h1 class="post-title">{{ page.title | escape }}</h1><a href="#" class="previous">&laquo; Previous</a><a href="#" class="next">Next &raquo;</a>
   </header>
 
   <div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -32,6 +33,39 @@ layout: default
 
   <div class="row">
       <div class="column">
+          <p>
+              <ul id="links" class="list">
+              {% if page.wikipedia.first %}
+                {% for wikipedia in page.wikipedia %}
+                  <li><a href="{{ wikipedia }}"><svg class="svg-link-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#wikipedia' | relative_url }}"></use></svg> {{ wikipedia | split: '/' | last | replace: '_', ' ' }}</a></li>
+                {% endfor %}
+              {% elsif page.wikipedia %}
+                <li><a href="{{ page.wikipedia }}"><svg class="svg-link-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#wikipedia' | relative_url }}"></use></svg> {{ page.wikipedia | split: '/' | last | replace: '_', ' ' }}</a></li>
+              {% endif %}
+              {% if page.nzpcn %}
+                <li><a href="http://www.nzpcn.org.nz/flora_details.asp?ID={{ page.nzpcn }}"><svg class="svg-link-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#nzpcn' | relative_url }}"></use></svg> New Zealand Plant Conservation Network</a></li>
+              {% endif %}
+              {% if page.nzflora != "none" %}
+                <li>
+                  <svg class="svg-link-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#nzflora' | relative_url }}"></use></svg>
+                  {% if page.nzflora %}
+                    {% for nzflora in page.nzflora %}
+                      <a href="{{ nzflora }}">
+                        {% if page.nzflora.count > 1%}
+                          {{ nzflora }}
+                        {% else %}
+                          NZ Flora
+                        {% endif %}
+                    {% endfor %}
+                  {% else %}
+                    <a href="http://www.nzflora.info/factsheet/Taxon/{{ page.attributes['binomial name'] | replace: ' ', '-' | replace: '.', '' }}.html">NZ Flora
+                  {% endif %}
+                  </a>
+                </li>
+              {% endif %}
+            </ul>
+          </p>
+          
           <ul id="attributes" class="list">
               {% for attr in page.attributes %}
               
@@ -66,21 +100,6 @@ layout: default
         </ul>
       </div>
   </div>
-
-  <p>
-    <ul id="links" class="list">
-    {% if page.wikipedia.first %}
-      {% for wikipedia in page.wikipedia %}
-        <li><a href="{{ wikipedia }}"><use xlink:href="{{ '/assets/minima-social-icons.svg#wikipedia' | relative_url }}"></use></svg> {{ page.wikipedia }}</a></li>
-      {% endfor %}
-    {% elsif page.wikipedia %}
-      <li><a href="{{ page.wikipedia }}"><svg class="svg-link-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#wikipedia' | relative_url }}"></use></svg> {{ page.wikipedia | split: '/' | last | replace: '_', ' ' }}</a></li>
-    {% endif %}
-    {% if page.nzpcn %}
-      <li><a href=http://www.nzpcn.org.nz/flora_details.asp?ID={{ page.nzpcn }}><svg class="svg-link-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#nzpcn' | relative_url }}"></use></svg> New Zealand Plant Conservation Network</a></li>
-    {% endif %}
-    </ul>
-  </p>
   
   <div class="post-content">
     {{ content }}

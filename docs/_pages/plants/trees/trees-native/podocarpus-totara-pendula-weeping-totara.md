@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/podocarpus-totara-pendula-weeping-totara.html
 wikipedia: https://en.wikipedia.org/wiki/Podocarpus_totara
+nxflora: http://www.nzflora.info/factsheet/Taxon/Podocarpus-totara-var-totara.html
 attributes:
   kingdom:
   - Plantae

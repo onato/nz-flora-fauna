@@ -14,16 +14,17 @@ attributes:
   order: Asterales
   family: Compositae
   genus: Olearia
-  species: O.avicenniaefolia
-  binomial name: Olearia avicenniaefolia
+  species: O.avicenniifolia
+  binomial name: Olearia avicenniifolia
   synonyms:
+  - Olearia avicenniaefolia
   - Shawia avicenniifolia
   - Eurybia avicenniifolia
   common names:
   - Mountain akeake
-  - teteaweka
+  - Teteaweka
   - South Island akeake
-  - hakeke
+  - Hakeke
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5753/Olearia_avicenniaefolia__3_.JPG
   width: 2500
@@ -68,12 +69,12 @@ images:
   height: 1024
   caption: The undersurface of a leaf covered in buff coloured tomentum.
   path: "/image_files/0000/0006/2419/Olearia_avicenniifolia-003.JPG"
-permalink: plants/trees/trees-native/olearia_avicenniaefolia.html
+permalink: plants/trees/trees-native/olearia_avicenniifolia.html
 layout: page
-title: Olearia avicenniaefolia
+title: Olearia avicenniifolia (Mountain akeake)
 
 ---
-Olearia avicenniaefolia is an endemic, spreading shrub/small tree found on the exposed, windswept coastline of Stewart Island and southern parts of the South Island. The tree has thin papery bark. It grows to about > 6m tall and can have a spread of > 3m.
+Olearia avicenniifolia is an endemic, spreading shrub/small tree found on the exposed, windswept coastline of Stewart Island and southern parts of the South Island. The tree has thin papery bark. It grows to about > 6m tall and can have a spread of > 3m.
 
 It has leathery, grey/green, lance-shaped leaves that are downy white on the undersides.
 During November to February sweet-scented flowers are carried in clusters of 3-10 and are about 5cm wide, with white rays and purple central disks.

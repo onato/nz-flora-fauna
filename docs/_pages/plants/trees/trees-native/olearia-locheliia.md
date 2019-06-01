@@ -4,6 +4,8 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/olearia-locheliia.html
+nzflora:
+- none
 attributes:
   kingdom:
   - Plantae

@@ -5,6 +5,7 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/leptospermum-scoparium-prostrate.html
 wikipedia: https://en.wikipedia.org/wiki/Leptospermum_scoparium
+nsflora: http://www.nzflora.info/factsheet/Taxon/Leptospermum-scoparium.html
 attributes:
   kingdom:
   - Plantae

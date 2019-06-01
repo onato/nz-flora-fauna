@@ -7,6 +7,9 @@ source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/melicope-sim
 wikipedia:
 - https://en.wikipedia.org/wiki/Melicope_simplex
 - https://en.wikipedia.org/wiki/Melicope_ternata
+nzflora:
+- http://www.nzflora.info/factsheet/Taxon/Melicope-simplex.html
+- http://www.nzflora.info/factsheet/Taxon/Melicope-ternata.html
 attributes:
   kingdom:
   - Plantae

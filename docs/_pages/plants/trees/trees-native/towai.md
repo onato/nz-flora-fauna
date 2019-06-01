@@ -5,6 +5,8 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/towai.html
 wikipedia: https://en.wikipedia.org/wiki/Weinmannia_silvicola
+nzflora:
+- http://www.nzflora.info/factsheet/Taxon/Weinmannia-sylvicola.html
 attributes:
   kingdom:
   - Plantae
@@ -61,8 +63,6 @@ Weinmannia silvicola known as Towai or Tawhero is a medium-sized tree of the fam
 
 Weinmannia silvicola grows up to 15 metres tall or more, with a trunk up to 1 metre in diameter. The bark is smooth and the young twigs and leaves are hairy. 
 Flowering occurs spring to early summer and the white inflorescence are at the branch tips and are 8-12 cm. long racemes holding the individual flowers on pedicels that are 2-3mm long. These flowers are not overly perfumed. The capsules ripen through summer. The dry capsules release tiny seeds which are dispersed by the wind. 
-
-
 The leaves of adult trees are 4-7cm long by 2-3cm wide and are thick and leathery. The surface is green and shiny and the leaf margins are bluntly toothed. Weinmannia silvicola can be easily distinguished by the leaves on mature trees which comprise up to five adjacent pairs of leaflets plus one relatively large terminal leaflet. 
 The juvenile trees have a great variety of leaf forms which adds to the confusion with Weinmannia racemosa and Ackama rosifolia (Makamaka). It can be distinguished from Ackama rosifolia by the lack of domatia on the underside of the leaves and they also have narrow, linear stipules (a small leaf-like appendage to a leaf, typically borne in pairs at the base of the leaf stalk.) that fall off early.
 The Maoris use to infuse bark in boiling water and this was used for skin diseases. They use to scrape off the rough outside bark from the side of the tree facing the sun and use the clean inner bark. They would hammer it and put it into a billy with some water. They boiled it for about half an hour then took out the bark and stain the liquid through a clean cloth. They use to bath the cut with this liquid then bandaged it. Sometimes raupo was used as a bandage. It is said the treatment did not leave a scar. The bark which contains large amounts of tannins (was used in tanning) and it was also used in dyeing.

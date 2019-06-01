@@ -4,6 +4,8 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/pittosporum-stephens-island.html
+nzflora:
+- none
 attributes:
   kingdom:
   - Plantae

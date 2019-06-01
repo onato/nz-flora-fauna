@@ -21,16 +21,24 @@ attributes:
   - Māireire
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7394/Leionema_nudum__Phebalium_nudum__Mairehau__M%C4%81ireire-002.JPG
+  width: 985
+  height: 915
   caption: Photographed at Otari Native Botanic Garden and Wilton's Bush Reserve.
   path: "/image_files/0000/0004/7394/Leionema_nudum__Phebalium_nudum__Mairehau__M%C4%81ireire-002.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7399/Leionema_nudum__Phebalium_nudum__Mairehau__M%C4%81ireire-007.JPG
+  width: 985
+  height: 740
   caption: The upper surface of a leaf with oil glands visible.
   path: "/image_files/0000/0004/7399/Leionema_nudum__Phebalium_nudum__Mairehau__M%C4%81ireire-007.JPG"
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0004/7404/Leionema_nudum__Phebalium_nudum__Mairehau__M%C4%81ireire-009.JPG
+  width: 985
+  height: 915
   caption: The underside of a leaf with notched margins.
   path: "/image_files/0000/0004/7404/Leionema_nudum__Phebalium_nudum__Mairehau__M%C4%81ireire-009.JPG"
-- src: uploads/images/Te%20Henui/Trees/1-phebalium_nudum.jpg
-  path: uploads/images/Te%20Henui/Trees/1-phebalium_nudum.jpg
+- src: http://www.terrain.net.nz/uploads/images/Te%20Henui/Trees/1-phebalium_nudum.jpg
+  width: 737
+  height: 1024
+  path: "/uploads/images/Te%20Henui/Trees/1-phebalium_nudum.jpg"
 permalink: plants/trees/trees-native/leionema_nudum.html
 layout: page
 title: Leionema nudum (Mairehau)

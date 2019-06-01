@@ -4,6 +4,8 @@ category:
 - trees
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/rhopalostylis-sapida-var-chathamica-chatham-island-nikau.html
+nzflora:
+- none
 attributes:
   kingdom:
   - Angiosperms

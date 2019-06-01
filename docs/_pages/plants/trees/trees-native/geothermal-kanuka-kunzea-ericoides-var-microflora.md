@@ -5,6 +5,8 @@ category:
 - trees-native
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/geothermal-kanuka-kunzea-ericoides-var-microflora.html
 wikipedia: https://en.wikipedia.org/wiki/Kunzea_ericoides
+nzflora:
+- http://www.nzflora.info/factsheet/Taxon/Kunzea-tenuicaulis.html
 attributes:
   kingdom:
   - Plantae
@@ -14,9 +16,11 @@ attributes:
   order: Myrtales
   family: Myrtaceae
   genus: Kunzea
-  species: K. ericoides var. microflora
-  binomial name: Kunzea ericoides var. microflora
-  synonyms: Leptospermum ericoides var. microflorum
+  species: Kunzea tenuicaulis
+  binomial name: Kunzea tenuicaulis
+  synonyms:
+  - Leptospermum ericoides var. microflorum
+  - Kunzea ericoides var. microflora
   common names:
   - Geothermal Kanuka
   - Geothermal Kunzea
@@ -45,7 +49,7 @@ images:
   height: 600
   caption: New red coloured leaves (November)
   path: "/image_files/0000/0009/8178/Kunzea_ericoides_var._microflora__-002.JPG"
-permalink: plants/trees/trees-native/kunzea_ericoides_var_microflora.html
+permalink: plants/trees/trees-native/kunzea_tenuicaulis.html
 layout: page
 title: Kunzea ericoides var. microflora (Geothermal Kanuka)
 

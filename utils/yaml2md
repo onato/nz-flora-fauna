@@ -15,6 +15,12 @@ yaml["permalink"] = yaml["category"].join("/") + "/" + name.downcase.gsub(" ", "
 yaml["layout"] = "page"
 yaml["title"] = yaml["name"]
 
+unless yaml["nzflora"].kind_of?(Array) 
+  if yaml["nzflora"]
+    yaml["nzflora"] = [yaml["nzflora"]]
+  end
+end
+
 # unless yaml["wikipedia"].nil? || yaml["wikipedia"].kind_of?(Array)
 #   yaml["wikipedia"] = [yaml["wikipedia"]]
 # end

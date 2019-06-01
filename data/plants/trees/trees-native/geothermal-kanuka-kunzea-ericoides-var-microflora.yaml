@@ -6,6 +6,7 @@ category:
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/geothermal-kanuka-kunzea-ericoides-var-microflora.html
 name: Kunzea ericoides var. microflora (Geothermal Kanuka)
 wikipedia: https://en.wikipedia.org/wiki/Kunzea_ericoides
+nzflora: http://www.nzflora.info/factsheet/Taxon/Kunzea-tenuicaulis.html
 description: >
   Kunzea ericoides var. microflora is a native
   endemic to the North Island Central Volcanic Field, the Bay of Plenty (Whale Island)
@@ -37,9 +38,11 @@ attributes:
   order: Myrtales
   family: Myrtaceae
   genus: Kunzea
-  species: K. ericoides var. microflora
-  binomial name: Kunzea ericoides var. microflora
-  synonyms: Leptospermum ericoides var. microflorum
+  species: Kunzea tenuicaulis
+  binomial name: Kunzea tenuicaulis
+  synonyms: 
+  - Leptospermum ericoides var. microflorum
+  - Kunzea ericoides var. microflora
   common names:
   - Geothermal Kanuka
   - Geothermal Kunzea

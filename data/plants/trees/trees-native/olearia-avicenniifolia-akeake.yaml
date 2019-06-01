@@ -3,11 +3,11 @@ category:
 - plants
 - trees
 - trees-native
-name: Olearia avicenniaefolia
+name: Olearia avicenniifolia (Mountain akeake)
 source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/olearia-avicenniifolia-akeake.html
 wikipedia: https://en.wikipedia.org/wiki/Olearia_avicenniifolia
 description: >
-  Olearia avicenniaefolia is an endemic, spreading shrub/small tree found
+  Olearia avicenniifolia is an endemic, spreading shrub/small tree found
   on the exposed, windswept coastline of Stewart Island and southern parts of the
   South Island. The tree has thin papery bark. It grows to about > 6m tall and can have a spread of > 3m.
 
@@ -23,16 +23,17 @@ attributes:
   order: Asterales
   family: Compositae
   genus: Olearia
-  species: O.avicenniaefolia
-  binomial name: Olearia avicenniaefolia
+  species: O.avicenniifolia
+  binomial name: Olearia avicenniifolia
   synonyms:
-  - Shawia avicenniifolia
-  - Eurybia avicenniifolia
+    - Olearia avicenniaefolia
+    - Shawia avicenniifolia
+    - Eurybia avicenniifolia
   common names:
-  - Mountain akeake
-  - teteaweka
-  - South Island akeake
-  - hakeke
+    - Mountain akeake
+    - Teteaweka
+    - South Island akeake
+    - Hakeke
 images:
 - src: http://ketenewplymouth.peoplesnetworknz.info/image_files/0000/0012/5753/Olearia_avicenniaefolia__3_.JPG
   width: 2500

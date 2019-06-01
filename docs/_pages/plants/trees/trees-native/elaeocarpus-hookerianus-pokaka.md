@@ -7,6 +7,8 @@ source: http://www.terrain.net.nz/friends-of-te-henui-group/table-1/elaeocarpus-
 wikipedia:
 - https://en.wikipedia.org/wiki/Elaeocarpus_dentatus
 - https://en.wikipedia.org/wiki/Elaeocarpus_hookerianus
+nzflora:
+- http://www.nzflora.info/factsheet/Taxon/Elaeocarpus-hookerianus.html
 attributes:
   kingdom:
   - Plantae
